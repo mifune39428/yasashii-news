@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="やさしいニュース解説">
+  <rect width="512" height="512" rx="112" fill="#e9eaec"/>
+  <rect x="56" y="88" width="400" height="336" rx="40" fill="#ffffff" stroke="#3a6ea5" stroke-width="16"/>
+  <rect x="104" y="152" width="180" height="20" rx="10" fill="#3a6ea5"/>
+  <rect x="104" y="208" width="304" height="16" rx="8" fill="#c9d2db"/>
+  <rect x="104" y="256" width="304" height="16" rx="8" fill="#c9d2db"/>
+  <rect x="104" y="304" width="200" height="16" rx="8" fill="#c9d2db"/>
+  <circle cx="372" cy="332" r="64" fill="#2f7a55"/>
+  <text x="372" y="356" font-size="72" font-family="Hiragino Sans, Noto Sans JP, sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle">解</text>
+</svg>

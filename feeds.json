@@ -1,0 +1,237 @@
+{
+  "_comment": "収集元。enabled:false で一時的に外せる。genre は 政治 / 経済 / 国際 で、1回の要約枠をジャンルごとに確保するときの目安に使う（実際のジャンルはLLMが記事ごとに決める）。region は 国内 / 海外。max_items はこのフィードから1回に取り込む上限。mixed:true のフィードはスポーツ・芸能・料理などが混ざるので、取り込みの前に見出しで粗く落とす。URLは 2026-08-24 に疎通確認済み。",
+  "feeds": [
+    {
+      "name": "NHKニュース 政治",
+      "url": "https://www.nhk.or.jp/rss/news/cat4.xml",
+      "genre": "政治",
+      "region": "国内",
+      "max_items": 12,
+      "enabled": true
+    },
+    {
+      "name": "朝日新聞 政治",
+      "url": "https://www.asahi.com/rss/asahi/politics.rdf",
+      "genre": "政治",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "産経新聞 政治",
+      "url": "https://assets.wor.jp/rss/rdf/sankei/politics.rdf",
+      "genre": "政治",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "時事通信",
+      "url": "https://www.jiji.com/rss/ranking.rdf",
+      "genre": "政治",
+      "region": "国内",
+      "max_items": 8,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "毎日新聞",
+      "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss",
+      "genre": "政治",
+      "region": "国内",
+      "max_items": 10,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "Yahoo!ニュース 国内",
+      "url": "https://news.yahoo.co.jp/rss/topics/domestic.xml",
+      "genre": "政治",
+      "region": "国内",
+      "max_items": 8,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "NHKニュース 経済",
+      "url": "https://www.nhk.or.jp/rss/news/cat5.xml",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 12,
+      "enabled": true
+    },
+    {
+      "name": "朝日新聞 経済",
+      "url": "https://www.asahi.com/rss/asahi/business.rdf",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "日本経済新聞 経済",
+      "url": "https://assets.wor.jp/rss/rdf/nikkei/economy.rdf",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 10,
+      "enabled": true
+    },
+    {
+      "name": "日本経済新聞 市場",
+      "url": "https://assets.wor.jp/rss/rdf/nikkei/markets.rdf",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "日本経済新聞",
+      "url": "https://assets.wor.jp/rss/rdf/nikkei/news.rdf",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "産経新聞 経済",
+      "url": "https://assets.wor.jp/rss/rdf/sankei/economy.rdf",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 6,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/list/feed/rss",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 6,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "Yahoo!ニュース 経済",
+      "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
+      "genre": "経済",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "NHKニュース 国際",
+      "url": "https://www.nhk.or.jp/rss/news/cat6.xml",
+      "genre": "国際",
+      "region": "国内",
+      "max_items": 12,
+      "enabled": true
+    },
+    {
+      "name": "朝日新聞 国際",
+      "url": "https://www.asahi.com/rss/asahi/international.rdf",
+      "genre": "国際",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "産経新聞 国際",
+      "url": "https://assets.wor.jp/rss/rdf/sankei/world.rdf",
+      "genre": "国際",
+      "region": "国内",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Yahoo!ニュース 国際",
+      "url": "https://news.yahoo.co.jp/rss/topics/world.xml",
+      "genre": "国際",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "BBC NEWS JAPAN",
+      "url": "https://feeds.bbci.co.uk/japanese/rss.xml",
+      "genre": "国際",
+      "region": "国内",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "genre": "国際",
+      "region": "海外",
+      "max_items": 8,
+      "enabled": true
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss",
+      "genre": "国際",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "genre": "国際",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "genre": "国際",
+      "region": "海外",
+      "max_items": 6,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "Deutsche Welle",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "genre": "国際",
+      "region": "海外",
+      "max_items": 5,
+      "enabled": true
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/rss",
+      "genre": "国際",
+      "region": "海外",
+      "max_items": 5,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "AP通信",
+      "url": "https://feedx.net/rss/ap.xml",
+      "genre": "国際",
+      "region": "海外",
+      "max_items": 5,
+      "mixed": true,
+      "enabled": true
+    },
+    {
+      "name": "CNBC",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+      "genre": "経済",
+      "region": "海外",
+      "max_items": 6,
+      "enabled": true
+    },
+    {
+      "name": "The Economist",
+      "url": "https://www.economist.com/finance-and-economics/rss.xml",
+      "genre": "経済",
+      "region": "海外",
+      "max_items": 4,
+      "enabled": true
+    }
+  ]
+}
