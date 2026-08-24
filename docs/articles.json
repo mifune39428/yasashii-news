@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T19:24:05.513217+09:00",
+ "updated_at": "2026-08-24T21:59:33.060949+09:00",
  "genres": [
   "政治",
   "経済",
@@ -136,10 +136,324 @@
   {
    "id": "85309474c48ab595",
    "until": "2026-08-29T10:24:05.513217+00:00"
+  },
+  {
+   "id": "d7b0c5a90d16c9d6",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "9846b84d6d42b7c7",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "e58a63ea067cdf61",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "1788a20fe9b11909",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "209545cf295c0303",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "e6a1f183ed30b672",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "c55ad64c85d74976",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "bb8ca6574492854b",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "38b92293807f4da3",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "efd7d1f846bde23d",
+   "until": "2026-08-29T12:59:33.060949+00:00"
+  },
+  {
+   "id": "99c03396e600f0b3",
+   "until": "2026-08-29T12:59:33.060949+00:00"
   }
  ],
- "count": 62,
+ "count": 75,
  "items": [
+  {
+   "id": "85e184fee2e71eb3",
+   "url": "https://apnews.com/article/pga-tour-charity-finchem-lucas-glover-nfl-c8394afa7fa38ff619b54c7ad5f5ee36",
+   "title_original": "Former commissioner Tim Finchem donates $13 million as PGA Tour reshapes its charity strategy",
+   "source": "AP通信",
+   "image": "https://dims.apnews.com/dims4/default/2f51318/2147483647/strip/true/crop/3906x2603+0+119/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2F0a%2F25a2ab79cf3d6bc840decaf5e69d%2F8a544a1cd6bf4e0b95cd75c30cfe8ea7",
+   "region": "海外",
+   "published": "2026-08-24T12:53:02+00:00",
+   "title_ja": "男子ゴルフの元最高責任者が1300万ドルを寄付",
+   "one_line": "男子ゴルフの元最高責任者夫妻が、新しい寄付の仕組みのために1300万ドルを寄付しました。",
+   "what": "男子ゴルフの運営組織「PGAツアー」の元最高責任者であるティム・フィンチェムさんとその妻が、新しい寄付の仕組みを始めるためにおよそ1300万ドルを寄付したことが分かりました。",
+   "background": "スポーツの団体には、試合を開いて利益を上げるだけでなく、社会への貢献や慈善活動を行う役割を持つところが多くあります。PGAツアーもこれまで寄付活動を行ってきましたが、商業的な利益を重視する新しい動きが進む中で、寄付の戦略を見直すことになりました。",
+   "impact": "今すぐ私たちの暮らしや家計に直接変わるような影響はありませんが、スポーツとお金の関係や、大きな組織が社会貢献をどう進めていくのかという今後のあり方に関わるニュースです。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "6fad4d2dca80081d",
+   "url": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
+   "title_original": "Up to £464m ‘moved through more than 3,000 UK high street shell companies’",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/4379b5dd50ca5a2217045a8386aef6338c06f83f/477_0_4464_3574/master/4464.jpg?width=140&quality=85&auto=format&fit=max&s=353c92a39b1deb9f86b0235c4f0ab94a",
+   "region": "海外",
+   "published": "2026-08-24T12:49:17+00:00",
+   "title_ja": "イギリスで大量のペーパーカンパニーが不正送金に関与か",
+   "one_line": "イギリスの美容室や雑貨店などを装った数千の会社を通じて、多額の不正なお金が動いていました。",
+   "what": "イギリスの調査で、美容室や雑貨店などを名乗る3000以上の会社を通じて、最大で4億6400万ポンドものお金が動いていたことが分かりました。これらの会社は実態がないとみられ、犯罪で得たお金の隠し場所やテロの資金集めに使われていた疑いがあります。",
+   "background": "実態のない会社を設立して犯罪で得たお金の出どころを分からなくすることを「資金洗浄（マネーロンダリング）」と呼びます。国や地域によっては会社の設立手続きが比較的簡単な場合があり、こうした仕組みのすきが犯罪に悪用されることがあります。",
+   "impact": "私たちの普段の買い物や仕事にすぐに影響するものではありませんが、国境を越えた不正なお金の流れを取り締まる法律や仕組みが、世界中でどのように強化されていくかが問われる問題です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "資金洗浄",
+     "meaning": "犯罪などで得た汚れたお金を、何度も別の口座や会社に移すことで、どこから来たのか分からないきれいなお金に見せかける行為。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "eb61b6da9e37a6ea",
+   "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+   "title_original": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353222-1787573215408-108353222-1787573020246-gettyimages-2291295850-aw1a0172_qyygtuhv.jpeg?v=1787573226&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-08-24T12:42:46+00:00",
+   "title_ja": "アメリカの財務長官が国債の買い戻しに大きなお金を使う可能性",
+   "one_line": "アメリカの財務長官が、政府の口座にある巨大きなお金を使って国債の買い戻しを行うかもしれないと伝えられています。",
+   "what": "アメリカの政府のなかでお金や税金を担当する人物が、政府が持っている大きなお金を使って、市場から国債を買い戻す計画を進める可能性があると、関係者への取材から分かりました。",
+   "background": "国債というのは、国が大きなお金を借りるために発行する証書のようなものです。国はこれを発行して資金を集め、後でお金を返します。また、政府はやりくりするためのお金を特別な口座にためていて、時々このお金を使って市場のバランスをとることがあります。",
+   "impact": "今すぐ私たちの生活がすぐに変わるわけではありませんが、アメリカの大きなお金の動きは、世界全体の経済や金利に影響を与えることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "国債",
+     "meaning": "国が活動するためのお金を借りるために発行する、いわば国への借金証明書のようなものです。"
+    },
+    {
+     "word": "金利",
+     "meaning": "お金を借りたり預けたりするときに発生する、いわばお金のレンタル料のようなものです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "90a41e059f2193c8",
+   "url": "https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html",
+   "title_original": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353242-1787575104277-KevinMcGurn5.jpg?v=1787575118&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-08-24T12:35:50+00:00",
+   "title_ja": "アメリカのSNS運営会社のCEOが投稿を早く見せる仕組みを擁護",
+   "one_line": "アメリカの企業が、大統領の投稿を早く読める有料サービスを正当化しました。",
+   "what": "アメリカのSNS会社のトップが、大統領の投稿を人より早く読めるようにする仕組みについて、問題ないと主張しました。さらに、この仕組みを利用する人が増えていると話しています。",
+   "background": "会社というものは、自分たちのサービスを使ってくれる人を増やしたり、お金をもうけたりするために様々な工夫をします。特にインターネット上のサービスでは、より便利に使うための特別な仕組みを用意して、お金を払ってもらうことがあります。",
+   "impact": "今すぐ私たちの暮らしやお金に直接影響するものではありませんが、インターネット上の情報発信や会社の商売のやり方について考えるきっかけになります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "CEO",
+     "meaning": "会社の中で最も大切な仕事を決めたり、責任を負ったりする、いちばんえらい人のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f6c2a606015a5cf4",
+   "url": "https://news.yahoo.co.jp/pickup/6592929?source=rss",
+   "title_original": "ICC制裁巡り超党派議連が非難声明",
+   "source": "Yahoo!ニュース 国内",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/24/f60847f2219a2acaa1bdcef213f834dbf4d4dea0cebdffe7c6976c208e59d4b1.jpg",
+   "region": "国内",
+   "published": "2026-08-24T12:32:19+00:00",
+   "title_ja": "国際刑事裁判所の制裁をめぐり日本の議員グループが非難声明",
+   "one_line": "日本の国会議員が集まったグループが、国際的な裁判所に対する制裁について批判する声明を出しました。",
+   "what": "日本の国会議員たちが集まったグループが、国際刑事裁判所に対する制裁の動きに対して、批判する内容の声明を発表しました。",
+   "background": "国会には、一つの政党だけでなく、色々な政党の議員が一緒になって話し合ったり活動したりする「超党派」と呼ばれるグループがあります。国会議員たちが特定の国の動きや国際的な問題について、自分たちの意見をまとめて外に向けて伝えることがあります。",
+   "impact": "今すぐ日本の法律や私たちのくらしが直接変わるわけではありませんが、日本が外国や国際的なルールに対してどのように関わっていくのかという問題につながっています。",
+   "genre": "政治",
+   "category": "国会・法律",
+   "terms": [
+    {
+     "word": "超党派",
+     "meaning": "所属する政党のちがいをこえて、同じ目的のために国会議員たちが手を取り合って活動することです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "cde3c383988b11ce",
+   "url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
+   "title_original": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-24T055101Z_1827342676_RC25S9ADUPWQ_RTRMADP_3_SOUTHKOREA-USA-DRILLS-1787569469.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-08-24T12:28:26+00:00",
+   "title_ja": "韓国がアメリカ軍との合同海兵隊演習の中止を発表",
+   "one_line": "アメリカと韓国が予定していた海兵隊の合同訓練を取りやめると発表しました。",
+   "what": "韓国政府は、アメリカとの間で予定されていた海兵隊の合同訓練が、アメリカ側の理由で中止になったと明らかにしました。アメリカ側は別の軍事訓練も縮小する方針を示しています。",
+   "background": "国と国とが平和を守り、いざというときに助け合えるように、同盟関係にある国同士が軍隊を集めて一緒に訓練をすることがあります。これを「合同演習」と呼びます。ほかの国との関係や世界中の大きな出来事によって、こうした訓練の予定が変わることがあります。",
+   "impact": "今すぐ私たちの生活が直接変わることはありませんが、世界の国々の安全や、アジアの平和をめぐる状況にどのような変化があるのか、注意深く見ていく必要があります。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "合同演習",
+     "meaning": "二つ以上の国が協力して、軍隊の動きを確認したり訓練したりすることです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ade1b2971950f9a0",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260824de46042",
+   "title_original": "ウクライナ 侵攻から4年半の独立記念日 大統領“戦い続ける”",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46042/20260824de46042_E0000016043_2_l.jpg",
+   "region": "国内",
+   "published": "2026-08-24T11:57:13+00:00",
+   "title_ja": "ウクライナが独立記念日に平和を取り戻すまで戦うと表明",
+   "one_line": "ウクライナのゼレンスキー大統領が、独立記念日に平和と安全を取り戻すまで戦い続けると述べました。",
+   "what": "ロシアによる攻撃が始まってから4年半が経った24日、ウクライナは旧ソビエトからの独立記念日を迎えました。ゼレンスキー大統領は、ウクライナが平和と安全を取り戻すことができる日まで戦い続けるという強い気持ちを表明しました。",
+   "background": "独立記念日は、国が外国の支配から独立して自分たちの国を作ったことをお祝いする大切な日です。ウクライナはかつてソビエト連邦という国の一部でしたが、1991年に独立しました。現在はロシアとの間で厳しい戦いが続いています。",
+   "impact": "直接私たちの生活が変わることはありませんが、世界の国々の安全や、これからの国際社会のあり方を考える上でとても大切なニュースです。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "独立記念日",
+     "meaning": "その国が外国の支配から離れて、自分たちの国として新しく歩み始めたことをお祝いする記念日のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "2bf6f342ca6b065a",
+   "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+   "title_original": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-crackdown-01-gkch/24int-iran-crackdown-01-gkch-mediumSquareAt3X-v2.jpg",
+   "region": "海外",
+   "published": "2026-08-24T11:49:32+00:00",
+   "title_ja": "イランの警察が若い人向けのカフェを次々と閉鎖",
+   "one_line": "イランの警察が、若い人たちが集まるカフェを何十店も閉めています。",
+   "what": "イランの警察がここ数週間で、何十ものカフェを閉鎖しました。女性が外で頭髪を隠すきまりを守っていないことなどを理由にしていますが、専門家からは、人々の集まる場所を国が厳しく管理しようとしている動きだという見方が出ています。",
+   "background": "イランでは、女性が公共の場所で髪をスカーフなどで隠す法律や、人々の行動を厳しく取り締まるルールがあります。国を治める仕組みとして、人々の服装や文化的な生活に厳しい制限を設けているのが特徴です。",
+   "impact": "私たちの暮らしに直接の影響はありませんが、世界には政府が人々の普段の生活や集まる場所を厳しく管理している国があるということを示しています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "ヴェール",
+     "meaning": "女性が頭や顔を隠すために身につける布のこと。イランでは公共の場所で着用することが法律で決められています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "629e551c5476049d",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260824de46060",
+   "title_original": "コンビニおにぎりや回転ずしで値下げの動き",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46060/20260824de46060_E0000016039_1_l.jpg",
+   "region": "国内",
+   "published": "2026-08-24T11:26:02+00:00",
+   "title_ja": "食料品の値上げが続く中でおにぎりなどの値下げの動き",
+   "one_line": "ものは値上がりする一方で、コンビニや外食でおにぎりなどを安くする動きが出ています。",
+   "what": "食料品の値段が上がるニュースが多いなか、コンビニエンスストアや外食のお店の間で、一部の商品の値段を安くする動きが見られます。",
+   "background": "お店で売る商品の値段は、材料となる食べ物の値段や、お店同士のライバル関係によって決まります。みんなに選んでもらうため、あえて値段を下げる工夫をすることがあります。",
+   "impact": "私たちの家計にとっては、色々なものが高くなる中で、よく買うおにぎりなどが安くなると負担が軽助かることがあります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "外食チェーン",
+     "meaning": "同じ名前のレストランやお店を、日本中や世界中でたくさん開いて同じような料理やサービスを出す会社のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0cdbf62243eb431b",
+   "url": "https://www.sankei.com/article/20260824-JLXFGDJVKBKFPKYGTGOCPO6AXA",
+   "title_original": "おでん・おせちピンチ…日本が「買い負ける」スケトウダラ 世界的な争奪戦と円安で高騰",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/RPHNLKS5HVNGFO2JBNSRZUWPXE.jpg?auth=0b2792b404317462f9f7fa1a9929de9798622aaf60458d5c7a3844f8ab479228&quality=50&focal=697%2C2272&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-08-24T11:00:00+00:00",
+   "title_ja": "スケトウダラが世界で奪い合いに、日本が買い負ける",
+   "one_line": "世界的な人気や円安の影響で、スケトウダラなどの魚の値段が上がっています。",
+   "what": "おでんの具や、おせち料理などに使われるスケトウダラという魚が、世界的な争奪戦と円安の影響で高くなっています。",
+   "background": "日本の通貨である円の価値が外国のお金に対して下がっている状態を「円安」と言います。円安になると、外国から品物を買うときの代金が高くなります。また、世界中で魚の人気が高まると、買い手同士の競争になり、お金をたくさん出せる国が買っていくことになります。",
+   "impact": "今すぐ私たちの生活がどうにかなるわけではありませんが、おでんやおせち料理など、魚を使った食べ物の値段に影響する可能性があります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "円安",
+     "meaning": "外国のお金とくらべて、日本の円の価値が下がっている状態のことです。円安になると、外国から品物を買うときのお金が多く必要になります。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "381efbda31551811",
+   "url": "https://www.nikkei.com/article/DGXZQOUB244PP0U6A820C2000000",
+   "title_original": "天然ゴム、2カ月ぶり高値 原油上昇とタイ生産不安で",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3496520024082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.54&fp-y=0.46&h=630&w=1200&s=e1a8f6254356f161b0f0f3520825770b",
+   "region": "国内",
+   "published": "2026-08-24T10:39:33+00:00",
+   "title_ja": "天然ゴムの値段が2カ月ぶりの高値に",
+   "one_line": "原油の値段の上がりやタイでの生産の不安から、天然ゴムが高くなっています。",
+   "what": "自動車のタイヤなどに使われる天然ゴムの値段が、2カ月ぶりの高い水準になりました。",
+   "background": "天然ゴムは、ゴムの木からとれる樹液を固めて作られます。作る場所の天候や仕事の状況によって、とれる量が変わることがあります。また、製品を作るためのもとになる石油の値段が上がると、ゴムの値段にも影響することがあります。",
+   "impact": "今すぐ私たちの買い物の値段が大きく変わるわけではありませんが、タイヤなどゴムを使う製品の作られる費用に影響することがあります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "773b9df3edd746f1",
+   "url": "https://www.nikkei.com/article/DGXZQOUA246MW0U6A820C2000000",
+   "title_original": "AIの産業利用促進へ1000億円 内閣府の概算要求、活用リスクを評価",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3496274024082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=cdbada7c70e0f7d261a99ec3d98cb21b",
+   "region": "国内",
+   "published": "2026-08-24T10:34:34+00:00",
+   "title_ja": "人工知能の利用を広げるため1000億円を要求",
+   "one_line": "内閣府が、人工知能を仕事などで使いやすくするための費用を求めています。",
+   "what": "内閣府が、人工知能（AI）を産業で利用しやすくするため、1000億円の予算を求める方針を示しました。活用するときのリスクを評価することも含まれています。",
+   "background": "国の機関である内閣府は、来年度の予算をどのくらい使いたいかという希望を「概算要求」としてまとめます。予算は、国会で話し合って決まるもので、新しい技術や社会に必要なことに使われます。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、将来的にさまざまな仕事やサービスで、人工知能がより安全に使われるようになるための取り組みに使われます。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "概算要求",
+     "meaning": "国の仕事を進めるために、次の年にどれくらいのお金が必要かを、それぞれの役所が計算して国にお願いすることです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "e49370eae99cdf1a",
    "url": "https://apnews.com/article/bangladesh-journalists-jail-tribunal-hasina-986b4869a16544fd24108e5e431c2b6c",
@@ -232,6 +546,29 @@
     {
      "word": "貿易（ぼうえき）",
      "meaning": "国と国との間でモノやサービスを売り買いすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2343b2ace0066652",
+   "url": "https://www.nikkei.com/article/DGXZQOJC2456N0U6A820C2000000",
+   "title_original": "九州電力社長「データセンター立地も支援」 川内原発の地元に表明",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3496390024082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.23&fp-y=0.58&h=630&w=1200&s=6b6706ea841284d4d0771291632d0f5c",
+   "region": "国内",
+   "published": "2026-08-24T10:09:18+00:00",
+   "title_ja": "九州電力が川内原発の地元にデータセンター支援を表明",
+   "one_line": "九州電力の社長が、川内原発がある地元でのデータセンター立地を支えると述べました。",
+   "what": "九州電力の社長が、川内原発がある地域に、大量の電気を使うデータセンターを誘致することを支えていくという考えを明らかにしました。",
+   "background": "電力会社は、発電所を動かして電気を地域に届けています。インターネットの情報を保管・処理する「データセンター」はたくさんの電気を必要とするため、発電所の近くに作られることがあります。",
+   "impact": "今すぐ私たちの暮らしが直接変わるものではありませんが、地域の仕事や電気の使われ方に影響を与える可能性があります。",
+   "genre": "経済",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "データセンター",
+     "meaning": "インターネット上でやり取りされる大量のデータを保存したり、計算したりするための大きなコンピューターが集まる建物のことです。"
     }
    ],
    "importance": 3
