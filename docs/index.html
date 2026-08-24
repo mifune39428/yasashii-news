@@ -15,6 +15,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="ui.js" data-site="yasashii-news"></script>
 <style>
   /* 背景は薄いグレー。読み物なので、明るさは一段落として白いカードを浮かせる。 */
   :root {
@@ -275,6 +276,14 @@ function readingUrl(item) {
   return item.region === "海外" ? translateUrl(item.url) : "";
 }
 
+// お気に入り一覧（ui.js）も同じ決め方を使うので、window.NEWS_LINK に置いておく。
+window.NEWS_LINK = item => {
+  const translated = readingUrl(item);
+  return translated
+    ? { href: translated, blank: true, label: "🌐 日本語で読む →" }
+    : { href: item.url, blank: true, label: "元の記事を読む →" };
+};
+
 function relative(iso) {
   const then = new Date(iso), diff = (Date.now() - then) / 1000;
   if (diff < 3600) return `${Math.max(1, Math.floor(diff / 60))}分前`;
@@ -367,7 +376,7 @@ function render() {
     const translated = readingUrl(item);
     const open = translated || item.url;
     return `
-    <article>
+    <article data-id="${escapeHtml(item.id)}">
       ${head}
       <p class="oneline">${escapeHtml(item.one_line)}</p>
       <p class="what">${escapeHtml(item.what)}</p>
@@ -471,7 +480,7 @@ async function load() {
   try {
     const res = await fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" });
     const data = await res.json();
-    all = data.items || [];
+    all = window.NEWS_ITEMS = data.items || [];
     meta = { categories: data.categories || [], regions: data.regions || [] };
     document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
     document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
