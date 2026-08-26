@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T03:45:53.620380+09:00",
+ "updated_at": "2026-08-26T10:40:39.676569+09:00",
  "genres": [
   "政治",
   "経済",
@@ -371,10 +371,368 @@
   {
    "id": "927da5e1bacababf",
    "until": "2026-08-30T18:45:53.620380+00:00"
+  },
+  {
+   "id": "08fb7d82cc4eeb84",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "0764c9fbcaa29ea7",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "3dcd383136e804dc",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "577f1ecd10eab877",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "7e1c96efa53ccf5e",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "b2ec6ba97bee4f0e",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "625962d452ae4762",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "d52a3331a8830e5b",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "90bb2058dda772bc",
+   "until": "2026-08-31T01:40:39.676569+00:00"
+  },
+  {
+   "id": "68f271f98c383296",
+   "until": "2026-08-31T01:40:39.676569+00:00"
   }
  ],
- "count": 148,
+ "count": 162,
  "items": [
+  {
+   "id": "9331a3eb1b8acf61",
+   "url": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+   "title_original": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-08-26T01:29:20+00:00",
+   "title_ja": "アメリカのイランへの圧力方針で原油価格が下落",
+   "one_line": "アメリカが軍事攻撃よりも経済的な制裁を重視する方針にかじを切ったことで、原油の価格が下がりました。",
+   "what": "水曜日、原油の価格が下がりました。これは、投資家たちが、アメリカがイランに対して軍事的な攻撃ではなく経済的な制裁を使って圧力をかける方針に変わった様子を見守っているためです。",
+   "background": "原油とは、ガソリンや灯油などのもとになる油のことです。中東は世界の原油の多くを生産している地域で、この地域で争いや緊張が起きると「油が手に入りにくくなるかもしれない」という不安から、原油の値段が上がりやすくなる仕組みがあります。",
+   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、原油の価格が下がると、最終的にガソリンや電気料金などの値段が下がったり、負担が軽くなったりするきっかけになることがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "制裁",
+     "meaning": "相手の国が困るような制限をして、自分たちの言うことを聞かせようとする手段のこと。"
+    },
+    {
+     "word": "投資家",
+     "meaning": "将来利益が出そうな会社や商品に、自分のお金を預けたり使ったりする人のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c4b813e0cde4ac85",
+   "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+   "title_original": "Australia news live: search continues for pilot who crashed into sea off NT; Nine Entertainment reports earnings lift",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/26d16209e17d136783c53709dd626d9691b5f700/751_0_3742_2995/master/3742.jpg?width=140&quality=85&auto=format&fit=max&s=1323277a113ab2e6ec7ac1ae8f15a39e",
+   "region": "海外",
+   "published": "2026-08-26T01:27:51+00:00",
+   "title_ja": "オーストラリアの税金配分見直しをめぐる論争",
+   "one_line": "オーストラリアで、州の間のお金の分け方をめぐり、政府機関と地方のトップの間で意見が対立しています。",
+   "what": "オーストラリアの生産性委員会の委員長が、西オーストラリア州との間で結ばれた物品サービス税の分配ルールについて、見直すべきだというこれまでの報告の立場を変えないと述べました。これに対し、同州の首相は強く反発しています。",
+   "background": "オーストラリアでは、国全体で集めた税金をどの州にどうやって分け合うのかについて、ルールが決められています。州によって人口や産業の様子が違うため、どのように分けるかをめぐって、これまでもたびたび議論になってきました。",
+   "impact": "今すぐ私たちの暮らしや家計に直接影響するものではありませんが、国と地方の間でお金の使い方や税金の分け方をどう決めるのかという、大事な政策の議論が続いていることを示しています。",
+   "genre": "国際",
+   "category": "その他",
+   "terms": [
+    {
+     "word": "物品サービス税",
+     "meaning": "買い物をしたときなどに国に支払う、日本でいう消費税のような税金のこと。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "0a3762fecb3b6ee8",
+   "url": "https://apnews.com/article/trump-cartels-military-strike-caribbean-8a3aead624d51d2ec5a3885f3f148111",
+   "title_original": "US military says it killed four in strike on alleged drug-smuggling boat in the Caribbean",
+   "source": "AP通信",
+   "image": "https://dims.apnews.com/dims4/default/f90916f/2147483647/strip/true/crop/8402x5598+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F1d%2F3bd3bfc32e362c16ae5a248b4246%2F80a91757069d40f3a1f0f96c8f708007",
+   "region": "海外",
+   "published": "2026-08-26T01:23:02+00:00",
+   "title_ja": "アメリカ軍がカリブ海で麻薬密輸疑惑の船を攻撃",
+   "one_line": "アメリカ軍がカリブ海で、麻薬を密輸しているとされる船を攻撃して4人が死亡しました。",
+   "what": "アメリカ軍が、カリブ海で麻薬の密輸に使われている疑いがある船を攻撃し、4人が死亡しました。アメリカ政府は、中南米からの麻薬の密輸を取り締まる活動を続けています。",
+   "background": "アメリカでは、国内へ不正に持ち込まれる麻薬を取り締まるため、警察や軍などが長年にわたり対策を行っています。海の安全を守るためのこうした活動は、国際的なルールや国同士の協力のもとで行われています。",
+   "impact": "直接私たちの生活が変わることはありませんが、アメリカの安全保障や中南米との関係に関わる大切なニュースです。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "9c3507f8429376ef",
+   "url": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
+   "title_original": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/8f1bac64cf0024319475de2fe23b287a3bcbccb5/490_0_4188_3350/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=11d61c525b7349c05c23a8f5b317ab65",
+   "region": "海外",
+   "published": "2026-08-26T01:22:59+00:00",
+   "title_ja": "オーストラリアの財政機関と州の首相の間で意見が対立",
+   "one_line": "国の経済を調べる独立した組織と西オーストラリア州のトップの間で、税金の配分をめぐって言い争いが起きています。",
+   "what": "国の経済や政策について調べる独立した機関が、西オーストラリア州に有利な税金の分け方について「コストがかかりすぎている」と指摘しました。これに対し、その州のトップが猛反発し、お互いの意見が対立しています。",
+   "background": "国と地域の間でお金や税金をどのように分けるかは、国の予算を決めるときの大切な問題です。独立した機関は、国や自治体から独立して経済の仕組みやお金の使い方を公平な目で調べる役割を持っています。",
+   "impact": "日本に直接の影響はありませんが、国と地方の税金や予算の分け方を考えるときの重要な問題として世界中で見られています。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "0817195b6777e07e",
+   "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+   "title_original": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353364-17875852502026-08-24t152550z_1014179211_rc215nao2bai_rtrmadp_0_usa-stocks.jpeg?v=1787585353&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-08-26T01:13:38+00:00",
+   "title_ja": "アメリカの株の先行き、物価と企業の業績発表を待つ",
+   "one_line": "投資をする人たちが、重要な物価の発表と企業の業績を待って様子を見ています。",
+   "what": "アメリカの株式市場で、投資家たちが物価のデータとエヌビディアという企業の最新の四半期の業績発表を待っています。どちらも水曜日に予定されています。",
+   "background": "株の未来の価格を予想する取引では、その時々の大きな経済のニュースや、有名な企業の成績がどうなるかによって、みんなが買うか売るかを決めます。特にアメリカの物価の動きは、これからの世の中のお金のめぐり方を決めるため、とても注目されています。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、アメリカの経済や大きな企業の調子によって、日本の株や為替の値段が影響を受けることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "インフレ",
+     "meaning": "モノの値段が全体的に上がっていくことです。お金の価値が下がってしまう現象でもあります。"
+    },
+    {
+     "word": "四半期",
+     "meaning": "1年を4つに分けた、3ヶ月ごとの期間のことです。企業の成績発表によく使われます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c60a5ec3c90b024c",
+   "url": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+   "title_original": "Is Sudan’s battlefield shaping the terms of its next political phase?",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260819__C4ZL2G4__v3__HighRes__TopshotSudanConflictRsf-1787215024.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-08-26T01:00:17+00:00",
+   "title_ja": "スーダンの戦い、政治の形に影響を与える動き",
+   "one_line": "スーダンで続く戦いの中で、軍の動きや政治への働きかけに変化が出ています。",
+   "what": "スーダンで、国軍が優勢になったり、反体制の組織から離れる人が出たりしています。また、国軍の指導者が政治的な動きを強めており、戦争の形や次の政治のやり方に影響を与えそうです。",
+   "background": "スーダンでは、国の軍と別の武装組織の間で、どちらが政治の主導権を握るかをめぐって激しい戦いが続いています。こうした戦いの中で、軍の勢力が変わったり、指導者が次の政治について話し合いを進めようとしたりすることがあります。",
+   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、世界各地の平和や、日本が輸入するエネルギーなどの資源の値段に間接的な影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国軍",
+     "meaning": "その国をまもるために公式に認められた軍隊のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "de64398ec4d62ee6",
+   "url": "https://www.asahi.com/articles/ASV8L15ZHV8LPLFA008M.html",
+   "title_original": "スイス「ホテル大学」卒業生の進路に異変 観光業は世界で人手不足に",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260818002178_comm.jpg",
+   "region": "国内",
+   "published": "2026-08-26T01:00:00+00:00",
+   "title_ja": "スイスのホテルを学ぶ学校、卒業生の進路が変わる",
+   "one_line": "観光業の人手不足を背景に、ホテルや観光を学ぶ学校の卒業生の進路に変化が起きています。",
+   "what": "スイスにある「ホテル大学」と呼ばれる、ホテル経営や観光を専門に学ぶ学校で、卒業した人たちの進路にこれまでとは違う動きが出ています。世界的な観光業の人手不足が関係しています。",
+   "background": "ホテルの経営や観光の仕組みを専門に教える学校は、世界中から学生が集まり、卒業後は世界各地のホテルや旅行会社などで働くのが一般的です。近年は、観光業界全体で働く人が足りなくなっているという状況があります。",
+   "impact": "今すぐ私たちの暮らしや仕事がすぐに変わるわけではありませんが、世界中の観光地やホテルで働く人の集まり方が変わることで、旅行のサービスや料金に影響する可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "7764ef3a7145b0c5",
+   "url": "https://www.nikkei.com/article/DGXZQOCD2326W0T20C26A8000000",
+   "title_original": "パワー・アジアの「再起動」 日本は中東とASEANを石油で結べ",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3491296023082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.74&fp-y=0.53&h=630&w=1200&s=ddc624d7f902123dd482eb235b1eb9f7",
+   "region": "国内",
+   "published": "2026-08-26T01:00:00+00:00",
+   "title_ja": "日本が中東と東南アジアを石油で結ぶ役割を提唱",
+   "one_line": "日本のエネルギー戦略として、中東と東南アジアのつながりを強める提案がされています。",
+   "what": "日本が中東地域と東南アジア諸国連合を結ぶ石油のネットワークにおいて、重要な役割を担うべきだという意見についての記事です。",
+   "background": "日本は、動かすのに必要なエネルギーの多くを海外からの輸入に頼っています。特に中東から運ばれる石油は、日本の産業や暮らしを支える上でとても大切な資源です。",
+   "impact": "今すぐガソリン価格や電気代が変わるものではありませんが、日本が海外からエネルギーをどのように安定して手に入れるかという将来の安全に関わる話です。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "ASEAN",
+     "meaning": "東南アジアの国々が集まって、お互いの協力や結びつきを強めるための組織のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "daa53dd792001741",
+   "url": "https://www.sankei.com/article/20260826-PNF63JNIZFKETFADLDDZ2ZJ4CQ",
+   "title_original": "ミャンマーの人権状況悪化 国軍による空爆や放火などで「民間人が苦境」と国連",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
+   "region": "国内",
+   "published": "2026-08-26T00:58:28+00:00",
+   "title_ja": "ミャンマーの空爆や放火で市民が苦しい状況と国連が指摘",
+   "one_line": "ミャンマーで国軍の攻撃により、一般の市民が大きな苦しみを受けていると国連が発表しました。",
+   "what": "ミャンマーという国で、軍による空爆や放火などによって、一般の市民が非常に苦しい生活に追い込まれていると、国連が明らかにしました。",
+   "background": "国連は、世界中の国々が集まって、世界の平和を守ったり、人々の人権を守ったりするために作られた大きな組織です。ミャンマーでは、軍が国の主導権を握ったことをきっかけに、国内で激しい争いが続いています。",
+   "impact": "今すぐ日本での生活が変わるわけではありませんが、世界各地で起きている争いや、そこで暮らす人々の苦しみについて知る大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国連",
+     "meaning": "世界中の国々が加盟し、平和や人々の暮らしを守るために話し合う国際的な組織のことです。"
+    },
+    {
+     "word": "人権",
+     "meaning": "すべての人が生まれながらに持っている、人間らしく生きるための権利のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f6aef85d0d420baf",
+   "url": "https://www.sankei.com/article/20260826-JV3ES3XPIVMSXEU3MQKFDUODGM",
+   "title_original": "米次官がNATO訪問、高官と会談へ 国防総省ナンバー3のコルビー氏",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/LKAG236KFVMDXE47PCRFNARUCE.jpg?auth=a2cc18bfa02acd45b285690e3b8431f2049635d4b1b3104fdae30a48036e1ade&quality=50&focal=2006%2C787&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-08-26T00:51:23+00:00",
+   "title_ja": "アメリカの国防総省ナンバー3が北大西洋条約機構を訪問へ",
+   "one_line": "アメリカの国防総省で重要な役割を持つコルビー氏が、北大西洋条約機構を訪れて会談を行います。",
+   "what": "アメリカの国防総省の幹部であるコルビー氏が、北大西洋条約機構の本部があるヨーロッパを訪れ、現地の高官たちと会談をする予定です。",
+   "background": "北大西洋条約機構は、アメリカやヨーロッパの国々が集まり、お互いの安全を守るために協力し合う約束をしている組織です。アメリカの国防総省は、国の安全保障や軍事に関する仕事をまとめて行う役所です。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるものではありませんが、国と国がどのように協力して安全を守っているかに関わる外交の動きです。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "北大西洋条約機構",
+     "meaning": "アメリカやヨーロッパの国々が、お互いの安全を守るために手を取り合っている仕組みのことです。"
+    },
+    {
+     "word": "国防総省",
+     "meaning": "アメリカの政府の中で、軍事や国の安全を守る仕事をまとめて担当している役所のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "abf128ecb9c864c4",
+   "url": "https://www.sankei.com/article/20260826-Q4DPUOUSPNASNIUZGDQM4J2D6M",
+   "title_original": "長崎・鈴木市長、台湾は「信頼築いた重要なパートナー」 平和式典巡る抗議を重く受け止め",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/2FWTXWLCNNIBPBBKBQC7ATJRQY.jpg?auth=51910c8324bd91d0b9507d0d400fad8c08ff147d13d9cc98583e26aa431f7a79&quality=50&focal=1788%2C1171&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-08-26T00:43:41+00:00",
+   "title_ja": "長崎市の鈴木市長が台湾を重要なパートナーと表明",
+   "one_line": "長崎市の鈴木市長が、平和式典をめぐる抗議を受け止め、台湾を信頼できるパートナーと述べました。",
+   "what": "長崎市の鈴木市長が、平和式典に台湾を招いたことに対する抗議を重く受け止めつつ、台湾は信頼を築いてきた大切なパートナーであるという考えを示しました。",
+   "background": "自治体の首長は、地域の代表として仕事を行いますが、時には外国や地域の代表を式典に招くなど、独自の判断で外交的なやり取りを行うことがあります。それぞれの地域がどのような基準で相手を選ぶかは、時に議論の対象となります。",
+   "impact": "今すぐ日々の生活が変わるわけではありませんが、日本と海外の地域同士がどのようなつながりを持って関係を築いていくかという問題に関係しています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "68b151960dc246ab",
+   "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
+   "title_original": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00int-Iran-Artemis-kcbz/00int-Iran-Artemis-kcbz-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-08-25T23:58:04+00:00",
+   "title_ja": "イランから逃れたキリスト教徒の女性をカナダが受け入れ",
+   "one_line": "イランでの迫害から逃れアメリカで国外退去となった女性が、カナダで新しく暮らす場所を見つけました。",
+   "what": "宗教的な理由による迫害から逃れてアメリカに入った女性が、当時のアメリカ政府による厳しい出入国の取り締まりによってパナマへ送還されましたが、その後カナダが新しく保護を認めました。",
+   "background": "世界には、自分の国で信仰や考え方を理由に命や安全が脅かされる人がいます。国を追われた人を保護し、安全な場所で暮らせるように助ける仕組みとして、難民の保護や亡命を受け入れる制度があります。",
+   "impact": "今すぐ日本での生活に影響が出るものではありませんが、世界各国における外国からの人々の受け入れや、法律の運用をめぐる状況を伝える出来事です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "亡命",
+     "meaning": "自分の国での迫害や危険から逃れるため、他の国へ逃れて保護を求めることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "10563d723f11d388",
+   "url": "https://www.nikkei.com/article/DGXZQOFL260BI0W6A820C2000000",
+   "title_original": "日経平均先物、大取で反落 20円安の6万5920円で始まる",
+   "source": "日本経済新聞 市場",
+   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+   "region": "国内",
+   "published": "2026-08-25T23:55:08+00:00",
+   "title_ja": "日経平均の先物取引が値下がりして始まる",
+   "one_line": "日本の株式市場の未来の値段をつける取り引きで、値段が少し下がって始まりました。",
+   "what": "日経平均株価の先物取引が、大阪の市場で前の日の終わりよりも20円安い、6万5920円で始まりました。",
+   "background": "株の先物取引とは、未来の決まった日時に、決められた値段で株を売買する約束をすることです。これによって、これからの株の値段がどうなるかをみんなで予想し、リスクを減らしたり利益を狙ったりしています。",
+   "impact": "今すぐ私たちの普段の買い物や給料が変わるわけではありませんが、日本の経済や会社の元気の度合いを示す大きな目安になります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "先物取引",
+     "meaning": "未来の決まった日時に、あらかじめ決めた値段で品物を売買する約束をする取引のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b4675003d948fe6c",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260826de46334",
+   "title_original": "トランプ大統領 オンタリオ湖の改称検討 カナダとの対立激化",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46334/20260826de46334_E0000016981_1_l.jpg",
+   "region": "国内",
+   "published": "2026-08-25T22:46:00+00:00",
+   "title_ja": "アメリカのトランプ大統領がオンタリオ湖の改称を検討",
+   "one_line": "アメリカとカナダの間に広がる湖の名前をめぐり、トランプ大統領が名前を変える考えを示しました。",
+   "what": "アメリカのトランプ大統領が、アメリカとカナダの間にある「オンタリオ湖」の名前を「アメリカ湖」に変えることを考えていると主張しました。これに対してカナダ政府との間で対立が深まっています。",
+   "background": "国と国のあいだでは、貿易のルールや国境の管理などをめぐって意見が対立することがあります。湖や川の名前はそれぞれの国の歴史や国境にかかわるため、名前の変更をめぐって大きな外交問題に発展することがあります。",
+   "impact": "今すぐ私たちの毎日の生活に直接の影響はありませんが、アメリカとカナダという隣り合う国同士の仲がどのように変化していくのか、世界中で注目されています。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "トランプ大統領",
+     "meaning": "アメリカの最高責任者である大統領のことです。"
+    }
+   ],
+   "importance": 4
+  },
   {
    "id": "1c0a4968ab722625",
    "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
