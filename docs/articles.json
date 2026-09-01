@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T01:22:24.935793+09:00",
+ "updated_at": "2026-09-02T05:51:05.325465+09:00",
  "genres": [
   "政治",
   "経済",
@@ -695,10 +695,475 @@
   {
    "id": "78aea0b1c94d0635",
    "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "36354374f6fe0d6c",
+   "until": "2026-09-06T20:51:05.325465+00:00"
+  },
+  {
+   "id": "2ddfe7457a00a7f0",
+   "until": "2026-09-06T20:51:05.325465+00:00"
+  },
+  {
+   "id": "9762e51ee9174ff7",
+   "until": "2026-09-06T20:51:05.325465+00:00"
+  },
+  {
+   "id": "16db0138f162348d",
+   "until": "2026-09-06T20:51:05.325465+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "3e0e20bafbe23861",
+   "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+   "title_original": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108357298-1788293064418-108357298-1788292981392-gettyimages-2262023886-INDIA_AI_SUMMIT.jpeg?v=1788293096&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-01T20:50:07+00:00",
+   "title_ja": "パロアルトネットワークスが好決算、AI関連の需要が拡大",
+   "one_line": "人工知能の安全対策への需要が高まり、パロアルトネットワークスの業績が市場の予想を上回りました。",
+   "what": "セキュリティ企業であるパロアルトネットワークスの四半期決算が市場の予想を超える結果となりました。人工知能の普及に伴い、関連する安全対策ツールの需要が大きく伸びており、企業の業績を押し上げています。",
+   "background": "企業がサイバー攻撃を防ぐためのセキュリティ対策は、インターネットやデジタル社会において不可欠なものです。近年は人工知能を活用した高度な攻撃が増えており、それに対抗するための技術やサービスを提供する企業の役割が重要になっています。",
+   "impact": "直接的な影響は企業のビジネス向けサービスに限られますが、人工知能の安全利用に関わる技術の動向や関連企業の業績は、IT業界全体の成長や私たちの使うサービスの安全性にもつながります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "パロアルトネットワークス",
+     "meaning": "企業のコンピュータやデータをサイバー攻撃から守るセキュリティ対策のサービスや製品を提供している大きな会社のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "019a215e78803c3d",
+   "url": "https://toyokeizai.net/articles/-/956156",
+   "title_original": "〈内製化宣言で激震〉ネット広告業界を揺るがした\"楽天事件\"の正体…｢代理店オワコン｣説は現実か錯覚か | ビジネス | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/f/3/1200w/img_f3069c0f36a4cc62c9cb28722ce504ae940092.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-01T20:50:00+00:00",
+   "title_ja": "ネット広告業界に影響を与えた楽天の動き",
+   "one_line": "楽天による広告の仕組みの見直しが、ネット広告業界の関係者の間で大きな関心を集めています。",
+   "what": "ネット広告をめぐる企業の動きを発端として、広告の売り方や頼み方に関する業界内の議論が活発になっています。外部の会社に頼らず自分たちで行う動きが、関係者の間で波紋を広げています。",
+   "background": "企業がインターネット上で商品やサービスの宣伝をする際、これまでは専門の広告会社に仕事の多くを任せるのが一般的でした。しかし、デジタル技術が進むにつれて、企業が自社で広告を管理しようとする動きが出てきています。",
+   "impact": "今すぐ私たちの暮らしや買い物が変わるわけではありませんが、企業がどのように宣伝を行い、その費用がどう使われるかという仕組みが変わることで、関連する企業のビジネスや働き方に影響が出る可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "内製化",
+     "meaning": "これまで外の会社に頼んでいた仕事を、社内の人手や仕組みを使って自分たちで行うようにすることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "06dea2e3b452bfe6",
+   "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+   "title_original": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108260252-1770053255438-108260252-1770053182859-gettyimages-2259052267-US_STOCKS.jpg?v=1770223959&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-01T20:40:30+00:00",
+   "title_ja": "長期金利が上昇、中東情勢の緊密化と原油価格が影響",
+   "one_line": "中東情勢の緊張や原油の価格上昇への懸念から、アメリカの長期金利が今年1月以来の高い水準になりました。",
+   "what": "アメリカの国債の利回りが上昇し、1月以来の高さとなりました。中東での緊張状態の再燃や原油価格の高騰により、物価が再び上がることへの不安が広がったことが背景にあります。",
+   "background": "国債とは、国がお金を借りるために発行する証券のことです。その金利は、世の中の景気の様子や将来の物価、金利の上下を予想する投資家たちの動きによって日々変動し、世界中の金融市場に影響を与えます。",
+   "impact": "アメリカの金利の変化は、世界中の投資家のお金の流れや、為替の動き、さらには日本の借金の金利や住宅ローンの金利などにも間接的な影響を与えることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "長期金利",
+     "meaning": "国が発行する10年ものの国債の利回りのことで、世の中の様々な金利の基準となる重要な数字です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "01329f931fa3448a",
+   "url": "https://toyokeizai.net/articles/-/955996",
+   "title_original": "ボストン､ロンドン､ケンブリッジ､バーゼル――メガファーマが｢創薬の地｣に選ぶ重要条件 | ビジネス | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/5/c/1200w/img_5cc683800396acf5d91286ee6f1b2816693848.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-01T20:40:00+00:00",
+   "title_ja": "世界の薬作りを変える「創薬エコシステム」とは",
+   "one_line": "世界では国や会社を越えて新しい薬を作る仕組みが進み、日本がその中でどう関わるかが問われています。",
+   "what": "世界中で新しい薬を作る場所として、ボストンやロンドンなどの特定の街が選ばれています。一方で、かつて薬作りが盛んだった日本は、世界の市場でその存在感が小さくなっています。",
+   "background": "薬を作るには、病気の原因を見つける研究から、安全性を確かめる実験、工場での大量生産まで、多くの段階があります。現代では、ひとつの会社ですべてをやるのではなく、まわりの大学や小さな会社、研究者たちが協力し合う仕組みが作られています。これを「創薬エコシステム」と呼びます。",
+   "impact": "今すぐ私たちの暮らしや病気の治し方が変わるわけではありませんが、日本の薬を作る会社が世界の中でどんな役割を果たしていくかによって、将来私たちが使う薬の値段や手に入りやすさに影響する可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "メガファーマ",
+     "meaning": "世界中でビジネスをする、ものすごく大きくて力の強い製薬会社のことです。"
+    },
+    {
+     "word": "バリューチェーン",
+     "meaning": "アイデアの段階から商品がお店に届くまでの一連のつながりや、その中で価値が付け加わっていく仕組みのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4be7f753aee13875",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
+   "title_original": "What’s driven the defence deal between Israel and Greece?",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788291869.jpg?resize=1920%2C1080&quality=80",
+   "region": "海外",
+   "published": "2026-09-01T20:35:14+00:00",
+   "title_ja": "イスラエルとギリシャが結んだ大きな軍事の契約",
+   "one_line": "イスラエルとギリシャの2つの国が、約35億ドル規模の武器に関する新しい契約を結びました。",
+   "what": "イスラエルとギリシャの間で、金額にして35億ドル（およそ5000億円以上）にのぼる武器の取り決めに関する契約が結ばれました。",
+   "background": "国同士が自分たちの国を守るためや、お互いの軍の力を強くするために、防衛に関する協力や装備品の売り買いの約束をすることがあります。国境を越えてこうした大きな契約を結ぶことで、それぞれの国が安全保障のつながりを深めていきます。",
+   "impact": "日本に直接すぐ何か影響があるわけではありませんが、世界の別の地域で国同士の結びつきや武器のやり取りが変わることは、国際全体の安全やバランスに影響を与えることがあります。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "006c9d785f39d603",
+   "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
+   "title_original": "US launches more strikes on Iran as state media reports explosions",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+   "region": "海外",
+   "published": "2026-09-01T20:26:38+00:00",
+   "title_ja": "アメリカがイラン関連の場所を攻撃したと伝えるニュース",
+   "one_line": "アメリカ軍が、貿易用の船やアメリカの兵士を狙ったとして、イランに対して追加の攻撃を行いました。",
+   "what": "アメリカ軍の中央軍が、イラン側が海を走る貿易用の船や地域にいるアメリカの兵士を標的にしていると非難し、イランに対してさらに攻撃を加えました。現地のメディアも爆発があったと伝えています。",
+   "background": "中東という地域には、世界のエネルギーや貿易の重要な通り道があり、昔からさまざまな国がそれぞれの思惑を持って関わってきました。アメリカとイランは長い間、政治や軍事をめぐって対立が続いており、たびたび緊張が高まる出来事が起きています。",
+   "impact": "中東での争いや緊張が激しくなると、日本が輸入する石油などの値段やエネルギーの安定に影響が出るおそれがあります。今すぐ私たちの生活が止まるわけではありませんが、世界経済の大切なニュースです。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 4
+  },
+  {
+   "id": "4c40717a24817e34",
+   "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o",
+   "title_original": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg",
+   "region": "海外",
+   "published": "2026-09-01T20:24:28+00:00",
+   "title_ja": "イスラエル軍がガザ地区で治安の責任者を拘束したと発表",
+   "one_line": "イスラエル軍がガザ地区で特殊部隊による作戦を行い、ハマスの内部治安の責任者を捕らえたと発表しました。",
+   "what": "イスラエル軍が、ガザ地区のガザ市で特殊部隊を使った作戦を行い、そこでの攻撃によって4人が死亡するとともに、ハマスの内部治安の責任者を捕らえたと発表しました。",
+   "background": "パレスチナのガザ地区を実効支配しているグループの「ハマス」と、イスラエルは長年にわたって激しく争っています。ガザ地区では、イスラエル軍とハマスの間で戦闘や軍事作戦が続いており、多くの市民や関係者が巻き込まれる状況が起きています。",
+   "impact": "この地域での戦闘が長引くほど、多くの人の命が危険にさらされ、世界中の国々が平和のための話し合いや支援を続けています。直接日本にあるお店の品物がすぐになくなることはありませんが、世界の平和や安全を考える上で重要なニュースです。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 4
+  },
+  {
+   "id": "90baba68c694e4c0",
+   "url": "https://apnews.com/article/treasury-bessent-g20-financial-literacy-5fa98e6e00f40165af83848d87e11884",
+   "title_original": "Bessent pitches US-backed financial literacy competition to world’s largest economies",
+   "source": "AP通信",
+   "image": "https://dims.apnews.com/dims4/default/89f2e85/2147483647/strip/true/crop/7483x4986+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2F0f%2Fa727e2a0c83dbe041381a7eda290%2Fa5435c47d60a4726a7607d4749494eb5",
+   "region": "海外",
+   "published": "2026-09-01T20:23:02+00:00",
+   "title_ja": "アメリカの財務長官がお金の勉強を広げる計画を提案",
+   "one_line": "アメリカの財務長官が、世界の国々にお金や経済の仕組みを学ぶ大切さを呼びかけました。",
+   "what": "アメリカの財務長官が、世界の大きな国々の財務大臣が集まる会議で、お金の勉強をするキャンペーンを提案しました。自分の子どものころの経験から、正しいお金の知識を学ぶことが大切だと考えています。",
+   "background": "財務長官は、国のお金や税金、予算を管理する大切な仕事をする人です。世界の国々が集まって、世界全体の経済やお金の問題について話し合う会議が開かれることがあります。",
+   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるわけではありませんが、世界的な大きなお金のルールや取り組みの動きを知る手がかりになります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "財務長官",
+     "meaning": "国のお金や税金、予算の管理などを担当する、とても重要な仕事をする人のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "428a8ddc646f5068",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/abdul-el-sayed-jd-vance-evil",
+   "title_original": "Democratic contender Abdul El-Sayed hits back at JD Vance over ‘evil’ taunt",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/8abbcc594ddb90832eb83f0527edb3a8d0fe7642/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=842448d9f4d7a8c070b83c1832e287a7",
+   "region": "海外",
+   "published": "2026-09-01T20:21:27+00:00",
+   "title_ja": "アメリカの政治家同士が「悪」をめぐり激しく言い合い",
+   "one_line": "アメリカの上院議員を目指す候補者と、副大統領がお互いの政策をめぐって強く批判し合いました。",
+   "what": "アメリカのミシガン州で選挙に立候補している民主党の候補者が、共和党の副大統領から受けた批判に対して、医療や食料品に行き届かない政策こそが問題だと言い返しました。",
+   "background": "アメリカの政治では、大きな政党である民主党と共和党が、国をどのように動かすかという考え方の違いをめぐって、日ごろから激しく話し合ったり意見をぶつけ合ったりしています。",
+   "impact": "今すぐ私たちの暮らしに直接影響するものではありませんが、アメリカの政治がどのようなテーマをめぐって争っているのかを知るニュースです。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "上院",
+     "meaning": "アメリカなどの国会で、法律や政策を決めるときに話し合うための、ふたつの部屋のうちのひとつです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "20610bbb1fae5924",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260901de47705",
+   "title_original": "ネパール土石流発生1週間 2万人態勢で救助",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47705/20260901de47705_E0000021719_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-01T20:16:14+00:00",
+   "title_ja": "ネパールの土石流から1週間、懸命の救助活動続く",
+   "one_line": "ネパールと中国の国境付近で起きた大きな土石流から1週間が経ち、大人数での救助活動が続いています。",
+   "what": "ネパールと中国の国境近くで発生した大規模な土石流から1週間が経ちました。現地では大勢の人が集まって救助や行方不明者の捜索を行っており、多くの人が被害を受けています。",
+   "background": "土石流は、大雨や地震などがきっかけとなって、山やがけの土や石が水と一緒に一気にふもとへ流れ落ちてくる、とても危険な自然現象です。",
+   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、世界各地で起きる大きな自然災害の様子や、その被災地の状況を伝えるニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "土石流",
+     "meaning": "山やがけの土や石が、雨の水などと一緒にものすごい勢いで一気に流れ落ちてくる災害のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "2a0cfbd070cfc7c5",
+   "url": "https://mainichi.jp/articles/20260901/k00/00m/310/289000c",
+   "title_original": "選挙中の偽・誤情報、どう防ぐ? 宮城県の検討委が対策素案",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/01/20260901k0000m310323000p/0c10.jpg?1",
+   "region": "国内",
+   "published": "2026-09-01T20:15:06+00:00",
+   "title_ja": "選挙のときのニセ情報どう防ぐ 宮城県が対策案",
+   "one_line": "宮城県の検討委員会が、選挙のときに広がるまちがった情報やニセの情報を防ぐための案をまとめました。",
+   "what": "宮城県の検討委員会が、選挙の時期にインターネットなどで広がる事実とは違う情報や、人をだますようなニセの情報をどのように防いだり対策したりするかについての素案を作りました。",
+   "background": "インターネットやSNSが広まったことで、選挙のときに真実ではない情報や、人を誤解させるような情報が素早く広がりやすくなっており、対策が話し合われています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、これからの選挙で正しい情報を見極めて投票するためのルールづくりにつながる動きです。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "偽・誤情報",
+     "meaning": "事実とは違うまちがった情報や、人々をわざとだますために作られた情報のことをいいます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "77086b03c526840e",
+   "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-guards-palestinian-prisoner.html",
+   "title_original": "Israeli Authorities Charge 12 Guards in Beating Death of Palestinian Prisoner",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/01/world/01int-israel-prisoner/01int-israel-prisoner-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-01T20:11:06+00:00",
+   "title_ja": "イスラエル、収容所の看守12人を起訴",
+   "one_line": "パレスチナ人の囚人を殴って死なせたとして、イスラエルの当局が看守たちを罪に問いました。",
+   "what": "イスラエルの当局が、パレスチナ人の囚人を殴って死なせた疑いで、刑務所の看守12人を罪に問う手続きを始めました。人権団体からは、収容されている場所でのあつかいに厳しい目が向けられています。",
+   "background": "イスラエルとパレスチナの間では、長年にわたって争いや衝突が続いています。パレスチナ人がイスラエル側に捕まって刑務所に入れられることも多く、その中の環境やあつかいについて、これまでもさまざまな問題が指摘されてきました。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、世界のあちこちで起きている争いや、人権を守ることの大切さを考えるきっかけとなるニュースです。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "起訴",
+     "meaning": "裁判所に対して、罪を犯した疑いのある人を正式に裁いてほしいとお願いすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "88cf68d95a552e12",
+   "url": "https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute?traffic_source=rss",
+   "title_original": "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a97165d8113-1788286557.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-01T20:08:25+00:00",
+   "title_ja": "カナダのカーニー氏、アメリカに貿易問題での真剣な対応を求める",
+   "one_line": "カナダのカーニー氏が、アメリカに対して貿易の問題を解決するためにもっと真面目に取り組むよう求めました。",
+   "what": "カナダのカーニー氏が、アメリカのトランプ氏との間で、貿易をめぐる争いやお互いへの批判が続く中、アメリカはもっと真剣に問題の解決に向き合うべきだと主張しました。",
+   "background": "国と国が貿易をするとき、お互いの品物に税金をかけたりかけなかったりするルールをめぐって、意見が対立することがあります。隣り合う国同士では、経済的な結びつきが強い一方で、利益をめぐる争いも起きやすくなります。",
+   "impact": "今すぐ私たちの暮らしやお金の動きに影響するわけではありませんが、国と国の貿易ルールが変わると、将来的に日本を含む世界中の買い物の値段や景気に影響することがあります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "主権",
+     "meaning": "他の国から干渉されることなく、自分たちの国を自分たちの意思で治める権利のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d87f736f2d40ab42",
+   "url": "https://www.nikkei.com/article/DGXZQOFL01BN90R00C26A9000000",
+   "title_original": "NY商品、原油大幅続伸 米軍がイランに新たな攻撃 金は続落",
+   "source": "日本経済新聞 市場",
+   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+   "region": "国内",
+   "published": "2026-09-01T20:08:14+00:00",
+   "title_ja": "ニューヨーク市場の原油価格が大幅に上昇",
+   "one_line": "アメリカ軍によるイランへの新たな攻撃の動きを受け、原油の価格が大きく上がりました。",
+   "what": "アメリカのニューヨーク市場で、石油の価格が大きく上がりました。アメリカ軍がイランに対して新たな攻撃を行ったことが伝えられ、今後のエネルギー供給への心配から買い注文が集まりました。一方、金は値下がりしました。",
+   "background": "原油は、ガソリンや電気など、私たちの生活に欠かせないエネルギーの原料です。世界情勢が不安定になったり、特に油のたくさん取れる中東の地域で争いや事件が起きたりすると、将来足りなくなるかもしれないという心配から、価格が大きく変わることがあります。",
+   "impact": "原油の値段が上がると、日本でもガソリン代や電気代、さまざまな物の値段が上がることがあり、家計の負担が増えるきっかけになります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "原油",
+     "meaning": "地下からくみ上げたままの、まだ加工していない石油のことです。ガソリンやプラスチックなどの原料になります。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "341f7c591a2656dd",
+   "url": "https://www.asahi.com/articles/ASV913TWJV91UTIL004M.html",
+   "title_original": "総務省、日本郵便回答に介入か 取材対応案に「答えすぎ」とチャット",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260901004303_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-01T20:00:00+00:00",
+   "title_ja": "総務省が日本郵便の対応に助言か",
+   "one_line": "総務省が、日本郵便の取材への答え方についてチャットでやり取りをしていたと伝えられています。",
+   "what": "総務省の職員が、日本郵便側が記者からの取材に対してどのように答えるかという案について、チャットツールを使って「答えすぎだ」などとやり取りに関わっていたと伝えられています。",
+   "background": "総務省は、郵便や通信の仕事などを正しく行われているか見守る立場にある役所です。日本郵便は元々国営だった会社で、現在も国とのつながりや関係が深く、ルールに従って正しく運営されることが求められています。",
+   "impact": "今すぐ私たちの毎日の生活や郵便の仕組みがすぐに変わるわけではありませんが、国の役所が仕事のルールを守って正しく動いているかという問題として注目されます。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [
+    {
+     "word": "総務省",
+     "meaning": "地方の政治や消防、通信、郵便など、国民の暮らしの土台となる仕組みを広く担当する国の役所です。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "260f5f6ef9599200",
+   "url": "https://www.asahi.com/articles/ASV9151MSV91UHBI027M.html",
+   "title_original": "TOEFLをイラン国内で受験できず、米国の制裁で 若者らショック",
+   "source": "朝日新聞 国際",
+   "image": "https://imgopt.asahi.com/ogp/AS20260902000020_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-01T20:00:00+00:00",
+   "title_ja": "アメリカの制裁でイラン国内で英語試験が受けられず",
+   "one_line": "アメリカのルールが原因で、イランの若い人が英語の試験を受けられなくなっています。",
+   "what": "イランの国内で、アメリカの会社が作る「TOEFL」という英語の試験が受けられない状態になり、若い人たちがショックを受けています。",
+   "background": "アメリカとイランは、昔から政治や外交の仲があまりよくありません。そのため、アメリカの政府はイランに対して、さまざまな経済やビジネスのルールを厳しくする「制裁」という特別なきまりを続けています。",
+   "impact": "今すぐ日本の私たちの暮らしが変わるわけではありませんが、遠い国同士の対立が、若い人たちの勉強や将来の夢に影響を与えることがあります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "制裁",
+     "meaning": "相手の国が困るようなルールを作って、行動を改めさせようとする仕組みのことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "1bd8c3e1f9bcfc4d",
+   "url": "https://www.nikkei.com/article/DGXZQOUB013PH0R00C26A9000000",
+   "title_original": "日本株の金利耐性「限度は4%」の声 試される利益成長シナリオ",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3536295001092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=fbea41fdc3e1cf52b464330ae70ca278",
+   "region": "国内",
+   "published": "2026-09-01T20:00:00+00:00",
+   "title_ja": "日本株の金利上昇に対する耐性と企業の成長について",
+   "one_line": "金利が上がったときに株の値段がどこまで耐えられるか、市場で心配されています。",
+   "what": "日本の株の値段について、銀行の金利が上がったときにどれくらい耐えられるかという限界が話題になり、会社がこれからも利益を増やせるかどうかが試されています。",
+   "background": "お金を借りるときの「金利」が上がると、企業や個人は返済の負担が大きくなります。企業は銀行からお金を借りてビジネスをしていることが多いため、金利の動きは会社の業績に大きく関わります。",
+   "impact": "今すぐ私たちの生活がすぐに変わるわけではありませんが、金利や株の動きが変わると、日本全体の景気や、私たちが預けているお金の増え方に影響することがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "金利",
+     "meaning": "銀行にお金を預けたり借りたりするときにつく「手数料」のような割合のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b8aa63f173ee0d05",
+   "url": "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america",
+   "title_original": "Google Maps renames Lake Ontario to ‘Lake America’ as MapQuest downloads surge",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/fbaa4f1a-a638-11f1-926b-005056a90284/w:1024/p:16x9/ANGL260901-2045-Live-CS2045.jpg",
+   "region": "海外",
+   "published": "2026-09-01T19:37:48+00:00",
+   "title_ja": "グーグルマップでオンタリオ湖がアメリカ湖に",
+   "one_line": "アメリカの大統領の命令で、グーグルマップ上の湖の名前が変わりました。",
+   "what": "アメリカのドナルド・トランプ大統領の命令により、グーグルマップでオンタリオ湖の名前が「アメリカ湖」に変わりました。アメリカの利用者だけにこの新しい名前が表示されていますが、カナダではもとの名前のままです。また、ほかの地図アプリはもとの名前を使い続けています。",
+   "background": "国境をまたぐ大きな湖などの名前は、どの国から見るかによって呼び方が違うことがあります。アメリカでは、大統領が政府の決まりや方針を示す「大統領令」という命令を出すことで、国の機関やサービスに特定の変更を求めることができます。今回は地図の表示にもその影響が出ました。",
+   "impact": "いまのところアメリカ国外で使う地図には大きな変化はありませんが、どの地図アプリを使うかによって表示される名前が違うため、利用する人たちが混乱する可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "大統領令",
+     "meaning": "アメリカの大統領が、国会の法律と同じような強い力を持って、政府の機関や役所に出す命令のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "76efda05508204e5",
+   "url": "https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets",
+   "title_original": "IPO booms can spell trouble for the markets",
+   "source": "The Economist",
+   "image": "",
+   "region": "海外",
+   "published": "2026-09-01T19:03:06+00:00",
+   "title_ja": "会社の株の初公開が増えると市場で問題に",
+   "one_line": "会社が初めて株を売り出すブームは、将来の市場に心配の種を残すことがあります。",
+   "what": "景気が良い時期には、多くの企業が新しく株を広く一般に売り出すようになります。しかし、そうした好景気の波に乗って株を売り出した企業の中には、のちに市場でトラブルを抱える原因になるものもあると伝えられています。",
+   "background": "企業は事業を大きくするため、一般の人からお金を集めて株を発行し、証券取引所に上場します。景気が良いときには投資家の気分も前向きになり、たくさんの企業が新しく株を売り出しやすくなりますが、その勢いがずっと続くとは限りません。",
+   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、株の市場全体の動きが不安定になると、企業が活動しにくくなったり、私たちの投資や経済の元気がなくなったりするきっかけになります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "IPO",
+     "meaning": "企業がこれまで持っていなかった自社の株を、初めて一般の人や投資家に向けて売り出し、証券取引所に上場することです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bc909797bc6b281b",
+   "url": "https://www.nikkei.com/article/DGXZQOCC27A8E0X20C26A8000000",
+   "title_original": "金沢・直源醬油社長、インフレ対応は「値上げと欧米市場開拓」",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3515128027082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.46&fp-y=0.19&h=630&upscale=false&w=1200&s=d1428a852d687c0cf2723aee40632070",
+   "region": "国内",
+   "published": "2026-09-01T19:00:00+00:00",
+   "title_ja": "金沢のしょうゆ会社社長が語る物価高への対策",
+   "one_line": "金沢のしょうゆ会社の社長が、物価高への対策として値上げと海外進出を挙げました。",
+   "what": "金沢にある「直源醤油」の社長が、ものが値上がりするインフレへの対応について語りました。商品の価格を見直して値上げをすることと、アメリカやヨーロッパなどの海外市場を開拓して売る場所を広げることの2つが大切だと述べています。",
+   "background": "原材料やエネルギーの値段が上がると、企業は商品を作るための費用が増えて苦しくなります。そのため、多くの企業が商品の値段を上げるか、コストを抑えるかの選択を迫られています。また、国内の人口が減る中での対策として海外に活路を見出す企業も増えています。",
+   "impact": "身近な調味料や食品の値段が変わるだけでなく、地域の企業がどのように工夫して生き残ろうとしているかを示す動きの一つです。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "インフレ",
+     "meaning": "モノやサービスの全体の値段が、長期間にわたって上がり続ける現象のことです。物価高とも呼ばれます。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "a99786ec11c7df99",
    "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
@@ -7279,469 +7744,6 @@
     }
    ],
    "importance": 2
-  },
-  {
-   "id": "896ee11b0c8e2106",
-   "url": "https://www.nikkei.com/article/DGXZQOFL25A1X0V20C26A8000000",
-   "title_original": "債券12時50分 長期金利、低下し2.875% 流動性供給入札は「無難」",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-08-26T04:14:41+00:00",
-   "title_ja": "日本の長期金利が低下し２・８７５パーセントに",
-   "one_line": "２６日の市場で日本の長期金利が低下して２・８７５％になりました。",
-   "what": "２６日昼の市場で、長期金利の指標となる数値が低下して２・８７５％になりました。国がお金を借りるための手続きである流動性供給入札が無難に行われたことなどが背景にあります。",
-   "background": "長期金利とは、１年以上の長い期間でお金を借りるときにかかる利息の割合のことです。国が発行する債券が取引される市場で、債券の買われやすさによって金利が毎日変わります。金利の動きは、世の中のお金の流れやすさを示す重要な指標となっています。",
-   "impact": "日々のわずかな金利の変化で生活がすぐに変わるわけではありません。ただし、長期金利は住宅ローンなどの金利にも関わってくるため、長期的な暮らしのお金に影響します。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "債券",
-     "meaning": "国や企業がお金を借りるときに発行する証券で、決まった期日に利息を添えて返す約束の書類です。"
-    },
-    {
-     "word": "長期金利",
-     "meaning": "お金を長い期間借りるときにかかる利息の割合のことで、住宅ローンの金利などの基準になります。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "9331a3eb1b8acf61",
-   "url": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
-   "title_original": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-26T01:29:20+00:00",
-   "title_ja": "アメリカのイランへの圧力方針で原油価格が下落",
-   "one_line": "アメリカが軍事攻撃よりも経済的な制裁を重視する方針にかじを切ったことで、原油の価格が下がりました。",
-   "what": "水曜日、原油の価格が下がりました。これは、投資家たちが、アメリカがイランに対して軍事的な攻撃ではなく経済的な制裁を使って圧力をかける方針に変わった様子を見守っているためです。",
-   "background": "原油とは、ガソリンや灯油などのもとになる油のことです。中東は世界の原油の多くを生産している地域で、この地域で争いや緊張が起きると「油が手に入りにくくなるかもしれない」という不安から、原油の値段が上がりやすくなる仕組みがあります。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、原油の価格が下がると、最終的にガソリンや電気料金などの値段が下がったり、負担が軽くなったりするきっかけになることがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "制裁",
-     "meaning": "相手の国が困るような制限をして、自分たちの言うことを聞かせようとする手段のこと。"
-    },
-    {
-     "word": "投資家",
-     "meaning": "将来利益が出そうな会社や商品に、自分のお金を預けたり使ったりする人のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c4b813e0cde4ac85",
-   "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-   "title_original": "Australia news live: search continues for pilot who crashed into sea off NT; Nine Entertainment reports earnings lift",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/26d16209e17d136783c53709dd626d9691b5f700/751_0_3742_2995/master/3742.jpg?width=140&quality=85&auto=format&fit=max&s=1323277a113ab2e6ec7ac1ae8f15a39e",
-   "region": "海外",
-   "published": "2026-08-26T01:27:51+00:00",
-   "title_ja": "オーストラリアの税金配分見直しをめぐる論争",
-   "one_line": "オーストラリアで、州の間のお金の分け方をめぐり、政府機関と地方のトップの間で意見が対立しています。",
-   "what": "オーストラリアの生産性委員会の委員長が、西オーストラリア州との間で結ばれた物品サービス税の分配ルールについて、見直すべきだというこれまでの報告の立場を変えないと述べました。これに対し、同州の首相は強く反発しています。",
-   "background": "オーストラリアでは、国全体で集めた税金をどの州にどうやって分け合うのかについて、ルールが決められています。州によって人口や産業の様子が違うため、どのように分けるかをめぐって、これまでもたびたび議論になってきました。",
-   "impact": "今すぐ私たちの暮らしや家計に直接影響するものではありませんが、国と地方の間でお金の使い方や税金の分け方をどう決めるのかという、大事な政策の議論が続いていることを示しています。",
-   "genre": "国際",
-   "category": "その他",
-   "terms": [
-    {
-     "word": "物品サービス税",
-     "meaning": "買い物をしたときなどに国に支払う、日本でいう消費税のような税金のこと。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "0a3762fecb3b6ee8",
-   "url": "https://apnews.com/article/trump-cartels-military-strike-caribbean-8a3aead624d51d2ec5a3885f3f148111",
-   "title_original": "US military says it killed four in strike on alleged drug-smuggling boat in the Caribbean",
-   "source": "AP通信",
-   "image": "https://dims.apnews.com/dims4/default/f90916f/2147483647/strip/true/crop/8402x5598+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F1d%2F3bd3bfc32e362c16ae5a248b4246%2F80a91757069d40f3a1f0f96c8f708007",
-   "region": "海外",
-   "published": "2026-08-26T01:23:02+00:00",
-   "title_ja": "アメリカ軍がカリブ海で麻薬密輸疑惑の船を攻撃",
-   "one_line": "アメリカ軍がカリブ海で、麻薬を密輸しているとされる船を攻撃して4人が死亡しました。",
-   "what": "アメリカ軍が、カリブ海で麻薬の密輸に使われている疑いがある船を攻撃し、4人が死亡しました。アメリカ政府は、中南米からの麻薬の密輸を取り締まる活動を続けています。",
-   "background": "アメリカでは、国内へ不正に持ち込まれる麻薬を取り締まるため、警察や軍などが長年にわたり対策を行っています。海の安全を守るためのこうした活動は、国際的なルールや国同士の協力のもとで行われています。",
-   "impact": "直接私たちの生活が変わることはありませんが、アメリカの安全保障や中南米との関係に関わる大切なニュースです。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "9c3507f8429376ef",
-   "url": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
-   "title_original": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/8f1bac64cf0024319475de2fe23b287a3bcbccb5/490_0_4188_3350/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=11d61c525b7349c05c23a8f5b317ab65",
-   "region": "海外",
-   "published": "2026-08-26T01:22:59+00:00",
-   "title_ja": "オーストラリアの財政機関と州の首相の間で意見が対立",
-   "one_line": "国の経済を調べる独立した組織と西オーストラリア州のトップの間で、税金の配分をめぐって言い争いが起きています。",
-   "what": "国の経済や政策について調べる独立した機関が、西オーストラリア州に有利な税金の分け方について「コストがかかりすぎている」と指摘しました。これに対し、その州のトップが猛反発し、お互いの意見が対立しています。",
-   "background": "国と地域の間でお金や税金をどのように分けるかは、国の予算を決めるときの大切な問題です。独立した機関は、国や自治体から独立して経済の仕組みやお金の使い方を公平な目で調べる役割を持っています。",
-   "impact": "日本に直接の影響はありませんが、国と地方の税金や予算の分け方を考えるときの重要な問題として世界中で見られています。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "0817195b6777e07e",
-   "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-   "title_original": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353364-17875852502026-08-24t152550z_1014179211_rc215nao2bai_rtrmadp_0_usa-stocks.jpeg?v=1787585353&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-26T01:13:38+00:00",
-   "title_ja": "アメリカの株の先行き、物価と企業の業績発表を待つ",
-   "one_line": "投資をする人たちが、重要な物価の発表と企業の業績を待って様子を見ています。",
-   "what": "アメリカの株式市場で、投資家たちが物価のデータとエヌビディアという企業の最新の四半期の業績発表を待っています。どちらも水曜日に予定されています。",
-   "background": "株の未来の価格を予想する取引では、その時々の大きな経済のニュースや、有名な企業の成績がどうなるかによって、みんなが買うか売るかを決めます。特にアメリカの物価の動きは、これからの世の中のお金のめぐり方を決めるため、とても注目されています。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、アメリカの経済や大きな企業の調子によって、日本の株や為替の値段が影響を受けることがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "インフレ",
-     "meaning": "モノの値段が全体的に上がっていくことです。お金の価値が下がってしまう現象でもあります。"
-    },
-    {
-     "word": "四半期",
-     "meaning": "1年を4つに分けた、3ヶ月ごとの期間のことです。企業の成績発表によく使われます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c60a5ec3c90b024c",
-   "url": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
-   "title_original": "Is Sudan’s battlefield shaping the terms of its next political phase?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260819__C4ZL2G4__v3__HighRes__TopshotSudanConflictRsf-1787215024.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-08-26T01:00:17+00:00",
-   "title_ja": "スーダンの戦い、政治の形に影響を与える動き",
-   "one_line": "スーダンで続く戦いの中で、軍の動きや政治への働きかけに変化が出ています。",
-   "what": "スーダンで、国軍が優勢になったり、反体制の組織から離れる人が出たりしています。また、国軍の指導者が政治的な動きを強めており、戦争の形や次の政治のやり方に影響を与えそうです。",
-   "background": "スーダンでは、国の軍と別の武装組織の間で、どちらが政治の主導権を握るかをめぐって激しい戦いが続いています。こうした戦いの中で、軍の勢力が変わったり、指導者が次の政治について話し合いを進めようとしたりすることがあります。",
-   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、世界各地の平和や、日本が輸入するエネルギーなどの資源の値段に間接的な影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "国軍",
-     "meaning": "その国をまもるために公式に認められた軍隊のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "de64398ec4d62ee6",
-   "url": "https://www.asahi.com/articles/ASV8L15ZHV8LPLFA008M.html",
-   "title_original": "スイス「ホテル大学」卒業生の進路に異変 観光業は世界で人手不足に",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20260818002178_comm.jpg",
-   "region": "国内",
-   "published": "2026-08-26T01:00:00+00:00",
-   "title_ja": "スイスのホテルを学ぶ学校、卒業生の進路が変わる",
-   "one_line": "観光業の人手不足を背景に、ホテルや観光を学ぶ学校の卒業生の進路に変化が起きています。",
-   "what": "スイスにある「ホテル大学」と呼ばれる、ホテル経営や観光を専門に学ぶ学校で、卒業した人たちの進路にこれまでとは違う動きが出ています。世界的な観光業の人手不足が関係しています。",
-   "background": "ホテルの経営や観光の仕組みを専門に教える学校は、世界中から学生が集まり、卒業後は世界各地のホテルや旅行会社などで働くのが一般的です。近年は、観光業界全体で働く人が足りなくなっているという状況があります。",
-   "impact": "今すぐ私たちの暮らしや仕事がすぐに変わるわけではありませんが、世界中の観光地やホテルで働く人の集まり方が変わることで、旅行のサービスや料金に影響する可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "7764ef3a7145b0c5",
-   "url": "https://www.nikkei.com/article/DGXZQOCD2326W0T20C26A8000000",
-   "title_original": "パワー・アジアの「再起動」 日本は中東とASEANを石油で結べ",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3491296023082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.74&fp-y=0.53&h=630&w=1200&s=ddc624d7f902123dd482eb235b1eb9f7",
-   "region": "国内",
-   "published": "2026-08-26T01:00:00+00:00",
-   "title_ja": "日本が中東と東南アジアを石油で結ぶ役割を提唱",
-   "one_line": "日本のエネルギー戦略として、中東と東南アジアのつながりを強める提案がされています。",
-   "what": "日本が中東地域と東南アジア諸国連合を結ぶ石油のネットワークにおいて、重要な役割を担うべきだという意見についての記事です。",
-   "background": "日本は、動かすのに必要なエネルギーの多くを海外からの輸入に頼っています。特に中東から運ばれる石油は、日本の産業や暮らしを支える上でとても大切な資源です。",
-   "impact": "今すぐガソリン価格や電気代が変わるものではありませんが、日本が海外からエネルギーをどのように安定して手に入れるかという将来の安全に関わる話です。",
-   "genre": "国際",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "ASEAN",
-     "meaning": "東南アジアの国々が集まって、お互いの協力や結びつきを強めるための組織のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "daa53dd792001741",
-   "url": "https://www.sankei.com/article/20260826-PNF63JNIZFKETFADLDDZ2ZJ4CQ",
-   "title_original": "ミャンマーの人権状況悪化 国軍による空爆や放火などで「民間人が苦境」と国連",
-   "source": "産経新聞 国際",
-   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
-   "region": "国内",
-   "published": "2026-08-26T00:58:28+00:00",
-   "title_ja": "ミャンマーの空爆や放火で市民が苦しい状況と国連が指摘",
-   "one_line": "ミャンマーで国軍の攻撃により、一般の市民が大きな苦しみを受けていると国連が発表しました。",
-   "what": "ミャンマーという国で、軍による空爆や放火などによって、一般の市民が非常に苦しい生活に追い込まれていると、国連が明らかにしました。",
-   "background": "国連は、世界中の国々が集まって、世界の平和を守ったり、人々の人権を守ったりするために作られた大きな組織です。ミャンマーでは、軍が国の主導権を握ったことをきっかけに、国内で激しい争いが続いています。",
-   "impact": "今すぐ日本での生活が変わるわけではありませんが、世界各地で起きている争いや、そこで暮らす人々の苦しみについて知る大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が加盟し、平和や人々の暮らしを守るために話し合う国際的な組織のことです。"
-    },
-    {
-     "word": "人権",
-     "meaning": "すべての人が生まれながらに持っている、人間らしく生きるための権利のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f6aef85d0d420baf",
-   "url": "https://www.sankei.com/article/20260826-JV3ES3XPIVMSXEU3MQKFDUODGM",
-   "title_original": "米次官がNATO訪問、高官と会談へ 国防総省ナンバー3のコルビー氏",
-   "source": "産経新聞 国際",
-   "image": "https://www.sankei.com/resizer/v2/LKAG236KFVMDXE47PCRFNARUCE.jpg?auth=a2cc18bfa02acd45b285690e3b8431f2049635d4b1b3104fdae30a48036e1ade&quality=50&focal=2006%2C787&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-08-26T00:51:23+00:00",
-   "title_ja": "アメリカの国防総省ナンバー3が北大西洋条約機構を訪問へ",
-   "one_line": "アメリカの国防総省で重要な役割を持つコルビー氏が、北大西洋条約機構を訪れて会談を行います。",
-   "what": "アメリカの国防総省の幹部であるコルビー氏が、北大西洋条約機構の本部があるヨーロッパを訪れ、現地の高官たちと会談をする予定です。",
-   "background": "北大西洋条約機構は、アメリカやヨーロッパの国々が集まり、お互いの安全を守るために協力し合う約束をしている組織です。アメリカの国防総省は、国の安全保障や軍事に関する仕事をまとめて行う役所です。",
-   "impact": "今すぐ私たちの毎日の生活が直接変わるものではありませんが、国と国がどのように協力して安全を守っているかに関わる外交の動きです。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "北大西洋条約機構",
-     "meaning": "アメリカやヨーロッパの国々が、お互いの安全を守るために手を取り合っている仕組みのことです。"
-    },
-    {
-     "word": "国防総省",
-     "meaning": "アメリカの政府の中で、軍事や国の安全を守る仕事をまとめて担当している役所のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "abf128ecb9c864c4",
-   "url": "https://www.sankei.com/article/20260826-Q4DPUOUSPNASNIUZGDQM4J2D6M",
-   "title_original": "長崎・鈴木市長、台湾は「信頼築いた重要なパートナー」 平和式典巡る抗議を重く受け止め",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/2FWTXWLCNNIBPBBKBQC7ATJRQY.jpg?auth=51910c8324bd91d0b9507d0d400fad8c08ff147d13d9cc98583e26aa431f7a79&quality=50&focal=1788%2C1171&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-08-26T00:43:41+00:00",
-   "title_ja": "長崎市の鈴木市長が台湾を重要なパートナーと表明",
-   "one_line": "長崎市の鈴木市長が、平和式典をめぐる抗議を受け止め、台湾を信頼できるパートナーと述べました。",
-   "what": "長崎市の鈴木市長が、平和式典に台湾を招いたことに対する抗議を重く受け止めつつ、台湾は信頼を築いてきた大切なパートナーであるという考えを示しました。",
-   "background": "自治体の首長は、地域の代表として仕事を行いますが、時には外国や地域の代表を式典に招くなど、独自の判断で外交的なやり取りを行うことがあります。それぞれの地域がどのような基準で相手を選ぶかは、時に議論の対象となります。",
-   "impact": "今すぐ日々の生活が変わるわけではありませんが、日本と海外の地域同士がどのようなつながりを持って関係を築いていくかという問題に関係しています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "68b151960dc246ab",
-   "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-   "title_original": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/08/20/multimedia/00int-Iran-Artemis-kcbz/00int-Iran-Artemis-kcbz-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-08-25T23:58:04+00:00",
-   "title_ja": "イランから逃れたキリスト教徒の女性をカナダが受け入れ",
-   "one_line": "イランでの迫害から逃れアメリカで国外退去となった女性が、カナダで新しく暮らす場所を見つけました。",
-   "what": "宗教的な理由による迫害から逃れてアメリカに入った女性が、当時のアメリカ政府による厳しい出入国の取り締まりによってパナマへ送還されましたが、その後カナダが新しく保護を認めました。",
-   "background": "世界には、自分の国で信仰や考え方を理由に命や安全が脅かされる人がいます。国を追われた人を保護し、安全な場所で暮らせるように助ける仕組みとして、難民の保護や亡命を受け入れる制度があります。",
-   "impact": "今すぐ日本での生活に影響が出るものではありませんが、世界各国における外国からの人々の受け入れや、法律の運用をめぐる状況を伝える出来事です。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "亡命",
-     "meaning": "自分の国での迫害や危険から逃れるため、他の国へ逃れて保護を求めることです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "10563d723f11d388",
-   "url": "https://www.nikkei.com/article/DGXZQOFL260BI0W6A820C2000000",
-   "title_original": "日経平均先物、大取で反落 20円安の6万5920円で始まる",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-08-25T23:55:08+00:00",
-   "title_ja": "日経平均の先物取引が値下がりして始まる",
-   "one_line": "日本の株式市場の未来の値段をつける取り引きで、値段が少し下がって始まりました。",
-   "what": "日経平均株価の先物取引が、大阪の市場で前の日の終わりよりも20円安い、6万5920円で始まりました。",
-   "background": "株の先物取引とは、未来の決まった日時に、決められた値段で株を売買する約束をすることです。これによって、これからの株の値段がどうなるかをみんなで予想し、リスクを減らしたり利益を狙ったりしています。",
-   "impact": "今すぐ私たちの普段の買い物や給料が変わるわけではありませんが、日本の経済や会社の元気の度合いを示す大きな目安になります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "先物取引",
-     "meaning": "未来の決まった日時に、あらかじめ決めた値段で品物を売買する約束をする取引のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b4675003d948fe6c",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260826de46334",
-   "title_original": "トランプ大統領 オンタリオ湖の改称検討 カナダとの対立激化",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46334/20260826de46334_E0000016981_1_l.jpg",
-   "region": "国内",
-   "published": "2026-08-25T22:46:00+00:00",
-   "title_ja": "アメリカのトランプ大統領がオンタリオ湖の改称を検討",
-   "one_line": "アメリカとカナダの間に広がる湖の名前をめぐり、トランプ大統領が名前を変える考えを示しました。",
-   "what": "アメリカのトランプ大統領が、アメリカとカナダの間にある「オンタリオ湖」の名前を「アメリカ湖」に変えることを考えていると主張しました。これに対してカナダ政府との間で対立が深まっています。",
-   "background": "国と国のあいだでは、貿易のルールや国境の管理などをめぐって意見が対立することがあります。湖や川の名前はそれぞれの国の歴史や国境にかかわるため、名前の変更をめぐって大きな外交問題に発展することがあります。",
-   "impact": "今すぐ私たちの毎日の生活に直接の影響はありませんが、アメリカとカナダという隣り合う国同士の仲がどのように変化していくのか、世界中で注目されています。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "トランプ大統領",
-     "meaning": "アメリカの最高責任者である大統領のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "1c0a4968ab722625",
-   "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-   "title_original": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353328-1787582498969-gettyimages-2291320542-AFP_C6DP8QL.jpeg?v=1787582612&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-25T18:42:28+00:00",
-   "title_ja": "アメリカの株価が少し上がり金利が下がる",
-   "one_line": "アメリカの株式市場で、株価が少し上がり、国の借金の金利が下がりました。",
-   "what": "アメリカの株式市場で、国にお金を貸すときの利回りである債券の利息が下がったのを受け、株価が少し上がりました。特にコンピューターの頭脳である半導体を作る会社の株が買われ、全体の株価を押し上げました。",
-   "background": "株式市場では、企業の業績や、国が借りるお金につく利息の動きを見て、たくさんの人が株の売り買いをしています。半導体は現代のあらゆる電子機器に欠かせない部品で、その業界を引っ張る企業の業績は市場全体の注目を集めやすいという特徴があります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界の経済の中心地であるアメリカの株価や金利の動きは、巡り巡って日本の株や円の価値、物価にも影響することがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "利回り",
-     "meaning": "投資した金額に対して、1年間でどれだけの利益や利息がもらえるかを示す割合のことです。"
-    },
-    {
-     "word": "半導体",
-     "meaning": "電気を通す「導体」と、電気を通さない「絶縁体」の中間の性質を持つ部品で、パソコンやスマホなどの頭脳として使われます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8ac7aa5891457781",
-   "url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/74955659_6.jpg",
-   "region": "海外",
-   "published": "2026-08-25T18:04:00+00:00",
-   "title_ja": "ウクライナの攻撃でロシアからの穀物輸出が止まる",
-   "one_line": "ひとことで言うと、ウクライナによるロシアの港への攻撃で、穀物や石油の輸出が止まっているというお話です。",
-   "what": "ウクライナの無人機（ドローン）が、ロシアの黒海にある港などの施設を攻撃しました。この影響で、ロシアから船で運ばれるはずだった穀物や石油の輸出が止まってしまい、物流に影響が出ています。",
-   "background": "そもそも「穀物の輸出」とは、小麦やトウモロコシなど、たくさん収穫できた食べ物を、食べ物が足りない他の国へ船などで売る仕組みです。黒海は、ロシアやウクライナという農業がさかんな国から、世界中へ食料を届けるためのとても大切な通り道になっています。",
-   "impact": "ロシアからの穀物や石油の流れが止まることで、世界中の市場で値段が上がったり、品物が手に入りにくくなったりする心配があります。私たちの毎日の食事や生活に使うエネルギーの値段にも関係してくる問題です。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "インフラ",
-     "meaning": "電気や水道、道路、港など、私たちが生活したり仕事をしたりするために欠かせない大切な社会の基盤のことです。"
-    },
-    {
-     "word": "輸出",
-     "meaning": "国内で作った農作物や製品を、ほかの国に売るために外国へ送り出すことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c21fd7fc14b84f33",
-   "url": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
-   "title_original": "What makes a great investor?",
-   "source": "The Economist",
-   "image": "",
-   "region": "海外",
-   "published": "2026-08-25T17:15:09+00:00",
-   "title_ja": "すぐれた投資家に必要なものとは",
-   "one_line": "すぐれた投資家になるには、大きな運と、ちょっと変わった個性が必要だと伝えています。",
-   "what": "世界経済を伝える雑誌が、多くの資産を増やして大きなお金を動かす「投資家」について、どのような人が成功するのかを伝えています。",
-   "background": "投資家とは、将来伸びると思う会社や事業にお金を出し、その会社が大きくなったり利益を出したりしたときに、分け前をもらう人のことです。社会の仕組みとして、お金が必要な企業と、お金をふやしたい人を結びつける大切な役割を持っています。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、社会でお金がどのように動き、どんな人が活躍しているのかを知るためのきっかけになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "投資家",
-     "meaning": "会社や事業にお金を出して、将来の利益や見返りを目指す人のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "a6e824433277e25f",
-   "url": "https://www.nikkei.com/article/DGXZQOUC07BD40X00C26A8000000",
-   "title_original": "北村元国家安保局長、経済安保専門のファンド設立 最大300億円規模",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3431555007082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.53&fp-y=0.26&h=630&w=1200&s=5710661b4eb955e34a5d9c0e5acfba03",
-   "region": "国内",
-   "published": "2026-08-25T17:00:00+00:00",
-   "title_ja": "北村元国家安保局長が経済安保のファンド設立へ",
-   "one_line": "元国家安全保障局長が、経済の安全保障に特化した最大300億円規模のファンドを作ります。",
-   "what": "北村元国家安保局長が、国の安全保障や経済の強さを守るため、経済安全保障を専門とする投資の仕組み（ファンド）を新しく作ることが分かりました。大きさは最大で300億円規模になる見込みです。",
-   "background": "経済安保とは、貿易や先端技術、エネルギーなどを守ることで国の安全を保つ仕組みです。ファンドとは、多くの人や会社から集めた大きなお金をまとめて、専門家がさまざまな事業や会社に投資してふやす仕組みのことです。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、国の安全や企業の技術を守るために、大きなお金がどのように使われようとしているのかに関わる動きです。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "ファンド",
-     "meaning": "多くの人や会社から集めた大きなお金を一つにまとめて、株や事業に投資する仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "332f0bcf6d0068fd",
-   "url": "https://www.nikkei.com/article/DGXZQOUB159210V10C26A7000000",
-   "title_original": "コメ5キロ3000円割れへ価格下落ドミノ 「農家はやっていけない」",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3453913014082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.33&fp-y=0.4&h=630&w=1200&s=959126e76c8ee0d8313f225eee6ae437",
-   "region": "国内",
-   "published": "2026-08-25T17:00:00+00:00",
-   "title_ja": "コメ価格が下落、5キロ3000円割れの見通し",
-   "one_line": "コメの値段が下がっており、5キロで3000円を割る動きが出ています。",
-   "what": "店頭に並ぶコメの値段が下がっており、5キロあたりの価格が3000円を下回るような下落の連鎖が起きています。これに対して農家からは、経営を続けるのが難しいという声が上がっています。",
-   "background": "モノの値段は、市場に出回る量（供給）と、買いたい量（需要）のバランスによって決まります。農家は、肥料や燃料などの費用がかかる中でコメを作って売ることで収入を得て生活しています。",
-   "impact": "消費者にとっては買い物の負担が軽くなる一方で、コメを作る農家の収入が減ってしまうため、これからのコメ作りや食料の安定した供給にどう影響するか心配されています。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [],
-   "importance": 4
   }
  ]
 }
