@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T20:25:23.053310+09:00",
+ "updated_at": "2026-09-02T01:22:24.935793+09:00",
  "genres": [
   "政治",
   "経済",
@@ -651,10 +651,349 @@
   {
    "id": "cbce134b6287f45c",
    "until": "2026-09-06T11:25:23.053310+00:00"
+  },
+  {
+   "id": "6b85b61044e4f04a",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "064d93454b02464d",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "15f94267e70357d3",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "ca75de6bb3b6a1fb",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "1cd57d0454f7c3c2",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "88efc880ec8faacc",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "db3c2322650d0b23",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "237995cc5994e685",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "2ffe548a80db3b49",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "bddf85d616332626",
+   "until": "2026-09-06T16:22:24.935793+00:00"
+  },
+  {
+   "id": "78aea0b1c94d0635",
+   "until": "2026-09-06T16:22:24.935793+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "a99786ec11c7df99",
+   "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+   "title_original": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108276820-1777376999878-108276820-1773254804461-gettyimages-2265991721-0d6a8214_gmhkj3wc.jpg?v=1777377010&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-01T16:14:16+00:00",
+   "title_ja": "ソフトバンク傘下の発電会社が上場へ",
+   "one_line": "ソフトバンクのエネルギー関連会社が株を公開し、人工知能の開発を進める企業に大きく頼っていると明らかにしました。",
+   "what": "ソフトバンクグループのエネルギーを扱う会社が、株式を広く一般に売り出す手続きを始めました。この会社は、人工知能を動かすためのデータセンター事業について、まだ売り上げが無く、動いている施設も無いと説明しています。また、人工知能の開発を進める会社に大きく頼っているとも伝えています。",
+   "background": "会社が事業を大きくするため、一般の人や他の会社からお金を集める仕組みを株式の公開と呼びます。これを行うと、誰でもその会社の株を買えるようになります。また、人工知能を動かすためには膨大な電気が必要になるため、エネルギー関連の事業と人工知能の開発は深く結びついています。",
+   "impact": "今すぐ私たちの暮らしや家計が直接変わるわけではありませんが、人工知能に関わるビジネスがどのように大きくなっていくのか、これからの動きが注目されます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "IPO",
+     "meaning": "会社が株を広く一般に売り出して、誰でも買えるようにすること。新しく株を公開する手続きのことです。"
+    },
+    {
+     "word": "データセンター",
+     "meaning": "インターネットで使われる大量の情報をためたり、コンピュータを動かしたりするための大きな建物のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c55ca399e451a55b",
+   "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o",
+   "title_original": "Germany says Russia behind Leipzig airport drone attack",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+   "region": "海外",
+   "published": "2026-09-01T16:13:48+00:00",
+   "title_ja": "ドイツが空港のドローン攻撃はロシアの仕業と発表",
+   "one_line": "ドイツは、国内の空港で見つかった爆発物を積んだ小型無人機による攻撃について、ロシアが関わっていると発表しました。",
+   "what": "ドイツの空港で、爆発物を積んだ小型無人機が見つかりました。この空港の近くにはウクライナの荷物を運ぶ飛行機があり、ドイツ政府はこの事件の背後にロシアがいると明らかにしました。",
+   "background": "国と国の間で争いや意見の対立が続いているとき、相手の国や関係する場所をねらって、目に見えない攻撃やトラブルを起こすことがあります。ドローンと呼ばれる遠隔操作で動く小型の飛行機が、こうした事件に使われることが増えています。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、遠く離れた国々の間の緊張が高まることで、世界の安全や経済にどのような影響が出るか心配されます。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "ドローン",
+     "meaning": "人間が乗らずに、遠隔操作や自動で飛ぶことができる小型の飛行機や無人機ののことです。"
+    },
+    {
+     "word": "爆発物",
+     "meaning": "火薬などが使われていて、大きな音を立てて爆発する危険のあるもののことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "55c24277664cc18a",
+   "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o",
+   "title_original": "Trump says US position on Falklands 'one of many' under review",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
+   "region": "海外",
+   "published": "2026-09-01T16:13:03+00:00",
+   "title_ja": "アメリカのトランプ大統領がフォークランド諸島の立場を見直しへ",
+   "one_line": "アメリカのトランプ大統領が、南米の島々についての国の立場を見直す考えを示しました。",
+   "what": "アメリカのトランプ大統領が、フォークランド諸島に関するアメリカの立場について、たくさんの見直し項目の一つとして考えていると述べました。これに対し、イギリス側は「島の住民は自分たちの将来を決める権利を持ったイギリス人である」と主張しています。",
+   "background": "世界のあちこちには、どの国がその土地を治めるべきかについて、昔から意見が分かれている場所があります。フォークランド諸島についても、国同士でそれぞれの考え方や主張があります。",
+   "impact": "今すぐ私たちの暮らしに直接影響が出るわけではありませんが、関係する国々の間の外交やこれからの話し合いの行方に注目が集まっています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "フォークランド諸島",
+     "meaning": "南アメリカの近くにある島々で、どの国が治めるかをめぐって昔から議論や争いがあった場所です。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "e559f6737ce3d2b5",
+   "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+   "title_original": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31dc-trump-venez-photo-lhft/31dc-trump-venez-photo-lhft-mediumSquareAt3X-v2.jpg",
+   "region": "海外",
+   "published": "2026-09-01T16:12:46+00:00",
+   "title_ja": "アメリカ国防総省がベネズエラの石油事業に関与",
+   "one_line": "アメリカの国防を担う役所が、トランプ大統領が進める石油の取引を支援していると伝えられています。",
+   "what": "アメリカの国防総省の中にある組織が、トランプ大統領が進めるベネズエラの石油に関する取引を主導するのを手伝っています。この組織はもともと、アメリカの防衛に関わる産業にお金を貸し出すために作られたものでした。",
+   "background": "アメリカでは、国の安全を守るための役所や組織が、経済や貿易に関わる大きな仕事や交渉をサポートすることがあります。石油は世界中でエネルギーとして使われるため、国の安全保障や経済にとって非常に大切な資源です。",
+   "impact": "今すぐ私たちの家計や買い物の値段がすぐに変わるわけではありませんが、アメリカと石油を産出する国との関係や、世界のエネルギーの動きに影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "国防総省",
+     "meaning": "アメリカの軍事や国の安全を守る仕事の中心となる役所のことです。"
+    },
+    {
+     "word": "石油",
+     "meaning": "車を動かしたり電気を作ったりするために使われる、地下から採れる黒い液体燃料のもとです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8ad45ea1d05ef749",
+   "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
+   "title_original": "AI token prices are hitting new record lows",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108293465-1776456426273-gettyimages-2217250788-boy07912.jpeg?v=1776456457&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-01T16:08:31+00:00",
+   "title_ja": "人工知能の基本単位の価格が過去最安値を記録",
+   "one_line": "人工知能の計算に使われる基本単位の価格が、過去のどの時点よりも安くなっています。",
+   "what": "人工知能の計算で使われる「トークン」の価格という指標が、これまでで一番安い水準に下がりました。",
+   "background": "人工知能が言葉を理解したり文章を作ったりするときには、データを細かな単位に分けて計算します。この計算の単位や量は、人工知能を作る会社や利用する人にとって、コストを大きく左右する大切な要素です。技術が広がるにつれて、やり取りにかかる費用が安くなっていく傾向があります。",
+   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるわけではありませんが、人工知能を使うための費用が下がれば、より多くのサービスで安く人工知能が使われるようになる可能性があります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "トークン",
+     "meaning": "人工知能が文章を読み書きするときに使う、言葉や文字の細かな区切りの単位のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0f0bca94a9f0467b",
+   "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+   "title_original": "Burnham promises to bring ‘substantial change’ as he gives first Commons address as prime minister – UK politics live",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/cffa7da108d966906c305f2fd2149208ba32bc29/1366_12_2150_1719/master/2150.jpg?width=140&quality=85&auto=format&fit=max&s=8afb431ea8850f6af9c040edb576380a",
+   "region": "海外",
+   "published": "2026-09-01T16:02:40+00:00",
+   "title_ja": "イギリスで新しい首相が議会で初めての演説",
+   "one_line": "イギリスで新しく首相になったバーナム氏が、議会で初めての演説を行い、大きな変化を起こすと約束しました。",
+   "what": "イギリスのバーナム首相が、議会で初めての演説をしました。イギリスの問題点を正すためにはっきりとした対策があると述べ、辞任した前の首相のこれまでの仕事に感謝の言葉を伝えました。また、野党側でも主要な役割を担当する人の入れ替えが行われました。",
+   "background": "イギリスは、国王がいますが、実際の政治は国民が選んだ議員の中から選ばれる「首相」が中心となって進める仕組みになっています。政治を行う政権が変わったり、首相が新しくなったりするときには、国をどうやって立て直すのか方針を示すことが大切にされます。",
+   "impact": "今すぐ日本の私たちの暮らしに直接的な影響が出るものではありませんが、イギリスという国のこれからの政治の方向性や、外交の動きに影響を与える可能性があります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "42bd2b43aa86da3d",
+   "url": "https://apnews.com/article/britain-uk-hottest-summer-record-climate-18c82970fdfca5c0cad3c16ad798000f",
+   "title_original": "A series of heatwaves leads Britain to record its hottest summer",
+   "source": "AP通信",
+   "image": "https://dims.apnews.com/dims4/default/d00c6b2/2147483647/strip/true/crop/6944x4627+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Fd2%2F208ec5cf910c8e8d56480ba0bc57%2F57e73e236e1a4ca9a39ad9ff68c274f3",
+   "region": "海外",
+   "published": "2026-09-01T15:23:02+00:00",
+   "title_ja": "イギリスの夏が観測史上もっとも暑い記録を更新",
+   "one_line": "イギリスで今年の夏が記録的な暑さとなり、これまでで一番の高温になったと発表されました。",
+   "what": "イギリスの気象機関は、今年の夏がこれまでで一番暑い夏になったと発表しました。何度も厳しい暑さが続き、雨が少なく、山火事や水の使用制限が起きるなど大きな影響が出ました。",
+   "background": "地球温暖化が進むにつれて、世界中でこれまでにないような暑さや極端な天気が増えています。気象機関は昔からのデータを集めて、気温の変化や天候の記録を比べ続けています。",
+   "impact": "今すぐ私たちの暮らしやお金の仕組みが直接変わるわけではありませんが、世界中で起きている異常気象が私たちの食べ物や生活にどんな影響をあたえるか考えるきっかけになります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "7804ff5f35c29458",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260901de47696",
+   "title_original": "個人向け社債の発行 過去最多更新のペース 成長資金確保の狙い",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47696/20260901de47696_E0000021693_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-01T15:13:38+00:00",
+   "title_ja": "企業が一般の人向けに発行する社債が過去最多のペース",
+   "one_line": "企業が事業のための資金をあつめるために、個人向け社債を発行する動きがとても活発になっています。",
+   "what": "日本の企業の間で、一般の人が買いやすい「個人向け社債」を発行する動きが広がっています。これまでのペースでいくと、今年度の発行額は過去にいちばん多かった時期を超える勢いとなっています。",
+   "background": "社債とは、企業が事業を大きくするためのお金をあつめるために発行する債券のことです。金利が上がっていくかもしれないという見方がある中で、企業は早めにお金を確保しようとしています。",
+   "impact": "個人向け社債を買うことで、人びとは企業にお金を貸して利息を受け取ることができます。また企業にとっては、銀行から借りる以外の方法で成長のための資金をスムーズに集められるメリットがあります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "社債",
+     "meaning": "企業が活動するためのお金を一般の人や銀行などから借りるために発行する証明書のようなものです。"
+    },
+    {
+     "word": "金利",
+     "meaning": "お金を借りたり預けたりするときに、もとのお金にプラスして支払ったりもらったりする割合のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f9de966d12b954c2",
+   "url": "https://www.france24.com/en/tv-shows/arts24/20260901-from-north-korea-to-ice-photojournalist-david-guttenfelder-on-the-front-lines-in-minneapolis",
+   "title_original": "From North Korea to ICE: Photojournalist David Guttenfelder on the front lines in Minneapolis",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/c35a6c54-a614-11f1-ac7d-005056a90284/w:1024/p:16x9/capture-14795033246a96e6b0b762a9-82489987.jpg",
+   "region": "海外",
+   "published": "2026-09-01T15:10:52+00:00",
+   "title_ja": "国内外の紛争や移民問題をとらえてきた写真家の展示",
+   "one_line": "長年世界の紛争地帯を撮影してきた写真家が、アメリカ国内の移民問題をとらえた作品を展示しています。",
+   "what": "世界各地の歴史的な現場を35年以上にわたって写真におさめてきた報道写真家が、今年はアメリカ国内で起きている連邦機関による移民の取り締まりや衝突の現場を撮影しました。その写真が国際的なフェスティバルで展示されています。",
+   "background": "報道写真家は、世界各地で起きている戦争や社会の大きな変化を写真という記録に残し、多くの人に伝える役割を担っています。アメリカ国内では移民をめぐる政策や法律の運用をめぐって議論が続いています。",
+   "impact": "今すぐ直接私たちの生活が変わることはありませんが、世界の国々が抱える移民の問題や社会の課題について知るきっかけとなります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "32ccf8d3abee0175",
+   "url": "https://www.nikkei.com/article/DGXZQOFL01BI30R00C26A9000000",
+   "title_original": "NYダウ続落で始まる イラン情勢懸念で原油高、米金利上昇も重荷",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3537128001092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=d86baf435d0b00863bd6641e2d02e695",
+   "region": "国内",
+   "published": "2026-09-01T14:44:29+00:00",
+   "title_ja": "アメリカの株価が下がり続ける 原油の高騰などが影響か",
+   "one_line": "アメリカの株価が下がって始まり、原油の価格や金利の動きが重い負担になっています。",
+   "what": "アメリカの株式市場で、主な会社の株価をまとめた「ニューヨーク・ダウ」が値下がりして始まりました。イランをめぐる心配から原油の価格が上がっていることや、アメリカの金利が上がっていることが負担になっています。",
+   "background": "株価というのは、会社の人気や社会の景気の良し悪しによって日々上がったり下がったりします。また、原油はガソリンや電気を作るための大切な燃料なので、その値段が上がると、世界中の企業や家計の負担になり、株価が下がる原因になることがあります。",
+   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、アメリカの経済や世界の原油の値段の動きは、日本の物価や株価にもつながることがあるため、注意深く見ていく必要があります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "ニューヨーク・ダウ",
+     "meaning": "アメリカの代表的な会社の株価をまとめて、全体の調子を見るための仕組みです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9f78c92a22cd1b35",
+   "url": "https://news.yahoo.co.jp/pickup/6593916?source=rss",
+   "title_original": "フラット35 9月の適用金利3.46%",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/1/4f5869d9c3c4849ccc1b12fd095b85d65ba898b3693e37a94b7fd1ca9157ca11.jpg",
+   "region": "国内",
+   "published": "2026-09-01T14:33:57+00:00",
+   "title_ja": "住宅ローンの「フラット35」9月の金利は3.46%に",
+   "one_line": "家を買うときにお金を借りる「フラット35」の9月の金利が3.46%になりました。",
+   "what": "家を買うときなどに利用される、長期の固定金利住宅ローン「フラット35」の9月の適用金利が、3.46%になりました。",
+   "background": "「フラット35」は、民間の銀行と、国が協力して作っている住宅ローンの仕組みです。お金を借りるときに決めた金利が、返済し終わるまでずっと変わらないのが特徴で、金利の上げ下げは、世の中全体の金利の動きに影響されます。",
+   "impact": "家を買うためにこのローンを借りる人にとっては、毎月払うお金の額や、返す総額が変わってくるため、家計の計画に大きく関わります。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "金利",
+     "meaning": "銀行にお金を貸してもらうときや、借りるときに払う「手数料」のような割合のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "bf9ba35a67688dde",
+   "url": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-world-4025-rdf",
+   "title_original": "War and sanctions deepen Iran's fuel crisis",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/78347832_6.jpg",
+   "region": "海外",
+   "published": "2026-09-01T14:29:00+00:00",
+   "title_ja": "イランで燃料不足が深刻に 戦争や経済制裁が影響",
+   "one_line": "戦争による被害やアメリカの経済制裁により、イラン国内で燃料が手に入りにくくなっています。",
+   "what": "イランで、燃料を手に入れようとする車がガソリンスタンドに長い列を作っています。戦争による被害や、燃料を輸入するときの制限、そしてアメリカによる新しい経済制裁が、燃料の供給を圧迫しているためです。",
+   "background": "イランは豊かな石油資源を持つ国ですが、外国から機械や部品を輸入してガソリンなどを作ることもあります。そのため、外国との対立や経済制裁によって貿易が制限されると、国内で燃料が足りなくなることがあります。",
+   "impact": "直接日本の今の暮らしがすぐに止まるわけではありませんが、中東での燃料不足や混乱は、世界中の原油の値段やエネルギーの安定に関わるため、日本を含む世界全体に影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "経済制裁",
+     "meaning": "国際的なルールをやぶった国などに対して、貿易やお金のやり取りを禁止して、経済的に困らせるペナルティのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1f1326e9a56ca38f",
+   "url": "https://news.yahoo.co.jp/pickup/6593915?source=rss",
+   "title_original": "防災庁を11月創設へ 課題は山積",
+   "source": "Yahoo!ニュース 国内",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/1/15634aa4b0a01f54e1aca54d6e4907f7a38aad884695e74d3cd95815fc019913.jpg",
+   "region": "国内",
+   "published": "2026-09-01T14:18:59+00:00",
+   "title_ja": "災害への備えをまとめる新しい役所「防災庁」を11月につくる方針",
+   "one_line": "災害への備えや対応をひとつにまとめて進める新しい役所「防災庁」が、11月にできる見通しとなりました。",
+   "what": "国が自然災害からくらしを守るための新しい組織として、「防災庁」という役所を11月に新しくつくる方針であることが分かりました。",
+   "background": "大きな災害が起きたとき、日本には警察や消防、自衛隊などさまざまな組織が力を合わせます。しかし、それぞれの指示を出す場所が分かれていると、助け合うのが難しくなることがあります。そのため、災害への備えや助け合いをまとめる専門の役所をつくることで、いざというときに素早く動けるようにする仕組みです。",
+   "impact": "すぐに私たちのくらしが変わるわけではありませんが、新しい役所ができることで、今後日本中で災害が起きたときの助け合いや避難のルールがよりしっかりすることが期待されています。",
+   "genre": "政治",
+   "category": "安全保障・防衛",
+   "terms": [],
+   "importance": 4
+  },
   {
    "id": "16f2d0a336cafbb0",
    "url": "https://apnews.com/article/nepal-flash-floods-hydropower-tunnels-missing-workers-e7554ef73393ae96eb0a5d07866e532f",
@@ -7402,319 +7741,6 @@
    "genre": "経済",
    "category": "景気・物価",
    "terms": [],
-   "importance": 4
-  },
-  {
-   "id": "1953bc196972efd3",
-   "url": "https://www.nikkei.com/article/DGXZQOUB056AP0V00C26A8000000",
-   "title_original": "国債や株、即時決済可能に 政府・日銀がブロックチェーン整備へ始動",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3497639025082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=8229044eb9a97ee402569d4e2c77b5f0",
-   "region": "国内",
-   "published": "2026-08-25T17:00:00+00:00",
-   "title_ja": "国債や株のやり取りをその場でできるように 政府と日本銀行が新しい仕組みの準備を始めました",
-   "one_line": "国や企業のお金のやり取りをより素早く正確にするために、政府と日本銀行が新しい仕組みの準備を始めました。",
-   "what": "政府と日本銀行が、国債や株といった大切な財産のやり取りをその場で完了させることができる新しい仕組みづくりの準備に乗り出しました。",
-   "background": "国債は国がお金を借りるために発行する証書で、株は会社の ownership（所有権）を表すものです。これらはこれまで、やり取りを記録して確かめるのに時間がかかることがありました。",
-   "impact": "今すぐ私たちの暮らしが大きく変わるわけではありませんが、国の大きなお金のやり取りがスムーズになると、経済の仕組みがより安全で便利になります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "国債",
-     "meaning": "国が活動するためのお金を借りるために発行する、約束手形のようなものです。"
-    },
-    {
-     "word": "ブロックチェーン",
-     "meaning": "インターネット上で、たくさんのコンピューターが協力してデータの記録を安全に管理する仕組みです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c07a2162c1c00908",
-   "url": "https://www.nikkei.com/article/DGXZQODH246UV0U6A820C2000000",
-   "title_original": "高校野球の商業利用「全面禁止」は旧弊 新たな稼ぎ生み、生かす改革を",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3496124024082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=f2295030c132c445ce86c161b1fa1fff",
-   "region": "国内",
-   "published": "2026-08-25T17:00:00+00:00",
-   "title_ja": "高校野球の商業利用のあり方について考える",
-   "one_line": "高校野球でお金をもうける仕組みを禁止するルールを見直し、新しい活用法を考えるべきだという意見のニュースです。",
-   "what": "高校野球におけるお金を稼ぐ活動を一律で禁止する古いルールをやめ、新たな収入を生み出してうまく活用する改革が必要だという議論が伝えられています。",
-   "background": "高校野球はこれまで、学校の教育の一環として行われてきたため、スポーツの大会でビジネスをすることを厳しく制限するルールが長く続いてきました。",
-   "impact": "今すぐ私たちの家計や仕事に影響はありませんが、スポーツとお金の関係や、部活動の運営方法が変わるきっかけになるかもしれません。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "商業利用",
-     "meaning": "スポーツやイベントなどを通じて、お金を稼いだりビジネスをしたりすることです。"
-    },
-    {
-     "word": "旧弊",
-     "meaning": "昔からの古い習慣や、今の時代に合わなくなっている悪いしきたりのことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "54debbaa84a399d1",
-   "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do",
-   "title_original": "CIA chief travels to Moscow for unannounced talks, US media reports",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
-   "region": "海外",
-   "published": "2026-08-25T16:56:20+00:00",
-   "title_ja": "アメリカ中央情報局の長官がロシアへ向かい極秘で話し合い",
-   "one_line": "アメリカの諜報機関のトップがロシアを訪れ、予告なしの話し合いを行ったとアメリカのメディアが伝えています。",
-   "what": "アメリカ中央情報局の長官がロシアへ旅行し、予定が知らされないまま話し合いを行ったと、アメリカのメディアが飛行機の動きのデータなどを確認して報じました。",
-   "background": "アメリカ中央情報局は、国の安全を守るために国内外の情報を集める重要な組織です。異なる国同士の大きな対立がある中で、極秘の話し合いが行われることがあります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、国と国の外交や世界の安全保障の動きに影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "アメリカ中央情報局",
-     "meaning": "アメリカの政府機関の一つで、国の安全を守るために世界中の情報を集める仕事をしています。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "20345bb59584f2e4",
-   "url": "https://www.nikkei.com/article/DGXZQOFL25AYN0V20C26A8000000",
-   "title_original": "欧州国債概況25日 独10年債利回り、低下 北海ブレント原油は一時4%安",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-08-25T16:49:32+00:00",
-   "title_ja": "ドイツの国債の利回りが低下、原油価格も下がる",
-   "one_line": "ドイツの国債の利回りが下がり、原油の価格も一時的に値下がりしました。",
-   "what": "ドイツの10年物の国債の利回りが下がりました。また、北海の原油の価格も一時的に大きく下がりました。",
-   "background": "国債は国がお金を借りるために発行する証書です。利回りは、国にお金を貸したときにもらえる利益の割合のことです。原油はガソリンなどのもとになるもので、世界の売買によって価格が日々変わります。",
-   "impact": "今すぐ私たちの暮らしや買い物が大きく変わるわけではありませんが、世界の経済やお金の動きに影響を与えることがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "国債",
-     "meaning": "国がお金を借りるために発行する証明書のようなものです。買った人は国から利息を受け取ることができます。"
-    },
-    {
-     "word": "利回り",
-     "meaning": "投資したお金に対して、どれだけの利益や利息が戻ってくるかを表す割合のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "99bdbc44ed065544",
-   "url": "https://www.asahi.com/articles/ASV8T4TRRV8TULFA02BM.html",
-   "title_original": "政府、中小農家などへの給付金を検討 消費税率引き下げ対策",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20260825004684_comm.jpg",
-   "region": "国内",
-   "published": "2026-08-25T14:47:18+00:00",
-   "title_ja": "政府が中小規模の農家への給付金を検討、消費税の引き下げへの対策として",
-   "one_line": "消費税率を引き下げる場合の対策として、政府が中小規模の農家にお金を配ることを検討しています。",
-   "what": "政府が、消費税率を引き下げることで売上や収入が減ってしまうかもしれない中小規模の農家に向けて、お金を配る方針を検討していることがわかりました。",
-   "background": "消費税は私たちが買い物をするときに払う税金です。税率が下がると商品の値段が下がりますが、ものを売る農家などの収入の計算や税金の仕組みが変わるため、影響が出ることがあります。",
-   "impact": "農家の収入や、私たちが買う食料品の値段の仕組みに影響する可能性がありますが、まだ検討の段階ですぐに決まるものではありません。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "消費税",
-     "meaning": "私たちが買い物やサービスを受けるときに、商品の値段に上乗せして国に払う税金のことです。"
-    },
-    {
-     "word": "給付金",
-     "meaning": "国や自治体から、特定の条件にあてはまる人や事業者にお金を配る仕組みのことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "038227404fb2492c",
-   "url": "https://mainichi.jp/articles/20260825/k00/00m/010/322000c",
-   "title_original": "立憲、28日に全議員懇談会を開催 中道、公明との合流協議巡り",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2025/07/22/20250722k0000m010023000p/0c10.jpg?1",
-   "region": "国内",
-   "published": "2026-08-25T12:48:14+00:00",
-   "title_ja": "立憲民主党が国会議員を集めて話し合いへ",
-   "one_line": "立憲民主党が、中道の政党や公明党との合流についての話し合いをひらくことになりました。",
-   "what": "日本の政党である立憲民主党が、28日に所属するすべての国会議員を集めて懇談会をひらき、他の政党との合流について話し合うことになりました。",
-   "background": "日本の政治には、政策や考え方の近い議員たちが集まった「政党」というグループがいくつかあります。政党どうしが一緒になることを「合流」と呼び、選挙でより多くの票を集めるためにおこなわれます。",
-   "impact": "今後の日本の政治の仕組みや、選挙での政党の組み合わせに影響を与える可能性がありますが、すぐに私たちの生活が変わるわけではありません。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "ff2c1f76ef46cbc2",
-   "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-   "title_original": "Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108283781-1774564627659-gettyimages-2266129945-International_Gold_Price.jpeg?v=1776689017&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-25T12:42:37+00:00",
-   "title_ja": "金の価格が高値の近くで動きが続く",
-   "one_line": "アメリカの通貨が安くなったことなどから、金の値上がりが続いています。",
-   "what": "金（ゴールド）の価格が、ここ3か月で最も高かった時期に並ぶ高い水準で推移しています。一時的に価格が下がったものの、高い状態が続いています。",
-   "background": "金は世界中で価値が認められている貴重な金属です。世界経済が不安定なときや、お金の価値が下がるときに「安全な資産」として買われやすくなる特徴があります。",
-   "impact": "ジュエリーや時計などの製品の値段が高くなったり、資産を増やすための投資の方法に影響を与えたりすることがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "34c45d5969a5bd92",
-   "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-   "title_original": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353666-1787630982193-gettyimages-2274543143-AFP_B2AJ3KE.jpeg?v=1787631035&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-25T12:42:15+00:00",
-   "title_ja": "中国がアメリカの制裁に備えて進める経済の仕組みづくり",
-   "one_line": "アメリカのドルや金融の仕組みに頼らないための準備を中国が進めています。",
-   "what": "中国はアメリカのドルが必要である一方で、アメリカからの制裁に対抗するため、独自の金融の仕組みづくりを進めています。",
-   "background": "世界の国と国との貿易やお金のやり取りでは、アメリカのお金である「ドル」が中心に使われています。また、世界中の銀行をつなぐ仕組みもアメリカのルールが強く影響しています。そのため、アメリカと仲が悪くなった国は、お金のやり取りができなくなるという制裁を受けることがあります。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、世界の大国同士がどのような仕組みで経済のやり取りをするかによって、将来の貿易や物の値段に影響することがあります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "制裁",
-     "meaning": "ルールや約束をやぶった相手に対して、困らせるような罰を与えることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6cd6d98223843a5e",
-   "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-   "title_original": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/bde04cf97a3ddf798e20b45db767cc0d3ecb0133/572_158_4132_3305/master/4132.jpg?width=140&quality=85&auto=format&fit=max&s=4b39bb1731e6f2cef9bf510c4d57d968",
-   "region": "海外",
-   "published": "2026-08-25T12:40:26+00:00",
-   "title_ja": "イギリス政府が発表した住宅政策と、値上がりが心配される電気・ガス料金",
-   "one_line": "イギリスで住宅の計画が進められる一方、電気やガスの料金がさらに上がる心配が出ています。",
-   "what": "イギリス政府が住宅に関する新しい計画をまとめました。また、電気やガスの料金の上限を決める発表を前に、中東の争いなどの影響でエネルギーの値段が上がり、料金が高くなることが予想されています。",
-   "background": "電気やガスなどのエネルギーは、石油や天然ガスといった燃料を外国から輸入して作ることが多くあります。そのため、世界のどこかで大きな争いなどが起きて燃料が手に入りにくくなると、値段が上がってしまいます。国によっては、暮らしが苦しくならないように料金の上限をルールで決めているところがあります。",
-   "impact": "イギリスの出来事ですが、世界全体で燃料の値段が上がると、日本を含む他の国でも電気やガス、そしてそれらを使って作られる物の値段が高くなる原因につながります。",
-   "genre": "経済",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "エネルギー",
-     "meaning": "電気やガス、ガソリンなど、明かりをつけたり機械を動かしたりするもとになるものです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d658c1602da80842",
-   "url": "https://www.france24.com/en/asia-pacific/20260825-unicef-warns-1-million-afghan-children-at-risk-of-death-from-malnutrition",
-   "title_original": "UNICEF warns 1 million Afghan children at risk of death from malnutrition",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/80882070-a078-11f1-a965-005056bfb2b6/w:1024/p:16x9/AP26049668775222.jpg",
-   "region": "海外",
-   "published": "2026-08-25T12:22:27+00:00",
-   "title_ja": "アフガニスタンの子ども100万人におそれ",
-   "one_line": "国連の機関が、アフガニスタンで栄養が足りない子どもの命が危険にさらされていると警告しました。",
-   "what": "国際連合児童基金（ユニセフ）は火曜日、アフガニスタンで深刻な栄養不足にあるおよそ100万人の子どもたちが、すぐに治療を受けなければ命を落とす危険があると警告しました。病院に入院した子どものおよそ4割が、生後半年未満の赤ちゃんだと伝えられています。",
-   "background": "国際連合児童基金（ユニセフ）は、世界中の子どもたちの健康や命を守るために活動している国連の専門機関です。国や地域によっては、紛争や貧困、災害などの理由で十分な食べ物や医療が手に入らず、深刻な飢えに苦しむ人々がいます。",
-   "impact": "私たちの毎日の生活に直接すぐ変わる影響はありませんが、世界で起きている食糧不足や医療の問題、子どもたちの命を守る支援の重要性を考えるきっかけとなるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "国際連合児童基金（ユニセフ）",
-     "meaning": "世界中の子どもたちの命や健康を守るために、教育や医療などの支援を行う国連の組織のこと。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "bfa9faad96979a67",
-   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
-   "title_original": "How water becomes a weapon of war",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/BTN_Thumbnail_Landscape_V07-1787660369.png?resize=1920%2C1008&quality=80",
-   "region": "海外",
-   "published": "2026-08-25T12:20:37+00:00",
-   "title_ja": "水が争いの武器に使われる問題",
-   "one_line": "パレスチナの泉の水がイスラエル人のプールのために使われており、水が争いの武器になっています。",
-   "what": "パレスチナにある泉の水が、イスラエルの住民が持つプールを満たしているという現状について、水がどのように争いの武器になっているのかを伝えています。",
-   "background": "人間が生きるために水はなくてはならないものです。雨が少ない地域や、川や地下水が限られた場所では、水の奪い合いが大きな問題になりやすくなります。歴史的に中東の地域では、土地だけでなく水資源をめぐる対立が続いてきました。",
-   "impact": "今すぐに私たちの暮らしが変わるわけではありませんが、世界には生活に欠けない水が争いの道具になってしまう深刻な問題があることを知るきっかけになります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "入植者",
-     "meaning": "もともと住んでいた場所とは違う地域に新しく移り住んで生活する人たちのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cf33dd9601cb38db",
-   "url": "https://www.asahi.com/articles/ASV8T3TZPV8TUTFK00BM.html",
-   "title_original": "中道、地方から「合流は困難」の声 公明内には「離脱案」浮上",
-   "source": "朝日新聞 政治",
-   "image": "https://imgopt.asahi.com/ogp/AS20260825003680_comm.jpg",
-   "region": "国内",
-   "published": "2026-08-25T12:09:24+00:00",
-   "title_ja": "政党の合流をめぐる動きと地方の声",
-   "one_line": "中道と呼ばれる政党の間で、グループが一緒になることについて地方から難しいという声が出ています。",
-   "what": "中道と呼ばれる政治のグループで、一緒になることについて地方から「難しい」という意見が出ており、公明党の中では「離脱する」という案も浮上していると伝えられています。",
-   "background": "日本の政治では、考え方が似ている政党同士が一緒になって大きなグループを作ったり、逆に意見が合わずに分かれて新しいグループを作ったりすることがよくあります。選挙で勝ちやすくするために協力するかどうかは、政党にとって大きな問題です。",
-   "impact": "国会での政治の仕組みや、政党同士の協力のしかたが変わることで、これからの法律や政策の話し合い方に影響することがあります。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [
-    {
-     "word": "中道",
-     "meaning": "政治の考え方で、極端な意見を避け、右と左のちょうど真ん中あたりの穏やかなやり方をめざす立場のことです。"
-    },
-    {
-     "word": "公明党",
-     "meaning": "日本にある政党の一つで、これまで多くの選挙で他の政党と協力しながら政治を行ってきた党です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2eefc71fcf1cd05b",
-   "url": "https://www.dw.com/en/will-iran-withdraw-from-nuclear-non-proliferation-treaty/a-78495930?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Will Iran withdraw from nuclear non-proliferation treaty?",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/76505399_6.jpg",
-   "region": "海外",
-   "published": "2026-08-25T12:01:00+00:00",
-   "title_ja": "イランの核兵器に関する条約からの離脱論",
-   "one_line": "イランの議員の間で、長年続く核兵器の国際的な条約からぬける可能性が再び話題になっています。",
-   "what": "イランの議員たちが、何十年も続いている核兵器に関する国際的な条約からぬけるかもしれないという考えを再び示したと伝えています。専門家からは、実際にぬけることよりも、ぬけると脅すことで自分たちの発言力を強めようとしているという見方が出ています。",
-   "background": "核兵器不拡散条約は、世界中に恐ろしい核兵器がこれ以上増えないようにするための大切な国際的な約束です。多くの国が参加し、核兵器を作ったり持ったりしないことをルールとして決めています。",
-   "impact": "世界の安全保障や平和に大きく関わる問題であり、今後の国際社会の話し合いや、世界中の物価や経済への影響にもつながる可能性があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "核兵器不拡散条約",
-     "meaning": "これ以上核兵器を持つ国が増えないようにし、すでにある核兵器を減らすことを目的に作られた、世界規模のルールです。"
-    },
-    {
-     "word": "レバレッジ",
-     "meaning": "自分の立場を有利にするための力や、相手との交渉で優位に立つための影響力のことです。"
-    }
-   ],
    "importance": 4
   }
  ]
