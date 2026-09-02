@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T19:59:01.333971+09:00",
+ "updated_at": "2026-09-03T01:19:43.652135+09:00",
  "genres": [
   "政治",
   "経済",
@@ -711,10 +711,322 @@
   {
    "id": "2078c351685e4b6d",
    "until": "2026-09-07T10:59:01.333971+00:00"
+  },
+  {
+   "id": "fdd1a1e62273c892",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "b33df1a2053b97dc",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "ca8c4ea5dfa47ece",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "aa26639b5cd24232",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "f85d4f9815e079d4",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "8880da76d02caaaa",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "3027150df780ea37",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "d9cf3d352bdc021d",
+   "until": "2026-09-07T16:19:43.652135+00:00"
+  },
+  {
+   "id": "72f33222eb3a4d19",
+   "until": "2026-09-07T16:19:43.652135+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "24c57441cfc38552",
+   "url": "https://www.theguardian.com/politics/2026/sep/02/reform-uk-conference-journalist-ban",
+   "title_original": "Reform UK bans three journalists who have criticised party from its conference",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/50fb7ca485fbb0f581770fc9a6ed07f197e52f0e/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=525beed4d18910d08e08ef714b585a15",
+   "region": "海外",
+   "published": "2026-09-02T15:53:51+00:00",
+   "title_ja": "イギリスの政党が批判的な記者の参加を断る",
+   "one_line": "イギリスの政党「リフォームUK」が、党に批判的な記事を書いた記者たちの集会への参加を認めませんでした。",
+   "what": "イギリスの政党「リフォームUK」が、党や党首のナイジェル・ファラージ氏に対して批判的な報道をしてきた3人のジャーナリストに対し、木曜日から始まる党の大会への取材許可を出さないと伝えました。",
+   "background": "政党とは、同じ政治の考えを持つ人々が集まって作ったグループのことです。政党が開く大会は、これからの政策や方針を話し合う大切な場ですが、どのメディアを入れるのか、誰に取材を認めるのかは、それぞれの政党の判断に任されています。",
+   "impact": "今すぐ私たちの暮らしを変えるものではありませんが、政治家や政党がメディアとどのように向き合うのか、情報の自由に関わる出来事として世界中で注目される話題です。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "ジャーナリスト",
+     "meaning": "世の中の出来事や政治の動きを取材し、記事や番組にして人々に伝える仕事をする人のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "92fb64f7bce0cad6",
+   "url": "https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss",
+   "title_original": "Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26245495851438-1788359929.jpg?resize=1920%2C1435",
+   "region": "海外",
+   "published": "2026-09-02T15:53:33+00:00",
+   "title_ja": "元アメリカ兵の有罪判決取り消しは無効と判断",
+   "one_line": "アメリカの裁判所で、過去の軍の裁判における有罪判決の取り消しについて「無効である」という判断が示されました。",
+   "what": "アメリカの控訴裁判所が、かつてアフガニスタンでの戦争で捕虜となった元アメリカ兵の有罪判決を取り消した判断について、「軍の裁判所だけが判断できるものだった」として無効であるという決定を下しました。",
+   "background": "軍隊には、一般の社会とは異なるルールや「軍法会議」という特別な裁判の仕組みがあります。兵士としての規律を守るため、一般の裁判所とは別の基準でルール違反や罪を裁くことが認められてきた歴史があります。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、国の安全を守る軍隊の中でのルールや、裁判の仕組みがどう扱われるのかという重要な司法の判断に関するニュースです。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "控訴裁判所",
+     "meaning": "はじめの裁判所の判決に不服があるとき、もう一度正しかったかどうかを調べ直すための裁判所のひとつです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f6d93aaa84eaba82",
+   "url": "https://apnews.com/article/trump-coin-america-250-gold-817c62abfcec862b8c1ec622e5809ab4",
+   "title_original": "Heads or tails? $1 coin with Trump’s face and gold finish to go on sale",
+   "source": "AP通信",
+   "image": "https://dims.apnews.com/dims4/default/121f100/2147483647/strip/true/crop/662x662+40+0/resize/100x100!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2Fc4%2F8040c4324b2b83aeac17896c7a88%2Fheadshot-bedayn-jesse-bedayn.png",
+   "region": "海外",
+   "published": "2026-09-02T15:53:02+00:00",
+   "title_ja": "アメリカでドナルド・トランプ大統領の顔が入った1ドル硬貨が発売へ",
+   "one_line": "アメリカの造幣局が、ドナルド・トランプ大統領の顔が描かれた新しい1ドル硬貨を売り出すことになりました。",
+   "what": "アメリカ政府の造幣局が、表面にドナルド・トランプ大統領の顔、裏面にアメリカの国章がデザインされた、金色に輝く新しい1ドル硬貨の販売を始めます。",
+   "background": "アメリカでは、国の記念すべき年や、過去の大統領などをたたえるために、特別なデザインの硬貨が作られることがあります。今回は国ができてから250年がたったことを祝う記念の硬貨として作られました。",
+   "impact": "今すぐ私たちの暮らしやお金の価値が変わるわけではありませんが、国の記念硬貨として世の中に広く出回ることになります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "造幣局",
+     "meaning": "国のお金を作っている場所のことです。"
+    },
+    {
+     "word": "国章",
+     "meaning": "その国を象徴する特別なマークや紋章のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "1df0ccbe91707e43",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
+   "title_original": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-16.41.28-1788363845.png?resize=1200%2C630",
+   "region": "海外",
+   "published": "2026-09-02T15:45:54+00:00",
+   "title_ja": "イスラエルの首相がガザ地区で「撤退しない」と発言",
+   "one_line": "イスラエルのベンジャミン・ネタニヤフ首相が、ガザ地区から部隊を引く計画はないと表明しました。",
+   "what": "イスラエルのベンジャミン・ネタニヤフ首相がガザ地区を訪れ、イスラエル軍はそこから撤退するつもりはないと発言しました。",
+   "background": "中東のガザ地区をめぐっては、長年にわたって激しい争いが続いており、国際社会の間で戦闘を終わらせるための話し合いや停戦に向けた交渉が続けられてきました。",
+   "impact": "今すぐ私たちの生活に直接の変化はありませんが、中東地域の安定や世界の安全保障に大きな影響を与える問題です。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "首相",
+     "meaning": "国を動かす政治のグループ（内閣）のトップの人のことです。"
+    },
+    {
+     "word": "撤退",
+     "meaning": "戦っている場所や占領している場所から、自分の軍隊を引くことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "179764ae773c91d8",
+   "url": "https://www.nikkei.com/article/DGXZQOGN02BMM0S6A900C2000000",
+   "title_original": "円急伸、一時158円台前半 介入・日銀利上げ加速に警戒感",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3543333002092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.23&fp-y=0.34&h=630&w=1200&s=5b1e7e78a16d7fe848688e47f2d449b7",
+   "region": "国内",
+   "published": "2026-09-02T15:42:43+00:00",
+   "title_ja": "外国のお金に対して円の価値が急に上がって158円台に",
+   "one_line": "市場で円の価値が急に高くなり、一時11ドル158円台前半をつける場面がありました。",
+   "what": "外国のお金に対する円の価値が急に上がり、一時は1ドルが158円台の前半まで買われる動きが見られました。",
+   "background": "外国為替市場では、国の通貨の価値が日々変動しています。政府や中央銀行による政策の変更や、通貨の価値が下がりすぎたときに介入することへの警戒感が意識されると、相場が大きく動くことがあります。",
+   "impact": "今すぐ普段の買い物や生活が急変するわけではありませんが、輸入品の値段や海外旅行の費用に影響することがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "円急伸",
+     "meaning": "日本のお金である「円」の価値が、短い時間に急激に高くなることです。"
+    },
+    {
+     "word": "介入",
+     "meaning": "政府や中央銀行が、外国為替の相場を安定させるために市場でお金を売ったり買ったりすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c02add8668e4fad7",
+   "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+   "title_original": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+   "source": "The New York Times",
+   "image": "",
+   "region": "海外",
+   "published": "2026-09-02T15:42:20+00:00",
+   "title_ja": "世界の気温上昇を抑える目標の達成は困難と国連が指摘",
+   "one_line": "国連の新しい報告書で、世界的な温暖化対策の目標を達成できない見通しであることが示されました。",
+   "what": "国連が発表した新しい報告書の中で、地球の気温上昇を一定の範囲に抑えるという世界の目標について、このままでは達成できないと警告されました。",
+   "background": "世界では、地球温暖化による深刻な気候変動を防ぐため、産業革命前からの気温上昇を1.5度以内に抑えようという目標を掲げて、各国が二酸化炭素などの温室効果ガスを減らす取り組みを進めています。",
+   "impact": "今すぐ日々の生活が変わるわけではありませんが、地球全体の気候変動が進むことで、将来の農業や自然環境に大きな影響を及ぼす可能性があります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "目標",
+     "meaning": "目指すべきゴールや数値のことです。"
+    },
+    {
+     "word": "温室効果ガス",
+     "meaning": "二酸化炭素など、地球を温める性質を持つ気体のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "185ae067f26baf90",
+   "url": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
+   "title_original": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02int-iran-nuclear-01-qgcf/02int-iran-nuclear-01-qgcf-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-02T15:41:09+00:00",
+   "title_ja": "イランの核開発の計画を調べるのが難しい状態",
+   "one_line": "国際機関がイランの原子力施設への立ち入りを拒まれていると報告しました。",
+   "what": "国際的な機関の内部報告書によると、イランが検査員を施設に入れることを断っているため、非常に心配されていると伝えられました。",
+   "background": "原子力は発電に使えるだけでなく、兵器の材料にも使われます。そのため、世界中の国々が協力して、危険な使われ方をしないように見張る仕組みが作られています。",
+   "impact": "今すぐ私たちの暮らしやお金の動きが変わるわけではありませんが、世界の安全保障に関わる大切な動きとして注目されています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国際原子力機関",
+     "meaning": "原子力の平和的な利用を進めると同時に、兵器に使われないよう監視する国際的な組織です。"
+    },
+    {
+     "word": "査察",
+     "meaning": "専門家が現場を訪れて、ルールが守られているかや隠し事がないかを自分の目で確かめることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5694df8f7ac8b32a",
+   "url": "https://www.sankei.com/article/20260903-YVHEAW6MNJISDCQVNSTAXQQPRE",
+   "title_original": "「部門またぐ調整に時間」「責任の所在曖昧」 米ウーバーが世界で3300人リストラ",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/GRUMCCSPD5KDJLCUDHEVCMAFQQ.jpg?auth=58b49c7e2f4e55835aa5812b679020bad3a55dec434bfc53dbc21e2878198557&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-02T15:41:08+00:00",
+   "title_ja": "米国の配車サービス会社ウーバーが世界で3300人を削減",
+   "one_line": "ウーバーが組織の効率化や責任の明確化を目指し、大規模な人員削減を発表しました。",
+   "what": "アメリカのウーバーが、さまざまな部署にまたがる仕事の調整に時間がかかっていることや、責任のあり方が分かりにくくなっている問題を解決するため、世界中で3300人の仕事をなくすことを決めました。",
+   "background": "会社が大きくなると、仕事の担当が細かく分かれてしまい、計画を進めるときにたくさんの部署と相談が必要になります。また、うまくいかなかったときに「誰の責任か」がぼやけてしまうことがあります。",
+   "impact": "直接私たちの生活にすぐ影響が出るわけではありませんが、世界的な大企業が組織の仕組みを見直す動きとして注目されます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "リストラ",
+     "meaning": "会社の経営を立て直すために、仕事のやり方を見直したり、働く人を減らしたりすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "57a1d77ee48e1853",
+   "url": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
+   "title_original": "🔴 Live: Trump suggests renaming Hormuz 'Trump Strait'",
+   "source": "France 24",
+   "image": "",
+   "region": "海外",
+   "published": "2026-09-02T15:37:58+00:00",
+   "title_ja": "トランプ氏がホルムズ海峡の名前をめぐり発言",
+   "one_line": "アメリカのトランプ氏がホルムズ海峡の名前の変更について提案しました。",
+   "what": "アメリカのトランプ氏が、中東にある重要な海峡であるホルムズ海峡の名称について、自身の名前をとった「トランプ海峡」に改名してはどうかという考えを示しました。",
+   "background": "ホルムズ海峡は、世界中の船が行き交う非常に大切な海の通り道です。世界のエネルギーや貿易の面で、世界中の国々にとって欠かせない場所となっています。",
+   "impact": "発言によるその場の話題であり、今のところ私たちの暮らしや世界の貿易の仕組みがすぐに変わるわけではありません。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "1e3e48b3323498c4",
+   "url": "https://www.nikkei.com/article/DGXZQOFL02BHN0S6A900C2000000",
+   "title_original": "NYダウ反発で始まる、一時300ドル超高 原油高一服が支え",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3543234002092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.12&fp-y=0.77&h=630&w=1200&s=824407b2e45d551667cfa1c1233e7a44",
+   "region": "国内",
+   "published": "2026-09-02T14:36:51+00:00",
+   "title_ja": "アメリカのニューヨーク株式市場で株価が上がる",
+   "one_line": "アメリカのニューヨーク市場で、株の値段が値上がりして始まりました。",
+   "what": "アメリカのニューヨーク株式市場で、取引が始まってすぐに株の値段が上がり、一時300ドル以上高くなりました。原油の値段の上がり方が落ち着いたことが、株を買う動きを支えました。",
+   "background": "「株式市場」は、会社の持ち分である「株」を売り買いする場所です。世の中の景気が良くなりそうだとみんなが思うと株が買われて値段が上がり、逆に不安が広がると値段が下がります。また、工場を動かしたり物を運んだりするのに欠かせない石油（原油）の値段は、会社のもうけや世の中の物価に大きな影響を与えます。",
+   "impact": "アメリカの株の値段が上がると、日本の株式市場や世界全体の経済の動きにも影響を与えることがありますが、今すぐ私たちの毎日の買い物や家計が直接変わるわけではありません。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "株式市場",
+     "meaning": "会社が資金を集めるために発行した「株」を、投資家たちが売り買いする場所のこと。"
+    },
+    {
+     "word": "原油",
+     "meaning": "地下から掘り出したままで、まだガソリンや灯油などに加工されていない石油のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "57b689d016c89b18",
+   "url": "https://www.nikkei.com/article/DGXZQOUA02APY0S6A900C2000000",
+   "title_original": "物価高に便乗カルテル「厳正対処」 公取委",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3542836002092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.57&fp-y=0.3&h=630&w=1200&s=1fbfdc47edc025be267975851770d384",
+   "region": "国内",
+   "published": "2026-09-02T11:45:33+00:00",
+   "title_ja": "物価高に便乗したカルテルに公正取引委員会が厳正対処へ",
+   "one_line": "モノの値段が上がる波に乗って、企業同士がこっそり価格を相談して決める行為に、公取委が厳しく目を光らせています。",
+   "what": "公正取引委員会は、モノの値段が上がっている状況に便乗して、企業同士が話し合って商品の価格を高く維持するような不正なカルテルに対し、厳しく対処していく方針を示しました。",
+   "background": "カルテルとは、本来はライバル同士であるはずの複数の企業が前もって相談し、商品の値段や売る量を勝手に決めてしまうルール破りのことです。市場の自由な競争が失われるため、禁止されています。",
+   "impact": "企業が不当に高い値段をつけ続けると、私たちの家計の負担が増えてしまいます。こうした不正を取り締まることで、正しい価格で商品が買えるようになります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "カルテル",
+     "meaning": "同じ業界の企業同士が話し合って、商品の値段や売る量をあらかじめ決めてしまうことです。"
+    },
+    {
+     "word": "公取委",
+     "meaning": "市場の正しい競争を守るため、企業がルールを破っていないかを監視する国の組織です。"
+    }
+   ],
+   "importance": 4
+  },
   {
    "id": "9eca360f8320e5a5",
    "url": "https://mainichi.jp/articles/20260902/k00/00m/010/160000c",
@@ -7442,256 +7754,6 @@
     }
    ],
    "importance": 4
-  },
-  {
-   "id": "37a1959888de06ed",
-   "url": "https://www.nikkei.com/article/DGXZQOFD254G30V20C26A8000000",
-   "title_original": "トヨタ、車鋼板4年ぶり値上げ 10月から部品会社向け",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3508127026082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=2ff8342d7a0ae990abc0d08c50494728",
-   "region": "国内",
-   "published": "2026-08-27T07:06:56+00:00",
-   "title_ja": "トヨタ自動車が車に使う鉄の板を４年ぶりに値上げへ",
-   "one_line": "トヨタ自動車が、車を作るのに必要な鉄の板の価格を、１０月から部品会社向けに４年ぶりに引き上げます。",
-   "what": "トヨタ自動車は、車を作るために使う「車鋼板」と呼ばれる鉄の板の価格を、今年の１０月から部品を作る会社に向けて値上げすることを決めました。このような値上げを行うのは、４年ぶりのことです。",
-   "background": "自動車を作るには、たくさんの鉄の板が必要です。自動車メーカーは、鉄をたくさんまとめて鉄鋼会社から買い、それを車の部品を作る会社に分けて提供しています。鉄を作るための材料やエネルギーの値段が世界的に上がると、自動車メーカーが部品会社に渡すときの価格も引き上げられることになります。",
-   "impact": "すぐに新車の値段が上がるわけではありませんが、部品を作る会社にとっては材料費が高くなるため負担が増えます。この状態が長く続くと、将来的に私たちが買う車の価格にも影響する可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "車鋼板",
-     "meaning": "自動車のボディや骨組みを作るために使われる、薄くて強い鉄の板のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ae1baf987a355efa",
-   "url": "https://www.nytimes.com/2026/08/26/world/middleeast/kurdish-militia-syria-disbands.html",
-   "title_original": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/08/26/multimedia/26syria-kurds-military-01-wptl/26syria-kurds-military-01-wptl-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-08-26T19:46:09+00:00",
-   "title_ja": "シリアの武装組織が国軍へ合流へ",
-   "one_line": "シリアで活動していた武装組織が、国の軍に加わることになりました。",
-   "what": "シリアで活動していたクルド人の中心とする武装組織が、これまでの活動を終えて、シリアの国の軍に加わることになりました。",
-   "background": "シリアでは、長い間、国を治める政府と、各地のグループの間で争いが続いてきました。アメリカなどは特定のグループを支援しながら、国の安定をめざしてきました。",
-   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、中東地域の力関係や安全のバランスに影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "武装組織",
-     "meaning": "軍隊のように武器を持って活動するグループのことです。"
-    },
-    {
-     "word": "国軍",
-     "meaning": "その国が正式に持っている軍隊のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "baf2681198553bb9",
-   "url": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
-   "title_original": "Israel-Hamas truce failure ‘point of no return,’ envoy warns",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26238387733561-1787762555.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-08-26T19:31:34+00:00",
-   "title_ja": "ガザ地区をめぐる停戦の話し合いが難航",
-   "one_line": "パレスチナのガザ地区での戦いを止めるための話し合いがうまくいっていません。",
-   "what": "アメリカが提案したガザ地区の平和のための計画について、イスラエルの首相が反対し、パレスチナ側の武装組織が武器を渡すことなどを巡る話し合いが止まっています。",
-   "background": "中東では、イスラエルと、パレスチナのガザ地区を拠点とするハマスなどのグループの間で、長い間激しい戦いが続いています。国際社会が協力して戦いを止めるための話し合いを続けています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界の平和や、石油などの値段や物価を通してお金や暮らしに影響することがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "停戦",
-     "meaning": "戦争や戦いを一時的にやめることです。"
-    },
-    {
-     "word": "首相",
-     "meaning": "国の中の政治を進めるリーダーのことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "948c55113281be4e",
-   "url": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-   "title_original": "UNRWA chief condemns Israeli seizure of East Jerusalem facility",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8f2dd910bb8-1787768281.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-08-26T19:25:04+00:00",
-   "title_ja": "国連のパレスチナ難民救済事業機関トップがエルサレムの施設接収を非難",
-   "one_line": "パレスチナ難民を支援する機関のトップが、イスラエルによる東エルサレムの施設接収を批判しました。",
-   "what": "パレスチナ難民を支える組織のトップが、イスラエルによる東エルサレムの施設が押さえられたことについて、組織を弱めようとする動きだと強く非難しました。",
-   "background": "パレスチナ難民を助けるための国連の機関があり、長年にわたって中東各地で医療や教育などの支援を続けてきました。しかし、イスラエルとその活動をめぐっては、これまでも様々な意見の対立や問題が起きています。",
-   "impact": "今すぐ私たちの暮らしやお金に影響するわけではありませんが、中東地域の安定や、国際的な機関がどのように活動していくのかという問題につながる大切なニュースです。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 4
-  },
-  {
-   "id": "08318f9066c1fdab",
-   "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-   "title_original": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787679622&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-26T19:23:00+00:00",
-   "title_ja": "半導体大手エヌビディアの業績発表",
-   "one_line": "エヌビディアが2027年度の第2四半期決算を発表し、AI向け製品の売上や今後の見通しが注目されています。",
-   "what": "アメリカの半導体企業エヌビディアが、4月から6月までの業績を発表しました。データセンター向け製品の売上や、人工知能を作るためのAI需要のようすが伝えられています。",
-   "background": "企業は3か月ごとに、どれだけ売上があり、どれだけ利益が出たかを発表する決算を行います。特にエヌビディアは、人工知能に欠かせない高性能な半導体で世界をリードしているため、IT業界全体の勢いをはかる目安とされています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界のIT企業がAIにどれだけお金を使っているかを知る手がかりになり、将来の技術や株価に影響を与えます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "決算",
-     "meaning": "会社が一定の期間ごとに、どれだけのお金が入ってきて、どれだけ使ったかを計算して発表することです。"
-    },
-    {
-     "word": "データセンター",
-     "meaning": "インターネット上でたくさんの情報をやり取りしたり、保存したりするための大きなコンピューターが集まっている建物のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c87a7b625e6eb5fd",
-   "url": "https://www.asahi.com/articles/ASV8V5SN9V8VUHBI022M.html",
-   "title_original": "SNS1日2時間に制限 子どもの依存訴訟、メタが2.8兆円で和解",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20260827000275_comm.jpg",
-   "region": "国内",
-   "published": "2026-08-26T19:19:00+00:00",
-   "title_ja": "メタ社、子どものSNS依存訴訟で巨額の和解金",
-   "one_line": "SNSを運営するメタ社が、子どもの依存をめぐる裁判で約2.8兆円の和解金支払いに合意しました。",
-   "what": "アメリカなどで、フェイスブックやインスタグラムを運営するメタ社に対し、子どもがSNSに夢中になりすぎて心身に悪影響が出たとして裁判が起きていました。その裁判で、メタ社が巨額の和解金を支払うことで話し合いがまとまったと報じられています。",
-   "background": "アメリカでは、企業が社会的な問題を引き起こしたとき、被害を受けた人たちが集まって裁判を起こすことがよくあります。裁判長が判決を出す前に、お互いがお金を支払うなどの条件で話し合いによって解決することを「和解」と呼びます。",
-   "impact": "今すぐ日本のルールが直接変わるわけではありませんが、世界中で子どもとスマートフォンの付き合い方や、SNSを運営する会社の責任について考える大きなきっかけになります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "和解",
-     "meaning": "裁判で争っているどうしが、話し合いによってお互いに納得できる条件を決め、裁判を終わらせることです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "972d10a48ef1615d",
-   "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-   "title_original": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-26T19:15:53+00:00",
-   "title_ja": "オープンAIの独自AIチップ開発が及ぼす影響",
-   "one_line": "オープンAIが開発した独自のAIチップが、エヌビディアの製品と競争になるという見方が出ています。",
-   "what": "人工知能の開発を進めるオープンAIが、独自のAIチップを開発しました。テストでは他社の高性能システムに匹敵する性能を示し、IT業界で自分専用のチップを作る動きが広がっていると伝えられています。",
-   "background": "AIを動かすためには、「チップ」と呼ばれる高性能な計算パーツが大量に必要です。これまでは特定の会社が作ったチップを買うことが主流でしたが、AIを開発する企業が自分で使いやすいチップを独自に作る動きが進んでいます。",
-   "impact": "今すぐ私たちのスマホやパソコンの使い方が変わるわけではありませんが、AIを作るための部品を作る会社同士の競争が激しくなり、今後のAI技術の発展や価格に影響を与えます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "インフェレンス",
-     "meaning": "すでに学習を終えた人工知能が、新しいデータを見て実際に判断や答えを出す作業のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8922012b60152958",
-   "url": "https://www.theguardian.com/politics/2026/aug/26/burnham-political-donations-influence-elections-bill",
-   "title_original": "Burnham drops support for political funding cap aimed at curbing mega-donors",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/1bc517e98ca5aeb2e8283a880aa6db994b7aa994/0_0_6406_5126/master/6406.jpg?width=140&quality=85&auto=format&fit=max&s=5112042eb362fcd0bb88acebb2560c67",
-   "region": "海外",
-   "published": "2026-08-26T19:08:20+00:00",
-   "title_ja": "イギリスの政治資金の寄付に上限を設ける計画を見送りへ",
-   "one_line": "イギリスの首相が、政治への大きなお金の寄付に制限をかける方針を取りやめました。",
-   "what": "イギリスの首相が、個人や団体が政治家や政党にできる寄付の金額に上限を設けるルールの支持をやめました。選挙に関する法律の修正案に反対する判断をしたため、党内や支援者から不満の声が上がっています。",
-   "background": "政治活動には多くのお金がかかるため、企業や労働組合、大富豪などの支援者が多額のお金を寄付することがあります。しかし、「お金持ちが政治に強い影響力を持つのはよくない」という意見がある一方で、「労働者の団体などもお金を出せなくなるのは困る」という反対意見もあり、ルール作りは簡単ではありません。",
-   "impact": "イギリス国内の政治の仕組みやお金の集め方に関わる話で、日本への直接の影響はありませんが、政治と大きなお金の関係をどうルール化するかは世界中の国で共通の課題です。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "09b54dbe3fa40de5",
-   "url": "https://www.nikkei.com/article/DGXZQOUB134ZP0T10C26A8000000",
-   "title_original": "三菱自動車、日産と「成果乏しき」10年 市場にホンダや鴻海の出資観測",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3486738021082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=ea1588ae83258dc0f536a92478bfb3ed",
-   "region": "国内",
-   "published": "2026-08-26T19:00:00+00:00",
-   "title_ja": "三菱自動車と日産のこれまでの関係と、今後の変化に注目が集まる",
-   "one_line": "自動車を作る三菱自動車と日産のこれまでの関係について、市場で様々な見方が出ています。",
-   "what": "三菱自動車と日産が一緒に進めてきた取り組みについて、これまでの成果が十分ではなかったという指摘が出ています。また、市場の間では、別の自動車メーカーや他業種の企業が新しく出資するのではないかという見方もささやかれています。",
-   "background": "自動車業界は今、電気自動車の開発や自動運転の技術など、大きなお金と新しい技術が必要になっています。そのため、国や会社の垣根を越えて、複数の自動車メーカー同士が手を取り合ったり、関係を見直したりすることがよく行われています。",
-   "impact": "私たちが車を買うときの値段や、働く人たちの仕事のあり方に関わる可能性がありますが、今すぐ普段の生活が変わるわけではありません。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "0d7cbe7313f6918c",
-   "url": "https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency",
-   "title_original": "Why is Russia deliberately weakening its currency?",
-   "source": "The Economist",
-   "image": "",
-   "region": "海外",
-   "published": "2026-08-26T18:28:55+00:00",
-   "title_ja": "ロシアが自分の国の通貨の価値を下げようとしている理由",
-   "one_line": "ロシアであえて自国の通貨の価値を下げようとする動きがあり、その背景には国の予算の仕組みが関係しています。",
-   "what": "ロシアで、自国の通貨である「ルーブル」の価値があえて弱められているというニュースです。価値が高い強い通貨が、国の予算運営に影響を与えていたと伝えられています。",
-   "background": "国は、外国にものを売ることで得られる収入を税金などの予算の足しにすることがあります。国の通貨の価値が高すぎると、外国から見てその国のものが高く買いにくくなり、輸出で得られるお金が減ってしまうことがあります。",
-   "impact": "今すぐ私たちの暮らしや日本の経済が直接変わるものではありませんが、世界の国々が通貨の価値をどのように調整して国のお金をやりくりしているかを示す動きの一つです。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "通貨",
-     "meaning": "その国の中で、ものやサービスの売り買いに使うお金のことです。国によって名前が違います。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d159b07e5259c6ac",
-   "url": "https://www.nikkei.com/article/DGXZQOFL26BH40W6A820C2000000",
-   "title_original": "ロンドン株26日 小幅反落、一時最高値上回るも買い続かず",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-08-26T17:16:22+00:00",
-   "title_ja": "ロンドン株式市場の株価が少し下がりました",
-   "one_line": "イギリスのロンドン株式市場で、株の値段がきのうより少し下がりました。",
-   "what": "イギリスのロンドン株式市場で、株の値段の平均がきのうよりも少し下がりました。取引の途中では、これまでの最も高い記録を超える場面もありましたが、そのあとに買い手が減って値段が下がりました。",
-   "background": "株式市場は、会社が発行した「株」という証券を売り買いする場所です。たくさんの人が「この会社の将来が楽しみだ」と思って株を買うと値段が上がり、反対に売る人が増えると値段が下がります。",
-   "impact": "イギリスの株価の動きは、まわり回って世界中の経済や、日本の株の値段にも影響をあたえることがあります。今すぐ私たちの家計が大きく変わることはありません。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "株価",
-     "meaning": "会社が発行している「株」という権利の値段のことです。会社の人気や世の中の景気によって、上がったり下がったりします。"
-    }
-   ],
-   "importance": 2
   }
  ]
 }
