@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T05:48:07.824839+09:00",
+ "updated_at": "2026-09-04T12:53:57.392871+09:00",
  "genres": [
   "政治",
   "経済",
@@ -729,10 +729,406 @@
   {
    "id": "08ada737a1fe252b",
    "until": "2026-09-08T20:48:07.824839+00:00"
+  },
+  {
+   "id": "e9ee5f38b5977ba3",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "d4a1d9bb0380a1c2",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "bdfe930fedd4d5d7",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "e68e925b5baf0989",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "35cc6d0e2e87941b",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "0ea558b6777605d1",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "3d28e0730fdb9b8e",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "a1cb2d5bb8553360",
+   "until": "2026-09-09T03:53:57.392871+00:00"
+  },
+  {
+   "id": "b3a90ab922ca32ee",
+   "until": "2026-09-09T03:53:57.392871+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "89a77ae56025dc9e",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260904de48125",
+   "title_original": "株価 値上がり 銘柄を買い戻す動きも",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48125/20260904de48125_E0000023860_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-04T03:50:04+00:00",
+   "title_ja": "東京市場で日経平均株価が値上がり",
+   "one_line": "東京の株式市場で、会社の株を買う動きが広がり、株価が上がりました。",
+   "what": "9月4日の東京株式市場で、日本の代表的な会社の株価の平均を示す「日経平均株価」が値上がりしました。一度売られていた株を買い直す動きなども見られました。",
+   "background": "株は、会社がお金を集めるために発行する券のようなものです。将来の業績への期待や、世界的な景気・為替の動きなどによって売買され、毎日値段が変わります。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、株価が安定して上がると企業の元気が良くなり、将来の給料や景気にも良い影響を与えることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "日経平均株価",
+     "meaning": "日本を代表する225の企業の株価を元に計算した、全体の株の値動きを示す指標。"
+    },
+    {
+     "word": "株式市場",
+     "meaning": "会社の株を売りたい人と買いたい人が集まって取引を行う場所や仕組みのこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5899249d0319838e",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260904de48124",
+   "title_original": "円高さらに加速 1ドル＝155円台前半に",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48124/20260904de48124_E0000023859_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-04T03:47:31+00:00",
+   "title_ja": "為替市場で円高が進み一時1ドル155円台前半に",
+   "one_line": "日本銀行が金利を上げるという予想などから、円を買う動きが強まり、円高が進みました。",
+   "what": "9月4日の外国為替市場で、日本の通貨である「円」を買う動きが進み、一時1ドル＝155円台前半まで円高になりました。日本銀行が金利を上げるペースが早まるという見方などが影響しています。",
+   "background": "外国為替市場では、円とドルのような異なる国の通貨を交換しています。日本銀行が金利を上げると、円を持っている方が利息を得やすくなって得だと考えられ、円を買う人が増えて円高になります。",
+   "impact": "円高になると、海外からの輸入製品や食材の値段が安くなりやすいため、私たちの普段の買い物の負担が減る可能性があります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "外国為替市場",
+     "meaning": "日本の「円」やアメリカの「ドル」など、異なる国の通貨を売買・交換する場所や仕組み。"
+    },
+    {
+     "word": "利上げ",
+     "meaning": "中央銀行が世の中の金利（お金を借りたり預けたりする時の利息の割合）を引き上げること。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "21ca5f6957fcef92",
+   "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+   "title_original": "Stock futures are little changed as traders await August jobs report: Live updates",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353363-17875852502026-08-24t152551z_2065557468_rc215na8fdng_rtrmadp_0_usa-stocks.jpeg?v=1787585353&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-04T03:33:30+00:00",
+   "title_ja": "アメリカの株価が値上がり傾向にあり雇用の発表を待つ",
+   "one_line": "アメリカの株価が、8月の雇用の様子を表す発表を前にして、少しだけ変化している状態です。",
+   "what": "アメリカの株式市場で、主な3つの株価の平均が、今週は値上がりする方向に向かっています。取引をする人たちは、8月のアメリカの雇用の様子をまとめた報告が発表されるのを、注目しながら待っているところです。",
+   "background": "そもそも株価とは、会社の価値や景気の良さを表す目印です。アメリカの雇用の報告は、どれくらいの人が新しく会社に雇われたかなどをまとめたもので、アメリカの景気が良いか悪いかを判断する非常に重要なデータです。この発表内容によって、世界中の取引をする人たちが注目します。",
+   "impact": "日本の株価やお金の価値も、アメリカの景気に大きく影響されます。今すぐ私たちの生活が変わるわけではありませんが、アメリカの雇用の結果によって日本の景気が良くなったり悪くなったりすることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "株価",
+     "meaning": "会社が発行する「株」という証明書の値段のことで、景気の良さなどを表す目印です。"
+    },
+    {
+     "word": "雇用の報告",
+     "meaning": "国の中でどれくらいの人が新しく会社に雇われたかなどをまとめた発表のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7b6d115725e2e1f0",
+   "url": "https://news.yahoo.co.jp/pickup/6594194?source=rss",
+   "title_original": "子が過去最少も 子供服なぜ売れる",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sunaoshitakahisa/02704058/title-1788182890944.jpeg?exp=10800",
+   "region": "国内",
+   "published": "2026-09-04T03:27:24+00:00",
+   "title_ja": "子どもの数が最も少なくなっても子ども服が売れる理由",
+   "one_line": "子どもの数が過去最も少なくなっている中で、子ども服の売り上げが伸びています。",
+   "what": "日本では生まれる子どもの数が過去最も少なくなっていますが、子ども服のお店や企業の売り上げが好調な理由に注目が集まっています。子どもの数が減っているにもかかわらず、なぜ子ども服がよく売れているのか、その背景について関心が高まっています。",
+   "background": "そもそも「少子化」とは、生まれる子どもの数がどんどん減っていくことです。普通は子どもの数が減ると、子ども向けの商品を売る会社は売り上げが減って困るはずです。しかし、子ども一人あたりにかけるお金を増やしたり、品質の良いものを買ったりする傾向があるため、売り上げが伸びることがあります。",
+   "impact": "私たちの暮らしにおいて、子ども服の値段や買い方に変化が出ている可能性があります。今すぐ生活が大きく変わるわけではありませんが、企業の工夫によって、少子化の中でも新しいサービスや商品が生まれる様子を知ることができます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "ca578f337c423c67",
+   "url": "https://www.theguardian.com/environment/2026/sep/04/ev-sales-outpace-petrol-cars-for-first-time-as-australians-dodge-soaring-fuel-costs",
+   "title_original": "EV sales outpace petrol cars for first time as Australians dodge soaring fuel costs",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/b93373f2bada2d54d70054c69386dced5b3b49fc/646_0_6458_5167/master/6458.jpg?width=140&quality=85&auto=format&fit=max&s=930667685a68539ba108ec84606e3112",
+   "region": "海外",
+   "published": "2026-09-04T03:26:43+00:00",
+   "title_ja": "オーストラリアで電気自動車の販売がガソリン車を上回る",
+   "one_line": "オーストラリアで電気自動車の販売数が初めてガソリン車を超え、記録を更新しました。",
+   "what": "オーストラリアで8月に、電気自動車が2万7000台以上売れ、1ヶ月の販売数として新しい記録を作りました。これは新しく売れた車の24.9%にあたり、ガソリン車の販売数を初めて上回りました。ガソリンの値段が高くなったことや、政府が環境に優しい車を応援する政策を進めたためです。",
+   "background": "そもそも電気自動車とは、ガソリンではなく電気を充電して走る、環境に優しい車のことです。世界中の国々が、地球温暖化を防ぐために二酸化炭素を出さない電気自動車を広めようとしています。国によっては、買うときに補助金を出すなどの政策を行って、人々が買いやすくする工夫をしています。",
+   "impact": "すぐに私たちの生活が変わるわけではありませんが、世界中で電気自動車が増えると、地球の環境を守ることにつながります。日本でも将来、ガソリンスタンドが減って充電する場所が増えるなど、車との付き合い方が変わっていく可能性があります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "電気自動車",
+     "meaning": "ガソリンを使わず、電気の力でモーターを回して走る、環境に優しい車のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "8432572081200bdf",
+   "url": "https://www.nytimes.com/article/falkland-islands-trump-uk-argentina-malvinas.html",
+   "title_original": "Argentina Is Ramping Up Its Claim to the Falklands. Here’s What to Know.",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00xp-falklands-lvbc/00xp-falklands-lvbc-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-04T03:07:27+00:00",
+   "title_ja": "アルゼンチンがイギリス領フォークランドの領有権主張を強化",
+   "one_line": "アルゼンチンが領土の所有権主張を強め、アメリカの姿勢が注目されています。",
+   "what": "アルゼンチンのハビエル・ミレイ大統領が、イギリスが管理するフォークランド諸島についての主張を強めています。これに対し、アメリカのトランプ大統領は、この領土問題においてアメリカが長年保ってきた中立的な立場について疑問を投げかけました。",
+   "background": "フォークランド諸島は南米の近くにある島々で、イギリスとアルゼンチンの間でどちらの領土かという争いが続いています。国同士の領土問題では、大国がどちらの味方をするかが政治的な大きな意味を持ちます。アメリカはこれまで、特定の立場をとらない中立の姿勢を続けてきました。",
+   "impact": "今すぐ日本の暮らしが変わるものではありませんが、国同士の領土問題に大国であるアメリカがどう関わるかは、国際的な関係や外交のバランスに影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "領有権",
+     "meaning": "ある土地や島を自分の国の領域として支配し、管理する権利のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2ef54d13030a8ef4",
+   "url": "https://news.yahoo.co.jp/pickup/6594187?source=rss",
+   "title_original": "独VW 5万人追加削減の計画承認",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/4/1d65ea90ea638d226fea908b85859bad7f4e2e7725c90a38644903d4c2526ca2.jpg",
+   "region": "国内",
+   "published": "2026-09-04T02:57:41+00:00",
+   "title_ja": "ドイツの自動車大手フォルクスワーゲンが５万人を削減へ",
+   "one_line": "ドイツの自動車大手フォルクスワーゲンが、５万人の人員を追加で削減する計画を認めました。",
+   "what": "ドイツの自動車メーカーであるフォルクスワーゲンが、従業員をさらに５万人減らす計画を承認したことが分かりました。会社の経営を立て直すため、働く人の数を大きく減らす必要があると判断したとみられます。",
+   "background": "自動車メーカーは、世界中で電気自動車への移行や激しい競争に直面しています。フォルクスワーゲンはヨーロッパを代表する大企業ですが、売れ行きの変化やコストの増加により、これまでのやり方では利益を出し続けることが難しくなり、大規模な人員削減を進めています。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、世界的な大企業がこれほど多くの働く人を減らすことは、世界の自動車業界や経済全体の景気に大きな影響を与える可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "フォルクスワーゲン",
+     "meaning": "ドイツに本社がある、世界でも指折りの規模を持つ大きな自動車メーカーです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "b8687833ab137108",
+   "url": "https://news.yahoo.co.jp/pickup/6594188?source=rss",
+   "title_original": "27年度予算要求 過去最大143兆円",
+   "source": "Yahoo!ニュース 国内",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/4/ad309685da30425dd7d3859ef686629190332d88fd73401e97bf0ab06b1ce980.jpg",
+   "region": "国内",
+   "published": "2026-09-04T02:57:11+00:00",
+   "title_ja": "２０２７年度の予算要求が過去最大の１４３兆円に",
+   "one_line": "国の役所が求めた２０２７年度の予算の総額が、過去最大の１４３兆円になりました。",
+   "what": "国のそれぞれの省庁が、２０２７年度に使うお金として求めた予算要求の合計が、過去最大の１４３兆円に達したことが分かりました。これから政府の中で、本当に必要な使い道かどうかを話し合って金額を調整する作業が行われます。",
+   "background": "国の予算は、国民から集めた税金などを何にどれだけ使うかを決める計画です。毎年、それぞれの役所が「これだけのお金が必要です」と財務省に求めることから始まります。高齢者が増えて医療や年金に必要なお金が増えていることなどが、金額が膨らむ原因になっています。",
+   "impact": "国が使うお金が増えると、私たちの暮らしを支える仕組みが充実する一方で、そのお金をまかなうために将来の税金が増えたり、国の借金がさらに増えてしまったりする心配があります。",
+   "genre": "政治",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "予算要求",
+     "meaning": "国のそれぞれの役所が、次の年度に活動するために必要なお金を財務省に見積もって出すことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "5642939d30d047ec",
+   "url": "https://www.france24.com/en/middle-east/20260904-middle-east-live-south-korea-prepares-for-military-deployment-in-strait-of-hormuz",
+   "title_original": "Middle East live: South Korea prepares for military deployment in Strait of Hormuz",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/44d55ec8-a652-11f1-8684-005056bf30b7/w:1024/p:16x9/000-C6VY4ZR.jpg",
+   "region": "海外",
+   "published": "2026-09-04T02:56:56+00:00",
+   "title_ja": "韓国がホルムズ海峡への軍の派遣を検討か",
+   "one_line": "韓国がホルムズ海峡への軍の派遣を検討していると報じられ、韓国政府は決定を否定しています。",
+   "what": "韓国政府が、船が安全に通れるようにするため、中東のホルムズ海峡に軍の部隊を送ることを検討していると報道されました。韓国政府は派遣を決定した事実は否定しています。また、中東ではイランがアメリカ軍を攻撃するなど緊張が高まっています。",
+   "background": "ホルムズ海峡は、中東から日本や韓国などに石油を運ぶタンカーが通る、世界で最も重要な海の通り道の一つです。しかし、この地域では国同士の対立が続いており、船が安全に通れなくなる恐れがあるため、各国の船が安全に進めるように守ることが課題となっています。",
+   "impact": "今すぐ私たちの暮らしに影響があるわけではありませんが、もしホルムズ海峡の安全が脅かされて石油が届かなくなると、ガソリンや電気の値段が上がるなど、日本の生活にも大きな影響が出る可能性があります。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "ホルムズ海峡",
+     "meaning": "中東にある狭い海峡で、世界中の多くの国が石油を運ぶために利用する非常に重要な海の通り道です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "f3a8bd50a1cade6a",
+   "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko",
+   "title_original": "Argentine leader says oil firms working off Falklands face sanctions",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
+   "region": "海外",
+   "published": "2026-09-04T02:53:07+00:00",
+   "title_ja": "アルゼンチンがフォークランド諸島周辺の石油会社へ警告",
+   "one_line": "アルゼンチンの大統領が、イギリスが治める島々の近くで石油を掘る会社に罰則があると述べました。",
+   "what": "アルゼンチンのハビエル・ミレイ大統領が、イギリスの領土であるフォークランド諸島の近くで許可なく石油を掘る会社に対して、罰則を科すと改めて表明しました。",
+   "background": "フォークランド諸島は、南アメリカの近くにある島々です。現在はイギリスの領土ですが、アルゼンチンも自分の国のものであるとずっと主張しており、過去には両国の間で戦争も起きた歴史があります。",
+   "impact": "今すぐ私たちの暮らしやお金に直接の影響はありませんが、アルゼンチンとイギリスの間の古い領土をめぐる争いが再び注目を集めています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "制裁",
+     "meaning": "ルールをやぶった相手に対して、ペナルティとして不利益なことをすること。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "beed699bbb6e5baf",
+   "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
+   "title_original": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9a1991b6443-1788483985.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-04T02:46:50+00:00",
+   "title_ja": "アメリカ・ミズーリ州の裁判所が選挙区の地図を認めず",
+   "one_line": "アメリカの裁判所が、秋の選挙で使われる予定だった新しい選挙区の地図の差し止めを決めました。",
+   "what": "アメリカのミズーリ州の最高裁判所が、秋に行われる中間選挙で使う予定だった、ドナルド・トランプ氏が支持する新しい選挙区の地図を使うのを禁止する決定を出しました。",
+   "background": "アメリカでは、議員を選ぶ選挙の区割りをめぐって、政党の間で激しい議論や裁判がよく起きます。州の法律や裁判所の判断によって、選挙のルールが直前になって変わることがあります。",
+   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、アメリカの政治の行方を決める重要な選挙の仕組みに影響が出る可能性があります。",
+   "genre": "政治",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "中間選挙",
+     "meaning": "アメリカの大統領の任期の中ごろに行われる、議会の議員を選ぶための大きな選挙。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a852abad5a810db1",
+   "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+   "title_original": "European Union joins U.S.-led 'Operation Economic Outcast' as Iran cries foul",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108357012-17882704522026-09-01t134517z_623833683_rc2danaqf2ox_rtrmadp_0_g20-finance.jpeg?v=1788270470&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-04T02:45:11+00:00",
+   "title_ja": "欧州連合がアメリカ主導の経済政策に参加へ",
+   "one_line": "欧州連合が、アメリカが中心となって進める経済に関する計画への参加を決めました。",
+   "what": "ヨーロッパの国々が集まった欧州連合が、アメリカが主導する経済の仕組みに加わりました。これに対してイラン側は反発しています。",
+   "background": "主要な20の国の財務大臣や中央銀行のトップが集まる会議がアメリカのノースカロライナ州アシュビルで開かれ、世界経済や国際社会のルールについて話し合われました。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、世界の国々同士の貿易やお金のやり取りに影響する可能性があります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "欧州連合",
+     "meaning": "ヨーロッパの国々が経済や政治で深く協力するために作ったグループのこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "171ff14aac713d05",
+   "url": "https://www.france24.com/en/technology/20260904-openai-begins-rollout-of-gpt-6-with-focus-on-cyber-security-safeguards",
+   "title_original": "OpenAI begins rollout of GPT-6 with focus on cyber security safeguards",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/b94eb338-6b17-11f1-a331-005056a90284/w:1024/p:16x9/063-2277319832.jpg",
+   "region": "海外",
+   "published": "2026-09-04T02:44:09+00:00",
+   "title_ja": "オープンＡＩが新しい人工知能の提供を始める",
+   "one_line": "アメリカのオープンＡＩが、安全性を高めた新しい人工知能の仕組みを一部の人向けに届け始めました。",
+   "what": "アメリカの人工知能を開発する会社が、安全への対策をより強くした、これまでで一番パワフルな人工知能の仕組みの提供を木曜日に始めました。",
+   "background": "人工知能とは、人間の頭脳のようにコンピュータが考えたり判断したりする技術のことです。最近はとても賢くなった一方で、悪用されて情報の安全が脅かされる心配も出てきたため、安全を守る仕組みが大切になっています。",
+   "impact": "今すぐ私たちの暮らしや使い方が大きく変わるわけではありませんが、今後のコンピュータ技術の安全性を左右する大切な動きです。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間のように考えたり判断したりできるように、コンピュータに学習させた技術のことです。"
+    },
+    {
+     "word": "サイバーセキュリティ",
+     "meaning": "コンピュータやネットワークを犯罪や不正なアクセスから守るための仕組みや対策のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f19ff000bef51506",
+   "url": "https://www.asahi.com/articles/ASV9352ZSV93ULFA009M.html",
+   "title_original": "「概算ショック」おそれた政権 積極財政元年の予算要求も市場に苦慮",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260904000041_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-04T02:22:06+00:00",
+   "title_ja": "来年度の予算要求をめぐり政府と市場が気をもむ",
+   "one_line": "政府の予算の使い道をめぐり、景気をよくしたい政府と、国の借金を心配する市場の間で調整が続いています。",
+   "what": "政府の来年度の予算に向けた要求をめぐり、予算を多く使いたい政権側と、国の財政の悪化を心配する市場の間で難しい対応が続いています。",
+   "background": "国は毎年、税金などの使い道を「予算」として決めます。景気をよくするためにたくさんお金を使おうとすると、国の借金が増えすぎて将来の負担になるという心配が出てくるため、バランスをとるのが難しいとされています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、国の借金の増え方や税金の使い道を通して、将来の暮らしや景気に影響してきます。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "予算要求",
+     "meaning": "国の機関や役所が、来年度に使いたいお金の金額をまとめて政府にお願いすることです。"
+    },
+    {
+     "word": "積極財政",
+     "meaning": "国が多めにお金を使って景気をよくしようとする経済のやり方のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ff8a38b54f0d33df",
+   "url": "https://www.nikkei.com/article/DGXZQOUB040NT0U6A900C2000000",
+   "title_original": "中小監査法人の合併加速「歓迎」 会計士協会の南会長",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3549686004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.26&h=630&w=1200&s=0bb0d5b5c3ad747d35f423394cd928a2",
+   "region": "国内",
+   "published": "2026-09-04T02:09:40+00:00",
+   "title_ja": "中小の監査法人の合併が進む動きを歓迎と会計士協会が表明",
+   "one_line": "日本公認会計士協会のトップが、小規模な監査法人が合体して大きくなる動きについて歓迎する考えを示しました。",
+   "what": "日本公認会計士協会の会長が、小さな規模の監査法人が一緒になって大きくなる動きについて、よいことだという考えを示しました。",
+   "background": "監査法人とは、会社が出したお金の計算書が正しく作られているかを、専門家の立場からチェックする組織のことです。人手不足などの理由から、小さな会社同士が力を合わせる動きが出ています。",
+   "impact": "今すぐ私たちの買い物や給料が変わるわけではありませんが、企業の数字の安全性がしっかりチェックされることで、安心して会社にお金を預けられる環境につながります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "監査法人",
+     "meaning": "会社が公表する決算書などの数字が正しいかどうかを、専門家の目で厳しくチェックする会社の組織のことです。"
+    }
+   ],
+   "importance": 2
+  },
   {
    "id": "e1a7100c9fae103f",
    "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
@@ -7363,360 +7759,6 @@
     }
    ],
    "importance": 2
-  },
-  {
-   "id": "b689bf4dbe248db1",
-   "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
-   "title_original": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-nepal-tunnels-kpqh/29int-nepal-tunnels-kpqh-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-08-29T20:07:50+00:00",
-   "title_ja": "ネパールの洪水で取り残された労働者の救助活動",
-   "one_line": "ネパールの洪水現場で、取り残された多くの作業員を助けるため、トンネルを掘る救助活動が行われています。",
-   "what": "ネパールで起きた大きな洪水の後、現場の作業員が多く取り残されたため、軍などがトンネルを掘るなどして救出しようと懸命な活動を続けています。",
-   "background": "災害などで人が建物や地下などの逃げ場のない場所に閉じ込められた場合、軍や専門の救助チームが機材を使って穴を掘るなど、危険を伴う過酷な救助作業にあたります。",
-   "impact": "日本での生活に直接の変わりはありませんが、世界の国々で起きている災害や救助の様子を伝えるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "7a9529a795cbfb83",
-   "url": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
-   "title_original": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/c2ccbe52fb2b78770e836c26c0ceb37399a0822f/390_0_5918_4737/master/5918.jpg?width=140&quality=85&auto=format&fit=max&s=42485fa17ae828d2926fc0c19212a1d3",
-   "region": "海外",
-   "published": "2026-08-29T20:00:38+00:00",
-   "title_ja": "オーストラリアの会社の業績から見えた人々の暮らしの変化",
-   "one_line": "物の値段が上がる中で、オーストラリアの人々が買うものやお店の売り方が変わってきています。",
-   "what": "オーストラリアの会社の決算発表から、人々の買い物の変化が明らかになりました。ピザなどの買い物が減る一方で、ダイエットのための薬や、そっくりな安い商品が人気を集めています。",
-   "background": "企業は年に数回、どれだけ売れていくらもうかったかという「業績」をみんなに発表します。この発表を見ることで、今の社会で何が売れていて、人々がどんなことに悩んでいるのかを知ることができます。",
-   "impact": "外国の出来事ですが、世界中の人々が物の値上がりにどう対応しているかを知るヒントになり、日本の私たちの買い物や企業の動きを考える参考にもなります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "デュプ",
-     "meaning": "有名ブランドの製品に似せて作られた、手頃な値段のノーブランド品やそっくりな商品のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "12a844011185fc44",
-   "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-   "title_original": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-08-29T19:55:30+00:00",
-   "title_ja": "新しい技術やインターネットへの心配が高まる",
-   "one_line": "AIやSNSに対する不安や批判が強まり、選挙の争点にもなっています。",
-   "what": "新しいコンピュータ技術である人工知能や、インターネット上の交流サービスに対して、社会的な不安や不満が高まっています。大きな企業がトラブルの解決に向けて和解するなど、技術のあり方を見直す動きが広がっています。",
-   "background": "インターネットやスマートフォンの普及により、私たちは多くの情報を得られるようになりましたが、同時に偽情報の拡散や、個人のデータが勝手に使われる問題などが起きています。また、AIの開発には大量の電気が必要なことも心配されています。",
-   "impact": "私たちが普段使っているインターネットやスマートフォンの仕組みや安全性が、法律やルールによって大きく見直されるきっかけになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "人工知能",
-     "meaning": "人間の頭脳のように考えて、文字の読み書きや絵の作成などをコンピュータができるようにした技術のこと。"
-    },
-    {
-     "word": "SNS",
-     "meaning": "インターネットを通じて、世界中の人たちが文字や写真、動画を投稿してやり取りできるサービスの仕組み。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3d2fbaf285250c0f",
-   "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo",
-   "title_original": "Former Ecuadorian president imprisoned for corruption",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/e3ac7010-a3d0-11f1-b109-879e35c24276.jpg",
-   "region": "海外",
-   "published": "2026-08-29T19:44:54+00:00",
-   "title_ja": "エクアドルの元大統領が汚職の罪で刑務所へ",
-   "one_line": "外国の企業から不正にお金を受け取ったとして、元大統領が収監されました。",
-   "what": "南アメリカにあるエクアドルの元大統領が、発電所の建設工事をめぐって外国の企業から不正なお金を受け取ったとして、刑務所に入れられました。元大統領はこの不正を否定しています。",
-   "background": "国を率いるリーダーや高い地位にある人が、仕事の契約を有利にする見返りとして企業から個人的にお金を受け取ることは、政治の信頼を大きく揺るがす重大な問題とされています。",
-   "impact": "遠い国の出来事ですが、世界の政治や国のリーダーによる不正を防ぐ仕組みについて考えるきっかけになります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "汚職",
-     "meaning": "政治家や役人が、自分の地位や権限を利用して不正にお金や品物を受け取る行為のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1e5907fce3c78541",
-   "url": "https://mainichi.jp/articles/20260829/k00/00m/040/212000c",
-   "title_original": "ハワイ、韓国…異例の福岡県「議連補助金」大半は海外旅費に",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/08/29/20260829k0000m040211000p/0c10.jpg?1",
-   "region": "国内",
-   "published": "2026-08-29T19:31:03+00:00",
-   "title_ja": "福岡県の議員連盟が補助金の大半を海外への旅費に使う",
-   "one_line": "福岡県の議員連盟に配られた補助金の大半が、海外旅行の費用に使われていたことがわかりました。",
-   "what": "福岡県の議員連盟というグループが受け取った補助金のうち、大部分がハワイや韓国などへ行くための海外旅費に使われていたことが伝えられています。",
-   "background": "そもそも議員連盟とは、特定の課題について話し合ったり勉強したりするために、所属する政治家たちが国や地方自治体の中でつくるグループのことです。また補助金とは、特定の活動を応援するためにお金が配られる仕組みです。",
-   "impact": "税金から出ているお金がどのように使われているのか、適正だったのかどうかが問題として見直されるきっかけになります。",
-   "genre": "政治",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "補助金",
-     "meaning": "国や地方自治体などが、特定の活動や事業を応援するためにお金を配る仕組みのこと。返さなくてよい場合が多いです。"
-    },
-    {
-     "word": "議員連盟",
-     "meaning": "所属する政党を超えて、特定の政策や課題の勉強・解決を目指す政治家たちのグループのこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7b87e80f2cb2d688",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260829de47171",
-   "title_original": "ホンダと日産「SDV」で基本ソフト共同開発など協業 近く合意へ",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47171/20260829de47171_E0000019519_1_l.jpg",
-   "region": "国内",
-   "published": "2026-08-29T17:33:50+00:00",
-   "title_ja": "ホンダと日産、次世代の車で協力へ",
-   "one_line": "ホンダと日産自動車が、車の頭脳となる基本ソフトの共同開発で近く合意します。",
-   "what": "ホンダと日産自動車の2つの会社が、インターネットをつうじて性能を新しくできる次世代の車「SDV」について、車の頭脳にあたる基本ソフトを一緒に開発することで近く合意することになりました。",
-   "background": "車は今、電気で動くことや、自動で運転する技術が進むなど、大きな変化のなかにあります。特に「SDV」と呼ばれる車は、パソコンやスマートフォンのように、あとからプログラムを書き換えて機能を高めることができるため、開発にはとても大きなお金と時間がかかります。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、日本の自動車会社が力を合わせることで、将来的に安全で便利な車が作られやすくなることが期待されます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "SDV",
-     "meaning": "インターネットなどをつうじてソフトウエアを更新し、あとから性能や機能を新しくできる次世代の車のことです。"
-    },
-    {
-     "word": "基本ソフト",
-     "meaning": "パソコンやスマートフォン、車などを動かすための、もっとも基本となる仕組みやプログラムのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "22693d410d45e005",
-   "url": "https://www.nikkei.com/article/DGXZQOUA252Z10V20C26A8000000",
-   "title_original": "27年度予算、31日に概算要求締め切り 成長・危機管理投資に上限なし",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3509710027082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=5283bf6f0e6a643f37d55a1fe504bf61",
-   "region": "国内",
-   "published": "2026-08-29T17:00:00+00:00",
-   "title_ja": "来年度の予算に向けた要求の締め切り",
-   "one_line": "国が来年度に使うお金の計画づくりで、それぞれの役所がいくら使いたいか希望を出す締め切りが31日に迫っています。",
-   "what": "国が2027年度に使うお金の計画（予算）を作るため、それぞれの役所がどれくらいのお金を必要としているかを計算して、国に求めるとりまとめの締め切りが31日にむかえます。今回は、経済の成長や危険への備えに関する投資には上限を設けずに要求できるルールになっています。",
-   "background": "国の予算は、国会が決める1年間の大きなお金の計画です。春ごろからそれぞれの役所が必要な金額を計算し、夏にだいたいの希望をまとめて、秋から年末にかけて国全体でいくらにするかを話し合って決めます。",
-   "impact": "来年度に国がどんなことに力を入れるのかが決まる最初の一歩です。私たちの税金がどのように使われるかにつながる、とても大切な仕組みです。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "予算",
-     "meaning": "国や会社などが、一定の期間にどれだけのお収入があって、何にどれだけのお金を使うかという計画のことです。"
-    },
-    {
-     "word": "概算要求",
-     "meaning": "次の年度に向けて、それぞれの役所が「これくらいのお金が必要です」と国におおよその金額を申し出ることです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "aebe8d6050f62028",
-   "url": "https://apnews.com/article/mideast-iran-israel-palestinians-august-29-2026-5e7021c30aa5d6e327a3578282a7cb07",
-   "title_original": "Israeli strikes and fire kill 3 Palestinians in Gaza, and other Middle East news",
-   "source": "AP通信",
-   "image": "https://dims.apnews.com/dims4/default/6407ee7/2147483647/strip/true/crop/7197x4796+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F24%2F3ba9370b75f4355a82ca3c319544%2Fc6301168442a46eb83921d9c97c14836",
-   "region": "海外",
-   "published": "2026-08-29T16:23:01+00:00",
-   "title_ja": "イスラエルの攻撃でパレスチナ人3人が死亡",
-   "one_line": "イスラエル軍の攻撃や銃撃により、ガザ地区でパレスチナ人3人が命を落としました。",
-   "what": "イスラエル軍による攻撃や銃撃によって、パレスチナ人の3人が死亡しました。中東地域では戦闘や緊張の状態が続いています。",
-   "background": "中東では、イスラエルと周辺の地域の間で長年にわたり対立や紛争が続いています。ガザ地区はパレスチナの土地の一つで、これまでも激しい戦闘や衝突が繰り返し起きている場所です。",
-   "impact": "日本にすぐに直接の影響が出るわけではありませんが、世界の平和やエネルギーの値段などに影響を与えることがあります。今後の現地の動きに注意深く見守る必要があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 4
-  },
-  {
-   "id": "d6cc1ed472247f48",
-   "url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Russian-American heads Trump's planned Caucasus trade route",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/78550729_6.jpg",
-   "region": "海外",
-   "published": "2026-08-29T16:20:00+00:00",
-   "title_ja": "アルメニアとアゼルバイジャンを結ぶ貿易の道",
-   "one_line": "計画されているアルメニアを通る貿易の道を、ロシア出身の人物が率いることになりました。",
-   "what": "アゼルバイジャンとナヒチェバンをつなぐ、アルメニアを通る新しい貿易の道に関連する投資ファンドのトップに、ロシア出身の実業家が就任しました。",
-   "background": "国と国の間では、お互いの荷物をスムーズに運んだり商売をしたりするために、特別な「貿易の道」や通路が計画されることがあります。中央アジアやコーカサスと呼ばれる地域は、ロシアやヨーロッパ、アジアを結ぶ重要な場所です。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、世界中の貿易や物の流れ、国と国の関係に影響を与える大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "投資ファンド",
-     "meaning": "多くの人や会社から集めたお金をまとめて、会社や事業に投資して大きくし、利益を分け合う仕組みのこと。"
-    },
-    {
-     "word": "実業家",
-     "meaning": "商売や会社経営などのビジネスを実際に行っている人のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "738419a924fe38df",
-   "url": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
-   "title_original": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – latest updates",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/81756ddc6447e58df37274f52fe2c34e1a22c386/746_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=0f9f81fdf1407fead34e90475ec88356",
-   "region": "海外",
-   "published": "2026-08-29T16:19:08+00:00",
-   "title_ja": "ネパールとチベットで大規模な洪水が発生",
-   "one_line": "ネパールとチベットの洪水で多くの人が行方不明になり、救助活動が行われています。",
-   "what": "ネパールとチベットの国境付近などで大きな洪水が発生しました。行方不明になった人は約3000人にのぼり、ネパール政府は近隣の国々から専門の救助隊の支援を受けて捜索や復旧を進めています。",
-   "background": "地球の気候の変化や大雨などによって、世界各地で川の氾濫や土砂崩れなどの自然災害が起きることがあります。国境をまたぐ大きな災害では、被害を受けた国だけで対応するのが難しいため、まわりの国が助け合うことがよくあります。",
-   "impact": "今すぐ日本での生活に直接の変わりはありませんが、世界規模の自然災害や気候の問題、国同士の助け合いについて考えるきっかけになります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "復旧",
-     "meaning": "災害などで壊れた建物や道路などを、もとの状態に戻すこと。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "af10673252741d66",
-   "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
-   "title_original": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-   "region": "海外",
-   "published": "2026-08-29T16:15:56+00:00",
-   "title_ja": "アメリカがベネズエラの石油管理で合意",
-   "one_line": "アメリカとベネズエラのあいだで、大量の石油をアメリカが管理する歴史的な合意が結ばれました。",
-   "what": "アメリカのトランプ大統領が、ベネズエラにある莫大な量の石油をアメリカが管理する取り決めについて、「歴史的な合意だ」と発表しました。ベネズエラの暫定大統領も、この珍しい取り決めが国の経済を立て直す助けになると話しています。",
-   "background": "ベネズエラは世界でもトップクラスの石油が眠る国です。しかし、政治の混乱やアメリカとの対立などによって、国の経済が長年とても厳しい状態になっていました。石油は世界中の車や工場を動かすエネルギーとして、非常に大切な資源です。",
-   "impact": "今すぐ私たちの生活がどうこう変わるわけではありませんが、世界の石油の動きが変わることで、ガソリン代や電気代などの値段に影響が出る可能性があります。",
-   "genre": "国際",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "暫定大統領",
-     "meaning": "国のリーダーが急にいなくなったりしたときなどに、次の正式なリーダーが決まるまでのあいだ、代わりに国を治める人。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c32b12b1672a83f9",
-   "url": "https://mainichi.jp/articles/20260829/k00/00m/010/228000c",
-   "title_original": "中道、分裂の公算大 公明出身議員の離脱を調整 31日に結論へ",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/08/28/20260828k0000m010395000p/0c10.jpg?1",
-   "region": "国内",
-   "published": "2026-08-29T15:53:10+00:00",
-   "title_ja": "中道政党が分裂へ、公明党出身の議員が離脱を調整",
-   "one_line": "中道の政治のグループから、公明党の出身の議員たちが離れて別の道を進むことについて話し合われています。",
-   "what": "中道の政治のグループについて、公明党の出身である議員たちがグループから離れるための調整を行っており、三十一日に結論を出す予定です。",
-   "background": "日本の政治では、考え方が似ている政党や議員たちが集まって、大きなグループを作ったり協力したりすることがあります。どのようなメンバーで活動するかは、政党のまとまりや協力関係を大きく左右します。",
-   "impact": "今すぐ私たちの暮らしや家計に直接大きな変化があるわけではありませんが、これからの政治の話し合いや法律を作る時の仕組みに影響することがあります。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "f12e0cb7ce8b307c",
-   "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
-   "title_original": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28Iceland-Europe-vjgq-zgbj/28Iceland-Europe-vjgq-zgbj-mediumSquareAt3X-v2.jpg",
-   "region": "海外",
-   "published": "2026-08-29T15:32:21+00:00",
-   "title_ja": "アイスランドなどが欧州連合への加盟を検討",
-   "one_line": "かつては人気が心配された欧州連合ですが、アイスランドなどが新しく加わることを考えています。",
-   "what": "アイスランドなどの国々が、欧州連合という大きなまとまりのメンバーに加わることについて考えています。",
-   "background": "ヨーロッパの国々が、お互いの国同士で貿易をしやすくしたり、同じルールで協力したりするために作った大きなグループを欧州連合といいます。多くの国が加わることで、お互いの経済や結びつきを強くする仕組みになっています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、ヨーロッパの国々の結びつきが強くなると、日本との貿易や世界全体の経済の動きに影響することがあります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "欧州連合",
-     "meaning": "ヨーロッパの国々が手をつなぎ、お互いの経済や政治で協力し合うための大きなグループのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5cf9c84c3416d2c8",
-   "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-   "title_original": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a92f0855d931-1788014725.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-08-29T15:25:43+00:00",
-   "title_ja": "ガザ地区へのイスラエル軍の攻撃で病院倉庫に被害",
-   "one_line": "ガザ地区でのイスラエル軍の攻撃により、病院の物資を保管する倉庫などが被害を受けました。",
-   "what": "ガザ地区でイスラエルの攻撃があり、二人が亡くなりました。また、病院で使うものを集めておく倉庫も攻撃を受けました。",
-   "background": "中東のガザ地区周辺では、イスラエルと現地の勢力の間で激しい武力衝突が続いています。病院やその周辺の施設は、人々の命を支える大切な場所ですが、争いが起きると大きな被害を受けることがあります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、中東での争いが激しくなると、世界のエネルギーの値段や安全保障に影響することがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "ガザ地区",
-     "meaning": "中東にある、多くのパレスチナ人が暮らしている狭い地域のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "84da6b2ab6d1087e",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260829de47184",
-   "title_original": "ウクライナ首都近郊で37人死亡 ロシア軍攻撃で弾薬爆発か",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
-   "region": "国内",
-   "published": "2026-08-29T14:47:18+00:00",
-   "title_ja": "ウクライナの首都近郊で爆発があり37人死亡",
-   "one_line": "ウクライナの首都の近くで爆発が起き、多くの人が亡くなりました。",
-   "what": "ウクライナの首都キーウの近くで28日、ロシア軍の無人機による攻撃のあとで爆発が起き、地元当局によると37人が死亡しました。ウクライナのゼレンスキー大統領は、住宅の近くに置いてあった弾薬が爆発した可能性があるとしています。",
-   "background": "ウクライナとロシアは、2022年から軍事的な衝突を続けています。ロシア軍はウクライナのさまざまな場所を攻撃しており、ウクライナ側も防衛を続けています。こうした中で、民間人が暮らす住宅地の近くにも危険が及ぶ状況が続いています。",
-   "impact": "私たちの毎日の生活にすぐに影響が出るわけではありませんが、世界の平和や安全が揺らぐニュースであり、今後の国際情勢の動きに注意が必要です。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "無人機",
-     "meaning": "人が乗らずに、遠くからの操作や自動で飛んで偵察や攻撃などを行う飛行機のことです。"
-    },
-    {
-     "word": "弾薬",
-     "meaning": "鉄砲や大砲などで使われる、弾丸や火薬などの総称です。"
-    }
-   ],
-   "importance": 4
   }
  ]
 }
