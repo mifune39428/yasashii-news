@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T05:45:57.590653+09:00",
+ "updated_at": "2026-09-10T13:02:18.149745+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,58 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "cce566d72bb32a92",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "7bbb137f1c82c454",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "d676b589579c90f8",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "463b71151057cb65",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "f7340ddd7c9f79ee",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "5f613b2576130cbb",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "963ce67d974f420b",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "936e3d2cdae49db9",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "229897dd398f404e",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "911a2d5d69603ac6",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "4af3545b0a9f7c85",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "45c09f5d7bcae663",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
-  {
-   "id": "5a7448aefd325504",
-   "until": "2026-09-10T03:52:05.465885+00:00"
-  },
   {
    "id": "f8f72abe9c3dc8ce",
    "until": "2026-09-10T10:19:32.232112+00:00"
@@ -826,10 +774,495 @@
   {
    "id": "6daa6d462bb2eba7",
    "until": "2026-09-14T20:45:57.590653+00:00"
+  },
+  {
+   "id": "ae8dfe69073c5352",
+   "until": "2026-09-15T04:02:18.149745+00:00"
+  },
+  {
+   "id": "d5cbcc9076412462",
+   "until": "2026-09-15T04:02:18.149745+00:00"
+  },
+  {
+   "id": "542816bb37f92936",
+   "until": "2026-09-15T04:02:18.149745+00:00"
+  },
+  {
+   "id": "a5a3282da579e692",
+   "until": "2026-09-15T04:02:18.149745+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "794d151161e56338",
+   "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+   "title_original": "Australia politics live: new head of public sector union announced; Labor too slow on DV action, poll says",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/aa9f0c5f02ef2a678d0d8f94da0a0bb0d0f81c4a/720_0_5493_4394/master/5493.jpg?width=140&quality=85&auto=format&fit=max&s=e34cbe940c30bba27c0afdb93937a585",
+   "region": "海外",
+   "published": "2026-09-10T03:41:18+00:00",
+   "title_ja": "オーストラリア政府、違法なタバコを取り締まる新しい法律へ",
+   "one_line": "オーストラリア政府が、税金を払っていない違法なタバコを取り締まるため、新しい法律をつくろうとしています。",
+   "what": "オーストラリアで、ルールを守らない違法なタバコの売買を取り締まる新しい法律が導入されることになりました。国境での検査や、お店での売り方を厳しくして、犯罪に関わる人を罪に問いやすくする狙いがあります。",
+   "background": "国は、タバコに高い税金をかけることで国の収入にしたり、健康への影響を抑えようとしたりしています。しかし、その高い税金を逃れるために、密輸されたり隠れて売られたりする「裏市場」のタバコが問題になることがあります。",
+   "impact": "今すぐ日本の私たちの生活が変わるわけではありませんが、世界各国で税金を逃れる違法な商品の取り締まりが強化されている動きの一つです。",
+   "genre": "国際",
+   "category": "その他",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "acb0e934fc07c06c",
+   "url": "https://news.yahoo.co.jp/pickup/6594841?source=rss",
+   "title_original": "中部電力が過大徴収 12億円返還へ",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/10/46246e538587e7926571914d6b113ecabbe827ebf49a96161bd2412cc70ade6a.jpg",
+   "region": "国内",
+   "published": "2026-09-10T03:35:56+00:00",
+   "title_ja": "中部電力が電気料金の過大徴収を発表、12億円を返還へ",
+   "one_line": "中部電力が電気料金を多く取りすぎていたため、合わせて12億円をお客さんに返すことになりました。",
+   "what": "中部電力が、これまでにお客さんから電気の代金を本来よりも多く受け取っていたことが分かりました。会社側は、多くもらいすぎていた分を合わせるとおよそ12億円になり、お客さんに返金する手続きを進めるとしています。",
+   "background": "電気やガスなどのエネルギーを届ける会社は、国が決めたルールや計算方法に沿って、お客さんから料金を受け取っています。正しく計算されなかったり、間違いが見つかったりした場合には、会社が責任を持って正しい金額に直す仕組みになっています。",
+   "impact": "中部電力から電気を買っている家庭や会社のうち、多く払っていた対象の人は、お金が返ってくるなどの対応が行われます。私たちの日々の暮らしでは、契約している会社のこうした発表に注意を払うことが大切です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "f04ad6ea8ad27527",
+   "url": "https://news.yahoo.co.jp/pickup/6594840?source=rss",
+   "title_original": "「心中」用語を変更 国の専門委",
+   "source": "Yahoo!ニュース 国内",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/10/4df1503be7afa8f2ff90c5a5f6913b523fff323e1b0fa8b38c7e51b46841b985.jpg",
+   "region": "国内",
+   "published": "2026-09-10T03:26:17+00:00",
+   "title_ja": "「心中」という言葉を警察が使うのをやめる方向へ",
+   "one_line": "警察が事件の記録などで「心中」という言葉を使わないよう見直す方針を決めました。",
+   "what": "国の専門委員会が、警察が事件の書類などで使ってきた「心中」という言葉を見直すよう求めました。今後は使わない方向で進められます。",
+   "background": "そもそも「心中」は、もともとはお互いに合意して命を絶つことを指す言葉でした。しかし、家族の間で起きた事件などで使われると、子どもが巻き込まれていても「全員が納得していた」という誤った印象を周りに与えてしまうという意見がありました。そのため、言葉の使われ方が問題視されてきました。",
+   "impact": "今すぐ私たちの暮らしやお金の仕組みが直接変わるわけではありません。しかし、事件や事故を伝えるときの言葉がより正確になり、被害にあった人や家族の気持ちに配慮されるようになります。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "専門委",
+     "meaning": "特定の難しい問題について、専門家の立場から話し合って意見をまとめるために作られた集まりのことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "7cba83bd5a1bcd31",
+   "url": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
+   "title_original": "Stock futures are little changed as traders brace for wholesale inflation report: Live updates",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353951-1787671978491-Traders-20260825-AS-PRESS-4.jpg?v=1787672206&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-10T03:17:36+00:00",
+   "title_ja": "アメリカの株の先行きと物価の発表を前に様子見の動き",
+   "one_line": "アメリカの株取引の先行きを見る人たちが、物価の発表を前にして大きな動きを控えています。",
+   "what": "アメリカの株式市場で、今後の株価の動きを示す数字があまり変わりませんでした。これは、その週に発表される予定の物価のデータや、原油の値段の上がり下がりをみんなが気にしているためです。",
+   "background": "そもそも物価のデータは、国全体のモノやサービスの値段がどれくらい上がったり下がったりしているかを示す大切な数字です。この結果によって、国の中央銀行が金利をどう変えるかが決まるため、投資家たちがとても注目しています。",
+   "impact": "今すぐ日本の私たちの生活が直接変わるわけではありません。しかし、アメリカの物価や株の動きは、世界の経済や日本の株価、円の価値にも大きな影響を与えるため、世界中の人が結果を気にしています。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "インフレ",
+     "meaning": "モノやサービスの値段（物価）が全体的に上がっていく状態のことです。"
+    },
+    {
+     "word": "原油",
+     "meaning": "ガソリンや灯油などのもとになる、地下からくみ上げたままの石油のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f6070d53fb0cda83",
+   "url": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+   "title_original": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-04-21T114147Z_1363276551_RC2NTKAU10KA_RTRMADP_3_ISRAEL-PALESTINIANS-MEMORIAL-DAY-1786372140.jpg?resize=1920%2C1436",
+   "region": "海外",
+   "published": "2026-09-10T03:14:52+00:00",
+   "title_ja": "イスラエル首相が新聞社を訴える方針を発表",
+   "one_line": "イスラエルの首相が、事実に反する報道をされたとして新聞社を裁判に訴える方針を明らかにしました。",
+   "what": "イスラエルの首相が、アラブ首長国連邦の指導者から過去の攻撃についての警告を事前に受けていたと報じた新聞社に対し、裁判を起こすと発表しました。首相はこの報道内容を否定しています。",
+   "background": "そもそもイスラエルと周辺の国や組織の間では、過去に大きな衝突や攻撃が起きており、その時に関係者がどのような情報を知っていたのかは、国や政治の責任をめぐる大きな問題として注目されています。",
+   "impact": "今すぐ私たちの暮らしに直接影響するわけではありませんが、中東地域の政治や安全保障に関わる重要なニュースとして、世界の国々から見守られています。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "首相",
+     "meaning": "国の中の政治を行う仕事の中心となる人のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "62cd48249606c098",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260910de49459",
+   "title_original": "株価、原油先物価格の上昇を背景に値下がり",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49459/20260910de49459_E0000027507_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-10T03:13:56+00:00",
+   "title_ja": "原油の値上がりが影響し東京株式市場の株価が下がる",
+   "one_line": "原油の値段が上がったことで、日本の株価が値下がりする動きが見られました。",
+   "what": "10日の東京株式市場で、日経平均株価が値下がりしました。アメリカとイランの間の緊張が高まり、原油の先物価格が上がったことが主な原因です。",
+   "background": "株価は、その会社の業績だけでなく、世界中の出来事や資源の値段にも左右されます。特に、工場を動かしたり物を運んだりするのに欠かせない原油の値段が変わると、企業の利益に大きく影響するため、株の売買に結びつきます。",
+   "impact": "今すぐみなさんの生活が変わるわけではありませんが、原油の値上がりは長い目でみるとガソリンや電気代、さまざまな商品の値段に影響することがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "原油の先物価格",
+     "meaning": "これから将来の決まった時期に取引するための、石油の値段のことです。世界の情勢によって値段が大きく変わります。"
+    },
+    {
+     "word": "売り注文",
+     "meaning": "持っている株を手放して現金にしようと、市場に売りに出す手続きのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "447a2520e7aff3f3",
+   "url": "https://www.sankei.com/article/20260910-2D75JWUDARNBVDB2MOFRTK27QY",
+   "title_original": "JR米坂線の復旧方法、新潟・関川村の村長がバス転換を容認 豪雨で被災し一部区間運休",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/264SPJ6ESZILFC5HELLUXRER6E.jpg?auth=a66eeb8e3a10b4c19d5145d9f1c1d9a77cf76ddb506a14ca1e2bf4295ab04219&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-10T03:09:52+00:00",
+   "title_ja": "豪雨で被災したJR米坂線の復旧方法でバスへの転換を容認",
+   "one_line": "豪雨で動けなくなっているJR米坂線について、新潟県の村長がバス路線への変更を受け入れました。",
+   "what": "豪雨で被災して一部の区間が動かなくなっているJR米坂線の復旧方法について、新潟県関川村の村長が、鉄道ではなくバスに転換することを認めました。",
+   "background": "ローカル線と呼ばれる地方の鉄道は、利用する人がだんだん減っていて、大きな災害で線路が壊れたときに、元どおり直すのにとても大きなお金と時間がかかるという問題が全国各地にあります。",
+   "impact": "鉄道がバスに変わると、乗換の方法や通学・通院などの移動時間がこれまでと変わる可能性があります。地域の人たちの毎日の暮らしや移動手段に直接関わる大切な問題です。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "米坂線",
+     "meaning": "山形県と新潟県を結ぶ、JR東日本の鉄道路線のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "732efe59aee7097d",
+   "url": "https://www.sankei.com/article/20260910-IV5WZFCAZFMY3B7UGTAALACBLY",
+   "title_original": "英警察が右派政党リフォームUKを捜査へ 外国献金で選挙法違反の疑い 党勢停滞に拍車も",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/56XS3ICU7VMWDP2KTLU6CGSMS4.jpg?auth=7cd177e2abcc89e54d33d1f8897674d1b6dbf4d6f9a9d45a332a280f275f74e0&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-10T03:03:23+00:00",
+   "title_ja": "イギリスの警察が右派政党リフォームUKを捜査",
+   "one_line": "イギリスの警察が、法律に違反した疑いがあるとして、ある政党の捜査を始めました。",
+   "what": "イギリスの警察が、右派政党「リフォームUK」に対して捜査を行う方針を示しました。外国から集めたお金（献金）をめぐり、選挙のルールを守っていなかった疑いがあるためです。",
+   "background": "多くの国では、外国からの多額のお金が政治に影響を与えないように、政治活動に使えるお金のルールを法律で厳しく決めています。これに違反すると、政党や政治家にとって大きな信用問題になります。",
+   "impact": "日本に直接すぐ影響が出るものではありませんが、イギリスの政治や選挙の仕組みが正しく守られているかどうかにかかわる重要なニュースです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "右派",
+     "meaning": "政治の考え方のひとつで、これまでの伝統や国のまとまり、治安などを大切にする立場のことです。"
+    },
+    {
+     "word": "選挙法違反",
+     "meaning": "国会議員などを決める選挙で、法律で決められたルールを破ってしまうことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "64f6d7b4025605e9",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
+   "title_original": "Why is Iran bombing Jordan’s Al-Azraq base?",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789009315.jpg?resize=1920%2C1080&quality=80",
+   "region": "海外",
+   "published": "2026-09-10T03:02:18+00:00",
+   "title_ja": "イランがヨルダンのアズラク基地周辺を標的に攻撃",
+   "one_line": "中東のイランが、ヨルダンにある空軍基地の周辺を攻撃する動きを強めています。",
+   "what": "イランがここ数週間にわたり、ヨルダンにあるムワッファク・サルティ空軍基地など、アズラク周辺への攻撃や標的とする動きを強めていると伝えられています。",
+   "background": "中東地域では、国と国や、宗教・政治的な立場の違いから、長年にわたってさまざまな対立や緊張状態が続いています。空軍基地などの軍事施設は、こうした対立の中で重要な拠点となります。",
+   "impact": "日本は中東から多くの石油を輸入しているため、中東全体の安定がゆらぐと、日本のエネルギー事情や物価にも大きな影響が出るおそれがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "基地",
+     "meaning": "軍隊が訓練をしたり、飛行機や武器を置いたりするための特別な施設のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "aa6f37bb04b4ead5",
+   "url": "https://toyokeizai.net/articles/-/955846",
+   "title_original": "｢やっぱり若者にはかなわない｣…なんて嘆く必要はない! 年齢を重ねて初めて手にできる《脳の新しい武器》の鍛え方 | キャリア・教育 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/9/6/1200w/img_9620d6cce8bbad207b59ce085d079af4347280.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-10T03:00:00+00:00",
+   "title_ja": "年齢とともに活かす脳の新しい力の鍛え方",
+   "one_line": "年を重ねても脳は鍛えられ、経験が価値になると説く。",
+   "what": "加齢に伴う脳の変化は、衰えやすい力と衰えにくい力に分かれ、知識や経験は年を取るほど価値が上がると説明し、具体的な鍛え方を紹介している。",
+   "background": "脳はさまざまな機能を持ち、年齢とともに一部は衰えやすくなるが、経験や知識に基づく力はむしろ蓄積されやすい。教育や仕事で培った情報は神経回路を強化し、年を取っても活かせる資産になると考えられている。この仕組みを利用して、意識的に脳を鍛える方法が提案されている。",
+   "impact": "この鍛え方を実践すれば、年齢に関係なく仕事や学びで活かせる力が伸び、生活の質向上につながる。",
+   "genre": "経済",
+   "category": "その他",
+   "terms": [
+    {
+     "word": "衰えやすい力",
+     "meaning": "年齢とともに徐々に低下しやすい記憶力や処理速度などの認知機能のこと。"
+    },
+    {
+     "word": "衰えにくい力",
+     "meaning": "経験や知識に基づく判断力や語彙、問題解決力など、年を取ってもむしろ強くなる認知機能のこと。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "aff1fa38f30a80f3",
+   "url": "https://www.jiji.com/jc/article?k=2026091000181&g=int&m=rss",
+   "title_original": "民主念頭「共産主義打倒する」 トランプ氏、中間選挙勝利誓う―米共和、異例の党大会",
+   "source": "時事通信",
+   "image": "https://www.jiji.com/news2/kiji_photos/202609/20260910at24S_o.jpg",
+   "region": "国内",
+   "published": "2026-09-10T02:54:00+00:00",
+   "title_ja": "トランプ氏、共産主義打倒と中間選挙勝利を宣言",
+   "one_line": "トランプ氏が共和党大会で共産主義打倒と中間選挙勝利を誓った。",
+   "what": "米国のドナルド・トランプ前大統領が、共和党の異例の党大会で、共産主義を倒すことと、来たる中間選挙での勝利を目指すと宣言した。",
+   "background": "米国では大統領の任期の中間に「中間選挙」が行われ、上院・下院の議席が争われる。共和党は党首や議員を選ぶために全国大会を開催し、候補者や政策方針を示す場となる。トランプ前大統領は過去に党内で大きな影響力を持ち、今回の大会でも演説を行い、党の方向性を示した。",
+   "impact": "トランプ氏の発言は共和党の選挙戦略に影響し、米国の政治状況や政策に変化をもたらす可能性がある。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "中間選挙",
+     "meaning": "大統領選挙の中間に行われ、上院・下院の議席が争われる米国の選挙。"
+    },
+    {
+     "word": "共産主義",
+     "meaning": "財産や生産手段を全て共有し、階級のない社会を目指す政治思想・体制。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "1093de73a3207500",
+   "url": "https://news.yahoo.co.jp/pickup/6594836?source=rss",
+   "title_original": "東京駅直結 51階建て施設オープン",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/10/4dde706200736391ce6d505cd36770466a2cb2ac82dc0fc2239855d2c9ebc5d6.jpg",
+   "region": "国内",
+   "published": "2026-09-10T02:53:06+00:00",
+   "title_ja": "東京駅直結の51階建て施設がオープン",
+   "one_line": "東京駅に直結した新しい51階建て施設が本日開業した。",
+   "what": "東京駅と直接つながる高さ51階の新施設が本日開業し、駅利用者がすぐにアクセスできるようになったことが報じられた。",
+   "background": "東京駅は日本最大級のターミナル駅で、国内外の多くの利用者が集まる。近年、駅とビルを一体化させた「駅直結」施設が増えており、商業・オフィス・宿泊など多目的に活用されている。今回の施設はその流れの中で、駅と直接結びつくことで利便性を高めることを狙っている。",
+   "impact": "新施設は駅利用者の利便性を高め、周辺ビジネスや観光客の増加で経済効果が期待される。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "駅直結",
+     "meaning": "鉄道駅の構内やホームと直接つながっていて、エレベーターやエスカレーターで行き来できる建物のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5f120fb49270788c",
+   "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+   "title_original": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108360932-1788997814309-gettyimages-2259298040-SWITZERLAND_UBS.jpeg?v=1788998009&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-10T02:52:55+00:00",
+   "title_ja": "UBS CEO、投資家の油断警告とリスク増大を指摘",
+   "one_line": "UBSのトップは、地政学的・経済的リスクが増す中で投資家の油断を警戒した。",
+   "what": "スイスの大手銀行UBSの最高経営責任者が、地政学的リスクや経済的リスクが重なり投資環境が複雑化していると警告し、投資家の過信（complacency）に注意を呼びかけた。",
+   "background": "UBSは世界的に活動するスイスの金融機関で、資産運用や投資銀行業務を行う。投資家は市場の動向に合わせて資産配分を決めるが、政治的緊張や経済の不透明感（ヘッドウィンド）が増えると、リスクが高まる。CEOはこうした状況で投資家が安易に楽観しないよう警告した。",
+   "impact": "投資家はリスクを再評価し、資産配分を見直す必要が出てくるため、株価や為替に影響が出る可能性がある。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "ジオポリティカルリスク",
+     "meaning": "国と国の政治的・軍事的な緊張や対立が経済に与える不確実性のこと。"
+    },
+    {
+     "word": "ヘッドウィンド",
+     "meaning": "企業や投資にとって不利に働く外部要因（例：金利上昇、貿易摩擦など）の総称。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e59066b0456c3749",
+   "url": "https://www.sankei.com/article/20260910-DHMBN6GQKNPGRFMCOAPCUSQJSQ",
+   "title_original": "新大統領専用機で緊急脱出スライドの誤作動 トランプ氏の出発遅れる",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/62SUXVIG2JIBDMOUL6SH7FAR6Q.jpg?auth=21070bfb71c7368a26bbd174e30e79af1c0343b3b9a7cef53e21deb6ed8c90e6&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-10T02:52:05+00:00",
+   "title_ja": "トランプ大統領の新しい専用機で設備の誤作動",
+   "one_line": "新しい大統領専用機の出発が遅れるトラブルがありました。",
+   "what": "トランプ大統領が乗る予定だった新しい専用機で、緊急脱出用のすべり台が誤って作動するトラブルが起きました。この影響で、大統領の出発の時間が遅れました。",
+   "background": "大統領専用機は、アメリカの大統領が国内外を移動するときに使う特別な飛行機です。安全を最優先にするため、わずかな機械の不具合やトラブルでも、原因を確かめて安全が確認されるまでは出発しません。",
+   "impact": "今すぐ私たちの生活に影響するような出来事ではありません。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 1
+  },
+  {
+   "id": "93882a9692ddfa6a",
+   "url": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
+   "title_original": "Middle East live: Trump warns Iran 'not to get cute' over activity at Pickaxe mountain",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/b0e64f78-acbf-11f1-9e76-005056a97e36/w:1024/p:16x9/42cbb3e1e32778b297d55ea54f6509aa2616b82e.jpg",
+   "region": "海外",
+   "published": "2026-09-10T02:46:54+00:00",
+   "title_ja": "アメリカとイランをめぐる動きと原油価格の見通し",
+   "one_line": "アメリカの大統領がイランを牽制し、原油価格にも影響が出ています。",
+   "what": "アメリカのトランプ大統領が、イランの動きに対して強い警告を出しました。また、イランをめぐる争いの影響で高くなっている原油の値段は、アメリカの選挙が終わるまで下がりにくいという見方が示されています。",
+   "background": "イランは中東にある国で、世界中で使われる石油のやり取りにおいてとても大切な場所に位置しています。この地域で争いや緊張が高まると、エネルギーの値段が大きく変わることがあります。",
+   "impact": "原油の値段が高くなると、日本で使われるガソリンや電気・ガス、さまざまな商品の値段が上がるため、私たちの家計に直接関わってきます。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "原油",
+     "meaning": "ガソリンやプラスチックなどのもとになる、地下からくみ上げたままの石油のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6ba05e2180994195",
+   "url": "https://www.nytimes.com/2026/09/09/world/europe/eu-fire-fighting.html",
+   "title_original": "How Fighting Fires Became an All-of-Europe Project",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-EU-firefighting-ftzb/08int-EU-firefighting-ftzb-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-10T02:44:43+00:00",
+   "title_ja": "ヨーロッパ連合が山火事の消火活動で協力",
+   "one_line": "ヨーロッパの国々が力を合わせて大きな山火事に対応しています。",
+   "what": "ヨーロッパ各地で大きな山火事が起きている中、ヨーロッパ連合の中心組織が、国境を越えて消火活動を助け合うための大きな役割を果たすようになっています。",
+   "background": "ヨーロッパ連合は、ヨーロッパの多くの国が集まって、お互いの経済や政治のルールを決めたり協力したりするグループです。もともとは消火活動の専門家が集まる組織ではありませんでしたが、大きな災害に対しては国同士で助け合う仕組みを作っています。",
+   "impact": "日本での直接の変化はありませんが、気候が変わる中で、世界中の国々が自然災害に対してどのように協力して立ち向かうのかという大切なテーマにつながっています。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "ヨーロッパ連合",
+     "meaning": "ヨーロッパの国々が平和や経済の安定のために作った、一つの大きなチームのような共同体のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e22d57893a05e081",
+   "url": "https://www.nytimes.com/2026/09/09/world/asia/indonesia-wildfires-malaysia-cloud-seeding.html",
+   "title_original": "Fighting Wildfire Haze With an Airplane and Lots of Salt and Water",
+   "source": "The New York Times",
+   "image": "",
+   "region": "海外",
+   "published": "2026-09-10T02:39:33+00:00",
+   "title_ja": "マレーシアが飛行機で雨を降らせて山火事の煙を消そうとする取り組み",
+   "one_line": "隣の国から流れてくる山火事の煙を減らすため、人工的に雨を降らせる作業が行われています。",
+   "what": "マレーシアのボルネオ島で、隣のインドネシアから流れてくる山火事の煙による空気の汚れを和らげるため、飛行機を使って雲に働きかけ雨を降らせる作業が行われました。",
+   "background": "山火事の煙が遠くの国まで風に乗って広がると、空気が汚れて人々の健康に悪い影響が出ることがあります。国境を越えて広がる煙を防ぐため、雲に特別な物質をまいて雨を降らせ、空気中の汚れを地面に落とす技術が使われることがあります。",
+   "impact": "今すぐ私たちの暮らしが直接変わるものではありませんが、気候の変化によって世界各地で山火事や空気の汚れが問題になっていることを伝える出来事です。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "人工降雨",
+     "meaning": "飛行機などを使って雲に細かい粒をまき、雨を無理やり降らせる技術のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "a3f65bf147e86079",
+   "url": "https://www.asahi.com/articles/ASV997K8JV99UHBI011M.html",
+   "title_original": "トランプ政権は10点中何点？中間選挙で何を重視？ 共和党員に聞く",
+   "source": "朝日新聞 国際",
+   "image": "https://imgopt.asahi.com/ogp/AS20260910000845_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-10T02:30:00+00:00",
+   "title_ja": "アメリカの中間選挙に向けた共和党員の受け止め方と重視する点",
+   "one_line": "アメリカの政治で、これまでの政権の働きに対する評価や、次の選挙で大切にするポイントについて共和党員の声が報じられています。",
+   "what": "アメリカの共和党の支持者や関係者に対して、トランプ政権のこれまでの活動への点数や、次の大きなおり目となる選挙でどのような問題を重視しているのかについての意見が尋ねられました。",
+   "background": "アメリカでは、大統領が選ばれてから2年後に、議会の議員を選ぶ「中間選挙」が行われます。これは、大統領がこれまでに進めてきた政治がうまくいっているかを、国民が選挙で判断する大切な機会となっています。",
+   "impact": "アメリカの政治の方向性は、世界の貿易や安全保障に大きな影響を与えますが、今回の記事は個人の意見を聞いたもので、今すぐ日本のくらしを変えるものではありません。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "中間選挙",
+     "meaning": "大統領の任期のちょうど真ん中にあたる時期に行われる、議会の議員を選ぶための選挙です。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "d1d557fbaeef6c47",
+   "url": "https://www.nikkei.com/article/DGXZQOUA075KQ0X00C26A9000000",
+   "title_original": "国のテレワーク月間に幕、助成金も廃止 定着踏まえAI活用にシフト",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3568961008092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=268b141e2bc29c82e9142a855d03b742",
+   "region": "国内",
+   "published": "2026-09-10T02:00:00+00:00",
+   "title_ja": "国のテレワーク推進期間の終了と新しい働き方への移行",
+   "one_line": "国が会社員に向けて進めてきたテレワークの特別な取り組みやお金の支援が終わり、これからは人工知能の活用などが重視されます。",
+   "what": "国が会社で働く人たちに勧めてきた「テレワーク月間」という特別な期間が終わり、これに合わせて企業を応援するするためのお金の助成金もなくなりました。今後は新しい働き方や新しい技術の活用へと重点が移っていきます。",
+   "background": "テレワークは、会社に出勤しないで家などでパソコンを使って仕事をする仕組みです。感染症の広がりをきっかけに国が広めようと力を入れてきましたが、仕事のやり方が定着してきたため、国としての支援の形が変わることになりました。",
+   "impact": "会社から支給されていた特別な支援などが変わる可能性がありますが、テレワークという働き方そのものがすぐに法律で禁止されるわけではありません。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "テレワーク",
+     "meaning": "会社に通勤しないで、家や別の場所からパソコンやインターネットを使って仕事をすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "36f891606601beaa",
+   "url": "https://www.nikkei.com/article/DGXZQOGR09A1G0Z00C26A9000000",
+   "title_original": "世界の8月の気温が過去最高 EU機関、産業革命前から1.65度高く",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3575399009092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=fb6f9f85989bf88ec912d1107a01e3fc",
+   "region": "国内",
+   "published": "2026-09-10T02:00:00+00:00",
+   "title_ja": "世界の8月の平均気温が過去最高を更新、工業化前より1.65度上昇",
+   "one_line": "欧州の機関によると、今年8月の世界の平均気温は過去最も高くなり、昔と比べて1.65度高くなりました。",
+   "what": "欧州連合（EU）の機関の調査で、世界全体の8月の平均気温がこれまでで最も高くなったことが分かりました。これは、人間が工業活動を本格的に始める前の時期と比べて、1.65度高い温度となっています。",
+   "background": "地球の温度は、工場を動かしたり乗り物を使ったりするときに出るガスなどの影響で、少しずつ上がっています。世界中の専門家や機関が、毎月の気温を測って昔と比べ、地球温暖化が進んでいないかを確認し続けています。",
+   "impact": "世界各地で異常気象が起きやすくなり、私たちの食卓に並ぶ野菜や果物が育ちにくくなったり、夏の暑さが厳しくなったりするなどの影響が心配されています。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "産業革命前",
+     "meaning": "人間が石炭や石油をたくさん燃やして機械や工場を動かし始めるより前の、昔の時代のことを指します。"
+    }
+   ],
+   "importance": 4
+  },
   {
    "id": "334f9836aaedd306",
    "url": "https://www.nytimes.com/2026/09/09/world/europe/heathrow-uk-flights-travel.html",
@@ -7361,463 +7794,6 @@
     }
    ],
    "importance": 5
-  },
-  {
-   "id": "2c744ea795ad6a45",
-   "url": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
-   "title_original": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T132122Z_2055207679_RC27ANAMC7RE_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1788529971.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-04T15:44:14+00:00",
-   "title_ja": "ロシアのジェット機のようなドローンがウクライナを攻撃",
-   "one_line": "ロシアのドローン攻撃で多くの市民が命を落としています。",
-   "what": "ロシア軍のジェットエンジンを積んだ無人機がウクライナを激しく攻撃し、多くの市民が亡くなりました。一方で、ロシアの地上部隊は思うように前へ進めていないと伝えられています。",
-   "background": "ロシアとウクライナの間では、長年にわたって激しい争いが続いています。ウクライナ側は国を守るために抵抗し、ロシア側はミサイルや無人機を使った空からの攻撃を続けています。",
-   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、世界の平和や安全、エネルギーや物の値段に影響を与える大きな問題です。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "ドローン",
-     "meaning": "遠隔操作や自動で飛ぶことができる、乗組員の乗っていない飛行機や機体のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "7beb97e6549f508c",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260904de48240",
-   "title_original": "米雇用統計 8月の就業者は前月比増加 市場予想を大きく上回る",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48240/20260904de48240_E0000024577_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-04T15:41:53+00:00",
-   "title_ja": "アメリカの8月の就業者が増加、市場予想を上回る",
-   "one_line": "アメリカで働く人が増えており、経済の元気さが示されました。",
-   "what": "アメリカで8月に仕事に就いた人の数が前の月から増え、専門家の予想よりも多くなりました。この発表は、円の価値や株の値段に影響を与えています。",
-   "background": "アメリカの雇用統計は、国の中でどれだけの人に仕事があり、どれくらいお金が稼がれているかを示す大切な調査です。アメリカの景気が良いか悪いかを判断するための重要な手がかりとなります。",
-   "impact": "アメリカの経済の様子が変わると、日本円の価値や日本の株価、物の値段などを通して、私たちの暮らしや家計にも間接的に影響してきます。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "雇用統計",
-     "meaning": "国の中でどれくらいの人が働き、どれだけ新しく仕事を見つけたかを調査し、毎月発表する大切なデータのことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f3002e5f5f320cb7",
-   "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
-   "title_original": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-ukraine-attack-01-glmq/04int-ukraine-attack-01-glmq-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-04T15:41:24+00:00",
-   "title_ja": "ウクライナの情報機関トップの事務所にロシアのドローン攻撃",
-   "one_line": "ウクライナの重要機関が攻撃される中、アメリカの特使らの訪問が予定されています。",
-   "what": "ウクライナの情報機関のトップが使う事務所が、ロシアの無人機による攻撃を受けました。この攻撃の時期に合わせて、アメリカの特使らがウクライナの首都キーウやロシアを訪れる予定だと報じられています。",
-   "background": "ウクライナとロシアの間では激しい戦いが続いており、アメリカなどの国々は平和に向けた話し合いや状況の調査を行おうとしています。",
-   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、世界的な争いや外交の動きは、今後の国際情勢や経済に大きな影響を与えることがあります。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "特使",
-     "meaning": "政府の特別な目的や任務を果たすために、現地へ派遣される臨時の使いのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ddb9335f54e64140",
-   "url": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1",
-   "title_original": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/853e8964-a871-11f1-a821-005056a90284/w:1024/p:16x9/EN-20260904-080636-081309-CS.jpg",
-   "region": "海外",
-   "published": "2026-09-04T15:35:05+00:00",
-   "title_ja": "イタリアのメローニ首相の長期政権と野党の現状",
-   "one_line": "イタリアでは有力な代わりのリーダーがいない中で政権が続いています。",
-   "what": "イタリアのメローニ首相が長く政権を保っている理由について、専門家が分析しています。野党側に対抗できる指導者が育っておらず、メローニ首相の慎重な政権運営が安定につながっているとされています。",
-   "background": "ヨーロッパの国々では、選挙によって政権を担う政党や首相が選ばれます。イタリアはこれまで短い期間で首相が変わりやすい政治の歴史がありましたが、現在は特徴的な状況が続いています。",
-   "impact": "日本の直接の暮らしがすぐに変わるわけではありませんが、ヨーロッパの主要な国の政治が安定するかどうかは、世界の経済や国際社会の動きに影響します。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "野党",
-     "meaning": "現在、国を動かす政権を担っていない政党のことで、政府のやり方をチェックしたり批判したりする役割を持ちます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "016620db9d742b6d",
-   "url": "https://www.dw.com/en/nigeria-suspected-oil-thieves-dead-after-inhaling-fumes/a-79001997?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Nigeria: Suspected oil thieves dead after inhaling fumes",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/79011820_6.jpg",
-   "region": "海外",
-   "published": "2026-09-04T15:35:00+00:00",
-   "title_ja": "ナイジェリアで船から石油を不正に抜き取ろうとした人が死亡",
-   "one_line": "ナイジェリアで、船から石油を不正に抜き取ろうとした人たちが有害なガスを吸い込み、多くが亡くなりました。",
-   "what": "ナイジェリアの環境を守る団体によると、船から石油を不正に取り出そうとした少なくとも37人が亡くなりました。警察も事件があったことを認めており、くわしいことを調べています。",
-   "background": "石油は、私たちの暮らしに欠かせないエネルギーのもとになる大切な資源です。国によっては、この石油が大きな財源になるため、盗み出して売ろうとする事件が起きることがあります。しかし、安全な設備がない状態で扱うのは大変危険です。",
-   "impact": "今すぐ私たちの暮らしやお金の動きに直接大きな影響が出るものではありませんが、世界の資源をめぐる安全対策の難しさを伝えるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "原油",
-     "meaning": "地下からくみ上げたままの、まだ加工されていない石油のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "73477628dbbbd5c9",
-   "url": "https://www.france24.com/en/europe/20260904-germany-hans-thomas-tillschneider-the-ideologist-behind-the-afd-s-plans-in-saxony-anhalt",
-   "title_original": "Germany: Hans-Thomas Tillschneider, the ideologist behind the AFD’s plans in Saxony-Anhalt",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/d6490a76-a6e3-11f1-a0d9-005056a97e36/w:1024/p:16x9/Tillschneider.jpg",
-   "region": "海外",
-   "published": "2026-09-04T15:34:36+00:00",
-   "title_ja": "ドイツの地方選挙で右派政党に注目が集まる",
-   "one_line": "ドイツの地方選挙を前に、従来のやり方とは違う考え方を持つ政党の動きやその背景が注目されています。",
-   "what": "ドイツの地方選挙で、これまでとは違う考え方を持つ「ドイツのために代案」という政党が歴史的な勝利をおさめる可能性があり、地域に大きな影響を与えている思想家の動きとともに話題になっています。",
-   "background": "ヨーロッパの国々では、議会制民主主義という仕組みをとっており、いくつかの政党が選挙で戦って政治を行います。近年は、国や地域のあり方について、これまでと異なる主張をする政党が支持を集めることが増えています。",
-   "impact": "今すぐ日本での暮らしが変わるわけではありませんが、ヨーロッパの国々の政治がどう変わるのか、世界中の国々との関係にどう影響するかに関わる動きです。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "政党",
-     "meaning": "政治の考え方が同じ人たちが集まって作ったグループのことです。選挙で自分たちの考えを実現しようと活動します。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "fcc3e593892bfd17",
-   "url": "https://www.asahi.com/articles/ASV9452PSV94UHBI01QM.html",
-   "title_original": "フィリピン副大統領に逮捕状 「殺し屋雇った」と大統領を脅した容疑",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20260905000040_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-04T15:33:09+00:00",
-   "title_ja": "フィリピンの副大統領に逮捕状が出る",
-   "one_line": "フィリピンで、副大統領が大統領を脅したという疑いにより逮捕状が出されました。",
-   "what": "フィリピンの副大統領に対し、「大統領を殺し屋に狙わせる」などと脅したという疑いで逮捕状が出されました。",
-   "background": "国を動かす政治の中心には、大統領や首相といったトップがいます。また、副大統領はトップを支える大切な役割を持ちます。国によって、法律や憲法にしたがって政治家がこうした疑惑をもたれたときの調べ方や裁き方が決められています。",
-   "impact": "今すぐ私たちの毎日の生活に影響するものではありませんが、国のトップを担う人たちの間の大きな対立や、国の政治の安定に関わる重要なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "8e0d573cdace99c5",
-   "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
-   "title_original": "UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250223__36YG63E__v1__Preview__PalestinianIsraelConflict-1740406413.jpg?resize=1200%2C630",
-   "region": "海外",
-   "published": "2026-09-04T15:31:54+00:00",
-   "title_ja": "国連がヨルダン川西岸でのイスラエルの作戦に懸念を示す",
-   "one_line": "国連が、イスラエルによるヨルダン川西岸地区での軍事作戦について深刻な懸念を示しました。",
-   "what": "イスラエルがヨルダン川西岸地区で軍事作戦を始めたことで、多くのパレスチナ難民が家を追われ、安全な場所を離れざるを得なくなっている問題について、国連が人権上の大きな懸念を示しました。",
-   "background": "中東の地域では、土地や安全保障をめぐって長年にわたり対立や紛争が続いています。国連は、世界の国々が集まって平和や人権を守るために話し合う国際的な組織です。",
-   "impact": "今すぐ日本での生活に直接影響が出るわけではありませんが、世界全体の平和や、難民への支援のあり方を考えるうえで大切な国際問題です。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が加盟し、世界平和や人権を守るために話し合いや協力を行う国際的な組織のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a235b25df709c0fc",
-   "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-   "title_original": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358334-1788438809826-108358334-1788438750534-gettyimages-2292709675-AFP_C77R332.jpg?v=1788438819&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-04T15:25:52+00:00",
-   "title_ja": "アメリカの前大統領が金利の引き下げと貿易の見直しを要求",
-   "one_line": "アメリカの前大統領が、中央銀行に金利を下げるよう求め、貿易のルールについても大きな変更をちらつかせました。",
-   "what": "アメリカのドナルド・トランプ前大統領が、中央銀行である連邦準備制度に対して、金利を大きく下げるよう求めました。もし言うことを聞かなければ、アメリカが貿易で損をしている国との貿易を止めると主張しました。",
-   "background": "中央銀行は、国の経済や物価の安定を保つために、金利の高さを決める大切な場所です。政治のリーダーがその決定に口を出さないのが一般的なルールですが、時折意見を言う政治家もいます。また、貿易の赤字は、国全体の輸入額が輸出額を超えている状態を指します。",
-   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるわけではありません。しかし、世界最大の経済大国であるアメリカの貿易ルールが大きく変われば、巡り巡って世界中のモノの値段や日本の企業に影響する可能性があります。",
-   "genre": "国際",
-   "category": "貿易・関税",
-   "terms": [
-    {
-     "word": "金利",
-     "meaning": "銀行にお金を預けたり借りたりするときにつく、お金の「手数料」のような割合のことです。"
-    },
-    {
-     "word": "貿易赤字",
-     "meaning": "外国から買ったモノの代金の合計が、外国に売ったモノの代金の合計よりも多い状態のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "dab7cb2173ce9cbd",
-   "url": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
-   "title_original": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-israel-lebanon-1-zhlc/04int-israel-lebanon-1-zhlc-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-04T15:25:24+00:00",
-   "title_ja": "イスラエル軍がレバノン南部での活動を強化していると発表",
-   "one_line": "イスラエルが隣国レバノンの南部で拠点を固めており、平和に向けた話し合いが難しくなっています。",
-   "what": "イスラエルは、レバノンの南部において、重要な場所を確保して自分たちの立場をより確実なものにしていると発表しました。この地域では、戦争を終わらせて平和な状態を取り戻すための話し合いがうまくいっていません。",
-   "background": "中東地域では、国と国や、国内のグループ同士の争いが長く続いています。イスラエルと隣り合うレバノンの間でも、長年にわたって軍事的な衝突が起きており、平和を話し合う国際的な努力が続けられていますが、解決は簡単ではありません。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、中東での大きな争いは、世界中のエネルギーである石油の値段や、世界の経済全体の不安定さにつながることがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "占領",
-     "meaning": "他国の領土に自分たちの軍隊を置いて、自分たちの支配下におくことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "47542b280810c126",
-   "url": "https://apnews.com/article/cambodia-us-military-exercise-china-manet-colby-bffea503a189e25ee1d01d4a5764ee0a",
-   "title_original": "Cambodia’s army to resume joint military exercises with the US next year",
-   "source": "AP通信",
-   "image": "https://dims.apnews.com/dims4/default/99b6fd1/2147483647/strip/true/crop/4824x3214+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F4f%2F539e99b3bf233d1cf858768694dd%2Fc622237db48548b79ef9384e433f3ab0",
-   "region": "海外",
-   "published": "2026-09-04T15:23:02+00:00",
-   "title_ja": "カンボジアとアメリカが来年にも合同軍事演習を再開へ",
-   "one_line": "約10年間止まっていたカンボジアとアメリカの軍隊による合同訓練が、来年はふたたび行われることになりました。",
-   "what": "カンボジアの軍が、来年の早い時期にアメリカとの合同軍事演習を再開すると発表しました。両国の高い地位にある人たちの話し合いが進み、これまでの冷え込んでいた関係を修復しようとする動きの一環です。",
-   "background": "国と国が仲良くなったり、いざという時に助け合ったりするために、お互いの軍隊が一緒に訓練を行うことを合同軍事演習と呼びます。カンボジアとアメリカは、かつて一緒に訓練をしていましたが、およそ10年前に中断していました。",
-   "impact": "今すぐ日本の毎日の暮らしが変わることはありません。しかし、アジアの国々とアメリカの関係が変化することは、まわりの地域の安全や、日本の外交にとっても大切な要素になります。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "合同軍事演習",
-     "meaning": "複数の国が協力して、いざという時のために軍隊の動きを確認し合う訓練のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f88ba2ee20a2966a",
-   "url": "https://toyokeizai.net/articles/-/957035",
-   "title_original": "中国DeepSeek､ファーウェイ製AI半導体を16万個導入へ…中国が米エヌビディア製品からの脱却を進める取り組みを後押し | 政治・経済・投資 | 東洋経済オンライン",
-   "source": "東洋経済オンライン",
-   "image": "https://tk.ismcdn.jp/mwimgs/8/2/1200w/img_82fe6ac4454b36a6e8910350817d871f347534.jpg?nextgen=false",
-   "region": "国内",
-   "published": "2026-09-04T15:15:00+00:00",
-   "title_ja": "中国の人工知能企業が自国製の半導体を大量に導入へ",
-   "one_line": "中国のAI開発企業が、アメリカ製から自国製の半導体へと切り替える大きな計画を進めています。",
-   "what": "中国の人工知能を開発するスタートアップ企業であるディープシークが、中国企業が作った最新のAI用半導体を大量に導入する計画を進めていることが分かりました。これは、アメリカ製の製品を使わないようにする動きを後押しするものです。",
-   "background": "人工知能を動かしたり、新しく作り出したりするには、大量の計算を素早く行うことができる「半導体」という部品が欠かせません。これまで世界のトップを走るのはアメリカの企業でしたが、中国も自分たちの力でこれを作ろうと力を入れています。",
-   "impact": "今すぐ私たちの家計や仕事に直接影響するものではありません。しかし、世界的なテクノロジーの主導権争いが激しくなることで、未来のパソコンやスマートフォンの性能、価格に長い目で見て影響を与える可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "AI半導体",
-     "meaning": "人間の脳のように複雑で膨大な計算を、人工知能に行わせるために特化した半導体のことです。"
-    },
-    {
-     "word": "スタートアップ",
-     "meaning": "新しいアイデアでこれまでにないサービスや技術を生み出し、急激に成長しようとする新しい会社の総称です。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "de772aa5b609e05e",
-   "url": "https://toyokeizai.net/articles/-/957029",
-   "title_original": "エヌビディアに身売りのハギングフェイス､AI民主化を目指した共同創業者3人とも約18億ドル（約2800億円）を得ることに | 政治・経済・投資 | 東洋経済オンライン",
-   "source": "東洋経済オンライン",
-   "image": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0cf87a1c907266505fb1b579b6b7a17b312212.jpg?nextgen=false",
-   "region": "国内",
-   "published": "2026-09-04T15:13:00+00:00",
-   "title_ja": "アメリカの人工知能企業エヌビディアがハギングフェイスを買収",
-   "one_line": "人工知能の仕組みを共有する会社が、巨大な半導体を作る会社に買収されることになりました。",
-   "what": "人工知能の開発を支える仕組みやデータをみんなで共有する場所を運営しているアメリカの会社が、人工知能用の半導体で世界をリードするアメリカの会社に買収されることが決まりました。",
-   "background": "会社が「買収」されるとは、ほかの会社にお金を出して自分たちの仲間になってもらうことや、会社を売り渡すことを言います。半導体とは、パソコンやスマートフォンなどの機械で計算をしたり情報を覚えたりするのに欠かせない、小さな電子部品のことです。",
-   "impact": "今すぐに私たちの生活が直接変わるわけではありませんが、人工知能の技術を進める会社同士が手を取り合うことで、これからのパソコンやスマートフォンの機能がさらに進化していく可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "半導体",
-     "meaning": "電気を通すものと通さないものの性質をあわせ持つ、パソコンやゲーム機などの頭脳となる大切な部品です。"
-    },
-    {
-     "word": "スタートアップ",
-     "meaning": "新しいアイデアや技術を使って、世の中にこれまでにない便利なサービスを生み出そうとする、新しくできた会社のグループのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1e58dd96eb5a11c0",
-   "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o",
-   "title_original": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6de/live/4f7a6c30-a871-11f1-aed2-8d6da8d75094.jpg",
-   "region": "海外",
-   "published": "2026-09-04T14:40:00+00:00",
-   "title_ja": "ネパールのトンネル工事現場で洪水による救助活動が続く",
-   "one_line": "ネパールのトンネルの中で、洪水に巻き込まれた作業員たちの救助活動が行われています。",
-   "what": "ネパールを流れる川の近くにあるトンネルの中で、多くの作業員が取り残されてしまい、救助する人たちが助け出そうと活動を続けています。",
-   "background": "ネパールは、世界で一番高い山があるヒマラヤ山脈の近くにある国です。山が多い地形のため、大雨が降ると川の水の量が一気に増えて、まわりの土地に大きな被害が出ることがあります。",
-   "impact": "日本での毎日の生活に直接大きな影響が出るお話ではありませんが、世界のさまざまな場所で自然災害が起きていることを伝えるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "e236e984f3629c45",
-   "url": "https://www.nikkei.com/article/DGXZQOGR04B7X0U6A900C2000000",
-   "title_original": "ロシア、ウクライナ保安局庁舎を攻撃 無人機直撃とゼレンスキー氏",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3555278004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=5c86ece8ca4e398803f40c627ce98358",
-   "region": "国内",
-   "published": "2026-09-04T14:39:47+00:00",
-   "title_ja": "ロシアがウクライナの施設を無人機で攻撃",
-   "one_line": "ロシアがウクライナの施設に対して、無人機を使った攻撃を行いました。",
-   "what": "ロシアが、ウクライナの保安局の建物に対して、遠隔操作で飛ばす無人機を使って攻撃をしたと伝えられています。",
-   "background": "ロシアとウクライナは、国と国のあいだで激しい争いが続いています。無人機とは、人が乗っていない飛行機やロボットのような機械のことで、遠くからボタンなどで操作して動かすものです。",
-   "impact": "すぐに日本の私たちの暮らしが直接変わるわけではありませんが、世界の国々の安全や、日本へ届く物の値段などに関わる大切な問題です。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "無人機",
-     "meaning": "人が乗らずに、遠くからの電波を使って自動やリモコンで空を飛ぶ機械のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "8ae6e58b4183ad82",
-   "url": "https://www.sankei.com/article/20260904-R2MSEYEHMVMNXITI7OAHLJCFIE",
-   "title_original": "ちょっと多めの買い置きが備蓄に 発想転換促す「ちょ備蓄」プロジェクト",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/VCZEGV7AVRINTP6D6M457TINZ4.jpg?auth=e43ff6c3b9d3977b06ea8ed99b4be3e1597b422f862651bade59c46b8b0fc405&quality=50&focal=1856%2C960&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-04T13:33:19+00:00",
-   "title_ja": "日頃の買い置きをそのまま備えにするちょ備蓄",
-   "one_line": "特別な防災グッズを買うのではなく、いつもより少し多めに買い物をして日頃から備える取り組みです。",
-   "what": "日用品や食料品を少し多めに買って使いながら備える、「ちょ備蓄」というプロジェクトが始まりました。",
-   "background": "災害が起きたときは、お店が閉まったり物資が届かなくなったりすることがあります。そのため、家の中に食料や水などをあらかじめ用意しておく「備蓄」という考え方があります。しかし、防災専用の特別な品をそろえるのはハードルが高いと感じる人も少なくありません。そこで、普段使っているものを少し多めに買い、使った分を買い足していく方法が広くすすめられるようになってきました。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、いつ起きるかわからない災害に備えるための新しいヒントになりそうです。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "c9f425feae2be16e",
-   "url": "https://news.yahoo.co.jp/pickup/6594237?source=rss",
-   "title_original": "米8月雇用16.2万人増 予想上回る",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/4/4bd676f7cdba815345564f2d17e50eb99d13c6a978100850227fbbbc8978acc6.jpg",
-   "region": "国内",
-   "published": "2026-09-04T13:21:22+00:00",
-   "title_ja": "アメリカの8月の仕事の数が市場の予想よりも増えた",
-   "one_line": "アメリカで仕事の数を示す数字が事前の予想よりも大きくなり、景気の良さを表しています。",
-   "what": "アメリカで8月に増えた仕事の数が、16万2000人分になったと伝えられています。これは、あらかじめ専門家が予想していた数よりも多い結果でした。",
-   "background": "国全体の景気が良いかどうかをはかるために、毎月どれくらいの人が新しく仕事に就いたかを示す「雇用統計」という数字が発表されます。この数字が良いと、その国の経済が元気だとみなされ、株の値段やお金のやり取りに影響を与えることがあります。世界中から注目されている大事な発表の一つです。",
-   "impact": "アメリカの景気の動きは、日本で暮らす私たちの仕事や物の値段、円とドルの為替の値段にも大きな影響を与えることがあります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "雇用統計",
-     "meaning": "国全体の仕事の増え方や、働いている人の割合などをまとめた大切な調査結果のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a2ae3706af21f314",
-   "url": "https://www.nikkei.com/article/DGXZQOCD0494F0U6A900C2000000",
-   "title_original": "ノルウェー政府系基金、国債投資基準を見直し 日本は約2.8兆円増に",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3554784004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.96&fp-y=0.64&h=630&w=1200&s=fb9daa0c524209c7085f7864adf08e7d",
-   "region": "国内",
-   "published": "2026-09-04T13:20:12+00:00",
-   "title_ja": "ノルウェーの大きな基金が日本の国債の投資を見直し",
-   "one_line": "世界最大級のノルウェーの政府系基金が投資のルールを変え、日本にお金が回る規模が増える見通しです。",
-   "what": "ノルウェーの政府系基金が、国にお金を貸す仕組みである国債に投資するときのルールを見直しました。これにより、日本へ投資される金額がおよそ2.8兆円ほど増えると伝えられています。",
-   "background": "国や自治体は、学校や道路を作るためなどにお金を借りる「国債」という証書を発行します。世界には、国が集めた大きなお金を管理して世界中に投資し、将来のための貯金をする「政府系基金」と呼ばれる大きな仕組みを持つ国があります。こうした大口の投資家がルールを変えると、世界の金融市場に大きな影響を与えます。",
-   "impact": "世界規模の大きなお金がどのように動くかによって、日本の国債の売れ行きや円の価値、国内の金利などに影響が及ぶことがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "政府系基金",
-     "meaning": "国が持っている大きなお金を、株式や国債などで運用して増やす仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "15d37cb9c91934e1",
-   "url": "https://www.nikkei.com/article/DGXZQOUA041UR0U6A900C2000000",
-   "title_original": "模倣品の輸入差し止め最多1.9万件、偽造「ボンドロ」急増 26年上半期",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3555000004092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=3cabd232aa9e699ccef618e4d8dbd8c0",
-   "region": "国内",
-   "published": "2026-09-04T11:50:01+00:00",
-   "title_ja": "偽物の商品の輸入を止められた数が過去最多に",
-   "one_line": "本物そっくりに作られた偽物の商品を日本に入れないように水際で止めた件数が、過去に最も多くなりました。",
-   "what": "税関が日本に入ってくる偽物の商品を止めた件数が、2026年の上半期に過去最多の1万9000件に達しました。その中には「ボンドロ」という偽造品も急激に増えていると伝えられています。",
-   "background": "日本の国境では、外国から入ってくる荷物や人が法律に違反していないか、危険なものがないかを「税関」という役所がチェックしています。ブランド品やキャラクターなどの偽物は、本物の権利を傷つけ、安全性の保証もないため、法律で日本に入れないことになっています。こうした違反品は毎年大量に見つかっています。",
-   "impact": "偽物が世の中に広がると、まじめに商品を作っている会社が損をするだけでなく、品質の悪いものによって買う人が思わぬ被害を受けるおそれがあります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "税関",
-     "meaning": "外国から日本に入ってくる荷物やお金をチェックして、安全を守る国の役所のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "46d4f06a30e2a0ed",
-   "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o",
-   "title_original": "US diesel prices hit an all-time-high",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ea/live/aaff4f90-a843-11f1-b3a7-d5de760fef6e.jpg",
-   "region": "海外",
-   "published": "2026-09-04T10:52:56+00:00",
-   "title_ja": "アメリカでディーゼル燃料の価格が過去最高になる",
-   "one_line": "イランでの紛争により石油の値段が上がり、アメリカで燃料の価格が過去最高になりました。",
-   "what": "アメリカで、大型トラックなどで使われるディーゼル燃料の価格が過去最高を記録しました。２月末にイランでの紛争が始まってから、材料となる石油の卸売価格が跳ね上がっており、その影響が燃料の値段に現れています。",
-   "background": "ディーゼル燃料やガソリンは、原油という石油のもとを精製して作られます。石油が多く採れる地域で紛争や戦争が起こると、石油が十分に買えなくなるかもしれないという不安から、石油全体の価格が一気に上がります。その結果、燃料を作る費用も高くなり、私たちが買う値段に跳ね返ってきます。",
-   "impact": "燃料が高くなると物を運ぶトラックの運賃が上がり、電気代や食べ物、輸入製品の値段も高くなります。巡り巡って、私たちの家計の負担が増える可能性があります。",
-   "genre": "経済",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "ディーゼル燃料",
-     "meaning": "軽油とも呼ばれ、主に大きなトラックやバス、機械などを動かすために使われる燃料のこと。"
-    }
-   ],
-   "importance": 4
   }
  ]
 }
