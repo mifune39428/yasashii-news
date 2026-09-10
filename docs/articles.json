@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T13:02:18.149745+09:00",
+ "updated_at": "2026-09-10T19:58:50.167704+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,46 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "f8f72abe9c3dc8ce",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "3d1f818ce6fe1183",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "ca1fd9e7c680b1c0",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "c12fa0cde1da777d",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "c0b8addeeca64d88",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "e1228e86ee9312e7",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "9867da1a0f8e0bf9",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "179b8cf2629ec636",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "cf736ad9a0175957",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
-  {
-   "id": "c4a37a16c01b1ebb",
-   "until": "2026-09-10T10:19:32.232112+00:00"
-  },
   {
    "id": "defceab840c3ebba",
    "until": "2026-09-10T14:54:49.977131+00:00"
@@ -790,10 +750,410 @@
   {
    "id": "a5a3282da579e692",
    "until": "2026-09-15T04:02:18.149745+00:00"
+  },
+  {
+   "id": "40ed963d610e2d25",
+   "until": "2026-09-15T10:58:50.167704+00:00"
+  },
+  {
+   "id": "115ffefbc01beeb0",
+   "until": "2026-09-15T10:58:50.167704+00:00"
+  },
+  {
+   "id": "e368c976a8341167",
+   "until": "2026-09-15T10:58:50.167704+00:00"
+  },
+  {
+   "id": "4c81726da5a9d668",
+   "until": "2026-09-15T10:58:50.167704+00:00"
+  },
+  {
+   "id": "826c40c1f43bec8e",
+   "until": "2026-09-15T10:58:50.167704+00:00"
+  },
+  {
+   "id": "c8700a8fae31262b",
+   "until": "2026-09-15T10:58:50.167704+00:00"
+  },
+  {
+   "id": "b724888141dc014b",
+   "until": "2026-09-15T10:58:50.167704+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "2eb366207042cf38",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260828de46987",
+   "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月10日の動き）",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46987/20260828de46987_E0000020145_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-10T10:54:36+00:00",
+   "title_ja": "ロシアによるウクライナへの軍事侵攻が継続",
+   "one_line": "ロシアがウクライナを攻撃する動きが続いており、現地では戦闘や外交の動きが伝えられています。",
+   "what": "ロシア軍とウクライナ軍の間で戦闘が続いており、各地の状況や関係する国々の外交の動きが伝えられています。",
+   "background": "ロシアとウクライナは歴史的にも結びつきが深い国ですが、2022年にロシアがウクライナに軍事侵攻を始めて以来、激しい争いが続いています。国際社会の間でも、平和に向けた話し合いやウクライナを支える動きが続いています。",
+   "impact": "世界のエネルギーや食べ物の値段、安全保障に大きな影響を与えており、私たちの暮らしにも関わる問題です。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [],
+   "importance": 5
+  },
+  {
+   "id": "13b238d95246bc10",
+   "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+   "title_original": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10xp-drones-Zelensky-gbzw/10xp-drones-Zelensky-gbzw-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-10T10:49:54+00:00",
+   "title_ja": "ウクライナ大統領の飛行に無人機の影響かノルウェー行き遅れ",
+   "one_line": "ウクライナの大統領の移動が、空の安全確保の制限などで遅れる出来事がありました。",
+   "what": "モルドバからノルウェーへ向かうウクライナの大統領の飛行機の旅が、空の安全のための閉鎖などによって遅れました。モルドバの当局者が明らかにしました。",
+   "background": "国と国の間を首脳が移動する際には、安全を守るために特別な注意が払われます。また、ウクライナとロシアの間で争いが続いているため、空の安全確保には厳重な警戒が必要です。",
+   "impact": "今すぐ私たちの暮らしが変わるものではありませんが、各国のリーダーの安全や外交の動きに影響する出来事です。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "ドローン",
+     "meaning": "人が乗らないで遠隔操作や自動で飛ぶことができる小型の飛行機のことです。"
+    },
+    {
+     "word": "領空",
+     "meaning": "ある国の領土の上にある空のことで、その国の法律やルールが適用されます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "f06a3dab54332dee",
+   "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+   "title_original": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-10T10:49:29+00:00",
+   "title_ja": "人工知能の研究者から開発のペースを緩めるよう求める声",
+   "one_line": "人工知能の危険性を心配する研究者たちが、開発を慎重に進めるよう強く訴えています。",
+   "what": "人工知能を開発する会社であるオープンAIやアンソロピックなどの研究者たちが、人工知能の進化や安全性の問題から、開発のペースを緩めるよう求める声に加わりました。",
+   "background": "人工知能は私たちの生活を便利にする一方で、悪用されたり意図しない危険な動きをしたりする心配も指摘されています。そのため、ルールや安全性をしっかり確認しながら進めるべきだという意見があります。",
+   "impact": "将来の仕事や社会の仕組み、インターネットの安全な使い方に大きく関わる、これからの技術についての重要な問題です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "AI",
+     "meaning": "人間の頭脳のように考えて学習や判断をする、コンピュータの技術のことです。"
+    },
+    {
+     "word": "サイバー攻撃",
+     "meaning": "コンピュータやインターネットを通じて、システムを壊したり情報を盗み出したりする悪質な行為のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c803dfe964965944",
+   "url": "https://www.asahi.com/articles/ASV9B3DW9V9BUTFK00FM.html",
+   "title_original": "安保や経済安保ODAに対応、「戦略対話」設置も 有識者会議が提言",
+   "source": "朝日新聞 政治",
+   "image": "https://imgopt.asahi.com/ogp/AS20260910003668_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-10T10:45:00+00:00",
+   "title_ja": "安全保障と経済に対応する新しい「戦略対話」の設置を専門家が提案",
+   "one_line": "日本の専門家会議が、安全保障や経済の課題に対応するため新しい「戦略対話」を作るよう提言しました。",
+   "what": "日本の安全保障や経済の安全を守る分野などで対応するため、新しく「戦略対話」という話し合いの場を設けるべきだという提言が、専門家の集まりから出されました。",
+   "background": "政府や国では、外国との安全を守る問題や、貿易や技術を守る経済の仕組みについて、どのように方針を決めるか話し合うための専門家による会議が開かれます。そこで出された意見は、これからの政策を決めるための大切な参考資料になります。",
+   "impact": "今すぐ私たちの生活がすぐ変わるわけではありませんが、国がこれからどのような方針で安全や経済を守っていくのかという大切な方向性につながるお話です。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "安全保障",
+     "meaning": "国やそこに住む人々の安全を守り、平和を保つための政治や外交、防衛などの取り組みのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "127635dd08e31da4",
+   "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo",
+   "title_original": "Iran war won't end until after crucial November elections, says Trump",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e909/live/973a6d70-ad00-11f1-bc1f-3f186ca4140c.jpg",
+   "region": "海外",
+   "published": "2026-09-10T10:43:53+00:00",
+   "title_ja": "アメリカのトランプ氏がイランとの戦争や原油価格について発言",
+   "one_line": "アメリカのトランプ氏が、イランをめぐる問題や原油の価格は11月の選挙のあとまで動かないとの見方を示しました。",
+   "what": "アメリカのトランプ氏が、11月におこなわれる重要な選挙が終わるまでイランとの戦争が終わることはないだろうという考えを述べました。また、原油の価格も選挙のあとにならなければ下がらないと語りました。",
+   "background": "アメリカでは定期的に議会や大統領などの大きな選挙がおこなわれます。選挙の前には、政治家たちが国の外交方針や経済の先行きについてさまざまな意見を述べることがあり、世界のニュースやものの値段に影響を与えることがあります。",
+   "impact": "原油の値段が変わると、日本で使われるガソリン代や電気代、さまざまなものの値段にもつながることがあるため、世界の政治の動きは私たちの家計にも関わってきます。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "原油",
+     "meaning": "ガソリンや灯油、プラスチックなどの材料になる、地下からくみ上げたままの石油のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "96e86ee354f80ea1",
+   "url": "https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates",
+   "title_original": "Hospitality industry fears jobs at risk from plan to give mayors powers to impose ‘tourist tax’",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/45115f572138b196d42a0a1c618e0c98b21a3cc2/797_159_3160_2528/master/3160.jpg?width=140&quality=85&auto=format&fit=max&s=0c2c61b6165aa9e23e765709f08d5bb2",
+   "region": "海外",
+   "published": "2026-09-10T10:39:31+00:00",
+   "title_ja": "イギリスで観光税の導入をめぐりホテルや飲食店が懸念",
+   "one_line": "イギリスで市長の権限で「観光税」を導入する計画があり、観光業や飲食業界から仕事が減る心配の声が出ています。",
+   "what": "イギリスで、地域の市長が「観光税」という新しい税金を決めることができるようにする計画について、ホテルや飲食店などの業界から、仕事や働き口が失われるのではないかと心配する声が上がっていると伝えられています。",
+   "background": "国や地域によっては、観光客が増えることで道路の整備やごみの片付けにお金がかかるようになるため、その地域を訪れた人から少しずつお金を集める「観光税」という仕組みを導入しているところがあります。",
+   "impact": "イギリス国内のお話ですが、海外からの旅行客がどのように旅行を楽しむかや、ホテルやお店のビジネスがどうなるかという仕組みにかかわる話題です。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "観光税",
+     "meaning": "観光客が訪れた地域で宿泊するときなどに、その地域の維持やサービス向上のために負担するお金のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3b91b16ba28c03a9",
+   "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+   "title_original": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/3caf46db7cdc729259cc30ff443769fdad430d03/1905_954_2441_1953/master/2441.jpg?width=140&quality=85&auto=format&fit=max&s=50a36074a05dc761d2372ebf39bf4af9",
+   "region": "海外",
+   "published": "2026-09-10T10:39:24+00:00",
+   "title_ja": "ヨーロッパ諸国で国の守りにお金をかける動きが強まる",
+   "one_line": "ロシアの行動をきっかけに、ヨーロッパで自分たちの国は自分たちで守るべきだという考えが強まっています。",
+   "what": "北大西洋条約機構のトップであるルッテ氏が、ヨーロッパの国々は自分たちの安全を自分たちでもっと守る必要があると述べました。ドイツの外交官からも、ロシアの脅威が間近に迫っているという指摘が出ています。",
+   "background": "北大西洋条約機構は、ヨーロッパと北アメリカの国々が、お互いの国を守るために作ったグループです。ロシアの行動が活発になるにつれて、このグループに加わる国々の間では、自分たちの国を守るためにお金や力をしっかり使うべきだという考えが広がってきました。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界の国々が安全を守るためにお金をたくさん使い始めると、世界全体の経済や日本の安全保障のあり方にも影響が出てくる可能性があります。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "北大西洋条約機構",
+     "meaning": "ヨーロッパや北アメリカの国々が、お互いの安全を守るために作った組織のことです。"
+    },
+    {
+     "word": "安全保障",
+     "meaning": "国や国民の安全を守り、平和な暮らしを維持するための仕組みや取り組みのことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "68bb0d9da7b02666",
+   "url": "https://www.asahi.com/articles/ASV9B3D0FV9BULFA00JM.html",
+   "title_original": "外食業界団体、消費減税に懸念 政府支援策は「望むものとギャップ」",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260910003626_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-10T10:37:33+00:00",
+   "title_ja": "外食業界団体が消費減税に懸念を示す",
+   "one_line": "外食業界の団体が、消費に関わる税金を下げることに対して心配する意見を述べました。",
+   "what": "外食業界の団体が、消費にかかる税金を下げることに対して懸念を示しました。また、政府が考えている支援策については、自分たちが本当に求めているものとは少し違いがあるという考えを示しています。",
+   "background": "消費税は、私たちが買い物やサービスを受けるときにかかる税金です。税率を下げることで買い物をしやすくする仕組みが議論されることがありますが、お店側にとっては利益や税金の計算方法など、経営への影響についてさまざまな意見があります。",
+   "impact": "今すぐ外食の値段や税率が変わるものではありませんが、将来的に税金の仕組みや政府の支援が変わると、レストランやカフェでの食事の値段やお店の営業のしかたに影響する可能性があります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "4e57902e7db8f4d6",
+   "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+   "title_original": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10int-yemen-mokha-hztm/10int-yemen-mokha-hztm-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-10T10:31:22+00:00",
+   "title_ja": "イエメンの武装組織が重要な港を制圧",
+   "one_line": "イエメンで活動する武装組織が、船の通り道として重要な紅海の港を制圧しました。",
+   "what": "イエメンで活動するフーシ派という組織が、政府の軍を破り、モカにある港を制圧しました。これにより、この組織は世界的な貿易にとって重要な海で、船を攻撃しやすい有利な立場になったと伝えられています。",
+   "background": "イエメンは中東にある国です。この地域の近くにある海は、アジアとヨーロッパを結ぶ船がたくさんの荷物を運ぶために通る、世界的にとても大切な通り道になっています。現地では長年、国内の勢力同士の争いが続いています。イランはこの組織を支援しているとされています。",
+   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、世界中の船が行き来する大切な道でトラブルが起きると、運ぶのに時間がかかったり、モノの値段が上がったりして、私たちの買いものや生活に影響が出るおそれがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "紅海",
+     "meaning": "アフリカ大陸とアラビア半島のあいだにある海で、ヨーロッパとアジアをつなぐ船の重要な通り道です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ed0f3917d2bae464",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-turn-violent-in-the-gambia-over-rolling-blackouts?traffic_source=rss",
+   "title_original": "Protests turn violent in The Gambia over rolling blackouts",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GAMBIA-1789035910.jpg?resize=1920%2C1417",
+   "region": "海外",
+   "published": "2026-09-10T10:25:21+00:00",
+   "title_ja": "ガンビアで電気の停止をめぐる抗議デモが激しくなる",
+   "one_line": "西アフリカのガンビアで、電気が何度も止まることに怒った人々による抗議デモが激しくなりました。",
+   "what": "西アフリカのガンビアで、電気が何度も止まることに不満を持った人々による抗議活動が、激しいものに変わりました。",
+   "background": "国や地域によっては、発電する力や電力を届ける仕組みが十分に整っていないことがあります。そのため、電気が予定通りに届かず、何度も止まってしまうことが大きな社会問題になることがあります。",
+   "impact": "今すぐ日本の私たちの暮らしに直接の影響はありませんが、遠い国で電気などの大切なインフラをめぐる問題から大きな騒ぎが起きているという出来事です。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "c4f988af2d4acff9",
+   "url": "https://www.jiji.com/jc/article?k=2026091000852&g=pol&m=rss",
+   "title_original": "中東の危険情報引き下げ イスラエルなど４カ国・地域―日本政府",
+   "source": "時事通信",
+   "image": "https://www.jiji.com/news2/kiji_photos/202609/20260910ds74_o.jpg",
+   "region": "国内",
+   "published": "2026-09-10T10:20:00+00:00",
+   "title_ja": "イスラエルなど４カ国・地域の危険情報を引き下げる日本政府",
+   "one_line": "日本政府は、中東のイスラエルなど4つの国と地域について、出していた危険情報を引き下げました。",
+   "what": "日本政府が、中東にあるイスラエルなど4つの国と地域について、現地にいる日本人や旅行者に向けて出していた危険のレベルを引き下げました。",
+   "background": "日本政府は、世界中の国や地域で戦争や争い、大きな事件などが起きたとき、その危なさの度合いにあわせて「危険情報」を出します。現地の安全の様子が変わると、この情報を見直して引き上げたり引き下げたりします。",
+   "impact": "現地に行く予定がある人や、ビジネスで関わっている人にとって、安全の度合いや渡航の判断に関する大切なニュースとなります。今すぐ日本全体の生活が変わるわけではありません。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "c87d3f9c8c6bfbda",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260910de49558",
+   "title_original": "中国 新車輸出100万台超続く 背景にガソリン高でEV需要か",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49558/20260910de49558_E0000028069_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-10T10:14:48+00:00",
+   "title_ja": "中国の新車輸出が3か月連続で100万台を超える",
+   "one_line": "中国からの車の輸出が3か月続けて100万台を超え、ガソリン高で電気自動車の需要が伸びています。",
+   "what": "8月に中国から外国へ輸出された新しい車が、去年の同じ月と比べて60％以上増え、3か月連続で100万台を超えました。世界的なガソリンの値段が高くなっている中で、中国メーカーが力を入れている電気自動車などの人気が高まっていることが理由にあげられています。",
+   "background": "自動車を作る会社がたくさんある中国では、国内で売り切れない車を外国へたくさん輸出する動きが強まっています。また、地球温暖化を防ぐためやガソリン代を節約するために、電気で走る車を作るメーカーが世界中で増えています。",
+   "impact": "世界中の車市場で中国製の安い電気自動車などの影響力が大きくなっており、日本を含めた世界の自動車メーカーとの競争が激しくなっています。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "EV",
+     "meaning": "電気の力で動くモーターだけで走る車のこと。ガソリンを使わないため、走るときに排気ガスが出ません。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "497ad6a73dbca54f",
+   "url": "https://www.nikkei.com/article/DGXZQOUA108M00Q6A910C2000000",
+   "title_original": "日本郵便、消印の時間帯表示を廃止へ 業務効率化で",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3581152010092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=623730ac88f3f7600b1be92ea9df4561",
+   "region": "国内",
+   "published": "2026-09-10T10:11:31+00:00",
+   "title_ja": "日本郵便が郵便物の消印の時間帯表示をやめる方針",
+   "one_line": "日本郵便は、手紙などの消印に押していた時間帯の表示をなくす方針を決めました。",
+   "what": "日本郵便が、手紙やはがきに押す消印から時間帯の表示をなくす方針を固めました。仕事の量を減らして効率よく進めるための見直しです。",
+   "background": "消印とは、郵便物がいつ、どこで受け付けられたものかを示すために、切手の上から押される印のことです。郵便をきちんと届けたという証明や、一度使った切手をもう一度使えないようにする役割があります。",
+   "impact": "今すぐ私たちの暮らしや手紙の届く早さが大きく変わるものではありませんが、郵便の仕組みや効率よく働くための工夫を見直す動きの一つといえます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "消印",
+     "meaning": "郵便局が、切手に消しゴムのスタンプのような印を押して、もう使えないようにすること。いつどこで受け付けたかを示す目印にもなります。"
+    },
+    {
+     "word": "業務効率化",
+     "meaning": "無駄な作業を減らしたり、道具ややり方を変えたりして、より少ない時間や人数で仕事を進められるようにすることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "3fb6226aeced322d",
+   "url": "https://www.sankei.com/article/20260910-L273LR2UD5EBBI4GBOKQDQB2ZA",
+   "title_original": "榛葉氏「みんなの党が返還したから中道が困る」 浅尾氏、小川氏にXで「ご教示しますよ」",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/7HOKWOUC4BA6JNNXVZJ2QMFOK4.jpg?auth=2f9921fd8f20b8b7f1909e29fb54d9201a9a3bae03d6b4a0f07cc958feefdc4b&quality=50&focal=619%2C394&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-10T10:10:01+00:00",
+   "title_ja": "国会議員の間で政党の動きや発言をめぐるやり取り",
+   "one_line": "国会議員たちがインターネット上で、政党のこれまでの動きや考え方について意見をかわしています。",
+   "what": "国会の政治家たちが、インターネットの投稿を通じて、昔の政党の名前や過去の出来事、これからの政治のあり方についてそれぞれ意見を述べています。",
+   "background": "日本の政治は、さまざまな考え方を持つ国会議員や政党が集まって話し合い、法律や予算を決めています。政党同士の昔からの歴史や、それぞれの立場によって意見が食い違うことがよくあります。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるわけではありませんが、これからの政治のルールや、国会での話し合いの行方に関わる出来事です。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "b0765fe9aed34306",
+   "url": "https://www.asahi.com/articles/ASV9B36DDV9BPLFA008M.html",
+   "title_original": "「鳥貴族」均一価格を410円に値上げへ 全店で10月1日から",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260910003564_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-10T10:01:28+00:00",
+   "title_ja": "居酒屋チェーン「鳥貴族」が10月から410円に値上げ",
+   "one_line": "居酒屋チェーンの鳥貴族が、10月からすべてのお店で値段を410円に上げると発表しました。",
+   "what": "居酒屋チェーンの「鳥貴族」が、10月1日からお店で提供するすべてのメニューの値段を410円に値上げすることを決めました。",
+   "background": "お店で売る品物の値段は、材料を買うお金や、お店を続けるためのお金が上がると、それにあわせて変えることがあります。鳥貴族はこれまで同じ値段を守ってきましたが、まわりの状況が変わる中で見直しをすることになりました。",
+   "impact": "お店を利用する人にとっては、これまでより支払うお金が増えることになります。また、他の似たようなお店の値段にも影響するかもしれません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "c5e68c334eed0b70",
+   "url": "https://toyokeizai.net/articles/-/957696",
+   "title_original": "【\"膠着”を抜けて年末7万円超えへ】日経平均が再び上昇する理由／「3つの悪材料」をどう見る？／直近の円高は株式相場に影響する？／相場上昇のカギは「金利」の動向／「戦略17分野」は優先順位に注目 | ビジネス | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/b/c/1200w/img_bc81c05e1687fa3192bea1a2567d417c227893.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-10T10:00:00+00:00",
+   "title_ja": "日経平均株価の動きと年末に向けた今後の注目点",
+   "one_line": "日経平均株価が一時下がったあとにどうなるか、これからの値上がりの条件や影響について専門家が分析しています。",
+   "what": "8月中旬に上がっていた日経平均株価が、その後値を下げて6万5000円前後の動きになっています。これから再び上がるための条件や、金利などの影響について考えられています。",
+   "background": "株価というのは、会社の調子や世の中の金利、外国のお金の価値など、さまざまな理由によって毎日上がったり下がったりするものです。日本の代表的な会社の株価を集めたものを「日経平均株価」と呼んでいます。",
+   "impact": "株の値段が変わることで、会社をもっている人や、株に投資をしている人の財産がふえたりへったりします。また、世の中の景気が良くなっているかどうかの目安にもなります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "日経平均株価",
+     "meaning": "日本のたくさんの会社の中から、代表的な225社の株の値段を平均して計算した、日本の景気の様子を表す数字です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "eee8512036a0d47b",
+   "url": "https://www.sankei.com/article/20260910-KAZSB64KAVKHBNTRYXOL566J3M",
+   "title_original": "共和党大会はトランプ氏の「脚本・監督・主演」 資金を掌握、空席目立つも批判はできず",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/VU7VA3OLAFOXTO6NJRFC65YKFE.jpg?auth=b15db5671aedd0e8d04bcb429ebccd2bdaf39d9110b6f8338fa36b8b879fc53b&quality=50&focal=2752%2C1395&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-10T09:30:00+00:00",
+   "title_ja": "アメリカ共和党大会でトランプ氏が強い影響力を持つ",
+   "one_line": "アメリカの共和党大会で、トランプ氏が資金をしっかり握り強い影響力を示したと伝えられています。",
+   "what": "アメリカの政党である共和党の大会が開かれ、トランプ氏が資金を完全に自分の管理下に置き、まわりから批判が出にくい状態で進められたと報じられています。",
+   "background": "アメリカには「共和党」と「民主党」という大きな二つの政党があります。大統領を選ぶ選挙の前に、それぞれの党で集まりを開き、方針や候補者をみんなで確認するのが党の大会です。",
+   "impact": "アメリカの政治や、これからの世界の動きを大きく動かすかもしれない人物の動きとして、日本を含め世界中から注目されています。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 4
+  },
   {
    "id": "794d151161e56338",
    "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
@@ -7390,410 +7750,6 @@
     }
    ],
    "importance": 4
-  },
-  {
-   "id": "6fede9f866ea7128",
-   "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
-   "title_original": "住宅購入急ぐ若年層 リスクに警鐘",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg",
-   "region": "国内",
-   "published": "2026-09-05T00:37:14+00:00",
-   "title_ja": "若い世代の急な住宅購入に注意を呼びかけ",
-   "one_line": "若い世代で急いで家を買う動きが広がっており、リスクへの注意が呼びかけられています。",
-   "what": "若い世代の間で、家を買う動きが急いで進められていることに対して、将来の負担やリスクを心配する声があがっています。",
-   "background": "家を買うときは、何十年もかけてローンという大きなお金を返すのが一般的です。金利や仕事の収入が変わると、返せなくなるリスクがあります。",
-   "impact": "将来の自分の家を持ちたいと考えている人や、大きな買い物をするときのお金の計画に深く関わる問題です。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "ローン",
-     "meaning": "銀行などからお金を借りて、決まった期間に少しずつ返していく仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0b274a6e1eb37282",
-   "url": "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html",
-   "title_original": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
-   "source": "The New York Times",
-   "image": "",
-   "region": "海外",
-   "published": "2026-09-04T20:33:09+00:00",
-   "title_ja": "外交官のティモシー・カーニー氏が82歳で死去",
-   "one_line": "危険な場所にも自ら赴いて活動したアメリカの元外交官が亡くなりました。",
-   "what": "アメリカの外交官だったティモシー・カーニー氏が82歳で亡くなりました。カーニー氏は、他の人が避けるような危険な地域にも自ら足を運び、自分の目で見て確かめることを大切にする人でした。",
-   "background": "外交官というのは、自分の国を代表して他の国との話し合いを行ったり、現地に住む自国の国民を守ったりする仕事をする人のことです。世界各地にある大使館に勤め、国と国との大切なパイプ役を担っています。",
-   "impact": "今すぐ私たちの生活が変わるような影響はありませんが、世界の国々のあいだで平和を保つために働いてきた重要な人物の訃報です。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "外交官",
-     "meaning": "自分の国を代表して外国に行き、他国との交渉や自国の利益を守る仕事をする人のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "5f0c78680e8d5cb6",
-   "url": "https://apnews.com/article/illinois-tourism-breaking-records-economic-impact-f2d11c5d68350ff0b2e2bb2743e911c2",
-   "title_original": "Travelers flocked to Illinois last year, generating over $88 billion in economic impact",
-   "source": "AP通信",
-   "image": "https://dims.apnews.com/dims4/default/ef575b9/2147483647/strip/true/crop/2663x1774+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F84%2Fea%2Fc7d4fad755fff4933b25ed58e3d2%2Fbfaba694692543c0b75faea36d492388",
-   "region": "海外",
-   "published": "2026-09-04T20:23:02+00:00",
-   "title_ja": "アメリカのイリノイ州、観光でお金が大きく動く",
-   "one_line": "アメリカのイリノイ州で、たくさんの観光客がお金を使って経済が大きく潤いました。",
-   "what": "アメリカのイリノイ州で、去年の観光客によるお金の使い方が過去最高になり、全体で８８０億ドル以上の経済効果があったと発表されました。国内外から約１億１５００万人が訪れたことがその理由です。",
-   "background": "観光業は、遠くから人がやってきてホテルに泊まったり、ご飯を食べたり、お土産を買ったりすることで、その地域のレストランやお店にお金が落ちる仕組みです。地域全体でお仕事やお金を増やす大切な手段の一つとされています。",
-   "impact": "日本に直接すぐ影響が出るお話ではありませんが、外国でどれくらいの人やお金が動いているかを知るための、世界経済のニュースの一つです。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "経済効果",
-     "meaning": "ある出来事や活動によって、どれだけたくさんのお金が使われ、周りのお店や会社が潤ったかを表す合計の金額のこと。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "1608b8dfe9492a8e",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
-   "title_original": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788553340.jpg?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-04T20:22:42+00:00",
-   "title_ja": "アメリカのトランプ大統領、イランとの戦いについて発言",
-   "one_line": "アメリカのトランプ大統領が、イランとの戦いについて「小さなものだ」と述べました。",
-   "what": "アメリカのトランプ大統領が、イランとの戦いについて「小さなものだ」と表現し、亡くなったアメリカ人の数が過去の戦争に比べて少ないことに触れました。",
-   "background": "アメリカとイランは、長年にわたり政治や安全保障の面で対立が続いてきた国同士です。大統領などの国のリーダーが、過去の大きな戦争と比較して現在の戦いの規模や影響について語ることがあります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、国のトップ同士の発言や、世界各地で起きている争いの状況は、世界全体の平和や安全を考える上で大切なニュースです。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "33364cdbd2d83480",
-   "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-   "title_original": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358940-1788527112511-gettyimages-2292810316-AFP_C7B322X.jpeg?v=1788550249&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-04T20:06:13+00:00",
-   "title_ja": "アメリカの会社テスラの株価が大きく下がったこと",
-   "one_line": "新しい自動運転車の発表が投資家の期待に届かず、会社の株価が下がりました。",
-   "what": "アメリカの自動車会社テスラが、新しい自動運転タクシーについての情報を発表しました。しかし、期待していた人たちを満足させることができず、会社の株のねだんが下がってしまいました。",
-   "background": "会社は、株を発行して一般の人や銀行からお金を集めて大きくなっていきます。株を買った人は、会社の業績が良くなるともうけが得られますが、期待外れだと分かると株を売ってしまうため、ねだんが下がります。",
-   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、世界の大きなお金の動きや、最先端の技術がどう受け止められているかを知る手がかりになります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "株",
-     "meaning": "会社が活動するためにお金を出してくれた人に分ける、会社の所有権や利益をもらう権利のことです。"
-    },
-    {
-     "word": "投資家",
-     "meaning": "会社が将来もっと大きくなると信じて、自分のお金を預けたり株を買ったりする人や組織のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c944bbcf45458c55",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
-   "title_original": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788552194.jpg?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-04T20:04:13+00:00",
-   "title_ja": "イスラエルの無人機がレバノン南部を攻撃したこと",
-   "one_line": "イスラエルの軍の無人機が、お隣の国レバノンの町に爆弾を落としました。",
-   "what": "イスラエルの軍の無人機が、レバノンの南部にあるマンスーリという町に爆弾を落としました。その結果、現地でいくつかの爆発が起きたと伝えられています。",
-   "background": "中東地域では、国同士やさまざまなグループの間で長い間あらそいが続いています。イスラエルと、レバノンを拠点にするグループなども、国境をはさんで攻撃し合う状態が続いてきました。",
-   "impact": "日本にいる私たちの暮らしにすぐ大きな影響が出るわけではありませんが、世界の安全や、世界中で使われるエネルギーのねだんに影響することがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "無人機",
-     "meaning": "人が乗らずに、遠隔操作や自動で空を飛んで偵察や攻撃などを行う飛行機械のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "36b3f3d06f78aa36",
-   "url": "https://www.nikkei.com/article/DGXZQOUB023VP0S6A900C2000000",
-   "title_original": "日銀のタカ派委員、利上げ加速の主張鮮明 残り1年の任期意識か",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3548152003092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.28&fp-y=0.27&h=630&w=1200&s=f1d855aa3ff36b21820efdef32e3c912",
-   "region": "国内",
-   "published": "2026-09-04T20:00:00+00:00",
-   "title_ja": "日本銀行の委員が利上げを進める姿勢を示したこと",
-   "one_line": "日本銀行の委員が、金利を上げる政策をさらに進めるべきだという考えを強く示しました。",
-   "what": "日本の中央銀行である日本銀行の政策を決める委員の一人が、金利を上げる、いわゆる利上げを急ぐべきだという考えを強く主張しました。この委員の任期があと1年ほどであることも意識されていると見られています。",
-   "background": "日本銀行は、景気や物価の安定をめざして、お金の貸し借りのときの「金利」を上げ下げする政策を調整しています。物価が上がってきた近年では、金利を少しずつ元に戻そうとする動きが出ています。",
-   "impact": "金利が上がると、住宅ローンや会社の借金の返す額が増える一方で、銀行にお金を預けたときにもらえる利息が増えるなど、私たちの家計にさまざまな影響を与えます。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "金利",
-     "meaning": "銀行にお金を預けたり借りたりするときにやり取りする、手数料のような割合のことです。"
-    },
-    {
-     "word": "利上げ",
-     "meaning": "経済や物価のバランスをとるために、中央銀行が決める金利を引き上げることです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "92ce47cf1e5066e9",
-   "url": "https://www.nikkei.com/article/DGXZQODK022470S6A900C2000000",
-   "title_original": "長期金利3%時代の家計、今こそ資産・負債の「見える化」を",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3547456003092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=a8c10ca3ce1ac826a904deba04fbf659",
-   "region": "国内",
-   "published": "2026-09-04T20:00:00+00:00",
-   "title_ja": "金利が上がる時代に向けた家計の備え方",
-   "one_line": "金利が上がると借りたお金の返済が増えるため、自分の財産と借金をしっかり確認することが大切です。",
-   "what": "金利が上がる時代にあわせて、家庭で自分のお金や借金の状態をしっかり把握し、見直すことが大切だというニュースです。",
-   "background": "金利とは、銀行にお金を預けたり借りたりするときにやり取りする「お金の値段」のことです。これまで日本は長い間、金利がとても低い状態が続いていましたが、最近では金利が上がっていく方向へと変化しています。",
-   "impact": "今すぐ生活が大きく変わるわけではありませんが、住宅ローンなどの借金がある場合は、返済する金額が増える可能性があるので、早めの備えが大切になります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "長期金利",
-     "meaning": "国がお金を借りるときの金利のことで、世の中全体の金利の基準となる大切な数字です。"
-    },
-    {
-     "word": "資産",
-     "meaning": "現金や預金、株や家など、自分が持っている価値のある財産のことです。"
-    },
-    {
-     "word": "負債",
-     "meaning": "銀行などから借りたお金など、将来返さなければいけない借金のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "718166c3881f0448",
-   "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo",
-   "title_original": "UN votes to adopt new world map to reflect Africa's true size",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
-   "region": "海外",
-   "published": "2026-09-04T19:44:40+00:00",
-   "title_ja": "国連でアフリカの正しい大きさを示す新しい世界地図の採択が決まる",
-   "one_line": "国連で、アフリカ大陸の本当の大きさを表した新しい世界地図をとり入れることが決められました。",
-   "what": "アフリカの国が提案した、アフリカ大陸の本当の大きさを表した新しい世界地図を国連で採用することが、多くの国の賛成で決められたというニュースです。",
-   "background": "世界中でよく使われている平面の世界地図は、地球の丸い球体を無理やり平らにしているため、赤道から離れた場所にある国や大陸が実際より大きく、赤道に近いアフリカなどが実際より小さく見える特徴があります。",
-   "impact": "今すぐ私たちの暮らしや学校の勉強が変わるわけではありませんが、世界各国が地球の正しい姿や地域ごとの大切さを改めて見つめ直すきっかけとなります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が話し合って、戦争を防いだり地球の平和や問題を解決したりするための国際的な組織です。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d14173a2e07f7550",
-   "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Outrage as Maltese tycoon acquitted in journalist's murder",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/78814467_6.jpg",
-   "region": "海外",
-   "published": "2026-09-04T19:31:00+00:00",
-   "title_ja": "マルタの事件で実業家が無罪となり波紋",
-   "one_line": "ジャーナリストが殺害された事件で、裁判で無罪となった実業家をめぐり大きな議論が起きています。",
-   "what": "マルタという国で起きたジャーナリスト殺害事件で、関わったと疑われていた実業家が裁判で無罪となり、人々が驚きと怒りの声をあげているというニュースです。",
-   "background": "マルタはヨーロッパにある小さな島国です。ニュースを伝えるジャーナリストは、政治や社会の不正を見つけて世の中に知らせる重要な仕事をしており、命を狙われるようなことがあってはならないとされています。",
-   "impact": "今すぐ私たちの生活が変わることはありませんが、世界中でジャーナリストの安全や、法律による正しい裁きがどのように行われるかという大切な問題として注目されています。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "無罪",
-     "meaning": "裁判の結果、その人が罪を犯していないと判断されることです。"
-    },
-    {
-     "word": "共謀",
-     "meaning": "ほかの人と一緒になって、悪い計画を立てたり実行したりすることです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "87242d8eb854864c",
-   "url": "https://www.jiji.com/jc/article?k=2026090500137&g=int&m=rss",
-   "title_original": "中国企業が大規模訪米団 首脳会談で習国家主席に同行―ロイター報道",
-   "source": "時事通信",
-   "image": "https://www.jiji.com/img/jijicom_og_image.png",
-   "region": "国内",
-   "published": "2026-09-04T19:31:00+00:00",
-   "title_ja": "中国の企業グループがアメリカを大規模に訪問",
-   "one_line": "中国の大きな企業グループがアメリカを訪れ、首脳会談に合わせた動きを見せました。",
-   "what": "中国の企業でつくる大きなグループが、アメリカを大規模に訪問したことが報じられました。これは首脳会談の際に、中国の習近平国家主席に同行する形で行われたものです。",
-   "background": "国と国とが話し合う首脳会談のときには、政治家だけでなく、ビジネスを進める企業の人たちも一緒に動くことがよくあります。国と国の関係をよくしたり、商売の話し合いを進めたりするためです。",
-   "impact": "今すぐ私たちの暮らしやお金に直接影響するものではありませんが、大国同士のビジネスや政治の結びつきがどのように動いているかを示す出来事です。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "8d0debe7a6831767",
-   "url": "https://www.nikkei.com/article/DGXZQOGN04B7J0U6A900C2000000",
-   "title_original": "米9月利上げ予想優勢に トランプ氏｢高金利許さず｣、板挟みのFRB議長",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3555267004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.43&fp-y=0.35&h=630&w=1200&s=8c73b626f06121bc836f79f3e8a4b895",
-   "region": "国内",
-   "published": "2026-09-04T18:20:00+00:00",
-   "title_ja": "アメリカの利上げをめぐる予想と金融の動き",
-   "one_line": "アメリカの金利をどうするかという予想が広がっています。",
-   "what": "アメリカで金利を上げるという予想が優勢になる中で、大統領が金利の引き下げを求めていると伝えられています。",
-   "background": "中央銀行という国のお金の仕組みを管理する機関は、物価や景気を安定させるために金利を上げ下げする役割を持っています。政治とは独立して決めることが大切とされています。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、アメリカの金利の変化は世界中のお金の流れや円の価値に影響することがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "利上げ",
-     "meaning": "銀行にお金を預けたり借りたりするときの金利を上げることです。物価が高くなりすぎるのを防ぐときに行われます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "64868ada1cab46cc",
-   "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-   "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
-   "source": "The Economist",
-   "image": "",
-   "region": "海外",
-   "published": "2026-09-04T18:05:02+00:00",
-   "title_ja": "AIの普及と仕事への影響について",
-   "one_line": "AIの技術が仕事に与える影響が広がっていると伝えられています。",
-   "what": "新しい技術が仕事に与える最初の影響について、前向きな変化が見られると伝えられています。",
-   "background": "AIという、コンピューターが人間のように考えて作業をする新しい技術が、さまざまな仕事の現場で使われるようになっています。技術の進歩はこれまでも人々の働き方や仕事の種類を変えてきました。",
-   "impact": "今すぐ私たちの働き方が急に変わるわけではありませんが、新しい技術がこれからの仕事や社会にどのような変化をもたらすのか注目されています。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "AI",
-     "meaning": "人間のように考えたり学んだりするコンピューターの仕組みのことです。いろいろな作業を手伝うために使われています。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "31f84116528cf80d",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260905de48256",
-   "title_original": "円相場 荒い値動き続く FRB 日銀の利上げ観測や介入警戒で",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
-   "region": "国内",
-   "published": "2026-09-04T17:12:40+00:00",
-   "title_ja": "円の価値が激しく変動する動きが続く",
-   "one_line": "外国のお金と比べた円の価値が大きく上下する動きが続いています。",
-   "what": "アメリカの経済の様子が発表されたあと、円を売ってドルを買う動きや、逆に円を買い戻す動きが短期間に繰り返されました。",
-   "background": "外国為替市場では、国と国のお金を交換するときの値段が、世界中の買い手と売り手のやり取りで常に変わっています。それぞれの国の中央銀行が金利をどうするかという予想や、政府による市場への働きかけが影響します。",
-   "impact": "円の価値が大きく変わると、海外から輸入する食べ物やエネルギーの値段が変わるため、私たちの暮らしや家計に影響することがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "円相場",
-     "meaning": "日本のお金である円と、アメリカのドルなど外国のお金を交換するときの値段のことです。"
-    },
-    {
-     "word": "FRB",
-     "meaning": "アメリカの中央銀行で、お札の発行や金利の調整などを通してアメリカの経済や物価を安定させる役割を持つ組織です。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a5d7bba377cc07a0",
-   "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o",
-   "title_original": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg",
-   "region": "海外",
-   "published": "2026-09-04T16:02:32+00:00",
-   "title_ja": "ロシアの無人機攻撃がウクライナの安全保障中枢に命中",
-   "one_line": "ウクライナの首都で、安全保障の建物が攻撃を受けました。",
-   "what": "ウクライナのゼレンスキー大統領によると、首都の中心部で無人航空機による突然の攻撃があり、ウクライナの安全保障の中心となる機関が被害を受けました。",
-   "background": "ウクライナとロシアは2022年から続く軍事的な衝突の中にあります。首都への攻撃は市民の生活や国の安全を支える大切な場所を狙うもので、お互いにミサイルや無人機を使った攻撃を続けています。",
-   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、世界の平和やエネルギーや食料の値段に影響することがあります。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "無人航空機",
-     "meaning": "人が乗らずに、遠くからの操作や自動で飛ぶ飛行機や機体のことで、カメラや爆弾を積んで使われることがあります。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f889edda0d8b0b88",
-   "url": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
-   "title_original": "WBNA Commissioner Cathy Engelbert to retire at the end of 2026",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358998-1788533850717-gettyimages-2287009688-mt1_3348.jpeg?v=1788533872&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-04T15:56:07+00:00",
-   "title_ja": "アメリカの女子プロバスケットボール連盟の最高責任者が引退へ",
-   "one_line": "アメリカの女子プロバスケットボールのトップが2026年終わりに退任します。",
-   "what": "アメリカの女子プロバスケットボール連盟でトップを務めるキャシー・エンゲルバート氏が、2026年の終わりをもって引退すると伝えられています。在任中は人気が高まりましたが、選手との間での意見の対立もありました。",
-   "background": "スポーツの団体では、ビジネスを進める責任者が組織全体の運営や試合の人気を高めるための仕事を行います。選手と経営側の間で、ルールや給料などをめぐって話し合いや意見の食い違いが起きることもよくあります。",
-   "impact": "日本に直接の大きな影響はありませんが、スポーツ界のお金の動きや、女性スポーツの人気がどう広がっていくかに関わるニュースです。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "b3091a3b4a0108e8",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-   "title_original": "Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates – US politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/bb70d3f410383d19f02f1d1c8c805f93b29a3c5d/40_0_2877_2304/master/2877.jpg?width=140&quality=85&auto=format&fit=max&s=f6954a967b8035d1381f457c14176d8a",
-   "region": "海外",
-   "published": "2026-09-04T15:54:47+00:00",
-   "title_ja": "アメリカ大統領が中央銀行の金利引き下げを要求、貿易停止にも言及",
-   "one_line": "アメリカのトランプ大統領が、中央銀行に金利を下げるよう求めました。",
-   "what": "アメリカのトランプ大統領が、インターネット上の投稿で、アメリカの中央銀行に対して金利を下げるよう求めました。もし言うことを聞かなければ、アメリカが貿易で損をしている国々との間で貿易を止めると警告しました。",
-   "background": "アメリカの中央銀行は、政治から独立して景気や物価の安定を保つために金利を決める役割を持っています。大統領は景気を良くするために金利を下げてほしいと考えることがありますが、中央銀行は物価の上がりすぎを防ぐために慎重になります。",
-   "impact": "アメリカの金利や貿易の方針が変わると、日本の円の値段や株の価格、私たちが買う輸入品の値段にも大きな影響をあたえることがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "金利",
-     "meaning": "お金を銀行に預けたり借りたりするときにやり取りする、手数料のような割合のことです。"
-    },
-    {
-     "word": "貿易赤字",
-     "meaning": "外国へ売った商品の金額よりも、外国から買った商品の金額のほうが多くなっている状態のことです。"
-    }
-   ],
-   "importance": 5
   }
  ]
 }
