@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T05:40:51.538570+09:00",
+ "updated_at": "2026-09-11T12:59:10.463952+09:00",
  "genres": [
   "政治",
   "経済",
@@ -32,6 +32,7 @@
  "sources": [
   "AP通信",
   "Al Jazeera",
+  "BBC NEWS JAPAN",
   "BBC News",
   "CNBC",
   "Deutsche Welle",
@@ -59,54 +60,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "69760f86691623f9",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "c4ead4314ed9e013",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "1866f003f845ab9f",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "25b97729a844208d",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "342d27f09c679c8c",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "f51f86b4a2697717",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "cf376d995a8ac5d0",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "91900f91206d5762",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "601a9e258b13dfa0",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "05993b0296dc3c62",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "c8413ac73b4773bb",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
-  {
-   "id": "5682705b60ed38b8",
-   "until": "2026-09-11T03:56:20.146309+00:00"
-  },
   {
    "id": "0212c9ab61903b63",
    "until": "2026-09-11T10:38:49.885711+00:00"
@@ -722,10 +675,473 @@
   {
    "id": "48b9bdd5a788e0aa",
    "until": "2026-09-15T20:40:51.538570+00:00"
+  },
+  {
+   "id": "4fbe00533688b7c6",
+   "until": "2026-09-16T03:59:10.463952+00:00"
+  },
+  {
+   "id": "aba93b80de505fcd",
+   "until": "2026-09-16T03:59:10.463952+00:00"
+  },
+  {
+   "id": "0c47152d55af3d00",
+   "until": "2026-09-16T03:59:10.463952+00:00"
+  },
+  {
+   "id": "b2d6c560fdacb4a7",
+   "until": "2026-09-16T03:59:10.463952+00:00"
+  },
+  {
+   "id": "0a8112eaebcee949",
+   "until": "2026-09-16T03:59:10.463952+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "655a8c2aa359fc0f",
+   "url": "https://www.asahi.com/articles/ASV9C0CNDV9CULFA01SM.html",
+   "title_original": "武田薬品元社長の長谷川閑史さんが死去 経済同友会代表幹事も務める",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260911001251_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:49:46+00:00",
+   "title_ja": "武田薬品の元社長で経済団体の代表を務めた長谷川閑史さんが死去",
+   "one_line": "大手製薬会社で社長を務め、経済団体のリーダーも任された長谷川閑史さんが亡くなりました。",
+   "what": "武田薬品工業の社長を務めた長谷川閑史さんが亡くなりました。長谷川さんは製薬会社を率いただけでなく、日本の主要な経済団体の一つである「経済同友会」で代表幹事（リーダー）の役割も務めました。",
+   "background": "そもそも経済団体とは、企業の経営者たちが集まり、日本の経済や社会を良くするための意見を政府や社会に伝える組織です。大企業のトップを務める人物は、自分の会社を経営するだけでなく、日本全体の景気や雇用、社会のルールづくりについても話し合う重要な役割を担っています。",
+   "impact": "個人の訃報であるため、私たちの毎日の暮らしや買い物に今すぐ直接大きな影響が出るわけではありません。しかし、日本の産業界を引っ張ってきたリーダーが交代していく一つの節目といえます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "経済同友会",
+     "meaning": "企業の経営者たちが個人として参加し、経済や社会の課題について話し合い提言する団体のことです。"
+    },
+    {
+     "word": "代表幹事",
+     "meaning": "経済同友会などの組織において、全体をまとめ代表として発言するリーダーの役職のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "12fa1890cd08691c",
+   "url": "https://www.asahi.com/articles/ASV9C140FV9CULFA00KM.html",
+   "title_original": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260911001846_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:46:12+00:00",
+   "title_ja": "企業の決算を調べる監査法人に行政処分を求める勧告",
+   "one_line": "企業の計算が正しいか調べる監査法人に対し、国の専門組織が処分を求めることに決めました。",
+   "what": "国の専門組織である公認会計士・監査審査会が、企業「オルツ」の決算書類などを調べる監査法人に対して、行政処分を行うよう国に求める勧告を出すことを決めました。具体的な処分内容は国が判断します。",
+   "background": "企業が毎年発表するお金の計算（決算書）が正しいかどうかは、専門家である公認会計士が集まった「監査法人」がチェックします。監査法人が正しく検査を行っているか監視するため、国の専門組織が定期的に審査し、問題が見つかった場合には行政処分をするよう国に求める仕組みがあります。",
+   "impact": "今すぐ私たちの暮らしに直接影響するものではありませんが、会社が間違った決算を出さないように監視し、お金のやり取りや社会全体の信頼を守るために大切な動きです。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "監査法人",
+     "meaning": "会社が作った決算書などの計算が正しいかどうかを専門的にチェックする公認会計士の組織。"
+    },
+    {
+     "word": "行政処分勧告",
+     "meaning": "国の専門委員会が、ルールを守らなかった組織などにペナルティを科すよう担当の大臣に求めること。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "738befe9ec030f72",
+   "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
+   "title_original": "Australia news live: Victoria premier says NFL game shows state is ‘major events capital’; ASX set for worst week since US-Iran war began",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/87e8e95025fd162c68c3125e971e0e5ed39c05d6/780_221_4482_3586/master/4482.jpg?width=140&quality=85&auto=format&fit=max&s=b1717bede63bc2818295c7a8858bc6a8",
+   "region": "海外",
+   "published": "2026-09-11T03:45:35+00:00",
+   "title_ja": "オーストラリアで支援金を受ける人の死亡率の高さが報告される",
+   "one_line": "オーストラリアで生活の手当を受けている人の死亡率が手当のない人より非常に高いと発表されました。",
+   "what": "オーストラリアで、障害や失業、介護などの生活手当を受け取っている人の死亡率が、手当を受けていない人に比べて9倍以上高かったとする調査結果が発表されました。手当を受ける困窮した人たちの健康状態が問題視されています。",
+   "background": "国は、病気や障害、失業などで生活に困っている人を支えるために手当を配る社会保障の仕組みを持っています。生活の手当を渡すことだけでなく、困っている人たちが病気にならず安全に暮らせる環境をどう整えるかが、社会の制度として重要視されています。",
+   "impact": "日本の暮らしに今すぐ影響するものではありませんが、手当を支給するだけでなく困っている人の命や健康をどのように支えていくかという、社会保障の課題を示しています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "死亡率",
+     "meaning": "一定の人数の中で、ある決まった期間の間に亡くなった人の割合を示す数値。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "72e00bf97304d59a",
+   "url": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
+   "title_original": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108361566-1789088718299-gettyimages-2293625449-20090101260908-99-567229.jpeg?v=1789088743&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-11T03:44:43+00:00",
+   "title_ja": "南シナ海をめぐる中国とフィリピンの対立が続く",
+   "one_line": "南シナ海の権利をめぐって中国とフィリピンの間で対立が続いており緊張が高まっています。",
+   "what": "南シナ海での主張をめぐり中国とフィリピンの間で長年にわたり対立が続いており、ここ数か月でさらに摩擦が強まっていることが分かりました。対立をめぐり中国がフィリピンを非難しています。",
+   "background": "南シナ海はたくさんの貿易船が行き交う世界的に重要な海の道ですが、周辺にある複数の国や地域がそれぞれの領土や権利を主張しています。お互いの主張がぶつかり合うため、海の上でのトラブルや意見の食い違いが長年にわたって繰り返されてきた経緯があります。",
+   "impact": "今すぐ私たちの生活が変化するわけではありませんが、たくさんの船が行き来する重要な海で緊張が強まると、物の輸送や地域の安全保障に影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "中国・アジア",
+   "terms": [
+    {
+     "word": "南シナ海",
+     "meaning": "アジアの東南に位置する広い海域で、重要な船の通り道であり資源もあるため周辺の国が権利を争っています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1f5748838a85fa96",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260911de49671",
+   "title_original": "金子国交相 民泊禁止方針「適切な運営に向けた検討望ましい」",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49671/20260911de49671_E0000028349_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:44:21+00:00",
+   "title_ja": "国土交通大臣が住宅地での民泊禁止方針を評価",
+   "one_line": "東京の新宿区などが住宅地での民泊を禁止する方針について大臣が良い取り組みだと評価しました。",
+   "what": "東京の新宿区などが住宅地での新しい民泊の営業を禁止する方針を出したことについて、金子国土交通大臣は民泊を適切に運営するための検討が進むことは望ましいと述べ、この方針を評価しました。",
+   "background": "民泊は、普通の家やマンションを旅行者の宿泊場所として貸し出す仕組みです。便利で利用者が増える一方で、夜間の騒音やごみの出し方などをめぐって近隣住民とトラブルになることがあるため、自治体ごとにルールを定めて生活環境を守る取り組みが行われています。",
+   "impact": "住んでいる場所の近くで民泊が増えることによる騒音などのトラブルを防ぐルール作りが進むことで、近所で暮らす人たちの静かで安全な生活環境を守ることにつながります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [
+    {
+     "word": "民泊",
+     "meaning": "個人の住宅やマンションの部屋などを、旅行者などの宿泊場所として有料で提供するサービス。"
+    },
+    {
+     "word": "国土交通大臣",
+     "meaning": "交通や土地、住宅、観光などに関する国の仕事や政策をまとめる大臣。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "abef543284ad075a",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260911de49656",
+   "title_original": "消費税減税の大綱案 自民合同会議で税制調査会長らに対応一任",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49656/20260911de49656_E0000028285_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:43:54+00:00",
+   "title_ja": "自民党、食料品の消費税減税の案の対応を一任へ",
+   "one_line": "食料品の消費税の引き下げに向けた大綱の案について、今後の対応が幹部に任されることになりました。",
+   "what": "自民党は税制調査会の会議を開き、食料品の消費税を減税するための制度の仕組みをまとめた大綱の案について、小野寺税制調査会長たちに今後の対応をすべて任せることを決めました。政府と与党は、来週15日にこの大綱を正式に決める予定です。",
+   "background": "消費税は、私たちが買い物や食事をしたときに、商品の値段に上乗せして国に納める税金です。税制調査会は、どのような税金をいくら集めるかというルールや法律の変更について話し合い、決めるための政党の中の組織です。また閣議決定とは、国の重要な方針について、総理大臣と大臣たちが集まって話し合い、正式に決める手続きのことです。",
+   "impact": "もし食料品の消費税が引き下げられれば、毎日の食事にかかるお金や買い物の負担が軽くなる可能性があります。ただし、国の税金の収入が減るため、その分の穴埋めをどうするかなど、これからの話し合いや暮らしへの影響を慎重に見る必要があります。",
+   "genre": "政治",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "消費税調査会",
+     "meaning": "どのような税金をいくら集めるか、ルールや法律の変更について話し合って決めるための、政党の中の組織です。"
+    },
+    {
+     "word": "閣議決定",
+     "meaning": "国の重要な方針について、総理大臣と大臣たちが全員集まって話し合い、政府としての正式な意思を決める手続きのことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ed055a488c24fe05",
+   "url": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
+   "title_original": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-11T03:39:17+00:00",
+   "title_ja": "アメリカのIT支援企業トップがAI技術の模倣を問題視しない姿勢",
+   "one_line": "アメリカの著名なIT支援会社のトップが、人工知能技術の模倣について心配する必要はないとの見解を示しました。",
+   "what": "アメリカの著名な企業支援組織であるワイ・コンビネーターの最高経営責任者が、恒例のイベントで、人工知能の最先端モデルの技術が他社にコピーされることや、人工知能による深刻な危険性について、あまり心配していないという考えを説明しました。",
+   "background": "人工知能は、人間の脳のように考えたり学習したりするコンピューターの技術です。最近は文章や絵を自動で作る高度な技術が次々と開発されています。一方で、アメリカの巨大なIT企業の間では、ライバル国である中国の企業などが自分たちの優れた人工知能の技術やデータをまねして使っているのではないかという懸念や批判の声が出ています。",
+   "impact": "今すぐ私たちの暮らしやお金の使い方が直接変わるわけではありません。しかし、最先端の人工知能の技術がどのように扱われ、企業同士や国同士の競争にどう影響するのかは、これからの産業の発展や将来の社会の仕組みを考えるうえで大切な動きです。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間の脳のように考えたり、言葉を話したり、絵を描いたり学習したりするコンピューターのプログラムや技術のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "dae84d1a9c76dc02",
+   "url": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
+   "title_original": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa376e2-1789097698.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-11T03:33:08+00:00",
+   "title_ja": "アメリカの共和党が中間選挙に向けた集会を終了",
+   "one_line": "アメリカの共和党がテキサス州で会議を開き、重要となる選挙に向けて支持の結束を呼びかけました。",
+   "what": "アメリカの共和党がテキサス州のダラスで開いていた党の集まりが終わり、最終日には抗議活動をする人たちも集まるなか、重要な議会選挙を控えて党の支持基盤をしっかりとまとめようとする動きが確認されました。",
+   "background": "アメリカの議会には法律を作る役割があり、定期的におこなわれる選挙で議員が選ばれます。特に、現在の大統領の任期の中間に行われる選挙は、政権がうまく進んでいるかを判断する重要な節目となります。また、共和党は、アメリカの二大政党のうちのひとつの政党です。",
+   "impact": "今すぐ日本の暮らしや法律が直接変わることはありません。しかし、アメリカで政治の力がどのように変わるかは、世界中の貿易や安全保障、日本との外交関係にも大きな影響を与えるため、今後の動きに注目が集まります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "共和党",
+     "meaning": "民主党とともにアメリカの政治を動かす二大政党のひとつで、個人の自由や強い安全保障などを重視する傾向があります。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "81588338a2b7796b",
+   "url": "https://toyokeizai.net/articles/-/957768",
+   "title_original": "行き着く先は\"流れ解散\"？ 解体→統一会派結成へ舵を切った｢中道｣勢力を待ち受ける茫漠たる\"いばら道\"の現実 | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/6/0/1200w/img_60f583a8db792bd07342872249fb504b217085.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-11T03:30:00+00:00",
+   "title_ja": "最大野党の中道改革連合が結党からわずか半年余りで解体へ",
+   "one_line": "最大野党である中道改革連合が結党から短期間で解体され、野党の勢力をめぐる動きが複雑になっています。",
+   "what": "最大野党である中道改革連合が、作られてからわずか8カ月という短い期間で解体されることになりました。これに伴って、野党の議員たちがバラバラになるのではなく新しいグループを作る動きが出ており、今後の政治の勢力図がどうなるのか先行きが不透明になっています。",
+   "background": "日本の政治では、政権を担う与党に対して、別の政策を掲げて政権交代を目指すグループを野党と呼びます。野党は自分たちの考えが近い議員同士でまとまって政党や「会派」というグループを作り、国会で話し合いや選挙に臨みますが、考え方の違いなどから離合集散を繰り返す歴史があります。",
+   "impact": "今すぐ私たちの生活のルールや税金が変わるわけではありません。しかし、国の政治をチェックしたり、将来の首相や政権を担うかもしれない野党のまとまりが変わることは、これからの政治のあり方や選挙の仕組みに大きな影響を与えます。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "野党",
+     "meaning": "国の政治を行っている与党に対して、別の政策や考え方を掲げて政権交代を目指す政治のグループのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bb5417c3d414bc6b",
+   "url": "https://www.asahi.com/articles/ASV9C0RMRV9CUHBI005M.html",
+   "title_original": "共和党大会の街で「エプスタイン文書」展 避ける政権へ被害者の訴え",
+   "source": "朝日新聞 国際",
+   "image": "https://imgopt.asahi.com/ogp/AS20260911001513_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:30:00+00:00",
+   "title_ja": "アメリカの政党の大会の街で開かれた文書展",
+   "one_line": "アメリカの政治集会の街で、過去の事件に関する被害者の訴えを伝える展示が開かれました。",
+   "what": "アメリカの政党が開いた大きな集会の街で、「エプスタイン文書」に関する展示が行われ、被害を訴える声が伝えられました。",
+   "background": "アメリカでは、大きな政党がこれからの活動方針や候補者を決めるために、全国から党員が集まる大きな大会をひらきます。また、政府や司法などの公的な機関の手によって、過去に起きた事件に関するさまざまな記録や文書が外に公開されることがあります。",
+   "impact": "今すぐ私たちの暮らしやお金の仕組みが直接変わるわけではありませんが、アメリカの政治や社会で何が問題になっているかを知るための出来事です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "共和党",
+     "meaning": "アメリカにある二つの大きな政党のうちのひとつで、もうひとつの民主党と政権を争っています。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "3293acbf27f4da44",
+   "url": "https://www.jiji.com/jc/article?k=2026091100392&g=int&m=rss",
+   "title_original": "バンス米副大統領、民主党打倒を訴え 共和党大会、閉幕",
+   "source": "時事通信",
+   "image": "https://www.jiji.com/news2/kiji_photos/202609/20260911at16S_o.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:26:00+00:00",
+   "title_ja": "アメリカの副大統領が民主党の打倒を訴えて大会が閉幕",
+   "one_line": "アメリカの副大統領が別の政党を批判して選挙での勝利を訴え、大きな集会が幕を閉じました。",
+   "what": "アメリカの共和党の大きな集会の最後で、副大統領がもうひとつの政党である民主党に勝つことを強く訴え、大会が終了しました。",
+   "background": "アメリカでは民主党と共和党という二つの大きな政党が、大統領の座や議会の多数派を目指していつも激しく争っています。こうした大会は、党のまとまりを強めて支持を広げるために開かれます。",
+   "impact": "今後のアメリカの政治の方向性や、次に行われる選挙の結果に影響を与える可能性がありますが、日本での暮らしへの直接的な変化はすぐにはありません。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "副大統領",
+     "meaning": "大統領に何かがあったときに代わりに仕事をする、国で二番目に高い地位にある人です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "110ac19b140fb733",
+   "url": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
+   "title_original": "Taiwan vice president makes rare Europe visit for conference on democracy",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20250718__674W6H7__v1__MidRes__TaiwanPolitics-1789092636.jpg?resize=1862%2C1080",
+   "region": "海外",
+   "published": "2026-09-11T03:15:44+00:00",
+   "title_ja": "台湾の副総統がヨーロッパを秘密裏に訪問",
+   "one_line": "台湾の副総統が民主主義についての会議に出席するため、ヨーロッパを秘密の計画で訪れました。",
+   "what": "台湾の副総統がヨーロッパを訪れ、民主主義についての会議に出席しました。移動や訪問の計画は、安全を守るために到着するまで秘密にされていました。",
+   "background": "ヨーロッパの議会などは、世界各地から政治家を招いて民主主義や人権についての会議を開くことがあります。国際的な関係のあり方により、台湾の指導者が外国を公式に訪れることにはさまざまな事情や制限があります。",
+   "impact": "日本と近い地域での国際的な外交の動きであり、世界の国々のつながりや関係性に影響を与えることがありますが、私たちの生活に直接の変化はすぐに起きません。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "欧州議会",
+     "meaning": "ヨーロッパの国々が集まって話し合い、ルールなどを決めるための組織です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "85cd02ceed037da9",
+   "url": "https://www.bbc.com/japanese/articles/c624le2ve90o",
+   "title_original": "ドローンの光でツインタワー再現、9/11攻撃から25年 米ニューヨーク",
+   "source": "BBC NEWS JAPAN",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5786/live/ab35c5b0-ad21-11f1-a540-61c3f7fc4e6c.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:14:41+00:00",
+   "title_ja": "アメリカ同時多発攻撃から25年でドローンによる追悼",
+   "one_line": "アメリカで起きた昔の大きなテロ攻撃から25年を前に、夜空に光のタワーが再現されました。",
+   "what": "2001年に起きたアメリカでの同時多発攻撃から25年を迎えるのを前に、ニューヨークで多数のドローンの光を使って、昔あったビルが実物大で夜空に再現されました。",
+   "background": "2001年9月11日にアメリカで起きた同時多発攻撃は、飛行機がビルに突入するなどして多くの人が亡くなった、世界の歴史に大きな影響を与えたテロ事件です。毎年この時期には、犠牲者を悼むさまざまな行事が行われます。",
+   "impact": "直接的な経済や政治の仕組みが変わるわけではありませんが、世界の安全保障や平和について考えるための大切な歴史の出来事です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "ドローン",
+     "meaning": "人間が乗らずに、遠くから無線などで操作して空を飛ぶ小型の飛行機や機械のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ed7b611f34086a89",
+   "url": "https://news.yahoo.co.jp/pickup/6594940?source=rss",
+   "title_original": "テスラ 無人タクシーを日本初公開",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/11/db39d767d5509adf276448a26d208c3a2835b7f98a637040fcd4a4cd979a0711.jpg",
+   "region": "国内",
+   "published": "2026-09-11T03:01:22+00:00",
+   "title_ja": "アメリカのテスラが日本で初めて無人タクシーを公開",
+   "one_line": "電気自動車メーカーのテスラが、運転手のいない「無人タクシー」を日本で初めて公開しました。",
+   "what": "アメリカの有名な電気自動車メーカーであるテスラが、運転手が乗らなくても自動で走ることができる「無人タクシー」を、日本で初めて人々に公開しました。この技術は、将来の移動を大きく変えるものとして注目されています。",
+   "background": "自動車の運転をコンピューターに任せる「自動運転」の技術は、世界中で開発が進んでいます。特に、運転手がいない「無人タクシー」は、タクシー運転手の人手不足を解決したり、お年寄りなどの移動をベンリにしたりする手段として期待されています。世界中の自動車会社やIT企業が、安全に走らせるための技術を競い合っています。",
+   "impact": "今すぐ私たちの街をこのタクシーが走るわけではありませんが、将来、日本でも運転手のいないタクシーに乗れるようになるかもしれないという、新しい未来を感じさせてくれます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "d068abda97eb27b0",
+   "url": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-accepts-joyce-apology-traitor-cartoon-hanson-tells-critics-chill-ntwnfb",
+   "title_original": "Hastie accepts apology from Joyce over ‘traitor’ cartoon as Hanson doubles down and tells critics to ‘chill’",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/9fe4e7c0f39367b26d0b214362e16478c8cdbc29/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c52364c552e1febd11db060083aef250",
+   "region": "海外",
+   "published": "2026-09-11T02:59:00+00:00",
+   "title_ja": "オーストラリアの政治家がアニメ動画をめぐり謝罪と対立",
+   "one_line": "政治家を裏切り者と呼ぶ動画をめぐり、謝罪が行われる一方で政党内の対立が続いています。",
+   "what": "オーストラリアで、ハスティ政治家を「裏切り者」と呼ぶ動画が作られました。これに関わったジョイス氏がハスティ氏に謝罪し、ハスティ氏は受け入れました。しかし、政党のリーダーのハンソン氏は動画を消すことを拒んでおり、意見が割れています。",
+   "background": "オーストラリアの議会や政党の間では、お互いの意見や行動をめぐって激しい議論が行われます。今回は、インターネット上の動画を使った相手への批判のやり方が適切だったのかどうかが問題になりました。政治家同士の個人的な謝罪だけでなく、政党のトップとの間で意見の食い違いが起きるなど、複雑な問題になっています。",
+   "impact": "日本の私たちの生活にすぐ変化があるわけではありません。しかし、外国の政治においてインターネットや動画がどのように使われ、どのような対立を生むのかを知る手がかりになります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "e6ea137dd0fed6fa",
+   "url": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
+   "title_original": "Putin and Xi in India for BRICS summit as Ukraine, Middle East wars loom",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/f0d61468-acf3-11f1-ab71-005056bfb2b6/w:1024/p:16x9/7e5fcf827b46397639dc014e8f6942451ecb7847.jpg",
+   "region": "海外",
+   "published": "2026-09-11T02:08:34+00:00",
+   "title_ja": "ロシアと中国のトップがインドで会談へ",
+   "one_line": "ロシアや中国などの国が集まる会議が開かれ、各地の争いや経済について話し合われます。",
+   "what": "ロシアのプーチン大統領がインドの首都ニューデリーに到着し、2日間の会議に出席します。中国の習近平国家主席やイランの大統領も参加し、インドのモディ首相と会談する予定です。",
+   "background": "ロシアや中国、インドなどが参加するグループがあります。世界中の国々がそれぞれの立場から、自分たちの貿易の仕組みや安全について話し合うために、こうした大きな会議を定期的に開いています。",
+   "impact": "世界の大国同士がどのような話し合いをするかによって、世界の安全や経済の動きが変わることがあります。今すぐ私たちの生活が直接変わるわけではありませんが、世界の動きに影響を与えます。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "BRICS",
+     "meaning": "ロシアや中国、インドなど、経済が大きく成長している国々が参加しているグループのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1f3b2f97133e54a9",
+   "url": "https://www.sankei.com/article/20260911-NGSELTIDRROQLDFDPVH7M37KWU",
+   "title_original": "イランが弾道ミサイル生産再開か 地下施設で能力回復の可能性、米紙WSJ報道",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/JZ6OW34XWRB3RMAEX3U54EJ3E4.jpg?auth=433544416bd77fc417fff9bc294c5b707a5a202a3979ccdf751b7bd85bebf25d&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-11T01:54:47+00:00",
+   "title_ja": "イランが地下施設でミサイル生産を再開か",
+   "one_line": "イランが地下の施設でミサイルを作る能力を取り戻しつつあると、アメリカの新聞が報じました。",
+   "what": "イランが弾道ミサイルの生産をふたたび始めた可能性があると、アメリカの新聞が伝えました。地下にある施設を使って、作る力を回復させているかもしれないという内容です。",
+   "background": "イランのある中東という地域は、国同士の対立や争いがとても多い場所です。ミサイルなどの武器を作る力を持つことは、その地域の安全保障に大きな影響を与えるため、世界中から注目されています。",
+   "impact": "中東での緊張が高まると、世界の平和だけでなく、日本に届く石油の値段や経済の動きにも影響が出る可能性があります。今すぐ私たちの生活が変わるわけではありません。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "弾道ミサイル",
+     "meaning": "高い空へ向かって発射され、大きな弧を描きながら遠くの目標に向かって飛んでいくロケットのような武器のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "21c2dbc2017e88d0",
+   "url": "https://www.sankei.com/article/20260911-RS67AW6BTRJG5PK2A6VNP6VUUA",
+   "title_original": "長期金利上昇2.975％、新発10年債が一時 米長期金利が上昇して日本にも流れが波及",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
+   "region": "国内",
+   "published": "2026-09-11T01:23:35+00:00",
+   "title_ja": "長期金利が一時2.975％に上昇",
+   "one_line": "アメリカの金利が上がった影響で、日本でも国債の金利が上がりました。",
+   "what": "新しく発行された10年用の国債の金利が一時、2.975％まで上がりました。アメリカの金利が上がったことが、日本にも影響を与えたと伝えられています。",
+   "background": "金利とは、お金を借りたり貸したりするときにつく「手数料」のようなものです。アメリカの経済や物価の動きが変わると、日本国内の金利にもその波が伝わることがよくあります。",
+   "impact": "金利が上がると、住宅ローンや会社の借金の返す金額が増えるなど、私たちの暮らしや企業の活動にお金の部分で影響が出てきます。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "長期金利",
+     "meaning": "国がお金を借りるために発行する10年ものの国債という証券の値段をもとに決まる、長期間のお金の貸し借りの金利のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e11832ac15f9c1e7",
+   "url": "https://www.nikkei.com/article/DGXZQOUA103YZ0Q6A910C2000000",
+   "title_original": "大企業の7〜9月景況感、2四半期ぶりのプラス 半導体好調",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3582873011092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=1ffc36725dab344bd560175c719859b8",
+   "region": "国内",
+   "published": "2026-09-11T01:19:22+00:00",
+   "title_ja": "大企業の7〜9月期の景況感がプラスに",
+   "one_line": "大企業の景気の感じ方が、半導体などの好調により2期ぶりにプラスになりました。",
+   "what": "7月から9月までの期間における大企業の景況感が、2つの期間ぶりにプラスになったと伝えられています。半導体をつくる仕事などが好調であることが理由にあげられています。",
+   "background": "「景況感」とは、企業の人たちが「今の景気はいいと感じているか、悪いと感じているか」を表す指標です。企業の業績がよいとプラスになり、悪いとマイナスになります。",
+   "impact": "大企業の景気がよくなると、そこで働く人たちの給料が上がったり、まわりの小さなお仕事にも良い影響が広がったりすることが期待されます。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "半導体",
+     "meaning": "パソコンやスマートフォン、自動車など、さまざまな電子機器の頭脳として使われる小さな部品のことです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "ae59cfbb0a0b80d7",
    "url": "https://news.web.nhk/newsweb/na/nd-20260911de49627",
@@ -7309,420 +7725,6 @@
     }
    ],
    "importance": 5
-  },
-  {
-   "id": "19e40def22968178",
-   "url": "https://www.nikkei.com/article/DGXZQOUB0392F0T00C26A9000000",
-   "title_original": "債券の弱気相場、税収上振れと奇妙なねじれ",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3548348003092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=de9f9dc68812f8e3e60863ae467d8cc8",
-   "region": "国内",
-   "published": "2026-09-06T02:00:00+00:00",
-   "title_ja": "国債市場の動きと税収の増え方の関係",
-   "one_line": "国の借金である国債の取引と、集まった税金の増え方に変わった現象が起きています。",
-   "what": "日本の債券市場の様子と、国に入る税金が増えていることの間に、これまでとは違う変わったねじれた現象が起きていると伝えられています。",
-   "background": "国は、お金が足りなくなると「国債」という債券を発行して資金を集めます。また、景気が良くなったり物価が上がったりすると、国に入る税金が増える仕組みになっています。これらは国の台所事情を表す大切な要素です。",
-   "impact": "今すぐ家計や毎日の生活に直接影響するわけではありませんが、国の借金の売買や税金の集まり方は、将来の日本の経済や予算の使い道に大きく関わってきます。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "債券",
-     "meaning": "国や会社がお金を借りるために発行する証明書のようなもので、売買することができます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8f7468c583463c99",
-   "url": "https://www.sankei.com/article/20260906-YIR2MR5Z7ROTPODVSPTSA3MOYI",
-   "title_original": "奈良公園渋滞対策で県営駐車場を10月から値上げ 混雑期は最大3000円",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/QISJY2USTFJ7BPA5UTUI7YF7BA.jpg?auth=6f4aeec1c1babccb320b7b908915ff7dd166f090d359ab57709a6832e6e40282&quality=50&focal=150%2C116&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-06T02:00:00+00:00",
-   "title_ja": "奈良公園の渋滞を減らすため10月から県営駐車場が値上げ",
-   "one_line": "奈良公園の渋滞を減らすため、県営の駐車場で料金が値上げされます。",
-   "what": "奈良県の奈良公園の周辺で起きる道路の渋滞を減らす対策として、10月から県営の駐車場が値上げされます。特に混雑する時期には、最高で3000円の料金になります。",
-   "background": "駐車場が足りなかったり人気があったりする場所では、車が列を作って混雑することがあります。自治体などは、料金を高くすることで車の数を減らし、道路のスムーズな通行を守るための工夫をすることがあります。",
-   "impact": "車で奈良公園に遊びに行く人にとっては、駐車場代の負担が増えることになります。一方で、周辺の道路の渋滞がやわらぐ効果が期待されます。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "1bfa08ccb63da7f1",
-   "url": "https://apnews.com/article/cop17-mongolia-climate-change-drought-desertification-c57828882b4e8a9601b9895172fae3d2",
-   "title_original": "United Nations talks in Mongolia expose growing drought crisis as climate impacts worsen",
-   "source": "AP通信",
-   "image": "https://dims.apnews.com/dims4/default/27687d4/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2F9f%2F2ed24cb5063e677362c0a16264a3%2Fa703ca266aad4c93b557863cd7582e18",
-   "region": "海外",
-   "published": "2026-09-06T01:53:02+00:00",
-   "title_ja": "国連がモンゴルで会議、広がっている土地の乾燥化対策を話し合う",
-   "one_line": "世界およそ200の国が集まり、地球温暖化で土地が乾燥する問題の対策を話し合いました。",
-   "what": "世界およそ200の国の代表が集まり、モンゴルのウランバートルで、土地が乾燥して使えなくなっていく問題について話し合う会議が開かれました。気候の変化によって土や景色が水分を保てなくなり、食べ物を作りにくくなっている問題を解決する方法を探りました。",
-   "background": "国連は、世界中の国が集まって地球規模のさまざまな問題を話し合うための大きな組織です。気候の変化にともなって雨が降らなくなる地域が増え、農作物が育たなくなる土地が世界中で広がっていることが問題になっています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界の食料の生産や自然環境に大きな関わりがあるため、国や地域を超えた協力が続けられています。",
-   "genre": "国際",
-   "category": "エネルギー・環境",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "3e7190ba1165a379",
-   "url": "https://apnews.com/article/japan-prince-hisahito-birthday-succession-naruhito-aiko-a34222534cd81692fee238e7219c3934",
-   "title_original": "Prince Hisahito turns 20 as Japan’s government reinforces male-only succession rules",
-   "source": "AP通信",
-   "image": "https://dims.apnews.com/dims4/default/b8ea646/2147483647/strip/true/crop/4726x3149+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F62%2Fb46ff2832f78b7192e1d86fd3d42%2F385024f23a1b4ef6bc432020235b6b27",
-   "region": "海外",
-   "published": "2026-09-06T01:53:02+00:00",
-   "title_ja": "悠仁さまが20歳に、日本の皇位継承ルールについても注目集まる",
-   "one_line": "悠仁さまが20歳になられ、法律で決められている皇位継承のルールにも注目が集まっています。",
-   "what": "日本の悠仁さまが20歳を迎えられました。天皇陛下のおいであり、皇位を継ぐ順番が2番目である悠仁さまに対して、将来の天皇としての注目が集まっています。また、男性だけが皇位を継ぐとするルールを守る法律の改正についても話題になっています。",
-   "background": "日本の天皇や皇族の身分やルールは、「皇室典範」という特別な法律で決められています。歴史的な経緯や議論を経て、誰が次の天皇になるかについての仕組みが定められており、時代ごとにさまざまな議論が続けられています。",
-   "impact": "今すぐ毎日の暮らしが大きく変わるものではありませんが、日本の伝統やこれからの国のかたちに関わる大切なニュースとして受け止められています。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "皇位継承",
-     "meaning": "天皇の位を次の世代に引き継ぐこと。誰が次の天皇になるかは法律でルールが決められています。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c886515af9eeb8a9",
-   "url": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html",
-   "title_original": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-ecuador-boat-strike-vjlw/05int-ecuador-boat-strike-vjlw-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-06T01:25:17+00:00",
-   "title_ja": "アメリカ軍がエクアドル沖で麻薬密輸を疑われる船を沈没させる",
-   "one_line": "アメリカ軍がエクアドル近くの海で、麻薬の密輸に関わるとされる補給用の船を沈没させました。",
-   "what": "アメリカ軍が、南アメリカのエクアドル近くの海で、麻薬の密輸を助けているとされる船を沈没させました。アメリカ軍によると、船に乗っていた人たちは事前に移動させられていたため、この作戦で亡くなった人はいませんでした。",
-   "background": "世界では、国から国へと法律に違反して薬物をこっそり運び出す「麻薬密輸」が大きな問題になっています。アメリカ軍は、自分たちの国に薬物が入るのを防ぐため、海の上でも警戒や取り締まりの活動を行っています。",
-   "impact": "今すぐ私たちの暮らしに直接の影響はありませんが、世界中で続く違法な薬物の取り締まりや、アメリカ軍の海での活動について伝えるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "749b43503cc43fa4",
-   "url": "https://www.sankei.com/article/20260906-LZQ4P4MXRVOVZBGPWJQNM7FUQE/?outputType=theme_weekly-fuji",
-   "title_original": "「腐敗の上に無能」相次ぐ悪事・不祥事の発覚、批判高まる警察の巨大権力化 室谷克実",
-   "source": "産経新聞 国際",
-   "image": "https://www.sankei.com/resizer/v2/WCRFR7PEQBKCJDA4VC2RDREFDA.jpg?auth=b124070ea2843cc9514fee9d7bdfe230f5d6fa005045ee8523dcc3f18ce1d500&quality=50&focal=1709%2C591&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-06T01:00:00+00:00",
-   "title_ja": "警察の不祥事と強大な権力への批判",
-   "one_line": "警察の不祥事が相次ぎ発覚し、その大きな権力に対して批判が高まっています。",
-   "what": "警察による相次ぐ悪事や不祥事が明らかになったことで、巨大な権力を持つ警察組織に対する批判の声が強まっています。",
-   "background": "警察は、社会のルールを守り、犯罪を取り締まるためのとても強い力を持っている組織です。それだけに、正しく使われないと社会の安心や信頼を大きく揺るがすことになります。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、警察という大切な組織が公正に動いているか、私たちは注意深く見ていく必要があります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "578276ab83f6a51b",
-   "url": "https://www.asahi.com/articles/ASV9135C1V91PLFA00DM.html",
-   "title_original": "「フェアではない」「常識外」…3識者が指摘、北陸新幹線の国試算",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20260903001825_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-05T23:00:00+00:00",
-   "title_ja": "北陸新幹線の国による試算に専門家が疑問",
-   "one_line": "北陸新幹線の延伸計画をめぐる国の計算方法について、3人の専門家が疑問を投げかけています。",
-   "what": "北陸新幹線の計画を進めるために国が行った費用の計算方法や見通しについて、3人の専門家が「公正ではない」「常識から外れている」と指摘しました。",
-   "background": "新しい新幹線を作るには、膨大な時間とお金がかかります。国は、本当にそれだけの価値があるのか、お金を回収できるのかをあらかじめ計算し、計画を進めるかどうかを判断する仕組みになっています。",
-   "impact": "将来の税金の使い道や、自分たちの地域の交通網に関わる大切な話ですが、今回の専門家の指摘ですぐに何かが決まるわけではありません。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "e04155a1745223aa",
-   "url": "https://www.sankei.com/article/20260906-RYMHB2RFVVL2JGY5NAOXZ3A7HQ",
-   "title_original": "費用1／3、期間1／6 水力発電の導水管をロボットやAIが3D点検「秋田モデル」確立",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/LUNDA4CK3NMMXPVMIBNNVJH2MQ.jpg?auth=62499b97ff48da1b2cd8659055f23e3804ae2a48639b2d9763d0d89deb0eb619&quality=50&smart=true&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-05T22:30:00+00:00",
-   "title_ja": "秋田で水力発電の点検をロボットと人工知能が効率化",
-   "one_line": "秋田県で、ロボットや人工知能を使って水力発電の管を点検する新しいやり方ができました。",
-   "what": "水力発電所で水を通すための大きな管を、ロボットや人工知能を使って3次元で点検する新しい仕組みが秋田県で確立されました。費用はこれまでのおよそ3分の1、期間は6分の1に縮むということです。",
-   "background": "水力発電は、高いところから落ちる水の力で電気を作る仕組みです。水を通す管は長い年月で傷むことがあるため、安全を保つために定期的な点検が欠かせません。",
-   "impact": "発電所の点検にかかる費用や時間が大きく減ることで、電気がより安全に、安定して私たちの家庭に届くことにつながっていきます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "人工知能",
-     "meaning": "人間のような判断や学習ができるように作られたコンピューターの仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9036e9c935a05712",
-   "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-   "title_original": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/23bb7bec440eac48f806944c326eb626620703ab/264_0_1264_1012/master/1264.jpg?width=140&quality=85&auto=format&fit=max&s=9db4a6d95bc99a498a075e480d29fe9a",
-   "region": "海外",
-   "published": "2026-09-05T20:00:46+00:00",
-   "title_ja": "オーストラリアの選挙で人工知能の広告が問題に",
-   "one_line": "オーストラリアの選挙を前に、人工知能で作られた不安をあおる広告がネットにあふれています。",
-   "what": "オーストラリアのビクトリア州で行われる選挙を前に、人工知能で作られたとみられる過激な映像や広告が、ソーシャルメディアにたくさん投稿されています。誰が何のために作ったのか分からない広告が問題になっています。",
-   "background": "選挙は、自分たちの代表を選ぶ大切な仕組みです。最近は、インターネットや人工知能を使って、有権者の考えに影響を与えようとする動きが世界中で増えています。本当のことか見分けにくい情報が出回ることが、新しい問題になっています。",
-   "impact": "今すぐ私たちの家計が変わるわけではありませんが、インターネットの情報や人工知能技術が、世界の政治や選挙に大きな影響を与える時代になっていることを示しています。",
-   "genre": "国際",
-   "category": "選挙・政党",
-   "terms": [
-    {
-     "word": "ソーシャルメディア",
-     "meaning": "インターネットを使って、だれでも文章や写真、動画を投稿したり、ほかの人とやり取りしたりできるサービスののことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fcadc268d67eaa73",
-   "url": "https://www.nikkei.com/article/DGXZQOUA018AP0R00C26A9000000",
-   "title_original": "自民党の小野寺税調会長、消費減税「景気条項の余地なく2年で元に」",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3535591001092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.37&h=630&w=1200&s=744969ce92a32e7ea932227d19c117a5",
-   "region": "国内",
-   "published": "2026-09-05T20:00:00+00:00",
-   "title_ja": "自民党の小野寺税調会長が消費税の減税に慎重な姿勢",
-   "one_line": "自民党の税制をしきる責任者が、景気の状況に関わらず消費税を2年で元に戻す考えを示しました。",
-   "what": "自民党で税金のルールを話し合う中心人物である小野寺税調会長が、消費税の引き下げについて、景気の良し悪しを判断する条件を入れる余地はなく、もし下げたとしても2年で元に戻す必要があると述べました。",
-   "background": "消費税は、私たちが買い物や食事をしたときに国に納める税金です。税率を変えることは、国の収入や私たちの暮らしに大きな影響を与えるため、政治の中で慎重に話し合われます。",
-   "impact": "将来の税金の集め方や物の値段、私たちの家計に直接関わる大切な問題ですが、今すぐ税率がどうこうと決まったわけではありません。",
-   "genre": "政治",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "税調会長",
-     "meaning": "政党の中で、税金の集め方や使い道に関するルールを話し合うグループのリーダーのことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "741fdd46a1517619",
-   "url": "https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Why many Syrians feel Assad death sentence isn't enough",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/78814241_6.jpg",
-   "region": "海外",
-   "published": "2026-09-05T18:56:00+00:00",
-   "title_ja": "シリアの裁判所が元トップに死刑を言い渡したことへの思い",
-   "one_line": "長い内戦を経験したシリアで、元トップに死刑が言い渡されたものの、不満の声もあります。",
-   "what": "シリアの裁判所が、かつて国をまとめていた元トップの人物に対して、自分の国の人々を傷つけた罪で死刑の言い渡しをしました。しかし、長い内戦を生き抜いた人々からは、これだけでは十分ではないという声が上がっています。",
-   "background": "シリアでは、国を二分するような長い内戦が続いて多くの人が苦しんできました。戦争や争いが終わったあとに、傷ついた社会をどのように立て直し、責任をどう追及するのかという問題は、世界中で難しい課題とされています。",
-   "impact": "今すぐ私たちの毎日の生活に影響するわけではありませんが、世界のさまざまな国で起きる平和や正義をめぐる問題は、国際社会全体の安定に関わる大切なテーマです。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "内戦",
-     "meaning": "ひとつの国のなかで、政府のグループと反対のグループなどに分かれて戦う争いのことです。"
-    },
-    {
-     "word": "移行期正義",
-     "meaning": "大きな争いや戦いが終わったあとで、過去の不正や傷あとをどのように裁き、社会を立て直していくかという仕組みや考え方のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e299d5e369cc37ae",
-   "url": "https://www.nikkei.com/article/DGXZQOUB2419P0U6A820C2000000",
-   "title_original": "惑う家計、住宅ローン払い「定年後まで」7割 金融教育の遅れ挽回を",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3554085004092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.9&fp-y=0.03&h=630&w=1200&s=1a8d15aed546c5d64f53ae3e9dab5360",
-   "region": "国内",
-   "published": "2026-09-05T17:00:00+00:00",
-   "title_ja": "住宅ローンの支払いが定年後まで続く人が7割に",
-   "one_line": "定年退職を迎えた後も、家を買うためのお金を返し続ける人が増えています。",
-   "what": "日本の家計で、家を買うためのお金を借りる住宅ローンの支払いが、仕事を定年で辞める年齢を超えても続く人の割合が約7割にのぼることが分かりました。",
-   "background": "家を買うとき、まとまったお金がないため、多くの人は銀行から大きなお金を借りて、何十年もの時間をかけて少しずつ返していきます。返す期間を長くすると、毎月の支払いを少なくすることができます。",
-   "impact": "仕事をやめて収入が減ったあともお金を返し続ける必要があるため、将来の家計のやりくりや、お金の計画を早めに考えることが大切になります。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "住宅ローン",
-     "meaning": "家を買うために銀行などから大きなお金を借りて、何十年もかけて少しずつ返していく仕組みのこと。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "424591aac82af7ba",
-   "url": "https://www.nikkei.com/article/DGXZQOGN01BHT0R00C26A9000000",
-   "title_original": "米Apple新CEOジョン・ターナス氏、AI時代にiPhoneの進化担う",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3537059001092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.52&fp-y=0.3&h=630&w=1200&s=0da48e731cd0790c6a424563d1ad4a35",
-   "region": "国内",
-   "published": "2026-09-05T17:00:00+00:00",
-   "title_ja": "アメリカの企業アップルの新しい最高経営責任者にジョン・ターナス氏",
-   "one_line": "アメリカの巨大な電子機器会社アップルで、新しいトップが人工知能の時代の進化を担います。",
-   "what": "アメリカの有名企業であるアップルで、新しい「最高経営責任者」にジョン・ターナス氏が就任し、人工知能が大切になる時代の中で製品を進化させる役割を任されました。",
-   "background": "「最高経営責任者」は、会社全体のかじ取りをして、どのような商品を作り、どうやって会社を大きくしていくかを決める、いちばん責任の重い仕事のことです。",
-   "impact": "アップルが作るスマートフォンなどの新しい技術や製品は、私たちの毎日の生活や仕事の仕方に大きな影響を与えることがあります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "最高経営責任者",
-     "meaning": "会社の中でいちばんえらい人で、仕事の方針を決めて会社を動かす責任者のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ae1d504f0359893d",
-   "url": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
-   "title_original": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-westbank-huckabee-1-blzt/05int-westbank-huckabee-1-blzt-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-05T16:34:03+00:00",
-   "title_ja": "アメリカのイスラエル大使がパレスチナの人々と会談",
-   "one_line": "アメリカのイスラエル大使がパレスチナの人々と会い、攻撃を批判しました。",
-   "what": "アメリカのイスラエル大使が、パレスチナの人々と会うためにめずらしい訪問をしました。その中で、イスラエルの人々による攻撃について批判する発言をしました。",
-   "background": "中東の地域では、長年にわたって土地や権利をめぐる争いが続いており、さまざまな国や地域の人々が関わって平和に向けた話し合いや問題の解決が模索されています。",
-   "impact": "今すぐ日本の私たちのくらしに直接の影響はありませんが、世界の平和や安全を考えるうえで大切な国際ニュースです。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "2818db7f423efd2d",
-   "url": "https://apnews.com/article/israel-palestinians-west-bank-ambassador-settlers-e33f8c97f368e7babd37c6d8c0a5759d",
-   "title_original": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
-   "source": "AP通信",
-   "image": "https://dims.apnews.com/dims4/default/1827d15/2147483647/strip/true/crop/5066x3376+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F12%2F2a%2F5f91a8a2090a3a301cbd0ff0efde%2F13c38753383743a6b2910d28db8ade13",
-   "region": "海外",
-   "published": "2026-09-05T16:23:02+00:00",
-   "title_ja": "アメリカの大使がヨルダン川西岸での暴力行為を非難",
-   "one_line": "アメリカのイスラエル大使が、住民への暴力行為をテロだと強く非難しました。",
-   "what": "アメリカのイスラエルに置かれた大使が、ヨルダン川西岸という場所で起きた、イスラエル人の入植者による暴力行為について、テロにあたると改めて批判しました。",
-   "background": "ヨルダン川西岸は、長年にわたりパレスチナの人々とイスラエルとの間で土地をめぐる争いが続いている地域です。そこにはイスラエルから移り住む人たちがいて、度々トラブルや衝突が起きています。",
-   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、中東地域の安定や、国際社会の平和のゆくえに大きな関わりを持つ問題です。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "a141279522faaa20",
-   "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-   "title_original": "Farage calls Reform conference protest backlash ‘utter nonsense’ amid police appeal – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/a861843cbb2cce552550ee728d7ba1aa4a879360/476_0_6067_4856/master/6067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbf955a24c0ec41d0b82d0ec707ecf8b",
-   "region": "海外",
-   "published": "2026-09-05T14:48:19+00:00",
-   "title_ja": "イギリスの政党大会で抗議者への対応めぐり議論",
-   "one_line": "イギリスの政党大会で抗議者を手荒く追い払った批判に対し、党首はまったくのでたらめだと反論しました。",
-   "what": "イギリスの政党「リフォームUK」の党大会で、党首の演説を妨害した抗議者への荒い対応が批判されています。ファラージュ党首はこの批判に対して否定し、まったくのでたらめだと反論しました。警察も調査を進めています。",
-   "background": "民主主義の国では、政党が考えを発表する党大会が開かれます。そこでは反対の意見を持つ人が抗議行動をすることもあります。政治家や参加者の安全を守る警備は必要ですが、反対意見を無理やり力で押さえつけるような対応をすると、表現の自由を害しているとして批判を受けることがあります。",
-   "impact": "今すぐ私たちの暮らしに直接影響が出るものではありませんが、外国で政治の意見の違いをめぐりどのような衝突や議論が起きているかを知り、民主主義について考えるきっかけになります。",
-   "genre": "国際",
-   "category": "選挙・政党",
-   "terms": [
-    {
-     "word": "党大会",
-     "meaning": "政党のメンバーが集まり、今後の方針や考え方を確認し合う大きな集まり。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "fe1116f9ae96691e",
-   "url": "https://www.theguardian.com/uk-news/2026/sep/05/raise-the-colours-leader-given-access-to-reform-uk-conference-while-on-bail",
-   "title_original": "Raise the Colours leader given access to Reform UK conference while on bail",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/7e45723c8f25a785a75e207e156689685799e235/1365_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=bc48327eb7e13ec206903ffa0c2ada51",
-   "region": "海外",
-   "published": "2026-09-05T14:45:48+00:00",
-   "title_ja": "イギリスの政党大会に嫌がらせの疑いで逮捕された人物が参加",
-   "one_line": "イギリスの政党の大会に、嫌がらせの疑いで逮捕された人物が招待されて参加したとわかりました。",
-   "what": "イギリスで旗を立てる活動をする団体の代表が、政党「リフォームUK」の年次大会に参加しました。この代表は、宗教や人種に関する嫌がらせをした疑いで逮捕され、裁判を待つために保釈されている最中でしたが、政党から招待を受けたと話しています。",
-   "background": "政治を行う政党は、毎年「党大会」と呼ばれる大きな集会を開き、政治の方針を決めたり仲間を増やしたりします。政党がどのような人物を招待し、どのような主張を持つ人と関係を作るかは、その政党が何を大切にしているかを示すため、世間から注目されます。",
-   "impact": "日本の暮らしに直接影響はありませんが、外国の政党がどのような人物と関係を持っているかを知ることは、その国の政治の動きや社会の雰囲気を理解するうえで大切な情報になります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "保釈",
-     "meaning": "犯罪の疑いで逮捕された人が、保証金を預けるなどの条件を守ることで、裁判が終わるまで一時的に外へ出られる仕組みです。"
-    },
-    {
-     "word": "党大会",
-     "meaning": "政党が集まり、今後の活動方針を決めたり、参加者の結束を強めたりするために開く大きな集会のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "abc60c8d8f1a3960",
-   "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-   "title_original": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358071-1788381299776-gettyimages-2292663260-RODRIGUEZ_WRIGHT_VENEZUELA.jpeg?v=1788381351&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-05T14:34:46+00:00",
-   "title_ja": "トランプ前大統領のベネズエラ石油をめぐる合意",
-   "one_line": "アメリカのトランプ氏が進める石油の取引と、ベネズエラの政治をめぐる動きが伝えられています。",
-   "what": "アメリカがベネズエラの前大統領を軍事作戦で退陣させたあと、石油の産業に関する新しい合意が結ばれました。これは国がビジネスに深くかかわる形でおこなわれています。",
-   "background": "国の政治のリーダーが変わると、その国が持っている石油などの資源をどう扱うかというルールや、他の国との関係が大きく変わることがあります。ベネズエラは豊富な石油資源を持っていることで知られています。",
-   "impact": "今すぐ私たちの毎日の生活や買い物の値段がすぐに変わるわけではありませんが、世界のエネルギーのめぐり方に影響する可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "国家資本主義",
-     "meaning": "国がビジネスや産業に深くかかわって、経済を動かしたりコントロールしたりする仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cb8cbd4f07c977f9",
-   "url": "https://news.yahoo.co.jp/pickup/6594361?source=rss",
-   "title_original": "露に対日戦勝碑 首相が撤去を要請",
-   "source": "Yahoo!ニュース 国内",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/5/bcde196522cf4c1b32d90db6c3f4ee59f5d3b725107f280d695bcbef4b22529d.jpg",
-   "region": "国内",
-   "published": "2026-09-05T13:58:20+00:00",
-   "title_ja": "ロシアの戦勝碑撤去要請、岸田首相が決断",
-   "one_line": "岸田首相はロシアの戦勝碑を日本国内から撤去するよう要請しました。",
-   "what": "2026年9月5日、岸田文雄首相はロシアが築いた戦勝碑を日本国内から撤去するよう、関係省庁に要請したと発表しました。この碑は日露戦争でのロシア側の勝利を記念したもので、長年議論の的となっていました。",
-   "background": "日露戦争（1904～1905年）は日本とロシアが朝鮮半島や満州で戦った戦争です。戦後、ロシア側は勝利を称える碑を日本国内に残しましたが、戦争の記憶や歴史認識の違いから撤去を求める声が続いています。首相が要請するのは、国際関係の調和と国内の歴史感情の配慮を図るためです。",
-   "impact": "撤去が実現すれば日露関係が改善する可能性がありますが、国内では歴史認識をめぐる議論が続くでしょう。すぐに生活が変わるわけではありませんが、外交的な雰囲気に影響します。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "露",
-     "meaning": "ロシアを指す略称です。"
-    },
-    {
-     "word": "戦勝碑",
-     "meaning": "戦争での勝利を記念して建てられた記念碑のことです。"
-    }
-   ],
-   "importance": 3
   }
  ]
 }
