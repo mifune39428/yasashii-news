@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T20:13:19.056273+09:00",
+ "updated_at": "2026-09-17T01:33:18.719992+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,42 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "59b02151e868c72f",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "279bf38a5d456b89",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "f0bb59ca435a6b3a",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "6c16576d725b1475",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "43f452c40603e24a",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "5f7db96d2ddfac5a",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "843510b9b466fef9",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "1fa846809e4b0d97",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
-  {
-   "id": "31dba4d42c8d5a44",
-   "until": "2026-09-16T16:12:54.066699+00:00"
-  },
   {
    "id": "0f931fd1cb78d905",
    "until": "2026-09-16T20:46:09.761970+00:00"
@@ -638,10 +602,410 @@
   {
    "id": "8ba80e2cc5999488",
    "until": "2026-09-21T11:13:19.056273+00:00"
+  },
+  {
+   "id": "abbe3a461531e247",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "776bfbe2e012ca54",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "b0a28edb11933b87",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "856153b8b9d95fc5",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "9385f2a8b63ff896",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "5a0769ce09d8680b",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "935e25d26f4e0ac2",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "092b8a7eaa359531",
+   "until": "2026-09-21T16:33:18.719992+00:00"
+  },
+  {
+   "id": "0b15905ea4be7b82",
+   "until": "2026-09-21T16:33:18.719992+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "2b035f0be70fe421",
+   "url": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+   "title_original": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108300536-1777636415530-gettyimages-2212179187-HILL_VALLEY_FORUM.jpeg?v=1777636438&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-16T16:26:58+00:00",
+   "title_ja": "アメリカの技術担当高官が人工知能の規制や出資に慎重な姿勢",
+   "one_line": "アメリカの政府高官が、急速に進む人工知能への新しい規則作りや、政府が企業に出資することに疑問を示しました。",
+   "what": "アメリカ国防総省の技術担当者が、政府が巨大なIT企業に出資すべきではないと述べました。また、人工知能に対する新たな規制を追加することについても疑問を投げかけています。",
+   "background": "人工知能は急速に進化を続けており、社会に大きな影響を与えるため、どのようなルールを作って管理すべきか世界中で議論が続いています。また、政府が民間の企業に株を買う形で資金を出すことは、国家がビジネスに深く関わりすぎることになるという意見もあります。",
+   "impact": "今すぐに私たちの暮らしや買い物の値段が変わるわけではありません。しかし、アメリカでの人工知能に関する方針やルールの決め方は、世界中の技術や産業の未来に大きな影響を与えます。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間のように考えたり判断したりするコンピューターの仕組みのことです。"
+    },
+    {
+     "word": "規制",
+     "meaning": "トラブルを防いだり公平さを保ったりするために、国がルールを作って行動を制限することです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "080e26deebaaab41",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
+   "title_original": "House cancels votes as Democratic lawmakers urged recess postponement to address AI regulation – US politics live",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/d9d59cf1169c1c639f2a4f84bc82b49f0d85e873/485_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eaa4da3a5fad29350db12e621dc21187",
+   "region": "海外",
+   "published": "2026-09-16T16:25:08+00:00",
+   "title_ja": "アメリカの議会が人工知能の規制をめぐり予定より早く休会へ",
+   "one_line": "アメリカの議会で、人工知能のルール作りを急ぐべきだという声がある中、議員たちが予定を早めて地元へ戻ることになりました。",
+   "what": "アメリカの連邦下議会の議長が、人工知能の成長に対する対策や規制を求める声があるにもかかわらず、議員たちを予定より早めに地元へ帰して投票の予定を中止しました。",
+   "background": "アメリカの議会は法律を作ったり予算を決めたりする場所です。議員たちは普段は首都に集まって話し合いますが、選挙の前や一定の期間には「休会」といって、自分の地元に戻って活動する時間が設けられています。",
+   "impact": "今すぐ私たちの生活に直接の変化はありません。しかし、議会が一時的に休みに入ることで、急速に進む人工知能に対する新しい法律やルールの話し合いが遅れる可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "休会",
+     "meaning": "議会が話し合いや投票などの仕事を一時的にお休みすることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c20df1811d182a8f",
+   "url": "https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now",
+   "title_original": "Reader Q&A: how united are the Democrats ahead of the US midterms? Live now",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/7f3d7ed379db80c152f911d7cb16842b44dc8b5a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3b8d94111ee0b76c15135cbd69eabf3e",
+   "region": "海外",
+   "published": "2026-09-16T16:24:37+00:00",
+   "title_ja": "アメリカの中間選挙を前に民主党の現状を話し合うライブ企画",
+   "one_line": "アメリカで秋に控える中間選挙に向けて、野党である民主党のまとまりや候補者について話し合うネット企画が開かれました。",
+   "what": "アメリカの政治記者たちが、秋の中間選挙を前に民主党がどのようにまとまっているのか、党内のさまざまな考え方の候補者や注目すべき選挙区について、読者からの質問に答えるライブ番組を配信しました。",
+   "background": "アメリカでは、大統領の任期が4年で、そのちょうど中間の時期に議会の議員を選ぶ「中間選挙」が行われます。現在政権を握っていない民主党が、次の選挙で議会の多数派を奪い返せるかどうかが大きな注目点となっています。",
+   "impact": "外国の選挙の仕組みや政党の動きについてのニュースであり、私たちの毎日の生活にすぐ影響するものではありませんが、これからのアメリカの政治の行方を占う大切な情報です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "中間選挙",
+     "meaning": "大統領が選ばれてから2年後に行われる、議会の議員を選ぶための大きなお選挙のことです。"
+    },
+    {
+     "word": "多数派",
+     "meaning": "議員のグループの中で、より多くの人数を占めている方のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "0675521a843b0c54",
+   "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
+   "title_original": "Belarus Releases 25 Political Prisoners in Exchange for U.S. Easing of Sanctions",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-belarus-prisoners-01-ctfw/16int-belarus-prisoners-01-ctfw-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-16T16:21:51+00:00",
+   "title_ja": "ベラルーシが政治犯25人を釈放しアメリカが制裁を一部緩和",
+   "one_line": "ベラルーシが政治的な理由で捕らえていた人たちを釈放し、それと引き換えにアメリカが国への経済的な罰を緩めました。",
+   "what": "東ヨーロッパのベラルーシが、政治犯25人を釈放しました。これに応じる形で、アメリカのトランプ政権はベラルーシに対して行っていた経済的な制裁を一部軽くする取り決めを行いました。",
+   "background": "ベラルーシはロシアととても親しい国です。欧米諸国はこれまで、ベラルーシの政治のあり方に問題があるとして、経済活動を制限する「制裁」という罰をあたえて孤立させようとしてきました。国同士の外交では、お互いの要求を取引のように解決することがあります。",
+   "impact": "私たちの暮らしがすぐに変わるわけではありません。しかし、アメリカとロシアの近くにある国々との関係や、世界の安全保障のバランスに影響を与える出来事です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "政治犯",
+     "meaning": "政治的な意見や活動がもとで、法律違反として捕らえられた人たちのことです。"
+    },
+    {
+     "word": "制裁",
+     "meaning": "ルールや国際法に背いた国や組織に対して、貿易の禁止などを行って罰することです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "858a559556c97003",
+   "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
+   "title_original": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/16/multimedia/xp-mecca-vfbl/xp-mecca-vfbl-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-16T16:19:52+00:00",
+   "title_ja": "イエメンの武装勢力とサウジアラビアが軍事衝突を主張",
+   "one_line": "イエメンの武装組織とサウジアラビアの間で、互いに攻撃を主張し合っています。",
+   "what": "イエメンの武装組織フーシ派がサウジアラビアの戦闘機を撃ち落としたと発表しました。一方、サウジアラビア側は、フーシ派が聖地メッカの近くに向けて無人機を発射したと非難しました。フーシ派はこの攻撃を否定しています。",
+   "background": "中東にあるイエメンでは、国内の政権をめぐって長年、激しい争いが続いています。イランが支援するフーシ派と、隣国サウジアラビアなどが中心となって支える政府側が対立しており、周辺の地域を巻き込んだ争いが絶え間なく起きています。",
+   "impact": "日本への直接の影響はすぐにはありませんが、中東での争いが激しくなると、世界的なエネルギーの価格や物の値段が変わるなど、日本の暮らしや経済にも間接的な影響が出ることがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "無人機",
+     "meaning": "人が乗らずに、遠隔操作や自動で空を飛ぶ飛行機のことです。偵察や攻撃などに使われます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c16ca05a9912b515",
+   "url": "http://www.france24.com/en/video/20260916-russian-drone-strike-on-a-passenger-bus-in-ukraine-kills-5-people-and-wounds-at-least-7-others",
+   "title_original": "Russian drone strike on a passenger bus in Ukraine kills 5 people and wounds at least 7 others",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/d03dd9ec-b1d6-11f1-964b-cfc9bd8e913f/w:1024/p:16x9/EN-20260916-130824-131208-CS.jpg",
+   "region": "海外",
+   "published": "2026-09-16T16:17:22+00:00",
+   "title_ja": "ウクライナのバスがロシアの無人機攻撃を受け５人死亡",
+   "one_line": "ウクライナ南部で、ロシアの無人機がバスを攻撃し、５人が亡くなりました。",
+   "what": "ウクライナ南部で、乗客が乗っていたバスにロシアの無人機が当たりました。この攻撃で５人が亡くなり、７人以上がけがをしました。ウクライナの大統領はこの攻撃を強く非難し、民間人が乗る乗り物への攻撃が続いていると訴えました。",
+   "background": "ウクライナとロシアの間では、２０２２年から続く軍事的な衝突が今も続いています。ウクライナ各地では、兵士だけでなく一般の市民が暮らす町や、移動に使われる交通機関なども攻撃の対象となっており、多くの被害が出ています。",
+   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、世界的な平和や安全に関わる大きな問題です。また、この争いは世界の食料やエネルギーの値段にも影響を与え続けています。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "無人機",
+     "meaning": "人が乗らずに、遠隔操作や自動で動く機械のことです。空中を飛ぶものは攻撃や偵察に使われます。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "bf60d184b4f5e6fb",
+   "url": "https://www.dw.com/en/shock-and-anger-in-kosovo-as-former-president-convicted/a-79294916?maca=en-rss-en-world-4025-rdf",
+   "title_original": "Shock and anger in Kosovo as former president convicted",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79293097_6.jpg",
+   "region": "海外",
+   "published": "2026-09-16T15:59:00+00:00",
+   "title_ja": "コソボの元大統領に有罪の言い渡し、現地で広がる動揺",
+   "one_line": "コソボの元大統領らが裁判で有罪となり、国内外で大きな驚きと反発が起きています。",
+   "what": "コソボの元大統領と元指導者たちに対して、海外の裁判所で有罪の言い渡しがありました。これを受け、現地の政治家や街の人々の間には、大きな動揺や怒りが広がっています。",
+   "background": "コソボはヨーロッパにある国で、かつて激しい紛争を経験しました。その中で指導的な立場にあった人たちが、過去の行動をめぐって国際的な裁判で裁かれることがあります。国や地域のかかわりや、当時の争いの責任をどう考えるかをめぐっては、人々の中でも意見が分かれることが多い問題です。",
+   "impact": "日本での直接の暮らしやお金の動きにすぐ変化はありませんが、世界の国や地域の間で過去の争いにどう向き合い、裁判で決着をつけるかという国際的な問題に関わる出来事です。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "元大統領",
+     "meaning": "国を代表する一番上の仕事（大統領）を昔にかつて務めていた人のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "675b55d46283a6fe",
+   "url": "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss",
+   "title_original": "Sweden expels Iran embassy employee, citing security concerns",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aaaabd5be4db-1789570005.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-16T15:53:38+00:00",
+   "title_ja": "スウェーデン、イラン大使館の職員を国外退去処分に",
+   "one_line": "スウェーデン政府は、安全保障上の理由からイラン大使館の職員を国外へ退去させました。",
+   "what": "スウェーデンは、国内でユダヤ人やイスラエルに関連する施設や利益を狙った計画が進められていたとして、イラン大使館で働く職員を国外へ追い出す処分を決めました。",
+   "background": "国と国との関係において、外交官や大使館の職員は重要な役割を持っていますが、もしその国で危険な活動やスパイ行為などに関わっていると疑われた場合、その国から出て行くよう命じられることがあります。これを「国外退去」と呼びます。",
+   "impact": "日本での毎日の暮らしや家計にすぐ影響するものではありませんが、海外で国と国のトラブルや安全に関する重大な事件が起きていることを示すニュースです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "国外退去",
+     "meaning": "その国にいる外国人が、法律や決まりに違反したり、安全を脅かしたりしたとして、国から出ていくよう命じられることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2b9a4f8d1a98e311",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260916de50688",
+   "title_original": "ロシア外務次官 日本大使に反ロシア的政策が対話阻害と主張",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50688/20260916de50688_E0000031596_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-16T15:42:38+00:00",
+   "title_ja": "ロシア外務省、日本大使にロシア側の方針を主張",
+   "one_line": "ロシアの外務次官が日本の大使と会談し、日本側の政策が対話を遠ざけていると主張しました。",
+   "what": "ロシアの外務次官がモスクワで日本の大使と会談を行いました。その中で、ロシアの最高指導者による北方領土への訪問に対する日本の反応について、「過剰である」としたうえで、日本の反ロシア的な政策が国と国との対話を妨げていると主張しました。",
+   "background": "日本とロシアの間には、第二次世界大戦の結果をめぐる領土の問題（北方領土）があり、長年話し合いが続けられています。また、ロシアがウクライナへの軍事行動を始めて以降、日本を含む多くの国がロシアに対して厳しい制裁を行っており、両国の関係は冷え込んでいます。",
+   "impact": "日本の安全保障や、ロシアとのあいだの平和条約を結ぶための話し合いに深く関わる問題です。今すぐ私たちの生活が直接変わるわけではありませんが、日本を取り巻く外国との関係の行方を示す大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "外務次官",
+     "meaning": "外務省という国のお仕事をまとめる大臣を支え、実際の事務仕事を進める中心的な立場の人のことです。"
+    },
+    {
+     "word": "北方領土",
+     "meaning": "北海道の北東にある、日本が本来持っていると主張しているものの、現在はロシアが実効支配している島々のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "55eb5eb0f7c80ffa",
+   "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo",
+   "title_original": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his assassination",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9261/live/abd1c520-b1e3-11f1-ac01-a9af2f94b2cc.jpg",
+   "region": "海外",
+   "published": "2026-09-16T15:33:19+00:00",
+   "title_ja": "大学構内で起きた銃撃事件めぐり、遺族側が当局の失敗を主張",
+   "one_line": "アメリカの大学で起きた活動家の銃撃事件について、家族側が警備の重大な失敗を訴えています。",
+   "what": "大学のキャンパスで多くの聴衆を前に話していた保守派の活動家が、屋根から狙った銃撃犯によって撃たれて亡くなりました。この事件について、亡くなった活動家の家族側が、現地の安全を守る機関の対応に「驚くべき失敗」があったと主張しています。",
+   "background": "アメリカでは、銃を持つことが法律で認められている一方で、治安の維持や銃を使った事件を防ぐことが社会的な大きな課題となっています。また、政治的な活動をする人が狙われる事件が起きると、それを防ぐ警察や警備の責任が厳しく問われることになります。",
+   "impact": "日本での毎日の生活や仕事に直接影響するものではありませんが、アメリカ社会における安全の守り方や、政治活動を行う人への警備のあり方を考えるうえで大きな注目を集めるニュースです。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "保守派",
+     "meaning": "これまでの伝統や歴史、国の仕組みを大切に守っていこうという考え方や、その立場の人たちのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "64d6e7650ccf5bc7",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss",
+   "title_original": "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789572204.jpg?resize=1920%2C1080&quality=80",
+   "region": "海外",
+   "published": "2026-09-16T15:23:51+00:00",
+   "title_ja": "アメリカの元議員がイランへの攻撃をやめるよう訴える",
+   "one_line": "アメリカのトランプ大統領が進めるイランへの戦争を終わらせるべきだと、かつての味方だった元議員が批判しました。",
+   "what": "アメリカのドナルド・トランプ大統領の元で活動していた共和党の元議員が、イランに対する戦争は「止めなければならない」と強く批判しました。",
+   "background": "アメリカでは、大統領と同じ政党の議員が政治の仲間として支えるのが一般的です。しかし、政策や方針の違いから意見が分かれることもあります。イランとアメリカの間では、長年にわたり対立や緊張が続いています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、アメリカの政治の動きや世界の安全に大きな影響を与える重要な出来事です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "共和党",
+     "meaning": "アメリカにある二つの大きな政党のうちのひとつです。もうひとつは民主党といいます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ca02e443da5d207e",
+   "url": "https://www.dw.com/en/british-american-writer-bonnie-greer-dies-aged-77/a-79293174?maca=en-rss-en-world-4025-rdf",
+   "title_original": "British-American writer Bonnie Greer dies aged 77",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79293781_6.jpg",
+   "region": "海外",
+   "published": "2026-09-16T15:12:00+00:00",
+   "title_ja": "イギリスとアメリカで活躍した作家のボニー・グリアさんが亡くなる",
+   "one_line": "イギリスとアメリカで劇作家や作家として親しまれ、政治の議論にも参加したボニー・グリアさんが亡くなりました。",
+   "what": "アメリカのシカゴで生まれ、イギリスを中心に劇作家や作家として活動し、テレビの政治討論などにもよく出演していたボニー・グリアさんが77歳で亡くなりました。夫のデヴィッド・ハッチンスさんが知らせました。",
+   "background": "イギリスでは、文化や芸術の世界で活躍する人が、社会や政治の番組に登場して自分の意見を話すことがよくあります。グリアさんも、長年にわたって様々な番組で発言してきました。",
+   "impact": "個人の訃報であり、私たちのくらしに直接的な影響はありません。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "劇作家",
+     "meaning": "演劇や舞台の台本を書く仕事をする人のことです。"
+    }
+   ],
+   "importance": 1
+  },
+  {
+   "id": "650747b42003ce28",
+   "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro",
+   "title_original": "Eight German state premiers back Merz amid speculation over future",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg",
+   "region": "海外",
+   "published": "2026-09-16T14:50:26+00:00",
+   "title_ja": "ドイツのキリスト教民主同盟、メルツ氏の指導部を支持",
+   "one_line": "ドイツの政党で、選挙を前に党のリーダーを支える動きが広がっています。",
+   "what": "ドイツの政党であるキリスト教民主同盟の指導部や州のリーダーたちが、週末にひかえた州の選挙を前にして、メルツ氏を支える姿勢をはっきりと示しました。",
+   "background": "ドイツでは、いくつかの「州」が集まってひとつの国をつくっています。それぞれの州には独自の政府や議会があり、州ごとの選挙結果は、国全体の政治の動きにも大きな影響を与えます。",
+   "impact": "今すぐ日本の暮らしや経済が変わるわけではありませんが、ドイツの政治のリーダーシップがどうなるかは、ヨーロッパ全体の動きや、日本との外交にも関わってきます。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "2e88eb09db9a2182",
+   "url": "https://www.nikkei.com/article/DGXZQOFL16BDV0W6A910C2000000",
+   "title_original": "NYダウ一進一退で始まる FOMC結果控えて様子見",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3609494016092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.12&fp-y=0.77&h=630&w=1200&s=a42ec0de73ccb5cb89fad5fe18c48d1d",
+   "region": "国内",
+   "published": "2026-09-16T14:27:26+00:00",
+   "title_ja": "アメリカの株価は会議の結果を待って様子見に",
+   "one_line": "アメリカの株価の目安となる値が、大事な会議の結果を待って、上がったり下がったりしています。",
+   "what": "アメリカの株式市場で、代表的な株の値段の平均である「NYダウ」の取り引きが、方向感がはっきりしないまま始まりました。アメリカの中央銀行が開く大事な会議の結果を控えて、様子を見る人が多いためです。",
+   "background": "アメリカの中央銀行は、世の中に出回るお金の量や金利を調整して、景気や物価の安定をめざす大切な役割を持っています。そこで開かれる会議は、世界の経済や株価にとても大きな影響を与えるため、いつも世界中から注目されています。",
+   "impact": "今すぐ私たちのくらしに直接変化が出るわけではありませんが、アメリカの株価や金利の動きは、日本の株の値段や円の価値、物価にもあとから影響することがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "NYダウ",
+     "meaning": "アメリカの代表的な会社の株価を集めて平均したもので、世界の経済の調子を知るための大切な目じるしです。"
+    },
+    {
+     "word": "FOMC",
+     "meaning": "アメリカの中央銀行が開く会議のことで、金利をどうするかを決める、世界経済にとってとても重要な話し合いです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "644997dc3648edc3",
+   "url": "https://www.asahi.com/articles/ASV9J3F99V9JULFA013M.html",
+   "title_original": "スマホつながりやすくなる？ 通信4社｢真の5G｣エリア拡大で連携",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260916003394_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-16T11:36:43+00:00",
+   "title_ja": "携帯電話の通信4社が新しい通信エリアの拡大で連携",
+   "one_line": "大手の携帯電話会社4社が、新しい通信エリアを広げるために協力することになりました。",
+   "what": "日本の通信会社大手4社が、より速くて便利とされる新しい通信規格のエリアを広げるために、お互いに協力していくことになりました。",
+   "background": "携帯電話の新しい通信規格である「5G」は、これまでの仕組みよりももっと速く、たくさんのデータをやり取りできるのが特徴です。電波を遠くまで届けるためには大きな基地局などをたくさん作る必要があり、会社ごとに協力する動きが進められています。",
+   "impact": "今すぐすべての場所ですぐにつながりやすくなるわけではありませんが、将来的にスマホがもっと快適に使えるようになったり、新しい便利なサービスが使いやすくなったりすることが期待されます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "通信4社",
+     "meaning": "日本で携帯電話の回線やネットワークを広く提供している、大手の通信会社のグループのことです。"
+    },
+    {
+     "word": "5G",
+     "meaning": "これまでの4Gよりもさらに高速で、たくさんの人と同時にたくさんのデータをやり取りできる次世代の通信の仕組みです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "e9dc0dae426b34f8",
    "url": "https://news.web.nhk/newsweb/na/nd-20260916de50512",
@@ -7328,349 +7692,6 @@
    "category": "アメリカ",
    "terms": [],
    "importance": 2
-  },
-  {
-   "id": "f34d8ada2856aa0e",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260912de49833",
-   "title_original": "消費税減税で大綱来週決定へ 国会審議備え担当閣僚新設も検討",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49833/20260912de49833_E0000028780_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-11T20:27:29+00:00",
-   "title_ja": "政府が食料品の消費税減税へ、来週にも方針決定",
-   "one_line": "政府は食料品の消費税を下げるための具体的な仕組みを来週まとめる方針です。",
-   "what": "政府は、食料品の消費税を軽くする制度の計画を来週決めたうえで、必要な法律の案を国会に出す方針を固めました。国会での話し合いに備えて新しい大臣を置くことも考えています。",
-   "background": "消費税は、私たちが買い物やサービスを受けるときに広く払う税金です。税金の仕組みを変えるには、国会で法律を作ったり直したりする必要があります。",
-   "impact": "もし食料品の消費税が下がれば、私たちの毎日の食費や買い物代の負担が軽くなることにつながるため、今後の話し合いが注目されます。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "閣議決定",
-     "meaning": "国の法律の案などを決めるために、総理大臣とすべての閣僚（大臣）が集まって話し合い、政府としての方針を正式に決めることです。"
-    }
-   ],
-   "importance": 5
-  },
-  {
-   "id": "961bf0c4befcc9f1",
-   "url": "https://www.nikkei.com/article/DGXZQOFL11BEC0R10C26A9000000",
-   "title_original": "NY商品、原油反落 中東懸念がやや後退 金は小反発",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-09-11T20:08:38+00:00",
-   "title_ja": "ニューヨーク市場で原油価格が反落、中東懸念はやや後退",
-   "one_line": "ニューヨークの商品市場で、中東の情勢に対する懸念がやや和らぎ、原油価格が値下がりしました。",
-   "what": "ニューヨークの市場で、原油の価格が前の日よりも下がりました。中東の情勢に対する心配が少し和らいだことが、価格の動きに影響を与えたとみられています。",
-   "background": "原油はガソリンやプラスチックなど、さまざまな製品の材料になるため、世界中の市場で毎日値段が決められています。中東の政治や紛争のニュースは、原油の安定した手に入りにくさを連想させるため、価格が大きく変わりやすくなります。",
-   "impact": "原油の値段が下がると、私たちの暮らしではガソリン代や電気・ガス代の値上がりを防ぐ助けになることがあります。ただし、世界の出来事で値段は日々大きく変わります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "原油",
-     "meaning": "地下からくみ上げたままの、石油製品の材料となる液体です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3e4616da34486603",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
-   "title_original": "Can BRICS help reshape global order by strengthening emerging economies?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789149056.jpg?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-11T20:04:02+00:00",
-   "title_ja": "新興国が集まるBRICSの首脳会議",
-   "one_line": "新しい経済の仕組みを目指す国々の代表が集まって会議を開いています。",
-   "what": "世界で経済力をつけている国々の集まりである「BRICS」のリーダーたちが、インドのニューデリーで会合を開いています。",
-   "background": "BRICSは、アメリカやヨーロッパを中心としたこれまでの世界の仕組みとは違う、新しい国際的なつながりや経済の協力関係を作ろうと話し合う集まりです。",
-   "impact": "世界の国同士の貿易や経済のルールが変わる可能性があるため、日本の産業や国際関係にも長い目で見て影響することがあります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "BRICS",
-     "meaning": "これからの成長が期待される複数の国々が集まったグループのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a5fd00758f210673",
-   "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-   "title_original": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108348621-1786555918107-gettyimages-73737271-Huty1594110.jpeg?v=1786555996&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-11T20:01:45+00:00",
-   "title_ja": "サウジアラビアの石油パイプライン停止",
-   "one_line": "サウジアラビアで、攻撃を受けて石油を送るパイプラインが止められました。",
-   "what": "サウジアラビアで、相次ぐ攻撃を受けて東と西を結ぶ原油のパイプラインの動きが止められました。周辺の国から攻撃を仕掛けるグループによる動きが強まっています。",
-   "background": "サウジアラビアは世界有数の石油の生産国です。石油を運ぶ道や施設は、世界のエネルギーの供給にとって非常に重要な場所となっています。",
-   "impact": "世界の石油の動きや価格に影響を与えることがあるため、ガソリンや電気料金などの値段を通じて私たちの家計につながってくる場合があります。",
-   "genre": "国際",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "原油",
-     "meaning": "地下からくみ上げたままの、まだ加工していない石油のことです。"
-    },
-    {
-     "word": "パイプライン",
-     "meaning": "石油やガスなどを遠くまで運ぶためにつなぎ合わせた管のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "0c08ad6374241898",
-   "url": "https://www.sankei.com/article/20260912-46D3YUWSXBI2BABIFCNXJAUAHY",
-   "title_original": "高市日誌11日（金）",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/7NXBMIG3CFNXFJ76GO6CD5RGJA.jpg?auth=e49532d0de02affd3b059fe09259df7f6046befa3c98df8055dc175c25c750b4&quality=50&focal=2639%2C1683&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-11T20:00:01+00:00",
-   "title_ja": "高市早苗さんの9月11日の記録",
-   "one_line": "政治家としての1日の活動の様子を記録した「日誌」が公開されました。",
-   "what": "政治家である高市早苗さんの、9月11日（金曜日）の行動を記録した日誌についての記事です。詳しい内容は書かれていません。",
-   "background": "政治家や大臣などの大切な立場にある人は、誰と会って、どこで何をしたかという記録を「日誌」として残すことがあります。あとから国民が政治の透明性を確かめるための大切な資料となります。",
-   "impact": "今すぐ私たちの暮らしやお金が変わるものではありませんが、政治家がどのような仕事をしているのかを知るための手がかりになります。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [],
-   "importance": 1
-  },
-  {
-   "id": "15e74d05963d7157",
-   "url": "https://www.nikkei.com/article/DGXZQOUB0914C0Z00C26A9000000",
-   "title_original": "AI・インフレ時代、企業財務の要諦は 「CFO戦略を聞く」まとめ読み",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3577862010092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.45&fp-y=0.24&h=630&w=1200&s=8817c457d4af274fcdd95c81cbd4735b",
-   "region": "国内",
-   "published": "2026-09-11T20:00:00+00:00",
-   "title_ja": "これからの会社の大きなお金の管理方法",
-   "one_line": "人工知能が広がり物価が上がる時代に、会社のお金をどう守り増やすかという話です。",
-   "what": "AI（人工知能）が広く使われ、ものの値段が上がる時代の中で、会社のお金を管理する責任者である「CFO」がどう動くべきかについての記事です。",
-   "background": "会社を動かすときには、たくさんのお金を集めて、どこに使うかを決める必要があります。このお金の管理を専門にする人を「CFO」と呼び、会社の計画を立てるうえでとても大切な役割を持っています。",
-   "impact": "今すぐ私たちの家計が変わるわけではありませんが、日本の会社が新しい時代に合わせてどのような作戦で生き残ろうとしているのかに関わります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "CFO",
-     "meaning": "会社のお金を集めたり、どこにいくら使うかを決めたりする「最高財務責任者」という大切な役割のことです。"
-    },
-    {
-     "word": "インフレ",
-     "meaning": "世の中全体のモノの値段がだんだんと上がっていく現象のことです。これがおきると、お金の価値が下がってしまいます。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e91db77c4c148c56",
-   "url": "https://www.asahi.com/articles/ASV9C2TJPV9CUQIP012M.html",
-   "title_original": "沖縄県知事選、13日に投開票 争点や経済や暮らし、安保論戦は低調",
-   "source": "朝日新聞 政治",
-   "image": "https://imgopt.asahi.com/ogp/AS20260911003047_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-11T20:00:00+00:00",
-   "title_ja": "沖縄県知事選挙が13日に投票と開票を迎える",
-   "one_line": "沖縄県のこれからのリーダーを選ぶ選挙が13日に行われ、争点はあまり盛り上がらなかったと伝えています。",
-   "what": "沖縄県の一番のリーダーである「知事」を選ぶ選挙が、13日に投票と開票を行うというニュースです。記事では、経済や安全保障についての話し合いがあまり盛り上がらなかったと伝えています。",
-   "background": "知事を選ぶ選挙は、私たちが住む地域のこれからの道を決める大切な仕組みです。候補者たちは、仕事や暮らし、基地の問題などをどうするかを訴えて、有権者に選んでもらいます。",
-   "impact": "これからの沖縄の暮らしや、国全体に関わる基地の問題などがどのように進んでいくのかを左右する、とても大切な結果が決まります。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [
-    {
-     "word": "知事",
-     "meaning": "都道府県という広い地域のリーダーのことで、住民の選挙によって選ばれます。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c00fe8f99149793b",
-   "url": "https://www.asahi.com/articles/ASV9C2G59V9CUTFK003M.html",
-   "title_original": "モンゴル首相が訪日、29日にも首脳会談へ 協力関係を確認",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20260911002771_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-11T20:00:00+00:00",
-   "title_ja": "モンゴルの首相が日本を訪れ話し合いへ",
-   "one_line": "モンゴルの首相が日本を訪れ、今月29日ごろに日本の首相と会談して協力関係を確かめる予定です。",
-   "what": "モンゴルの首相が日本を訪れ、今月の29日にも日本の首相と会談を行うというニュースです。お互いの国同士の協力関係を確かめ合う予定となっています。",
-   "background": "国と国が仲良くするために、それぞれの国の代表が話し合うことを「首脳会談」と呼びます。遠い国同士でも、貿易や安全保障などで助け合うためにこうした話し合いが定期的に開かれます。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、日本とモンゴルの関係が深まることで、貿易や文化のやり取りに影響することがあります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "首脳会談",
-     "meaning": "国を代表するリーダー同士が集まって、お互いの国の問題や協力できることについて話し合う会議のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0d7a3dd171f40284",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260912de49840",
-   "title_original": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49840/20260912de49840_E0000028785_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-11T19:51:27+00:00",
-   "title_ja": "イオンモール熊本 全テナントに契約解除打診",
-   "one_line": "大規模な爆発事故で休業が続くイオンモール熊本で、すべてのテナントに一時的な契約解除が打診されました。",
-   "what": "大規模な爆発がおきて7人が亡くなった熊本県嘉島町の商業施設で、休業が続いていることを受け、施設の運営会社がすべての入居店に対して、一時的に契約を終わらせることを持ちかけました。",
-   "background": "商業施設の中には、運営する会社から場所を借りてお店を開いているたくさんの店が入っています。こうした店と会社の間の約束を「テナント契約」と呼びます。店が営業できない状態が続いたとき、どうするかという問題です。",
-   "impact": "今すぐ全国の買い物に影響が出るわけではありませんが、地元のお店や働き手にとって、今後の営業をどうするのかという大きな問題につながる動きです。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "テナント",
-     "meaning": "ビルや商業施設の中で、お店を開くために部屋や場所を借りている店や会社のことをいいます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5d2828daaaab03cd",
-   "url": "https://www.nikkei.com/article/DGXZQOUB111BD0R10C26A9000000",
-   "title_original": "日銀は利上げへ、上値余地探る円相場 原油は高値圏推移",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3583064011092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=dc26989a83588aeec1616e6da5068a96",
-   "region": "国内",
-   "published": "2026-09-11T19:00:00+00:00",
-   "title_ja": "日銀の利上げと円相場・原油価格の動き",
-   "one_line": "日本銀行が金利を引き上げる方向で動く中、円の価値や原油の価格がどのように変化するか注目されています。",
-   "what": "日本の中央銀行である日本銀行が金利を上げる方針を示している中で、外国のお金に対する円の価値がどこまで上がるか探る動きがあり、原油の価格も高い水準で続いています。",
-   "background": "日本銀行は、物価や景気の様子を見ながら、お金の貸し出しにかかる金利を上げたり下げたりして、経済のバランスをとる役割を持っています。金利が変わると、為替と呼ばれるお金の交換レートや、さまざまな商品の値段にも影響します。",
-   "impact": "私たちの暮らしの中では、円の価値や原油の値段が変わることで、ガソリンや輸入される食べ物などの値段が上がったり下がったりして、家計に影響をあたえます。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "利上げ",
-     "meaning": "中央銀行が銀行に貸し出すときの金利を引き上げることで、世の中全体の金利を上げる政策のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "1d475a48a35218c5",
-   "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
-   "title_original": "Oil prices fall after double-digit weekly gains above $100",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg?v=1786556124&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-11T16:11:25+00:00",
-   "title_ja": "原油の価格が下がる",
-   "one_line": "これまで上がっていた原油の取引価格が値下がりしました。",
-   "what": "世界中で取引されている原油の価格が、これまで値上がりを続けていた流れから下向きに変わりました。",
-   "background": "原油はガソリンや電気を作るための燃料のもとになる大切な資源です。世界各地の政治の様子や、ものがどれくらい必要とされているかによって、価格が日々上がったり下がったりします。",
-   "impact": "原油の値段が変わると、やがて私たちが使うガソリンや電気料金、お店に並ぶ品物の値段にも影響することがあります。今すぐ私たちの暮らしが大きく変わるわけではありません。",
-   "genre": "経済",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "原油",
-     "meaning": "ガソリンや灯油、プラスチックなどの材料になる、地下から掘り出したままの石油のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4d7f2d3a13b5a35b",
-   "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
-   "title_original": "Surging bond yields presage pain—and not just for bond investors",
-   "source": "The Economist",
-   "image": "",
-   "region": "海外",
-   "published": "2026-09-11T16:02:32+00:00",
-   "title_ja": "国債の利回り上昇がもたらす影響と背景",
-   "one_line": "国債の利回りが上がっており、投資家だけでなく社会全体への痛みが心配されています。",
-   "what": "しつこい物価の上がり下がりや、会社がお金を借りたいという強い要望、そして国の大きな借金などが原因で、国が発行する債券の持ち主たちが厳しい状況におかれています。",
-   "background": "国債は、国がお金を借りるために発行する証書のようなものです。国債を買った人は、国から利息を受け取ることができますが、経済の状況によってその価値や利回りが変化します。",
-   "impact": "国が借りるためのお金の負担が増えると、国の予算の使い道や、世の中全体の金利の動きを通じて、私たちの暮らしや経済全体に影響が及びます。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "国債",
-     "meaning": "国が活動するためのお金を集めるために発行する、いわば国に対する借用証書のようなものです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "494a62ade35942e6",
-   "url": "https://www.nytimes.com/live/2026/09/11/nyregion/9-11-anniversary-25th/europe-us-allies-sept-11",
-   "title_original": "U.S. allies in Europe recall trans-Atlantic bonds after the 9/11 attacks.",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11sept-live-international-tributes-ribbon-hlbc/11sept-live-international-tributes-ribbon-hlbc-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-11T16:00:49+00:00",
-   "title_ja": "アメリカとヨーロッパの結びつきを振り返る",
-   "one_line": "ヨーロッパの国々が、過去の大きな出来事をきっかけにアメリカとの関係を思い出しています。",
-   "what": "アメリカで起きた大きな事件のあとに、ヨーロッパの国々がアメリカとの間の結びつきを改めて振り返りました。",
-   "background": "アメリカとヨーロッパの国々は、歴史的に深い関わりがあり、お互いの安全や協力のために特別な関係を築いてきました。このような結びつきは、国際社会の大きな出来事があるたびに話題になります。",
-   "impact": "今すぐ私たちの毎日の暮らしやお金の使い方が変わるものではありませんが、世界の国々がどのように協力し合っているのかを知る手がかりになります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "7cb05a1c51c2759f",
-   "url": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham",
-   "title_original": "MPs reject assisted dying bill after tense debate – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/99ef3edef546f9ca7c8b55d927cf4b0e904e31ef/648_0_6757_5406/master/6757.jpg?width=140&quality=85&auto=format&fit=max&s=92841175c457910e721140241e1df7b0",
-   "region": "海外",
-   "published": "2026-09-11T16:00:12+00:00",
-   "title_ja": "イギリスの議会で病気の人が自ら命を選ぶ法案が否決される",
-   "one_line": "イギリスの国会で、重い病気の人が自ら人生を終わらせることを認める法律案が反対多数で否決されました。",
-   "what": "イギリスの議会で、治る見込みのない重い病気を抱える大人が、専門家の確認をへて自ら命を絶つことを認めるための法案が話し合われ、反対多数で認められませんでした。",
-   "background": "イギリスをはじめとする多くの国では、人の命や尊い選択をどのように法律で支えるかについて、長い間議論が続けられています。法律を作る議会では、倫理的な問題や医療のあり方について意見が分かれることがあります。",
-   "impact": "イギリス国内の法律や医療の制度に関する議論であり、日本の私たちの暮らしに直接すぐ変わる影響はありません。生死や医療に関する考え方は国や文化によってさまざまです。",
-   "genre": "政治",
-   "category": "国会・法律",
-   "terms": [
-    {
-     "word": "法案",
-     "meaning": "国会で話し合って新しい法律にするための原案のこと。議会で賛成多数となると法律になります。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fb013e5ed1ad3d46",
-   "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo",
-   "title_original": "Israel says it has destroyed major underground Hezbollah base",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg",
-   "region": "海外",
-   "published": "2026-09-11T15:50:23+00:00",
-   "title_ja": "イスラエル軍がレバノンの地下基地を破壊",
-   "one_line": "イスラエルが相手側の地下基地を壊したと発表しました。",
-   "what": "イスラエル軍は、地下にあった大きな基地を壊したと発表しました。その時にマグニチュード4.1の地震のような大きな揺れが起きました。",
-   "background": "中東では、イスラエルという国と、周辺の組織や国との間で長い間争いが続いています。地下基地は、敵から身を隠したり武器をかくまったりするために使われることがあります。",
-   "impact": "今すぐ私たちの暮らしやお金に直接大きな影響が出るものではありませんが、世界の安全保障にかかわる重要な動きです。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "マグニチュード",
-     "meaning": "地震のエネルギーの大きさを表す単位です。数字が大きほど、地震の揺れやエネルギーが強くなります。"
-    }
-   ],
-   "importance": 3
   }
  ]
 }
