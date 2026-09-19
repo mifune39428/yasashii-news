@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T00:41:41.526225+09:00",
+ "updated_at": "2026-09-20T05:21:05.384040+09:00",
  "genres": [
   "政治",
   "経済",
@@ -598,10 +598,366 @@
   {
    "id": "19f276028f76e69c",
    "until": "2026-09-24T15:41:41.526225+00:00"
+  },
+  {
+   "id": "7ee5ca355f178fda",
+   "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "3ad9d16327e0194e",
+   "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "ddb77cb4a68ce9d1",
+   "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "1d172c5cb556de20",
+   "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "c84f7e94307f356a",
+   "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "75c6f92495e218fe",
+   "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "75b1d2a60701b867",
+   "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "d8111971e9d67be0",
+   "until": "2026-09-24T20:21:05.384040+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "f6f523f3fdca26d0",
+   "url": "https://www.nytimes.com/2026/09/19/world/asia/pakistan-mosque-attack-bahadur.html",
+   "title_original": "Group Linked to Al Qaeda Claims Responsibility for Mosque Attack in Pakistan",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-pakistan-mosque-htjb/19int-pakistan-mosque-htjb-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-19T20:02:22+00:00",
+   "title_ja": "パキスタンでモスクを狙った襲撃事件が発生",
+   "one_line": "パキスタンでモスクが襲撃され、多くの人が亡くなり、暴力的な事件が続いています。",
+   "what": "パキスタンで、イスラム教の礼拝所であるモスクが何時間にもわたって襲撃される事件が起きました。この事件で少なくとも24人以上が亡くなり、アフガニスタンとの国境の近くで治安が悪くなっている現状が浮き彫りになりました。",
+   "background": "パキスタンとアフガニスタンの国境近くの地域では、政府に反対する武装グループや、過激な考えを持つグループによる事件がたびたび起きています。国境の管理が難しく、治安を保つことが長年の課題となっています。",
+   "impact": "日本の日常生活に直接的な影響はありませんが、世界の特定の地域で治安が悪化し、大勢の人が被害を受ける事件が起きていることは、国際社会全体の大きな問題です。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "モスク",
+     "meaning": "イスラム教徒が神にお祈りをするための建物のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "751e491e7d294c81",
+   "url": "https://mainichi.jp/articles/20260919/k00/00m/020/079000c",
+   "title_original": "「発泡酒増税はいじめ」 知られざるビール会社と最強官庁の攻防",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/19/20260919k0000m020094000p/0c10.jpg?1",
+   "region": "国内",
+   "published": "2026-09-19T20:01:15+00:00",
+   "title_ja": "ビールとお酒の税金めぐる議論と歴史",
+   "one_line": "ビールとお酒にかかる税金や、国と会社のやり取りについての話題です。",
+   "what": "ビール会社と、税金をあつかう国の役所のあいだで、お酒にかかる税金のルールをめぐるやり取りがあったという記事です。",
+   "background": "国は、さまざまな商品にかける「税金」をあつめて、道路や学校をつくったり、警察や消防の仕事をしたりするための費用に使っています。お酒にかかる税金は「酒税」といい、大むかしから大切な国の収入の源になってきました。ビールや発泡酒など、お酒の種類によって税金の金額がちがうため、会社側と国とのあいだで議論が起きることがあります。",
+   "impact": "いま、私たちの買い物の値段がすぐに大きく変わるわけではありませんが、国がどんなルールでお金を集めるかによって、将来の暮らしや商品の値段に影響することがあります。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "b4aeda5676d19fb3",
+   "url": "https://www.theguardian.com/australia-news/2026/sep/20/tobacco-shops-attacks-melbourne-ntwnfb",
+   "title_original": "As tobacconist firebombings intensify in Melbourne, nearby stores are being denied insurance",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/a289589fb3b26a9d70097606a90a2d0f0466ebad/0_0_6006_4805/master/6006.jpg?width=140&quality=85&auto=format&fit=max&s=f60f38d6486fcac12c4e1327d75f499f",
+   "region": "海外",
+   "published": "2026-09-19T20:00:57+00:00",
+   "title_ja": "オーストラリアの店舗火災で保険が下りない問題",
+   "one_line": "オーストラリアで起きた火事が原因で、周りのお店が保険に入れなくなっています。",
+   "what": "オーストラリアのメルボルンで、たばこ店をねらった火事が相次ぎ、その近くにある別のお店まで火の被害に遭いました。そのため、まわりのお店が火災の保険に入れなくなったり、保険料がとても高くなったりしています。",
+   "background": "「保険」は、万が一の火事や事故が起きたときに、みんなでお金を出し合って被害を受けた人を助ける仕組みです。しかし、まわりで危険な事件や火事が何度も起きると、「保険会社が大きなお金を払わなくてはならなくなる」ため、お店に保険を売るのをやめたり、値段をすごく高くしたりすることがあります。",
+   "impact": "日本にすぐ影響する話ではありませんが、外国の街で治安が悪くなると、まじめに商売をしているお店の人たちが保険に入れなくなり、生活が成り立たなくなる問題が起きています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "火災保険",
+     "meaning": "火事や自然災害などで建物やお店が壊れたときに、修理するためのお金が出る仕組みです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c4b57fa09281751c",
+   "url": "https://toyokeizai.net/articles/-/958586",
+   "title_original": "ワークマンの｢リカバリーウェア｣､外で着るジャケット･パンツ投入で狙う\"24時間ずっと回復\"の新習慣 | ビジネス | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/0/f/1200w/img_0faeb82a45248d3717deedafb3190c36581832.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-19T20:00:00+00:00",
+   "title_ja": "ワークマンが疲労回復を助ける服を発売",
+   "one_line": "着ると体を休めやすくする服の新しい商品が、仕事着としても売られています。",
+   "what": "作業着などをあつかう会社が、着るだけで体の疲れを和らげる服のシリーズを広げ、外で着るジャケットやパンツの販売に力を入れているというニュースです。",
+   "background": "最近の日本では、毎日の仕事の疲れをしっかり取って元気に過ごしたいという人が増えています。そのため、着ているだけで体をリラックスさせてくれる服や、ぐっすり眠るための服を作る会社が増えており、部屋着だけでなく、ふだんの仕事のときにも着られる商品へと人気が広がっています。",
+   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、こうした健康を助ける便利な服が買いやすい値段で手に入るようになると、日々の働き方やくらしが少し快適になるかもしれません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "76b6b88ea3061fc2",
+   "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+   "title_original": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=140&quality=85&auto=format&fit=max&s=af31914fd31b473855086f5599de2828",
+   "region": "海外",
+   "published": "2026-09-19T19:57:17+00:00",
+   "title_ja": "アメリカのトランプ氏がAIを監視する仕組みを提案",
+   "one_line": "アメリカのトランプ氏が、急速に広がるAIの安全を守る新しい組織をつくると話しました。",
+   "what": "アメリカのトランプ氏が、急速に発達している人工知能（AI）を見守るための責任者を決め、専門の部隊をつくるという計画を発表しました。",
+   "background": "人工知能（AI）は、人間のように考えたり絵を描いたり文章を作ったりできるコンピュータの技術です。最近とても速いスピードで進歩しているため、「人間にとって危険ではないか」「悪用されないか」という心配の声が世界中であがっており、どのようにルールを作って見守るべきかが話し合われています。",
+   "impact": "アメリカのAIに関するルールや新しい組織の動きは、日本で使われているスマホのアプリや便利な技術、サービスにも大きな影響をあたえることがあります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "人工知能（AI）",
+     "meaning": "人間のように考えて、言葉を話したり絵を描いたり、問題を解いたりできるコンピュータの仕組みです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "57cba208fb5e3146",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260920de51287",
+   "title_original": "ドイツ 首都と北東部の州で議会選挙へ「極右」が支持伸ばすか",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51287/20260920de51287_E0000033567_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-19T19:56:21+00:00",
+   "title_ja": "ドイツの首都と北東部の州で議会選挙",
+   "one_line": "ドイツの州の議会選挙で、「極右」と呼ばれる政治のグループがどこまで支持を集めるかが注目されています。",
+   "what": "ドイツの首都ベルリンと北東部の州で議会選挙が行われます。一部の州で「極右」のグループに認定されている「ドイツのための選択肢」という政党が、どれだけ票を伸ばすかが注目されています。",
+   "background": "国だけでなく、それぞれの「州」にも独自の議会や法律を決める仕組みがあります。ドイツでは近年、国のあり方について異なる考え方を持つグループの勢力が変わってきており、選挙の結果がこれからの政治の方向性に大きく影響します。",
+   "impact": "日本の暮らしにすぐに大きな影響が出るわけではありませんが、ヨーロッパ全体の動きや政治の方向性を決める大切な選挙として世界から注目されています。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "極右",
+     "meaning": "政治の中で、伝統的な考え方や自国の利益を特に強く大切にしようとする立場のことです。移民の受け入れなどに厳しい意見を持つことが多いです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1c5fe7397288f44c",
+   "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+   "title_original": "Canadians warm to EU ‘associate membership’ proposal",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260917__C8KT6U3__v1__HighRes__FranceEuCanadaParliament-1789645609_c377d5-1789726757.jpg?resize=1200%2C630&quality=80",
+   "region": "海外",
+   "published": "2026-09-19T19:53:55+00:00",
+   "title_ja": "カナダとヨーロッパ連合の新しい結びつき",
+   "one_line": "カナダの人たちの間で、ヨーロッパ連合との結びつきを強める新しい仕組みへの関心が高まっています。",
+   "what": "カナダで、仕事や勉強、貿易などの面でヨーロッパ連合とより深い関係を作る「準加盟」という提案について、新しい可能性として受け止められています。",
+   "background": "ヨーロッパ連合は、ヨーロッパの国々が経済や法律のルールをできるだけ共通にして、お互いの行き来や貿易をしやすくするための大きなグループです。カナダとはもともと貿易などでつながりがありますが、さらに結びつきを強めようという話し合いが進められています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、実現すれば、カナダとヨーロッパの間での仕事や勉強、買い物がもっとしやすくなる可能性があります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "ヨーロッパ連合",
+     "meaning": "ヨーロッパの国々が集まって、お金や貿易のルールを一緒にしたり、国境の行き来をしやすくしたりしている大きなグループのことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "69b651ef9a6de8e9",
+   "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo",
+   "title_original": "Journalists denied White House access after Trump banned some media outlets",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
+   "region": "海外",
+   "published": "2026-09-19T19:13:49+00:00",
+   "title_ja": "アメリカのホワイトハウスで記者証が取り上げられる",
+   "one_line": "アメリカのホワイトハウスで、一部のメディアの記者たちが取材するための記者証を取り上げられました。",
+   "what": "アメリカのホワイトハウスで、いくつかのニュース会社で働く記者たちのプレスバッジ（記者証）が取り上げられたと、それぞれの会社が報じました。過去には特定のメディアの出入りが禁止されたこともあります。",
+   "background": "ホワイトハウスは、アメリカの政府の中心であり、大統領が働いている場所です。ここで行われる発表や記者会見を取材するためには、特別な許可を示す記者証が必要になります。政治家と取材をするメディアの間では、報道のあり方をめぐって意見が対立することがあります。",
+   "impact": "日本の暮らしに直接的な影響はありませんが、国や政治家がメディアの取材をどのように扱うかという、民主主義の大切なルールに関わるニュースです。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "ホワイトハウス",
+     "meaning": "アメリカの首都ワシントンにある、大統領が仕事をする場所であり、アメリカ政府の中心をあらわす言葉です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e55ef086dbf7d05a",
+   "url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
+   "title_original": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/63d2a060-b458-11f1-b32e-0730212ba17f/w:1024/p:16x9/000-C8RZ2XK.jpg",
+   "region": "海外",
+   "published": "2026-09-19T19:02:07+00:00",
+   "title_ja": "フランスの島をカナダの首相が初めて訪問",
+   "one_line": "フランスの飛び地をカナダの首相が初めて訪れ、関係を深めています。",
+   "what": "フランスのマクロン大統領が、カナダの近くにあるフランスの領土を訪れました。そこにカナダの首相も招待され、一緒に訪問しました。カナダの首相がこの場所を訪れるのは初めてのことです。",
+   "background": "国と国とが仲良くするため、お互いのリーダーが相手の国や自分たちの領土を訪れて話し合う外交がおこなわれます。今回は、カナダがこれまでのアメリカ中心の付き合い方から少し視野を広げ、ヨーロッパとのつながりを大事にしようとする動きの中で実現しました。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、遠い国どうしの外交のつながりや、お互いの協力関係が新しく変わっていくきっかけになる出来事です。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "領土",
+     "meaning": "その国が自分のものとして持っている土地や地域ののことです。"
+    },
+    {
+     "word": "外交",
+     "meaning": "国と国とが話し合いをして、仲良くしたりルールを決めたりする活動のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "fe7c99efa2aec286",
+   "url": "https://www.nytimes.com/2026/09/19/world/africa/elaine-mokhtefi-dead.html",
+   "title_original": "Elaine Mokhtefi, American Witness to Algeria’s Revolution, Dies at 98",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18obit-mokhtefi--04-zbwf/18obit-mokhtefi--04-zbwf-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-19T17:47:10+00:00",
+   "title_ja": "アルジェリアの独立に深く関わった女性が死去",
+   "one_line": "アルジェリアの歴史の転換期を支えたアメリカ出身の女性が亡くなりました。",
+   "what": "アルジェリアの独立に関わる仕事をし、さまざまな活動家を支えたアメリカ出身の女性が98歳で亡くなりました。彼女は現地で政府の仕事を手伝いながら、世界の革命家たちとも親しく交流していました。",
+   "background": "アルジェリアは、かつて長い間ヨーロッパの国に支配されていましたが、厳しい戦いを経て独立しました。その歴史の中で、世界中から集まった支援者や活動家たちが、現地の人々をさまざまな形で手助けしたという経緯があります。",
+   "impact": "今すぐ私たちの暮らしや経済が直接変わるような影響はありませんが、世界の国が独立した時代の歴史や、その裏で動いた人々の姿を伝える出来事です。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "独立",
+     "meaning": "他の国の支配や干渉を受けず、自分たちの国として新しく出発することです。"
+    },
+    {
+     "word": "活動家",
+     "meaning": "社会や政治の仕組みを変えるために、実際に表立って行動する人たちのことです。"
+    }
+   ],
+   "importance": 1
+  },
+  {
+   "id": "a9ee98846aad117d",
+   "url": "https://www.cnbc.com/2026/09/19/german-general-breuer-elected-to-head-top-nato-military-body.html",
+   "title_original": "German general Breuer elected to head top NATO military body",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108365384-1789839648111-gettyimages-2285815209-20260717_s8s6819.jpeg?v=1789839686&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-19T17:44:38+00:00",
+   "title_ja": "NATOの軍事トップにドイツの軍人が選ばれる",
+   "one_line": "ヨーロッパや北米の安全を守る組織の軍事部門のトップにドイツ人が選ばれました。",
+   "what": "ヨーロッパや北米の国々が加盟している安全保障のための組織で、軍事部門のトップを選ぶ選挙が行われました。その結果、ドイツの将軍が新しいリーダーに選ばれました。",
+   "background": "NATOは、加盟している国同士が力を合わせてお互いを守るための組織です。この組織には、政治的な話し合いをする部門と、実際の軍の動きをまとめる軍事部門があり、軍事部門のトップは政治のリーダーに大切なアドバイスをする役割を持っています。",
+   "impact": "日本に直接の義務や影響はありませんが、世界の平和や安全を守る大きな組織の体制が変わることで、これからの国際社会の安全保障の動きに影響を与えます。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "安全保障",
+     "meaning": "国や人々の平和と安全を、まわりの脅威から守り続ける仕組みのことです。"
+    },
+    {
+     "word": "加盟",
+     "meaning": "ある組織やグループに、新しく仲間として加わることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "74c0b3d88d1efb48",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20260919-greenland-deal-greenland-a-trump-win-or-danish-masterclass",
+   "title_original": "Greenland Deal: Greenland: A Trump Win or Danish Masterclass?",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/5d23c3d0-b44d-11f1-bf20-5b4fdf021577/w:1024/p:16x9/MILANO-CORTINA-000-97EH8CM.jpg",
+   "region": "海外",
+   "published": "2026-09-19T17:37:20+00:00",
+   "title_ja": "アメリカのトランプ大統領によるグリーンランド買収の動き",
+   "one_line": "アメリカのトランプ大統領が、デンマークの自治領であるグリーンランドを手に入れようと圧力をかけています。",
+   "what": "アメリカのトランプ大統領が、大統領に再び選ばれた直後の2024年12月から、グリーンランドをアメリカのものにしたいと主張し、圧力をかけ始めています。",
+   "background": "グリーンランドは北極の近くにある大きな島で、今はヨーロッパのデンマークという国の一部ですが、自分たちで決める権利を持つ「自治領」です。地下にはたくさんの資源が眠っているため、昔から国同士の争いや注目を集めてきた場所です。",
+   "impact": "今すぐ私たちのくらしに大きな変化はありませんが、アメリカとヨーロッパの間の外交や、世界の安全保障のバランスに影響する大切な問題です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "自治領",
+     "meaning": "大きなくくりの国の一部でありながら、自分たちのことは自分たちで決めるルールや権利を持っている地域のことを言います。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "eb87be56828f5d3c",
+   "url": "https://www.nikkei.com/article/DGXZQOUB1226R0S6A910C2000000",
+   "title_original": "「望まぬ利上げ加速」招いた高市財政 市場混乱で沈黙、危うい同床異夢",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3598604015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.81&fp-y=0.54&h=630&w=1200&s=fcd74ecd439f4c824dbff754e33de1bf",
+   "region": "国内",
+   "published": "2026-09-19T17:00:00+00:00",
+   "title_ja": "高市氏の財政政策と金利をめぐる市場の混乱",
+   "one_line": "高市氏の財政政策や金利の動きをめぐり、市場が混乱して心配の声が上がっているという話です。",
+   "what": "高市氏の財政についての考え方や政策が、「望まない金利の引き上げ」を進める原因になり、市場を混乱させていると報じられています。",
+   "background": "国がお金を使う「財政政策」と、中央銀行が決める「金利」は深く結びついています。国の借金が増えすぎたり、使い方が市場に不安を与えたりすると、お金の貸し借りをする金利や為替の値段が大きく変わることがあります。",
+   "impact": "金利が上がると、住宅ローンや会社の借金の返済額が増えるなど、私たちの家計や会社の活動に直接影響が出てくることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "金利",
+     "meaning": "銀行にお金を預けたり、借りたりするときにやり取りする「手数料」のようなお金の割合のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "0b25c49d082419cc",
+   "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-world-4025-rdf",
+   "title_original": "Ukraine steps up measures to protect railways",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79297117_6.jpg",
+   "region": "海外",
+   "published": "2026-09-19T15:37:00+00:00",
+   "title_ja": "ウクライナ、攻撃受ける鉄道の守りを強化",
+   "one_line": "ウクライナが、攻撃を受けて壊れた鉄道の機関車を直し、安全を守る計画を進めています。",
+   "what": "ウクライナの鉄道が攻撃を受けることが増えているため、政府が壊れた機関車を新しくするための助けを求め、乗客の安全を守る計画を進めています。",
+   "background": "鉄道は、遠くの街へ人や荷物を大量に運ぶための大切な乗り物です。車輪のついた客車や貨物車を、エンジンがついた「機関車」という車両が引っ張ることで動いています。たくさんの人が移動したり、食べ物や荷物を運んだりするために欠かせない仕組みです。",
+   "impact": "今すぐ日本の私たちの生活が変わるわけではありませんが、遠くの国で人々が移動したり荷物を運んだりする大切な道がどう守られていくのか、世界で注目されています。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "機関車",
+     "meaning": "客車や貨物車を引っ張るために、強いエンジンがついている先頭の車両のことです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "1f45055188d8f4c3",
    "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
@@ -1241,6 +1597,24 @@
    "importance": 2
   },
   {
+   "id": "b2f1e6a853902560",
+   "url": "https://www.sankei.com/article/20260919-MZNZOOTZOZOVNIVNNOKT6M23Y4",
+   "title_original": "「米国で年4～5％の売り上げ増目指す」キッコーマン専務、しょうゆの供給強化",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/WNIVITRQ4NO35JYIK3SOM47I2E.jpg?auth=d9c6ab94f2dfd3bb0f8fac86a5dc695502982ce576f6142419085855aa813ae5&quality=50&focal=505%2C452&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-19T06:46:07+00:00",
+   "title_ja": "キッコーマン、アメリカでの売り上げ増加を目指す",
+   "one_line": "キッコーマンの役員が、アメリカで毎年しょうゆの売り上げを増やす方針を示しました。",
+   "what": "日本の食品会社であるキッコーマンの専務が、アメリカでのしょうゆの供給を強くし、毎年の売り上げを増やすことを目指すと話しました。",
+   "background": "会社は、日本だけでなく外国にも店を出したり商品を売ったりして、商売を広げることがあります。アメリカでは日本食の人気が高まっており、調味料であるしょうゆを現地の工場で作ったり運んだりして売るビジネスが続けられています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、日本の会社の製品が海の向こうの国でどのように売られていくのかを知る手がかりになります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 2
+  },
+  {
    "id": "d1d4d8b70a8b37f1",
    "url": "https://www.bbc.com/japanese/articles/ck3re3w98ey5o",
    "title_original": "EU、15歳未満のソーシャルメディア利用を制限する計画発表",
@@ -1614,6 +1988,29 @@
     {
      "word": "自治領",
      "meaning": "大きな国の一部でありながら、自分たちのことは自分たちの法律や政府で決める地域のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4143b8d3789598ac",
+   "url": "https://news.yahoo.co.jp/pickup/6595773?source=rss",
+   "title_original": "弁当店の倒産急増 過去最多見通し",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/756b446ae2aed6223cc0769ba6ad99ae4a8427267d7eb2e4b94704ceacc65b19.jpg",
+   "region": "国内",
+   "published": "2026-09-19T00:05:35+00:00",
+   "title_ja": "お弁当屋さんの倒産が過去最多になる見通し",
+   "one_line": "お弁当を作って売るお店の倒産が、これまでで一番多くなるペースで増えています。",
+   "what": "お弁当を専門に作って売るお店の倒産する数がとても増えており、これまでで一番多くなるという見通しが出されています。",
+   "background": "お店を続けるためには、食材を買うお金や、お店を借りるお金、働く人へ払うお給料が必要です。お店の売上からこうした費用を引いた残りが利益になりますが、費用が大きく増えたり売上が減ったりすると、お店の経営が続けられなくなってしまうことがあります。",
+   "impact": "好きなお弁当屋さんや身近なお店がなくなってしまうかもしれないほか、食べ物の値段や外食の仕組み全体にどのような影響があるのか気をつける必要があります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "倒産",
+     "meaning": "会社やお店が、借金を返せなくなったり経営が行き詰まったりして、仕事を続けられなくなることです。"
     }
    ],
    "importance": 3
@@ -7314,380 +7711,6 @@
     }
    ],
    "importance": 2
-  },
-  {
-   "id": "37d1a9e36c1331f0",
-   "url": "https://news.yahoo.co.jp/pickup/6595417?source=rss",
-   "title_original": "北朝鮮体育相 アジア大会で訪日へ",
-   "source": "Yahoo!ニュース 国際",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/15/2be30021b82cc2041315bce68cc1542cdf6351b5025ba1c8ad5b190104b765d7.jpg",
-   "region": "国内",
-   "published": "2026-09-15T14:20:21+00:00",
-   "title_ja": "北朝鮮の体育相がアジア大会で日本を訪問へ",
-   "one_line": "北朝鮮のスポーツを担当する大臣が、アジア大会に合わせて日本を訪れるというお話です。",
-   "what": "北朝鮮のスポーツ政策をになう体育相が、アジア大会への参加や関連の行事などのために日本を訪問する予定であることが分かりました。",
-   "background": "日本と北朝鮮の間には、これまでに解決されていない問題などもあり、直接の話し合いや交流の機会は限られています。スポーツの国際的な大会などをきっかけに、政府の担当者が日本を訪れることがあります。",
-   "impact": "今すぐ私たちの暮らしやお金の使い道が変わるものではありませんが、日本と北朝鮮の間の外交や国際的な交流の動きとして注目されます。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "体育相",
-     "meaning": "国の中でスポーツに関する仕事をまとめて担当する大臣のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "05ee2ff74319f905",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260915de50451",
-   "title_original": "雑誌「オレンジページ」 親会社のJR東日本が売却へ",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50451/20260915de50451_E0000030757_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-15T14:19:00+00:00",
-   "title_ja": "雑誌オレンジページをJR東日本が売却へ",
-   "one_line": "JR東日本が、雑誌を発行する子会社の株をすべて育児情報サイトを運営する会社に売るというお話です。",
-   "what": "鉄道会社のJR東日本が、雑誌「オレンジページ」を出している会社をグループから離し、育児の情報サイトなどを運営する会社へすべての株を譲ることを発表しました。",
-   "background": "大きな会社やグループは、自分の本業以外の仕事を整理したり、事業をよりよく成長させたりするために、持っている会社の株を別の会社に売ることがあります。",
-   "impact": "今すぐに毎日の生活や買い物が大きく変わるわけではありませんが、雑誌の発行を続ける会社の経営や方針が変わることになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "株式",
-     "meaning": "会社が資金を集めるために発行するもので、会社の所有権の一部を表すものです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3122aca9d85600f6",
-   "url": "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/79270143_6.jpg",
-   "region": "海外",
-   "published": "2026-09-15T14:03:00+00:00",
-   "title_ja": "サウジアラビアが直面する安全保障と外交の課題",
-   "one_line": "サウジアラビアが、お隣の国で続く対立と治安の悪化への対応に頭を悩ませています。",
-   "what": "サウジアラビアが、隣国イエメンで勢力を強める武装組織との対立をめぐり、軍事的な抑え込みと話し合いによる解決のバランスを取る中で、安全保障と経済の問題に直面しています。",
-   "background": "サウジアラビアは中東の大国で、豊かな石油を武器に国際社会で大きな影響力を持っています。しかし、隣の国イエメンでは、別の国から支援を受けているとされる武装組織との長い争いが続いており、国境の安全を守ることが大きな課題となっています。",
-   "impact": "今すぐ私たちの暮らしやお金に直接影響するものではありませんが、世界のエネルギーの供給や中東地域の安定に深く関わる問題として、今後の動きが注目されます。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "安全保障",
-     "meaning": "国や地域の平和と安全を守り、外からの攻撃や危険から国民の命や暮らしを守る仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e049e88f6414b5e",
-   "url": "https://www.asahi.com/articles/ASV9773MQV97UHBI01QM.html",
-   "title_original": "9･11で何が起きたのか ビジュアルでたどる事件とその後の25年",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20260909000311_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-15T14:01:13+00:00",
-   "title_ja": "アメリカ同時多発テロから25年、事件の経緯を振り返る",
-   "one_line": "2001年に起きたアメリカ同時多発テロ事件から25年が経ち、当時の出来事とその後を振り返っています。",
-   "what": "2001年にアメリカで起きた同時多発テロ事件について、その出来事と、その後の25年間の変化をビジュアルでたどる記事が公開されました。",
-   "background": "同時多発テロは、飛行機を使ったテロ攻撃によってアメリカ国内で多くの命が奪われた大事件です。この事件をきっかけに、アメリカをはじめとする世界各国はテロとの戦いを掲げ、安全保障の仕組みや国際社会のルールを大きく変えてきました。",
-   "impact": "今すぐ私たちの生活が変わるわけではありませんが、世界の安全保障や国際関係に大きな影響を与え続けた歴史的な出来事として、今も記憶されています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "テロ",
-     "meaning": "政治的な目的などを果たすために、暴力や脅しを使って一般の人々を恐怖に陥れる行為のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "772fc68b6c19b834",
-   "url": "https://news.yahoo.co.jp/pickup/6595414?source=rss",
-   "title_original": "日経新聞 広告冊子の料金を水増し",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/15/4acb97d9514d3ada34b0787554da557722a100e5974fd2630674ce0c74dc152d.jpg",
-   "region": "国内",
-   "published": "2026-09-15T13:18:14+00:00",
-   "title_ja": "日本経済新聞社が広告冊子の料金を水増ししていた問題",
-   "one_line": "日本経済新聞社が、広告の冊子を作るための料金を実際よりも多く請求していたことがわかりました。",
-   "what": "日本経済新聞社が、発行した広告冊子の料金を水増しして請求していたことが明らかになりました。",
-   "background": "企業が新しい商品やサービスを知らせるために、新聞社などは広告を載せる冊子やチラシを作ることがあります。その際、かかった費用や部数に応じて正しい料金を請求するルールになっています。",
-   "impact": "今すぐわたしたちの家計に直接影響するものではありませんが、新聞社という社会的な影響力が大きい会社の信頼に関わる問題として、今後の対応が注目されます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "b13d69c87833dfdd",
-   "url": "https://www.asahi.com/articles/ASV9G4WS2V9GUHBI01MM.html",
-   "title_original": "米長期金利上昇、一時5.04% 19年ぶり高水準 インフレ懸念で",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20260915005067_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-15T13:14:15+00:00",
-   "title_ja": "アメリカの長期金利が19年ぶりの高水準に",
-   "one_line": "アメリカの長期金利が一時5%を超え、約19年ぶりの高い水準になりました。",
-   "what": "アメリカの長期金利が一時5.04%まで上がり、およそ19年ぶりとなる高い水準を記録しました。物価が上がり続けることへの心配が背景にあると伝えられています。",
-   "background": "長期金利は、国が発行する国債が買われるときの利回りのことで、住宅ローンや企業の借り入れの金利に影響します。インフレと呼ばれる物価上昇が続くと、中央銀行が金利を上げて経済の熱を冷まそうとすることがあります。",
-   "impact": "アメリカの金利が上がると、円を売ってドルを買う動きが起きやすくなり、円安が進んで日本の輸入価格や物価に影響することがあります。また、日本国内の金利にもつながることがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "長期金利",
-     "meaning": "国がお金を借りるための期間が長い債券の金利で、世の中全体の金利の基準になります。"
-    },
-    {
-     "word": "インフレ",
-     "meaning": "モノやサービスの値段が全体的に上がり続けて、お金の価値が下がることです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "bc3af12bec282847",
-   "url": "https://www.nikkei.com/article/DGXZQOUA15AKA0V10C26A9000000",
-   "title_original": "国外居住者の新築マンション取得、東京2.5%大阪3.4% 国交省が公表",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3602779015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=039266dd979481e23c71644f8e93b485",
-   "region": "国内",
-   "published": "2026-09-15T11:49:15+00:00",
-   "title_ja": "国外に住む人による新築マンションの購入割合が明らかに",
-   "one_line": "日本国外に住む人が東京や大阪で新築マンションを買った割合が、それぞれ数パーセントであることが公表されました。",
-   "what": "国土交通省が、日本国外に住んでいる人が東京と大阪で新築マンションを取得した割合を調査し、東京で2.5%、大阪で3.4%だったと公表しました。",
-   "background": "国土交通省は、国の土地や住宅に関する政策を決めるため、不動産の市場や取引の様子を調べています。近年は、海外の投資家や日本国外に住む人が日本の不動産を買う動きがあり、その実態を把握することが大切になっています。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、不動産の価格や都市部の住宅事情に影響を与える可能性があるため、政府がその動きを詳しく調べています。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "国土交通省",
-     "meaning": "日本の土地、道路、鉄道、住宅、気象など、暮らしの土台となる分野をまとめて担当する国の役所です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3ac801265aa0d1a0",
-   "url": "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
-   "title_original": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108362291-1789374106505-gettyimages-2294601588-sa_02_damage_east_west_pipeline_pumping_station_sep13_2026_vantor.jpeg?v=1789374276&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-15T11:25:12+00:00",
-   "title_ja": "サウジアラビアの重要なパイプライン停止、石油価格に影響の恐れ",
-   "one_line": "サウジアラビアの重要な石油運ぶ管が止まり、石油の値段が上がる心配が出ています。",
-   "what": "サウジアラビアにある重要な石油の通り道が止まりました。専門家は、数日から一週間程度で手持ちの予備がなくなるとみており、この状態が続くと石油の値段が急に上がるかもしれないと警告しています。",
-   "background": "そもそも「パイプライン」とは、地下や地上に長い管を通して、石油やガスを遠くまで運ぶ設備のことで、世界中のエネルギーを支える大切な道です。サウジアラビアは世界でもトップクラスの石油を売る国として知られています。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、石油の値段が上がると、ガソリン代や電気代、さまざまな物の値段に影響することがあります。",
-   "genre": "経済",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "パイプライン",
-     "meaning": "石油や天然ガスなどを遠くまで運ぶために、地面に通された長い管のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0e2e728cf15d894a",
-   "url": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir",
-   "title_original": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/72c68488b8da344e8071b4f6fc14c55a6152dc6a/1180_728_5919_4736/master/5919.jpg?width=140&quality=85&auto=format&fit=max&s=67d978f2b568a9ca0bf4d7d936955794",
-   "region": "海外",
-   "published": "2026-09-15T11:23:16+00:00",
-   "title_ja": "パキスタンの元首相の息子たち、軍のトップを批判",
-   "one_line": "パキスタンの刑務所にいる元首相の息子たちが、国の軍のトップによる嫌がらせだと訴えています。",
-   "what": "パキスタンの元首相の息子たちがイギリスのメディアの取材を受け、父親が刑務所で厳しい扱いを受けているのは国内の軍のトップによる個人的な恨みが原因だと主張しました。父親の釈放を求める声が国際的にも高まっています。",
-   "background": "そもそもパキスタンでは、過去に何度も政権交代や軍による政治への関わりがありました。首相経験者が逮捕されて裁判を受けるなど、政治と軍のバランスや権力をめぐる争いが起きやすい国の一つとして知られています。",
-   "impact": "日本での毎日の暮らしに直接的な影響はありませんが、パキスタンの政治や治安が不安定になると、その地域の国際関係に影響することがあります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "元首相",
-     "meaning": "以前に国の政治のトップである首相という仕事をしていた人のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "897a9878c3a842a0",
-   "url": "https://mainichi.jp/articles/20260915/k00/00m/010/217000c",
-   "title_original": "与野党に太いパイプ、石井参院幹事長交代へ 国会審議に影響か",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/09/15/20260915k0000m010062000p/0c10.jpg?1",
-   "region": "国内",
-   "published": "2026-09-15T11:22:13+00:00",
-   "title_ja": "石井参議院幹事長が交代へ、国会の話し合いへの影響を懸念する声も",
-   "one_line": "国会の話し合いで他の政党との連絡役だった石井参議院幹事長が交代することになりました。",
-   "what": "参議院の幹事長を務めていた石井氏が交代することになりました。これまでの政党の間をつなぐ役割がどう変わるのか、今後の国会での話し合いにどのような影響が出るのか注目されています。",
-   "background": "そもそも「参議院幹事長」は、国会の中で政党の作戦をまとめたり、他の政党と話し合ったりする重要な役割を持つ人のことです。日本の政治では、法案を通すために与党と野党が何度も話し合いを重ねます。",
-   "impact": "国会での法律や予算を決める話し合いの進め方に変化が出る可能性があり、今後の政治の動きや決まる法律の内容に関わってきます。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [
-    {
-     "word": "参議院幹事長",
-     "meaning": "国会の中で政党の仕事をまとめたり、他の政党と大切な話し合いをしたりする中心的な役割の人のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9fe959358ab1bd0c",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260915de50433",
-   "title_original": "タイとカンボジアの海域境界めぐる調停委員会の初会合始まる",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50433/20260915de50433_E0000030706_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-15T11:20:31+00:00",
-   "title_ja": "タイとカンボジアの海の境界めぐる調停委員会の初会合始まる",
-   "one_line": "タイとカンボジアの海でどちらの領土か決まっていない場所について話し合う会議が始まりました。",
-   "what": "タイとカンボジアの間で国境や海の境界線がはっきり決まっていない海域について話し合うため、第三国のシンガポールで調停委員会の初めての会合が開かれました。",
-   "background": "そもそも「海域の境界」とは、海をどの国が管理して、その中にある資源をどちらの国が使えるかを決める線のことです。国同士の意見が分かれたとき、第三者に間に入ってもらって話し合いで解決しようとすることがあります。",
-   "impact": "今すぐに私たちの暮らしが変わるわけではありませんが、アジアの国々の間で平和的な話し合いが進むかどうかは、地域の安定にとって大切なことです。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [
-    {
-     "word": "調停委員会",
-     "meaning": "争いのある国同士の間に入って、話し合いによる解決を手助けするために作られた専門の会議のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "0fce748e5168668e",
-   "url": "https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates",
-   "title_original": "Pensioners are ‘big winners’ with triple-lock set to rise by 3.9%, lifting state pension to £13,000 – business live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/f2f9599d15cc295c15a25418367cb77c148c6a83/1542_1383_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=ddbf1768ac1c5d36dedbc7efac04718a",
-   "region": "海外",
-   "published": "2026-09-15T11:20:03+00:00",
-   "title_ja": "イギリスの年金が引き上げられる見通しに",
-   "one_line": "イギリスの公的な年金が、給料の増え方に合わせて来年引き上げられる見通しとなりました。",
-   "what": "イギリスで、国が支払う年金の金額が来年は増える見通しとなりました。働き手の給料の伸び率に合わせて年金額を決める仕組みによるもので、年金を受け取る人にとって大きな金額になることが伝えられています。",
-   "background": "イギリスには、物価や給料の動きに合わせて、国の年金を毎年必ず引き上げる仕組みがあります。年金は引退した人が生活するための大切なお金ですが、国にとっては大きな支払いの負担になるため、金額をどう決めるか議論が続いています。",
-   "impact": "今すぐ日本の私たちの生活が変わるわけではありません。ただ、国の社会保障の仕組みや、高齢化が進む社会で年金をどう支えていくかという問題は、日本と共通の大きなテーマです。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "年金",
-     "meaning": "現役世代が納めたお金などを元手に、お年寄りになったときに国から受け取ることができる仕組みです。"
-    },
-    {
-     "word": "トリプルロック",
-     "meaning": "イギリスで、国の年金を物価や賃金の上がり方などに連動させて、毎年必ず引き上げるための仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e71549702ed21900",
-   "url": "https://www.cnbc.com/2026/09/15/treasury-yields-stocks-investors.html",
-   "title_original": "Treasury yields are hovering above a critical threshold. Here's what it means for stocks",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358661-1788468213476-gettyimages-2293388112-mms27078_t0uoiw5l.jpeg?v=1788468259&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-15T11:19:51+00:00",
-   "title_ja": "アメリカの国債の利回りが上がって株価に影響",
-   "one_line": "アメリカの国債の利回りが高い水準にとどまり、株式市場で株が売られる動きが出ました。",
-   "what": "アメリカの「国債」という債券の金利にあたる利回りが、基準とされる水準よりも高い状態で推移しました。これを受けて、株式市場では株を売る動きが広がり、市場に関係者から心配の声が出ています。",
-   "background": "国債は、国がお金を借りるために発行する証書のようなものです。国債の利回りが上がると、企業や個人がお金を借りるときの金利も上がりがちになり、株に投資されていたお金が安全な債券へと移りやすくなります。そのため株価が下がりやすくなります。",
-   "impact": "アメリカの金利や株の動きは、日本の株式市場や為替の動きにも大きな影響を与えます。私たちの日々の生活や、将来の資産運用にも間接的に関わってくる大切な動きです。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "国債",
-     "meaning": "国が活動するためのお金を集めるために発行する、いわば国に対する借用書のようなものです。買った人には利息が支払われます。"
-    },
-    {
-     "word": "利回り",
-     "meaning": "投資した金額に対して、1年間でどれだけの利益や利息が得られるかの割合のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "cb52ea3d261dd224",
-   "url": "https://www.aljazeera.com/news/2026/9/15/why-is-pro-palestinian-activist-mahmoud-khalil-suing-columbia-university?traffic_source=rss",
-   "title_original": "Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-08-16T185941Z_1306927949_RC2I8GA98830_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1789462764.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-15T11:14:00+00:00",
-   "title_ja": "パレスチナ支持の活動家が大学を訴える",
-   "one_line": "パレスチナを支持する活動家の男性が、大学による差別があったとしてアメリカの大学を訴えました。",
-   "what": "アメリカの大学に通っていたパレスチナ支持の活動家の男性が、大学やその関係者を相手取って裁判を起こしました。パレスチナ支持の学生を狙った大学側の差別的な対応があったと主張しています。",
-   "background": "世界各地の大学では、中東での紛争をめぐって、パレスチナの人々を支持する学生たちと、イスラエルを支持する人たちの間でさまざまな意見の対立や抗議活動が起きており、社会的な問題となっています。",
-   "impact": "大学における表現の自由や、キャンパス内での公平な扱いをどう守るかという問題は、世界中の教育の現場や社会に広く関わる出来事です。直接私たちの生活を変えるものではありませんが、世界の価値観の対立を示しています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "ee45dcabf1f59dea",
-   "url": "https://www.nytimes.com/video/world/asia/100000011077350/kyrgyzstan-is-russias-trading-loophole.html",
-   "title_original": "Kyrgyzstan Is Russia’s Trading Loophole",
-   "source": "The New York Times",
-   "image": "",
-   "region": "海外",
-   "published": "2026-09-15T11:13:44+00:00",
-   "title_ja": "キルギスがロシアの貿易の抜け道に",
-   "one_line": "キルギスが、ロシアが中国から品物を買うための重要な中継地点になっていると報じられました。",
-   "what": "中央アジアにあるキルギスが、ロシアによるウクライナでの軍事行動が始まって以降、中国からロシアへ品物を運ぶための大切な中継地点となっていることが伝えられました。キルギスでは経済が大きく成長しています。",
-   "background": "国際社会がロシアに対してさまざまな制限をかける中、国境を接する別の国を経由して、必要なモノをやり取りする動きが見られます。キルギスのような国が、そうした貿易の通り道として重要な役割を持つようになりました。",
-   "impact": "世界の一部の国で起きている貿易や経済の結びつきの変化は、世界の物価や物資の流通に影響を与えることがあります。直接の大きな変化はないものの、国際社会の動きを見る上で大切なニュースです。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "ウクライナ戦争",
-     "meaning": "ロシアがウクライナに軍事侵攻したことで始まった、現在も続く国際的な紛争のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3872245aa157dde3",
-   "url": "https://www.nytimes.com/2026/09/15/world/europe/denmark-russia-flares-helicopter.html",
-   "title_original": "Denmark Says Russian Warship Fired Flares at Military Helicopter",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15INT-DENMARK-RUSSIA-pmlq/15INT-DENMARK-RUSSIA-pmlq-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-15T11:13:07+00:00",
-   "title_ja": "デンマーク軍のヘリコプターにロシアの軍艦が照明弾を発射",
-   "one_line": "デンマークの軍用ヘリコプターに対し、ロシアの軍艦が空中で照明弾を発射する出来事がありました。",
-   "what": "デンマークは、自国の軍用ヘリコプターがロシアの軍艦から照明弾を発射されたと発表しました。これは、ヨーロッパの指導者たちがロシアによるものだと非難している、領空への侵入や挑発行為の最近の事例の一つです。",
-   "background": "国と国との間では、お互いの領土や領海、その上空である領空に入るルールが厳しく決められています。これまでに、ヨーロッパの国々とロシアの間では、軍用機や軍艦が相手の近くに接近したり、領空に入ったりするトラブルが何度も起きており、緊張が高まっています。",
-   "impact": "日本に直接的な影響はありませんが、ヨーロッパとロシアの間の緊張がさらに高まることで、世界の安全保障や経済にどのような影響が出るか心配されています。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "照明弾",
-     "meaning": "夜間などに周囲を明るく照らしたり、合図を送ったりするために使われる特殊な弾のことです。"
-    },
-    {
-     "word": "領空",
-     "meaning": "ある国の国土と、そのまわりの海の上にある空のことで、その国の主権が及ぶ範囲のことです。"
-    }
-   ],
-   "importance": 3
   }
  ]
 }
