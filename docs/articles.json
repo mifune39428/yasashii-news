@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T05:21:05.384040+09:00",
+ "updated_at": "2026-09-20T13:21:34.299878+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,70 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "3a46f3bac52e34ce",
-   "until": "2026-09-19T21:40:54.185526+00:00"
-  },
-  {
-   "id": "65a41111274386f2",
-   "until": "2026-09-19T21:40:54.185526+00:00"
-  },
-  {
-   "id": "ad49ec23a933b0b7",
-   "until": "2026-09-19T21:40:54.185526+00:00"
-  },
-  {
-   "id": "c97026a0b95ac4ad",
-   "until": "2026-09-19T21:40:54.185526+00:00"
-  },
-  {
-   "id": "da6dad58607ecc3c",
-   "until": "2026-09-19T21:40:54.185526+00:00"
-  },
-  {
-   "id": "f543f8172367d79c",
-   "until": "2026-09-19T21:40:54.185526+00:00"
-  },
-  {
-   "id": "fe91d15e41810665",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "71eeb2bd72e8d8b5",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "78479c337f96c26c",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "2725df76023c91d4",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "d6cf2303a918e437",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "73fb75a8f1637cb7",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "5f8ba0bad9d35874",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "fc7217eb5d907e28",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "43dea620cf13aa3d",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
-  {
-   "id": "746cd0d1e262be8e",
-   "until": "2026-09-20T04:19:14.031133+00:00"
-  },
   {
    "id": "292f3d9b12893186",
    "until": "2026-09-20T11:27:12.918390+00:00"
@@ -630,10 +566,400 @@
   {
    "id": "d8111971e9d67be0",
    "until": "2026-09-24T20:21:05.384040+00:00"
+  },
+  {
+   "id": "af8e3b51b665b673",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "8b4fc5a7f9684935",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "2a992ce913cbfec2",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "0efc6b0404dc215e",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "35e4d8082ae5ab78",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "9b912ec7833c4aab",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "37416e1bb63a5837",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "6d57e16c1f253d58",
+   "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "dd1e3bf62ca4e6cd",
+   "until": "2026-09-25T04:21:34.299878+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "23dacb3b4aa34d36",
+   "url": "https://www.theguardian.com/australia-news/2026/sep/20/intergenerational-report-australian-life-expectancy-forecast-to-rise",
+   "title_original": "More Australians to live into their 90s as life expectancy forecast to rise over coming decades",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/48f48cf0d1889545fb5b64bb14dc81ae82f06eb6/739_0_3679_2945/master/3679.jpg?width=140&quality=85&auto=format&fit=max&s=9478c6aa2225d83355dc72912cdc57fa",
+   "region": "海外",
+   "published": "2026-09-20T04:11:57+00:00",
+   "title_ja": "オーストラリアで平均寿命が延びる見通し",
+   "one_line": "オーストラリアの財務省の報告書で、将来的に平均寿命が延びると予測されています。",
+   "what": "オーストラリアの財務省がまとめた長年の未来を予測する報告書で、女性は89歳、男性は86歳まで平均寿命が延びるという見通しが示されました。",
+   "background": "財務省は、国の予算や税金の使い道を考えるために、人口の増え方や長生きする人の割合の変化を何十年も先まで予測する報告書を作ることがあります。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、世界の国々で長生きする人が増える傾向が示されています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "平均寿命",
+     "meaning": "その年に生まれた赤ちゃんが、何年生きられるかを平均したものです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a1bec2351ce399af",
+   "url": "https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb",
+   "title_original": "Australia news live: Plibersek says ‘we owe these women more than our sorrow’ after NSW deaths; Chalmers flags ‘confronting’ 40-year outlook",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/1cb3254c211d7229e905a13291d850d087f2c193/222_0_5370_4296/master/5370.jpg?width=140&quality=85&auto=format&fit=max&s=4676bc92bd5a446a34a21652f4e1a507",
+   "region": "海外",
+   "published": "2026-09-20T04:08:55+00:00",
+   "title_ja": "オーストラリアの首相がEU加盟について言及",
+   "one_line": "オーストラリアの首相が記者からEUへの加盟について質問を受け答えました。",
+   "what": "オーストラリアの首相が、カナダが検討されているような形でEUに加わる予定があるか尋ねられ、地域的な違いなどを理由に答えました。",
+   "background": "EUはヨーロッパの国々が集まってルールを共通にする組織ですが、ヨーロッパ以外の国との協力の形については様々な議論があります。",
+   "impact": "今すぐ私たちの生活が変わるものではありませんが、国と国の結びつきや協力のあり方を考えるニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "EU",
+     "meaning": "ヨーロッパの国々が集まって、貿易や政治のルールを一緒に決める大きな組織です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d7c163bd38c98cb0",
+   "url": "https://news.yahoo.co.jp/pickup/6595893?source=rss",
+   "title_original": "沖縄知事選受け 自衛隊南西シフト",
+   "source": "Yahoo!ニュース 国内",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/369f39d23ae72548f04420f5f403b965c9ad77fc7bbc0f4e0ee18d75bd8b04cd.jpg",
+   "region": "国内",
+   "published": "2026-09-20T04:02:49+00:00",
+   "title_ja": "沖縄知事選挙の結果を受けた自衛隊の南西シフト",
+   "one_line": "沖縄の選挙結果を受けて、日本が南西地域の防衛を強める動きが進んでいます。",
+   "what": "沖縄の知事選挙がおこなわれたことを受け、日本の西の端や南の島々を守る自衛隊の体制を強化する「南西シフト」が進められています。",
+   "background": "日本は四方を海に囲まれており、特に九州から台湾の近くまでの南西諸島には多くの島が並んでいます。この地域は海や空の通り道として重要な場所であり、国を守るための備えを厚くすることが話し合われてきました。",
+   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、日本がどのようにお国を守るかという安全保障の方針に関わる大切な動きです。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "3a33b5d26aa176b1",
+   "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+   "title_original": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/14/multimedia/00int-myanmar-ambo-profile-01-glwq/00int-myanmar-ambo-profile-01-glwq-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-20T04:01:07+00:00",
+   "title_ja": "国連のミャンマー代表がニューヨークの地位に居座り",
+   "one_line": "ミャンマーの国連代表が、5年以上もニューヨークの地位を手放さずにいます。",
+   "what": "ミャンマーから派遣された外交官のキョー・モー・トゥン氏が、5年以上もニューヨークにある国連での地位や建物から離れることを拒んでいます。",
+   "background": "国連は、世界中の国々が集まって世界の平和や話し合いをするための場所です。加盟している国はそれぞれ代表を送り出し、意見を述べたり外交を行ったりします。国の中での政権の変わり方と、国連での代表権をめぐって問題が起きることがあります。",
+   "impact": "今すぐ日本の私たちのくらしや仕事に直接の影響はありませんが、世界全体の政治の仕組みや外交のルールに関わるニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国連",
+     "meaning": "世界中の国々が集まって、平和や安全を守るために話し合いをする大きな国際機関のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "1a80e1f1ead80e14",
+   "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
+   "title_original": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20int-Germany-WTK-hlfc/20int-Germany-WTK-hlfc-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-20T04:01:06+00:00",
+   "title_ja": "ドイツ東部で選挙、勢いづく右派政党への注目",
+   "one_line": "ドイツ東部の選挙で、勢力を伸ばす右派政党の動向が注目されています。",
+   "what": "ドイツ東部でおこなわれる選挙により、勢力を強めている「ドイツのための選択肢」という右派政党への支持が広がるか、あるいはそれを押し戻す動きが起きるかが注目されています。",
+   "background": "ドイツにはたくさんの政党があり、それぞれが国のあり方について異なる考えを持っています。ヨーロッパでは近年、これまでの政治とは違う考え方をする新しい政党や、自国の利益を強く主張する政党が支持を集めることが増えています。",
+   "impact": "日本の日常のくらしに直接変わるものではありませんが、ヨーロッパの国々がこれからどのような政治を選ぶのか、世界の政治の大きな流れに影響を与えます。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "右派政党",
+     "meaning": "伝統や国としてのまとまり、これまでの国のあり方を大切にする政治の考え方を持った政党のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5e91dad3862369f7",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260920de51340",
+   "title_original": "ロシア ウクライナ侵攻以降で初の議会下院選挙 政権のねらいは",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51340/20260920de51340_E0000033710_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-20T04:01:00+00:00",
+   "title_ja": "ロシア下院選挙の投票最終日、政権のねらいは",
+   "one_line": "ロシアでウクライナ侵攻後初となる下院選挙がおこなわれています。",
+   "what": "ロシアで議会の下院選挙が投票の最終日を迎えました。プーチン政権としては、与党を大きく勝たせることで、これまでの軍事的な作戦を続けることへの支持を示したいねらいがあると見られています。",
+   "background": "ロシアには、法律を作ったり予算を決めたりする「議会」があります。その中の一つである下院では、国民の投票によって議員が選ばれます。国を率いる大統領やその仲間たちの政党が多くの議席を取ることで、自分たちの政治を進めやすくなります。",
+   "impact": "今すぐ日本の私たちの生活を変えるものではありませんが、ロシアの政治のあり方や、世界の安全保障に関わる大きな出来事の行方を示しています。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "下院",
+     "meaning": "法律や予算を話し合う議会の中で、国民の意見をより直接反映させるために作られた、議員の数が多く重要な役割を持つ方の会議です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "9302c6156b8a6758",
+   "url": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
+   "title_original": "Morocco’s PJD: what has the party learned from its dramatic fall",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2015/09/6d81a5fee4794aed99617e21b875a13c_18.jpeg?resize=1200%2C675",
+   "region": "海外",
+   "published": "2026-09-20T03:40:24+00:00",
+   "title_ja": "モロッコの政党が選挙での大敗から立て直しをはかる",
+   "one_line": "モロッコの政党であるPJDが、過去の大きな選挙の負けから信頼を取り戻そうとしています。",
+   "what": "モロッコのイスラム教の考え方を大切にする政党「PJD」が、前の選挙で大きく負けたあと、リーダーのベニキラネ氏を中心にパーティーを立て直そうとしています。",
+   "background": "国を動かす政治の世界では、選挙で負けて票や議席が大きく減ると、政党のリーダーが変わったり、組織を作り直したりすることがよくあります。民主主義の国では、どの政党が力を持つのかは選挙で選ばれます。",
+   "impact": "今すぐ日本の暮らしや家計に直接影響する話ではありませんが、モロッコという国の政治がどう変わるのかに関わる動きです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "PJD",
+     "meaning": "モロッコの政党の一つで、イスラム教の教えを政治の大切な考え方としています。"
+    },
+    {
+     "word": "議席",
+     "meaning": "国会などの話し合いの場で、議員が座る席のこと。転じて、選挙で勝って政治に参加できる権利やその数のことをいいます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9f882224bfa87a3e",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260920de51320",
+   "title_original": "第2次高市改造内閣の6閣僚 政策課題など説明 NHK日曜討論",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51320/20260920de51320_E0000033663_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-20T02:46:08+00:00",
+   "title_ja": "第2次高市改造内閣の閣僚が取り組む課題を説明",
+   "one_line": "新しく発足した内閣の閣僚が、テレビ番組でそれぞれの担当分野の課題を説明しました。",
+   "what": "新しく発足した第2次高市改造内閣の閣僚6人がテレビの討論番組に出演し、自分が担当する分野で優先して取り組むべき政策の課題についてそれぞれ説明しました。",
+   "background": "日本の政治は、国会で選ばれた総理大臣が大臣（閣僚）を選び、政府の仕事を進める「内閣制度」をとっています。内閣が新しく変わると、どのような方針で仕事を進めるのかが注目されます。",
+   "impact": "今すぐ私たちのくらしが直接変わるわけではありませんが、これからの政府がどのような政策に力を入れていくのかを知る手がかりになります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [
+    {
+     "word": "閣僚",
+     "meaning": "内閣を構成する大臣たちのことで、それぞれの分野の政府の仕事を責任持って担当します。"
+    },
+    {
+     "word": "内閣",
+     "meaning": "総理大臣と、その選んだ大臣たちによって作られる、国の政治を実行するための組織です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "32d1acf70c547a9a",
+   "url": "https://www.sankei.com/article/20260920-G5K45AETK5E2LLVVKQ3NORBROI",
+   "title_original": "安保法制成立11年、国会前で反対集会 ラサール氏、高市政権の発信を「ナチスそのもの」",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/MJ3NCTRIZNDZVH4UMZAJ55X4FQ.jpg?auth=3e0ebd6bc540b36e0e468bfe93cc6831271467f4a31233f25d67a3f87b3559b5&quality=50&focal=3707%2C2341&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-20T02:41:02+00:00",
+   "title_ja": "安全保障関連法の成立から11年で反対集会",
+   "one_line": "法律の成立から11年を迎えて、国会の前で反対を訴える集会が開かれました。",
+   "what": "安全保障に関する法律が成立してから11年となる節目に、国会の前で法律に反対する集会が開かれ、参加者が意見を述べました。",
+   "background": "日本の安全保障や防衛に関する法律や政策については、国の守り方をどうするかをめぐって、これまでも様々な意見や議論が存在しています。",
+   "impact": "今すぐ直接の大きな変更が起きるものではありませんが、国の安全保障や防衛のあり方についての社会的な議論を示す出来事です。",
+   "genre": "政治",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "安全保障法制",
+     "meaning": "日本の平和や安全を守るため、自衛隊の活動や他国との協力ルールなどを定めた法律のまとまりです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "08bc2653e437d676",
+   "url": "https://www.nikkei.com/article/DGXZQOUA200930Q6A920C2000000",
+   "title_original": "藤井比早之総務相、副首都「複数都市を検討」 大阪ありき否定",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3624297020092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.47&fp-y=0.34&h=630&w=1200&s=f72935787499af40eb814e1308a61926",
+   "region": "国内",
+   "published": "2026-09-20T02:12:38+00:00",
+   "title_ja": "藤井総務大臣が副首都について複数の都市を検討",
+   "one_line": "総務大臣が、首都の機能の分散を考える「副首都」の検討について述べました。",
+   "what": "藤井比早之総務相が、東京都以外の場所で首都の機能を補う「副首都」の構想について、特定の都市に決めるのではなく複数の都市を対象として検討していく考えを示しました。",
+   "background": "日本では東京に政治や経済の中心が集中しすぎていることから、災害時などの備えや地方の活性化のため、首都の機能を分散させる「副首都」や「首都機能移転」という議論がこれまでも行われてきました。",
+   "impact": "今すぐくらしや制度がすぐ変わるわけではありませんが、将来的に国の機関や都市の役割の配置が変わる可能性があります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [
+    {
+     "word": "総務相",
+     "meaning": "地方自治や通信、消防などを担当する政府の役所のトップである「総務大臣」のことです。"
+    },
+    {
+     "word": "副首都",
+     "meaning": "東京という首都の機能を補うために、別の重要な役割を持たせる都市のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "15053ab5effb9ba5",
+   "url": "https://www.sankei.com/article/20260920-DJF3OY3NDRMX5IMQNBQZ7LA4KM",
+   "title_original": "「麹」にみせられ事業の柱に コロナ禍乗り越え最高益 コラゾン 欧州で現地販売視野",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/SOTY54RIDBP5BKXP7OUQBZW4KY.jpg?auth=53d20cd3e73ea9f75c04899c329038774e31bd91ddd72d06a929a7b1e8ff219c&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-20T02:00:00+00:00",
+   "title_ja": "麹を使った商品を広げる会社の取り組み",
+   "one_line": "日本の伝統的な調味料である「麹」を売りにした会社が、売上を大きく伸ばしています。",
+   "what": "日本の会社「コラゾン」が、「麹」を使った事業を大きな柱にして、これまでにないほど多くの利益を上げました。今後はヨーロッパでの販売も考えています。",
+   "background": "日本の会社の中には、昔からある食材や伝統的な技術を新しくいかして、商売を大きくしようとする動きがあります。日本食の人気が高まる海外で売ることも、会社の成長につながります。",
+   "impact": "今すぐ私たちの暮らしや家計が直接変わるものではありませんが、日本の古い技術や特産品が海外でどのように受け入れられるかというニュースです。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "127ed854731403fb",
+   "url": "https://www.nikkei.com/article/DGXZQODK152070V10C26A9000000",
+   "title_original": "米国の「ガイアツ」にどう向き合うか 国益ふまえ政策熟考を",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3611193017092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.25&fp-y=0.4&h=630&w=1200&s=e850f600f7fd65cb0d7009d8d6d57b64",
+   "region": "国内",
+   "published": "2026-09-20T02:00:00+00:00",
+   "title_ja": "アメリカからの要求にどう対応するか",
+   "one_line": "アメリカからの強い要望や意見に対して、国がどのように政策を決めていくべきかという話題です。",
+   "what": "アメリカから出される強い要望や圧力に対して、日本の国益をしっかりと考えながら、これからの政策をじっくりと考える必要があるという議論がされています。",
+   "background": "国と国とが付き合うとき、力のある国が別の国に対して自分たちの望む方針に従うよう働きかけることがあります。それぞれの国は自分たちの国の利益を守るため、相手の要求を吟味して対応を決めます。",
+   "impact": "国の外交や貿易の方針が変わることで、私たちの仕事や国の経済、輸入する品物の値段などにあとから影響することがあります。",
+   "genre": "経済",
+   "category": "貿易・関税",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "b6d6c17368fc9150",
+   "url": "https://www.sankei.com/article/20260920-R47TO2ZJUJIABEM422BTOMQLJ4",
+   "title_original": "チリのバチェレ元大統領が国連事務総長選から撤退「大きな挑戦、悔いはない」",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/QRSDANEIL5KTJHOMTHRRGRBHVM.jpg?auth=75498939cea3149d2f30e4bdf6e4efec15c7495817e8508c8f5e20953119464f&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-20T01:00:06+00:00",
+   "title_ja": "チリの元大統領が国連のトップ選挙への出馬をとりやめる",
+   "one_line": "チリのバチェレ元大統領が、国連の事務総長を選ぶ選挙への出馬をやめると発表しました。",
+   "what": "南アメリカの国であるチリのバチェレ元大統領が、国際連合の事務総長を選ぶ選挙に立候補する計画から身を引くことを明らかにしました。",
+   "background": "国際連合は、世界中の国が集まって地球の平和や環境のまもり方話し合う大きな組織です。そのトップである事務総長は、数年ごとに新しい人が選ばれており、次の選挙に向けて世界中から注目が集まっています。",
+   "impact": "今すぐ日本の暮らしや家計が変わるわけではありませんが、世界の平和やルールを決める大切な組織のリーダーが誰になるのかを決める、大切な動きの一つです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国際連合",
+     "meaning": "世界中の国々が参加して、世界の平和や争いを防ぐため話し合う大きな組織のことです。"
+    },
+    {
+     "word": "事務総長",
+     "meaning": "国際連合という大きな組織をまとめて動かす、いちばんエライ人のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "bd072801567e5669",
+   "url": "https://www.asahi.com/articles/ASV9J1C2JV9JULFA002M.html",
+   "title_original": "修繕積立金が突然3倍に 管理会社の利益相反を招くマンションとは",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260916001754_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-19T23:00:00+00:00",
+   "title_ja": "マンションの修繕積立金が急に高くなる問題",
+   "one_line": "マンションを直すためのお金が急に高くなる仕組みについて朝日新聞が伝えています。",
+   "what": "マンションを長く安全に保つためのお金である修繕積立金が突然3倍になった事例について、管理会社とマンションの持ち主の間にある仕組みの問題を報じました。",
+   "background": "マンションには多くの人が住んでおり、建物をきれいにするため、毎月少しずつお金を出し合ってたまに大がかりな修理をします。このお金の集め方や使い方は、住民が選んだ代表と、建物の世話をする専門の会社が相談して決めています。",
+   "impact": "同じようにマンションに住んでいる人にとっては、将来払うお金が突然増えるかもしれない大切な問題であり、お金の計画を見直すきっかけになります。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "修繕積立金",
+     "meaning": "マンションの壁や屋根などを直すため、住んでいる人が毎月少しずつ出し合ってためておくお金のことです。"
+    },
+    {
+     "word": "利益相反",
+     "meaning": "一方の利益になると、もう一方の損になってしまうような、立場がぶつかり合う関係のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "dedccaa48295ecaf",
+   "url": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
+   "title_original": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108365389-17898543952026-09-19t114802z_1980126111_rc28mnaxz2hr_rtrmadp_0_iran-crisis-saudi-yemen.jpeg?v=1789854449&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-19T22:13:28+00:00",
+   "title_ja": "サウジアラビアの首都近くで火災や煙が目撃される",
+   "one_line": "サウジアラビアの首都の近くで煙や炎が見つかり、組織が攻撃を主張しました。",
+   "what": "サウジアラビアの首都リヤドの近くで火事や煙が目撃され、フーシ派と呼ばれるグループが首都への攻撃を行ったと主張しました。サウジアラビア側は事前に危険を知らせる警告を出していました。",
+   "background": "中東と呼ばれる地域では、国と国や、国内のグループ同士の間で長い間激しい争いが続いています。サウジアラビアは中東の中心的な国の一つであり、周辺の地域から攻撃を受けることがあります。",
+   "impact": "中東での争いが激しくなると、日本が外国から買っている石油の値段や手に入りやすさに影響し、私たちのガソリン代や物の値段が高くなることがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "首都",
+     "meaning": "その国の中で、いちばん大切な政治の仕事をする役所が集まっている街のことです。"
+    },
+    {
+     "word": "フーシ派",
+     "meaning": "中東の国で、自分たちの主張をとおすために武力を使って争っているグループの一つです。"
+    }
+   ],
+   "importance": 4
+  },
   {
    "id": "f6f523f3fdca26d0",
    "url": "https://www.nytimes.com/2026/09/19/world/asia/pakistan-mosque-attack-bahadur.html",
@@ -7350,364 +7676,6 @@
     {
      "word": "半導体",
      "meaning": "電気の通り方をコントロールする部品で、スマートフォンや自動車など多くの製品に使われています。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "527ce1489648ddbb",
-   "url": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
-   "title_original": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15canada-carney-invest-vtfc/15canada-carney-invest-vtfc-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-15T16:32:24+00:00",
-   "title_ja": "カナダの首相が世界のお金を呼び込むため投資を呼びかけ",
-   "one_line": "世界中の大金を動かすマネーの責任者たちを集め、カナダへの投資を呼びかけました。",
-   "what": "カナダのマーク・カーニー首相がトロントで、世界中の大きなお金を動かしている約100人の責任者たちを集めました。そして、カナダが投資をするのに最も適した場所であるとアピールしました。",
-   "background": "国や企業が新しい事業を始めたり大きくしたりするときには、世界中から「投資」という形で集まる大きなお金が必要です。多くの国々は、自国にたくさんのお金を呼び込もうと、安定した社会の仕組みや安全性をアピールして競争しています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界のお金がどこに集まるかによって、世界全体の景気の動きや、カナダとの貿易への影響が出てくる可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "383b03a01cccd609",
-   "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-   "title_original": "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363045-17894826952026-09-15t142819z_1921749020_rc2qjnay5tj4_rtrmadp_0_usa-treasury-bessent.jpeg?v=1789482723&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-15T16:23:45+00:00",
-   "title_ja": "アメリカの財務長官が議会の聴聞会で経済政策を説明",
-   "one_line": "アメリカの財務長官が、物価や政府の借金について議員からの質問に答えました。",
-   "what": "アメリカのスコット・ベッセント財務長官が議会の聴聞会に出席しました。そこでは、値上がりしているエネルギーの価格や、政府が抱えている大きな借金、そして政権が進める経済の計画について質問を受けました。",
-   "background": "財務長官は、国の予算や税金、お金の管理などを担当する重要な仕事です。国会にあたる議会では、国民を代表する議員たちが、政府の政策が正しく行われているかや、国民の生活に問題がないかを厳しくチェックする仕組みがあります。",
-   "impact": "アメリカの経済政策や政府の借金の状況は、世界全体の物価や為替の動きを通じて、日本の私たちの暮らしや輸入品の値段にも影響を及ぼすことがあります。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "財務長官",
-     "meaning": "国のお金や税金、経済の政策を担当する、アメリカの政府における最高責任者のことです。"
-    },
-    {
-     "word": "聴聞会",
-     "meaning": "政府の計画や問題について、議員などが担当者を呼び出して質問し、説明を求める会議のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "180f0857131cfb7b",
-   "url": "https://www.theguardian.com/business/2026/sep/15/uk-retailers-breaking-law-not-refunding-customers-returned-goods-which",
-   "title_original": "Leading UK retailers ‘breaking law’ by not refunding customers for returned goods, Which? finds",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/bed4222a60eb848e99ce2929a1ba1e98d7580544/401_0_4255_3405/master/4255.jpg?width=140&quality=85&auto=format&fit=max&s=dc7547f9ca2db229dc3d8be46e5bb9d0",
-   "region": "海外",
-   "published": "2026-09-15T16:20:10+00:00",
-   "title_ja": "イギリスの大手ネット通販が返品時の返金ルールを守らず",
-   "one_line": "イギリスの調査で、有名なお店が返品された商品の代金を正しく返していないと分かりました。",
-   "what": "イギリスの消費者団体による調査で、大手ネット通販の多くが法律のルールを守っていないことが分かりました。不要になった商品を返品した客に対し、商品代金や配送にかかった費用を正しく返金していなかったということです。",
-   "background": "多くの国には、消費者がインターネットで買った商品を返品したいとき、一定の期間内であれば理由を問わずにお金を返してもらえるという法律やルールがあり、お店側には代金を返す義務があります。",
-   "impact": "私たちがインターネットで買い物をする際、お店のルールや法律が守られているかを確認することの大切さや、安心して買い物ができる仕組みを考えるきっかけになります。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "消費者団体",
-     "meaning": "買い物をするときに消費者が損をしないよう、商品の安全や権利を守るために活動する組織のことです。"
-    },
-    {
-     "word": "返金",
-     "meaning": "一度支払ったお金を、商品の返品などを理由に買い手にもう一度引き渡すことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a7e080cdda77c87c",
-   "url": "https://www.theguardian.com/politics/live/2026/sep/15/nigel-farage-reform-labour-party-funding-donations-unions-funding-72m-christopher-harborne-ai-louise-haigh-tuc-andy-burnham-uk-politics-latest-news-updates",
-   "title_original": "Reform UK ‘has no interest in Wales’, says Senedd member who defected to Plaid Cymru – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/9010d55f38dd24273de878c7257c3a2adf1022c7/0_0_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=f5f6b95c5865f7aa83884c26482aaeac",
-   "region": "海外",
-   "published": "2026-09-15T16:19:31+00:00",
-   "title_ja": "イギリスの政治で、政党を乗り換える議員が相次ぐ",
-   "one_line": "イギリスの政治で、議員が自分の所属する政党から別の政党へ移る動きが出ています。",
-   "what": "イギリスのウェールズの議会で、議員が「改革イギリス」という政党から、別の「プライド・カムリ」という政党に移りました。理由は、前の政党が問題の解決よりも対立ばかりをねらっていると感じたためと説明されています。また、別の政党からは政治への寄付に上限を設ける法律の提案も出ています。",
-   "background": "そもそもイギリスでは、多くの政党が議席をあらそっています。議員が途中で所属する政党を変えることは時々あり、政党の考え方や方針に対する意見のちがいが原因になることが一般的です。また、政治活動のためにお金を集める仕組みや、そのルールについても、各政党の間でたびたび議論の的になってきました。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、イギリスの政治のバランスや、将来の選挙のやり方に影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "政党",
-     "meaning": "同じ政治の考えや目的を持った人たちが集まったグループのことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "417e85f24fd18568",
-   "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-   "title_original": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
-   "region": "海外",
-   "published": "2026-09-15T16:15:13+00:00",
-   "title_ja": "イランの外務大臣が中国を訪問し、話し合いを行う",
-   "one_line": "イランの外務大臣が中国を訪れ、緊張が高まる中での外交的な道を探っています。",
-   "what": "イランの外務大臣が中国の北京へ向かいました。イランとアメリカの間で緊張が高まっている中で、中国が平和のためにどのような役割を果たせるのか、話し合いが行われています。",
-   "background": "そもそも中国とイランは、経済や外交の面で結びつきが強い国です。また、中東地域は世界の原油の供給などで重要な場所であり、アメリカをはじめとする大国が深く関わってきました。中東の安定は世界全体の経済や安全保障に大きく影響するため、第三国である中国がどのような仲介の動きをするかが注目されます。",
-   "impact": "今すぐわたしたちの暮らしに直接的な変化はありませんが、中東地域の緊張がさらに高まったり和らいだりすることで、世界のエネルギー価格や経済に影響が出る可能性があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "d823b8704ee508bd",
-   "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
-   "title_original": "Election in Philippines’ Bangsamoro region ends in hung parliament",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26257144569913-1789486371.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-15T16:14:10+00:00",
-   "title_ja": "フィリピンの地域選挙でどの政党も過半数を取れず",
-   "one_line": "フィリピン南部で議員を選ぶ選挙が行われましたが、どの政党も過半数を獲得できませんでした。",
-   "what": "フィリピンの南部にある、イスラム教徒が多く暮らすバンサモロという地域で議会選挙が行われました。しかし、非公式の結果では、どの政党も過半数の議席を取ることができませんでした。",
-   "background": "そもそも議会のある地域では、長年にわたる争いのあとに自分たちで政治を行う仕組みが新しく作られてきました。選挙で過半数（全体の半分より多く）を取る政党がない状態を「ハン・パーラメント」や「ハング・パーラメント」と呼び、この状態になると、複数の政党が話し合って協力しなければ新しい政府や方針を決めることが難しくなります。",
-   "impact": "今すぐ日本のわたしたちのくらしに影響するものではありませんが、地域の安定や平和に向けた話し合いがどのように進むのか、世界から見守られています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "過半数",
-     "meaning": "全体の半分よりも多い数のことです。議会では、物事を決めるときにこの数が必要になります。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "34200af17df06077",
-   "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo",
-   "title_original": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg",
-   "region": "海外",
-   "published": "2026-09-15T16:13:41+00:00",
-   "title_ja": "オマーン沖の海峡でタンカーが攻撃され、乗組員が行方不明",
-   "one_line": "オマーン近くの海峡を通っていたタンカーが攻撃を受け、乗組員が行方不明になっています。",
-   "what": "オマーンの近くにあるホルムズ海峡で、石油を運ぶタンカーが攻撃を受けて火災が発生しました。この事故で、船に乗っていた2人の船乗りが行方不明になっています。攻撃の理由や方法については、国によって主張が異なっています。",
-   "background": "そもそもホルムズ海峡は、世界中の石油や天然ガスを運ぶ船がたくさん通る、とても大切な海の道です。この場所は中東の国々とつながっており、過去にもタンカーが攻撃されるなどのトラブルがたびたび起きていて、世界の安全保障や経済の重要なポイントとして見守られてきました。",
-   "impact": "今すぐ私たちの生活に影響が出るわけではありませんが、この海の安全が脅かされると、世界中に運ばれる石油やガスの価格が上がったり、日本のエネルギー事情に影響したりする心配があります。",
-   "genre": "国際",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "ホルムズ海峡",
-     "meaning": "中東のペルシャ湾と外の海をつなぐ、船の交通にとって非常に重要な細い海のことです。"
-    },
-    {
-     "word": "タンカー",
-     "meaning": "石油や液体などの大きな荷物を運ぶための専用の大きな船のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "189c06a83b389c87",
-   "url": "https://www.asahi.com/articles/ASV9G23DPV9GULFA009M.html",
-   "title_original": "基準地価、上昇地点数は増加 全国2.1万地点の価格地図はこちら",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20260914002542_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-15T15:30:00+00:00",
-   "title_ja": "日本全国の土地の値段を示す「基準地価」が発表される",
-   "one_line": "日本全国の土地の値段の目安となる「基準地価」が発表され、値段が上がった地点が増えました。",
-   "what": "日本全国の約2万1千地点の土地の値段の目安である「基準地価」が発表され、前の年と比べて値段が上がった地点の数が増えたことが分かりました。",
-   "background": "「基準地価」は、国や都道府県が毎年しらべる土地の値段の目安です。家を建てたりお店を開いたりするときの売買の参考になるほか、世の中の土地のねだんの動きを知る大切な手がかりになります。",
-   "impact": "土地の値段が上がると、家を買うときの費用が高くなったり、土地にかかる税金が変わったりすることがあります。私たちの身近な住まいやお店の値段に関わる大切なデータです。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "基準地価",
-     "meaning": "国や都道府県がしらべる、日本全国の土地の値段の目安のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "84ef142fa069ac14",
-   "url": "https://www.sankei.com/article/20260916-TGQ3LMLYMFO47ISXHCJFZ6XMPA",
-   "title_original": "東京都基準地価は全用途7.9％アップ 14年連続でプラス、台東区が商業地上昇率首位",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/MVCUEWFI6JPF7CWJEWMO6L2HQ4.jpg?auth=fa85adb14daef0e76664d5de955fa0c5a5b805832e299b3eebc2b5b898ed6594&quality=50&focal=1051%2C1955&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-15T15:05:00+00:00",
-   "title_ja": "東京都の土地の値段が14年連続で上がる",
-   "one_line": "東京都の基準地価が前の年より7.9%上がり、14年連続でプラスとなりました。",
-   "what": "東京都の基準地価は、すべての用途の平均で前の年より7.9%上がり、14年続けてプラスとなりました。なかでも台東区の商業地の上がり方が一番大きかったことが分かりました。",
-   "background": "大きな街では、多くの人が集まったり会社やお店が増えたりすると、土地を借りたい人や買いたい人が増えます。そうすると、土地の値段が上がりやすくなります。",
-   "impact": "東京で家を借りたり買ったりするときの費用に影響します。また、お店を出すときの場所代が高くなるなど、ビジネスの活動にも関わってきます。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "商業地",
-     "meaning": "お店や会社がたくさん集まっている場所の土地のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "a02f0832748be1cb",
-   "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
-   "title_original": "Rising Fuel Prices Set Off Anger and Protests Around the World",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/15/world/15int-world-fuel-protests-agon/15int-world-fuel-protests-agon-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-15T15:03:01+00:00",
-   "title_ja": "世界各地で燃料の値段が上がりデモや抗議が起きる",
-   "one_line": "世界各地で燃料が不足し値段が上がっていることで、人々による抗議活動が起きています。",
-   "what": "インドネシアやグアテマラ、シリアなど世界各地で、燃料が不足したり値段が高くなったりしていることから、人々が怒りの声をあげてデモを行ったり、電気が止まったりする問題が起きています。",
-   "background": "エネルギーや燃料は、車を動かしたり電気を作ったりするために世界中の人々が毎日使っている大切なものです。手に入りにくくなったり値段が上がったりすると、生活のすべてに大きな負担がかかります。",
-   "impact": "日本のすぐ近くの出来事ではありませんが、世界中でエネルギーの値段が上がると、日本が外国から燃料を買うときの値段も高くなり、私たちの暮らしの電気代や品物の値段に影響することがあります。",
-   "genre": "経済",
-   "category": "エネルギー・環境",
-   "terms": [],
-   "importance": 4
-  },
-  {
-   "id": "e29770ffbcf7a1f0",
-   "url": "https://mainichi.jp/articles/20260915/k00/00m/040/224000c",
-   "title_original": "「墜落」のグローバルホーク「任務中だった」 詳細明かされず",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/09/15/20260915k0000m040239000p/0c10.jpg?3",
-   "region": "国内",
-   "published": "2026-09-15T15:00:11+00:00",
-   "title_ja": "「墜落」のグローバルホーク「任務中だった」 詳細明かされず",
-   "one_line": "アメリカの無人偵察機が墜落した事故で、任務中だったことが分かりました。",
-   "what": "アメリカの大きな無人（乗り手が乗っていない）の飛行機である「グローバルホーク」が落ちた事故について、飛んでいたときは任務の途中だったことが分かりました。しかし、詳しいことはまだ明らかにされていません。",
-   "background": "グローバルホークは、遠くからカメラやセンサーを使って、相手の国の様子や動きを偵察（見張り、調べること）するための特別な飛行機です。人が乗っていないため、危険な場所にも長く飛んでいられるという特徴があります。",
-   "impact": "今すぐ私たちの暮らしが直接変わるものではありませんが、安全を守るための大切な乗り物が落ちた原因や、今後の安全対策がどうなるのかが注目されます。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "グローバルホーク",
-     "meaning": "高い空を長く飛んで、遠くの様子をカメラなどで調べることができる、人が乗らない大きな飛行機のことです。"
-    },
-    {
-     "word": "偵察",
-     "meaning": "相手の様子やまわりの状況をこっそり見たり調べたりして、情報を集めることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3a4037590ff3aa28",
-   "url": "https://www.nikkei.com/article/DGXZQOUC147EI0U6A910C2000000",
-   "title_original": "メタの有料プラン、日本では239円から 動画生成など拡充",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3598742015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=9668ea77721a1bbf06667cfc08450b82",
-   "region": "国内",
-   "published": "2026-09-15T15:00:00+00:00",
-   "title_ja": "メタの有料プラン、日本では239円から 動画生成機能も",
-   "one_line": "フェイスブックなどを運営する会社が、日本で新しい有料の仕組みを始めました。",
-   "what": "インターネットのサービスを広く提供している「メタ」という会社が、日本では月239円からの新しい有料プランを始めました。AI（人工知能）を使った動画を作る機能などが新しく使えるようになります。",
-   "background": "インターネット上のサービスは、無料で使えるものがたくさんありますが、サーバーを動かしたり新しい技術を開発したりするには多くのお金がかかります。そのため、特別な機能を使いたい人からお金をもらう「有料プラン」を取り入れる会社が増えています。",
-   "impact": "普段使っているサービスをこれまでどおり無料で使う分には影響ありませんが、AIを使った新しい動画作りなどを試したい人は、お金を払って使うかどうかを選ぶことになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "有料プラン",
-     "meaning": "お金を払うことで、特別な機能やより便利なサービスが使えるようになる仕組みのことです。"
-    },
-    {
-     "word": "動画生成",
-     "meaning": "コンピューターや人工知能（AI）が、指示された言葉などをもとに新しい動画を自動で作ることです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "58829ebe982a5905",
-   "url": "https://www.nikkei.com/article/DGXZQOUA092KD0Z00C26A9000000",
-   "title_original": "東京の商業地、33年ぶり地価平均300万円超え 出社回帰でオフィス需要",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3584509011092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=7c7a072adcc1b5887963dd91c6ac80fa",
-   "region": "国内",
-   "published": "2026-09-15T15:00:00+00:00",
-   "title_ja": "東京の商業地、33年ぶり地価平均300万円超え",
-   "one_line": "東京のお店や会社が集まる場所の土地の値段が、33年ぶりにとても高くなっています。",
-   "what": "東京都内にあるお店や会社がたくさん集まる「商業地」の土地の値段の平均が、33年ぶりに300万円を超えました。コロナ禍が落ち着いて会社に出勤する人が戻ってきたことで、オフィスを借りたいという人気が高まっているためです。",
-   "background": "土地の値段（地価）は、その場所で商売をしたい人や会社がたくさんいるほど高くなり、反対に人気がなくなると安くなります。日本が「バブル経済」と呼ばれていた大昔には土地の値段が異常に高くなりましたが、その後は長く下がったり落ち着いたりしていました。",
-   "impact": "東京の土地の値段が高くなると、そこで商売をする人のお店の家賃が上がったり、まわりの物の値段やサービスに影響したりすることがあります。また、日本全体の景気の動きを映し出す一つの目印になります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "商業地",
-     "meaning": "デパート、お店、会社などがたくさん集まっていて、商売をするために使われる土地のことです。"
-    },
-    {
-     "word": "オフィス需要",
-     "meaning": "会社が仕事をしたり集まったりするために、事務所（オフィス）の部屋を借りたいという強い希望のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "af4bd1be0bb6a8d1",
-   "url": "https://www.sankei.com/article/20260916-RSG4OW4KKNPZVFOJBRVGZMFYCQ",
-   "title_original": "日立エナジー、米ミシシッピ州に変圧器工場を新設 政府合意の一環、820億円投資",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/ARKXITHDFJPSTK2AJVWCFP6RIQ.jpg?auth=b3152248b6b48b4e825fc0e2469ccfa79f2372e2b81d8620c7771add694cd107&quality=50&focal=509%2C315&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-15T15:00:00+00:00",
-   "title_ja": "日立エナジー、アメリカに大規模な変圧器工場を新設",
-   "one_line": "日本の会社がアメリカで大きなお金をかけて、電気の設備を作る工場を新しく作ります。",
-   "what": "日本の会社である「日立」のグループが、アメリカのミシシッピ州に電気の電圧を変える機械を作る大きな工場を新しく作ると発表しました。政府の間での約束に合わせた取り組みの一環で、およそ820億円というたくさんのお金を投資します。",
-   "background": "変圧器は、発電所で作られた電気を、私たちが家や学校で安全に使えるように電圧の大きさを調整するためのとても大切な機械です。アメリカなどでは、古い電気設備を作り直す動きが進んでおり、こうした機械の需要が高まっています。",
-   "impact": "日本の会社が外国で大きなお仕事をしてビジネスを広げることにつながります。また、現地の電気のインフラを支えることで、日本と外国の経済的な結びつきや協力関係に影響を与えます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "変圧器",
-     "meaning": "電気の電圧（強さ）を変えるための機械で、電気が安全に家や工場に届くようにするために欠かせないものです。"
-    },
-    {
-     "word": "投資",
-     "meaning": "将来もっと大きな利益や成果が生まれることを期待して、会社や工場、事業にお金を出すことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8541dbae63fc3b08",
-   "url": "https://www.sankei.com/article/20260915-B2MX6SRWL5OKVALQHPTCDP5MUE",
-   "title_original": "研究セキュリティー人材を国立大で共有 文科省が組織・業務見直し案提示 9月中に通知へ",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/GQLF7BVGJZJINH52VY5B5PGDZU.jpg?auth=2d92595501a360355ae7e9a72d73f8b8f72ffa0ab24194faed3485c7ae559cb2&quality=50&focal=518%2C363&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-15T14:32:46+00:00",
-   "title_ja": "国立大学で研究安全保障の人材を共有へ",
-   "one_line": "文部科学省が、大学での研究の安全を守る専門の人材を増やし組織で見直す案を示したお話です。",
-   "what": "文部科学省が、国立大学で研究の安全を守るための専門知識を持った人材をみんなで共有する仕組みを作るため、組織や仕事の内容を見直す案を示しました。",
-   "background": "日本の大学や研究機関では、最先端の技術や情報が海外に漏れてしまわないように安全を守る仕組みが求められています。文部科学省は、学校教育や科学技術の発展をになぜる国の役所です。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、大学の研究成果や大切な技術が正しく守られるようになるための取り組みです。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "文部科学省",
-     "meaning": "日本の教育や科学技術、文化の振興などを担当する国の機関のことです。"
     }
    ],
    "importance": 2
