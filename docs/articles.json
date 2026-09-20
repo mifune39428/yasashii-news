@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T13:21:34.299878+09:00",
+ "updated_at": "2026-09-20T20:01:26.206932+09:00",
  "genres": [
   "政治",
   "経済",
@@ -602,10 +602,485 @@
   {
    "id": "dd1e3bf62ca4e6cd",
    "until": "2026-09-25T04:21:34.299878+00:00"
+  },
+  {
+   "id": "a837f1ec7291ae66",
+   "until": "2026-09-25T11:01:26.206932+00:00"
+  },
+  {
+   "id": "f2d4159e1ea84fa4",
+   "until": "2026-09-25T11:01:26.206932+00:00"
+  },
+  {
+   "id": "ade87a47a18aaa32",
+   "until": "2026-09-25T11:01:26.206932+00:00"
+  },
+  {
+   "id": "810fe738384ad7c6",
+   "until": "2026-09-25T11:01:26.206932+00:00"
+  },
+  {
+   "id": "3cde31c4e462404e",
+   "until": "2026-09-25T11:01:26.206932+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "d0d8f08a618708bf",
+   "url": "https://mainichi.jp/articles/20260920/k00/00m/010/220000c",
+   "title_original": "自民・小野寺税調会長の続投決定 高市首相が重視する政策を主導",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/08/20260908k0000m010270000p/0c10.jpg?1",
+   "region": "国内",
+   "published": "2026-09-20T10:59:33+00:00",
+   "title_ja": "自由民主党の税制調査会長の仕事とその人が続けること",
+   "one_line": "自由民主党の税の話し合いをまとめるリーダーの仕事がこれからも続くことになりました。",
+   "what": "自由民主党の中で、税金に関するルールや法律の話し合いをリードする大切な役目の人が、そのまま続けることになりました。",
+   "background": "自由民主党は、日本の政治で大きな力を持っているグループです。税金を集めたり使ったりする仕組みを決めるときには、党の中で何度も話し合いが行われます。その話し合いをまとめる中心人物は、どのような税金を集めるかを考えるうえでとても大切な役割を持っています。",
+   "impact": "今すぐ私たちの毎日の生活や買い物の金額が変わるわけではありません。しかし、新しく決まる税金のルールや国の仕組みに大きく関わるため、これからの国の動きをみる上で大切なニュースです。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "6d2ad9362361c1e1",
+   "url": "https://www.nytimes.com/2026/09/20/world/asia/philippines-bataan-nuclear-power-plant.html",
+   "title_original": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00xp-nuclear-top-qjhl/00xp-nuclear-top-qjhl-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-20T10:50:59+00:00",
+   "title_ja": "フィリピンで大昔につくられた原子力発電所を動かす計画",
+   "one_line": "フィリピンの政府が、長い間使われずに眠っていた原子力発電所を動かすことを考えています。",
+   "what": "フィリピンの政府が、世界のエネルギー不足や価格の変化に備えるため、大昔につくられてから40年間一度も使われてこなかった原子力発電所を動かす計画について調べています。",
+   "background": "原子力発電は、ウランという燃料を使って大きなエネルギーを作り出す仕組みです。世界では、電気の材料となる石油や石炭などの価格が大きく変わることがあるため、安定して電気を作る方法として原子力発電が見直されることがあります。一方で、安全性の心配や過去の事故への不安から、国の中で意見が分かれることも多い問題です。",
+   "impact": "日本で直接の電気料金や生活がすぐに変わることはありません。ただし、世界の国々がエネルギーの確保をどう進めるかによって、地球全体の燃料の値段や経済の動きに影響が出ることがあります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "原子力発電所",
+     "meaning": "ウランという燃料を使って、たくさんの電気を作り出すための大きな施設のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "29ce6a3fffeaf553",
+   "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+   "title_original": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20russia-opposition-01-lthg/20russia-opposition-01-lthg-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-20T10:49:12+00:00",
+   "title_ja": "ロシアの選挙で戦争に反対するグループが候補者を出すこと",
+   "one_line": "ロシアの選挙で、戦争に反対する考えを持つグループが候補者を立てて参加しています。",
+   "what": "ロシアで開かれる選挙に、戦争に反対している小さな自由主義の政党が候補者を立てました。自分たちの意見を自由に言うことが難しい中での挑戦と伝えられています。",
+   "background": "ロシアでは、国の方針に反対する意見を公に言うことや、活動をすることがとても難しい状態が続いています。選挙の仕組みはありますが、政府の考えに反対するグループが活動するのは簡単ではありません。そうした中で、候補者を立てて選挙に参加すること自体が注目されています。",
+   "impact": "私たちの毎日の暮らしがすぐに直接変わるわけではありません。しかし、世界の国々で政治や選挙がどのように行われているかを知るうえで、大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "自由主義",
+     "meaning": "個人の考えや自由を大切にして、社会や政治を動かしていこうという考え方のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "9d9f2a9b390ee217",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260828de46998",
+   "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月20日の動き）",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46998/20260828de46998_E0000020173_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-20T10:45:48+00:00",
+   "title_ja": "ロシアによるウクライナ侵攻、続く戦闘と各国の動き",
+   "one_line": "ロシアによるウクライナへの軍事侵攻が続き、各地で戦闘が報告されています。",
+   "what": "ロシア軍によるウクライナへの軍事侵攻が続いており、ウクライナ各地で両軍が戦闘を続けています。戦闘の状況や、関係する国々による外交の動きなどが伝えられています。",
+   "background": "ロシアは隣国であるウクライナへ軍を進め、両国の間で激しい武力衝突が続いています。ウクライナの主権や領土をめぐり、国際社会の間で対立や支援の議論が長期間にわたって続けられている問題です。",
+   "impact": "今すぐに私たちの生活が大きく変わるわけではありませんが、世界の平和やエネルギーなどの値段に影響を与える大きな国際問題として、引き続き注目されています。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "軍事侵攻",
+     "meaning": "軍隊をほかの国に送り込んで、攻撃し土地を奪い取ろうとすることです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "92df532dfda54fd2",
+   "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
+   "title_original": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
+   "region": "海外",
+   "published": "2026-09-20T10:45:39+00:00",
+   "title_ja": "ロシアのモスクワ周辺でドローン攻撃、2人死亡",
+   "one_line": "ロシアの首都周辺が多数の無人機による攻撃を受け、施設が被害を受けました。",
+   "what": "ロシアのモスクワ周辺が大規模な無人機の攻撃を受け、石油精製施設が被害を受けたほか、2人が死亡したと伝えられています。防衛当局は多数の無人機を迎撃したとしています。",
+   "background": "ウクライナとロシアの紛争が長引く中、双方が相手国の国内や重要施設に向けて、遠隔操作で飛ばす無人機を使った攻撃をたびたびおこなっています。",
+   "impact": "直接的な影響はすぐにはありませんが、攻撃を受けた場所が石油関連の施設であるため、世界のエネルギー市場や物の値段の動きにつながる可能性があります。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "ドローン",
+     "meaning": "人が乗らずに、遠隔操作や自動で空を飛ぶことができる無ちんの飛行機のことです。"
+    },
+    {
+     "word": "石油精製",
+     "meaning": "地面からくみ上げたばかりのドロドロした原油を、ガソリンや灯油などの使いやすい状態にきれいにする作業です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "e30b6170782853a7",
+   "url": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
+   "title_original": "Germany: Could regional polls froce Friedrich Merz to step down?",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/7241ef7c-b4dd-11f1-a7e3-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-090118-091249-CS.jpg",
+   "region": "海外",
+   "published": "2026-09-20T10:26:10+00:00",
+   "title_ja": "ドイツの地方選挙と、首相の去就をめぐる注目",
+   "one_line": "ドイツで地方選挙がおこなわれ、国の政権に対する影響が注目されています。",
+   "what": "ドイツの首都ベルリンなどで地方選挙がおこなわれました。この選挙の結果は、ドイツの首相にとって政権運営の試練になるとみられており、対応を協議するための緊急会合などが予定されています。",
+   "background": "多くの民主主義の国では、国のトップを選ぶ国政の選挙だけでなく、地域ごとの政治を行う地方議員や首長を選ぶ地方選挙もおこなわれます。地方選挙の結果は、いまの政治のやり方に対する国民の支持をはかる目安とされることがあります。",
+   "impact": "日本の直接のくらしにすぐ影響するわけではありませんが、ヨーロッパの主要な国の政治が不安定になると、世界の外交や経済の動き全体に影響を与えることがあります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "地方選挙",
+     "meaning": "国全体ではなく、都道府県や市町村といった地域のリーダーや議員を選ぶ選挙のことです。"
+    },
+    {
+     "word": "首相",
+     "meaning": "内閣をまとめる、国政のトップの人のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "70c83e388e5eb08d",
+   "url": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery",
+   "title_original": "Ukraine hits Russia with major drone attack, targetting refinery",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/7fbde97c-b4be-11f1-b2c6-5b4fdf021577/w:1024/p:16x9/2026-09-20T042905Z-1824787393-RC2QMNA5QBAK-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-REFINERY.jpg",
+   "region": "海外",
+   "published": "2026-09-20T10:24:57+00:00",
+   "title_ja": "ロシアの首都に大規模なドローン攻撃、国内では選挙も",
+   "one_line": "ロシアで議会選挙がおこなわれる中、首都周辺が大規模な無人機攻撃を受けました。",
+   "what": "ロシアで国内の議会選挙の投票が進む中、首都の周辺に対してウクライナ側から大規模な無人機の攻撃がおこなわれました。この攻撃により、石油関連施設が被害を受け、2人が死亡したと伝えられています。",
+   "background": "国同士が争っている状態であっても、法律や計画に従って国内の選挙がおこなわれることがあります。また、紛争が続く中で相手国の首都や重要施設を狙った攻撃がおこなわれることもあります。",
+   "impact": "今すぐ私たちの生活を変えるものではありませんが、国同士の激しい争いが続いていることを示す出来事であり、国際情勢の緊張を高める要因となります。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "議会選挙",
+     "meaning": "国会などで法律や予算を決める議員を選ぶための選挙のことです。"
+    },
+    {
+     "word": "石油精製施設",
+     "meaning": "原油を燃料などに加工するための工場や設備の集まりのことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a227a8bdb0a44821",
+   "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
+   "title_original": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T114756Z_1682804238_RC28MNAJERYX_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1-1789892142.jpg?resize=1200%2C630",
+   "region": "海外",
+   "published": "2026-09-20T10:23:33+00:00",
+   "title_ja": "トルコがサウジアラビアの防衛協力に意欲",
+   "one_line": "トルコの外務大臣が、サウジアラビアの防衛面の要望に応じる姿勢を示しました。",
+   "what": "トルコの外務大臣が、サウジアラビアからの防衛面での要望や必要性にこたえる準備があると表明しました。これは、周辺からの攻撃が激しくなっている中で、国同士の防衛に関する取り決めを試すような状況になっています。",
+   "background": "国同士が仲良くなったり、お互いを守り合ったりするために、軍事や安全保障の約束を結ぶことがあります。中東やその周辺では、国同士の対立や争いが起きやすいため、それぞれの国が装備を整えたり、協力相手を探したりすることがよくあります。",
+   "impact": "今すぐ私たちの暮らしや日本に直接の変化があるわけではありませんが、世界の国々がどのように協力し、安全を守ろうとしているのかを知る大切な動きです。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "防衛",
+     "meaning": "外からの攻撃や危険から、国や自分たちの地域を守ること。"
+    },
+    {
+     "word": "トリラテラル",
+     "meaning": "「3つの」という意味で、ここでは3つの国が関係する取り決めを指しています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "47d2eeb05fa38a83",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260920de51353",
+   "title_original": "北朝鮮 弾道ミサイル可能性あるもの続けて発射 EEZ外に落下か",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51353/20260920de51353_E0000033811_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-20T10:11:00+00:00",
+   "title_ja": "北朝鮮が弾道ミサイルを続けて発射",
+   "one_line": "北朝鮮が20日の午後に、弾道ミサイルの可能性があるものを続けて発射しました。",
+   "what": "防衛省によると、20日の午後に北朝鮮から弾道ミサイルの可能性があるものが2度にわたって発射されました。いずれも、日本の排他的経済水域の外側の海に落下したとみられています。",
+   "background": "弾道ミサイルとは、ロケットのように高く打ち上げてから目標に向かって飛ばす兵器のことです。安全保障や国際社会のルールを守るため、多くの国が発射を厳しく制限したり、警戒したりしています。",
+   "impact": "日本のすぐ近くでの出来事ですが、今回は日本の海の外側に落ちたとみられています。私たちの毎日の生活にすぐ影響が出るものではありませんが、安全を守るための情報は常に気をつけて見ていく必要があります。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "弾道ミサイル",
+     "meaning": "ロケットエンジンを使って空高く打ち上げられ、遠くの目標に向かって飛んでいく兵器のこと。"
+    },
+    {
+     "word": "排他的経済水域",
+     "meaning": "海岸からおよそ200海里までの海域で、その国が魚をとったり資源を調べたりする権利を持つ特別な海のこと。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "068866d959304a96",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/us-primary-season-takeaways",
+   "title_original": "Leftists make waves and Trump flexes muscles: US primary season takeaways",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/7f95a66731b6f17781f6152b14c7dd57492b2102/725_0_4417_3533/master/4417.jpg?width=140&quality=85&auto=format&fit=max&s=a86fa41afaf7071ce91e052a2b1f9c6c",
+   "region": "海外",
+   "published": "2026-09-20T10:00:13+00:00",
+   "title_ja": "アメリカの選挙へ向けた候補者が決まる",
+   "one_line": "アメリカの政治を大きく動かす中間選挙に向けて、それぞれの政党の代表となる候補者が決まりました。",
+   "what": "アメリカで、11月におこなわれる選挙に向けて、民主党と共和党の候補者がすべて決まりました。物価の心配や外国での問題がある中、どちらの政党が議会で強い力を持つかを決める大切な選挙になります。",
+   "background": "アメリカの政治は、民主党と共和党という大きな二つの政党が話し合いや争いをしています。国会である議会でどちらが多く議席を取るかによって、大統領がやりたい政策ができるかどうかが大きく変わる仕組みになっています。",
+   "impact": "今すぐ日本のくらしが直接変わるわけではありませんが、アメリカの政治の方向性は世界の経済や安全に大きな影響をあたえるため、どのような結果になるか世界中が注目しています。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "中間選挙",
+     "meaning": "アメリカの大統領の任期の途中に、国会の議員などを新しく選ぶためにおこなわれる大きな選挙のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "fbea76a25d727a89",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
+   "title_original": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/f9a7967fb988adda878fb805da809b762da3ae74/467_0_4665_3732/master/4665.jpg?width=140&quality=85&auto=format&fit=max&s=aa721b7f9b46aa2a494ff6e330b1467c",
+   "region": "海外",
+   "published": "2026-09-20T10:00:13+00:00",
+   "title_ja": "人工知能のルール作りと政治の動き",
+   "one_line": "アメリカの人工知能をめぐる政策の中で、大統領の家族や関係する企業が大きな契約やお金を得ています。",
+   "what": "アメリカのホワイトハウスが人工知能を広げるためのルール作りを支える中、大統領の家族や古い友人たちが、軍から大きなお金や契約を得ていることが伝えられています。また、大統領は人工知能の業界を応援する姿勢を示しています。",
+   "background": "アメリカでは、新しい技術や大きなビジネスを進める企業と、それを決める政治とのつながりがたびたび話題になります。国の安全保障に関わる重要な契約をどのような企業にまかせるかは、大きな問題として扱われます。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、最先端の技術をめぐる政治の動きや、大きな企業と国のかかわり方がどのように進んでいくのか、今後のルール作りに影響する可能性があります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間のように考えたり学んだりするコンピューターの仕組みのことで、さまざまな分野で技術の活用が進んでいます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bacbc50f0d1e91e4",
+   "url": "https://news.yahoo.co.jp/pickup/6595937?source=rss",
+   "title_original": "北再びミサイル発射 EEZ外落下か",
+   "source": "Yahoo!ニュース 国際",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/8738bcfcade91cfd0cb8733916ae2da9d4908e70a57c3b78822e546b815f20bf.jpg",
+   "region": "国内",
+   "published": "2026-09-20T09:44:29+00:00",
+   "title_ja": "北朝鮮がミサイルを発射し海の領域の外側に落下",
+   "one_line": "北朝鮮がミサイルを発射し、日本の経済水域の外側に落ちたとみられています。",
+   "what": "北朝鮮からミサイルが発射されました。このミサイルは、日本が経済的な権利を持つ海の領域である「排他的経済水域」の外側に落ちたとみられています。",
+   "background": "北朝鮮はこれまでにも、国際的なルールや国連の決議に反してミサイルを発射してきました。日本やまわりの国々は、安全を守るために警戒を続けています。",
+   "impact": "今すぐ私たちのくらしに大きな変化はありませんが、地域の安全や平和に関わる重大な問題であるため、政府が情報収集や警戒を続けています。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "排他的経済水域",
+     "meaning": "海岸から200海里までの海域で、国が魚をとったり資源を探したりする優先的な権利を持つ場所のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "c4337a7759e0caa2",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260920de51372",
+   "title_original": "自民 林前総務相“一議員として 中長期的な政策課題など議論”",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51372/20260920de51372_E0000033785_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-20T09:33:29+00:00",
+   "title_ja": "自民党の林前総務大臣がこれからの活動について語る",
+   "one_line": "大臣を離れた林前総務大臣が、これからは一人の国会議員として政策の議論に参加していく考えを示しました。",
+   "what": "自民党の林前総務大臣が、今回の内閣改造で大臣の仕事を離れたことを受け、今後は一人の国会議員として、これからの長い目で見た政策の課題についての話し合いに積極的に加わっていく考えを表しました。",
+   "background": "日本の政治では、内閣のメンバーである大臣が入れ替わることがよくあります。大臣を離れた国会議員は「閣外」と呼ばれ、特定の行政の仕事から離れることになりますが、国会議員としての仕事や党での活動は続けます。",
+   "impact": "今すぐ私たちの暮らしやお金の仕組みが大きく変わるわけではありません。国会議員がどのような政策について話し合いを進めていくのか、これからの動きに注目が集まります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [
+    {
+     "word": "内閣改造",
+     "meaning": "総理大臣が新しく大臣を選び直して、内閣のメンバーを入れ替えることです。"
+    },
+    {
+     "word": "閣外",
+     "meaning": "大臣の仕事をしていない状態のことで、大臣以外の国会議員として活動する立場をいいます。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8160bda691347e2a",
+   "url": "https://www.nikkei.com/article/DGXZQOUB0265U0S6A900C2000000",
+   "title_original": "親子上場に狭まる包囲網 上場子会社139社、ピークの3分の1",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3610597017092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=05db59f2658506701f6ab1f13a512bf1",
+   "region": "国内",
+   "published": "2026-09-20T09:13:14+00:00",
+   "title_ja": "親会社と子会社が両方株を売買する「親子上場」が減る",
+   "one_line": "親会社と子会社がどちらも株を売る親子上場が減っており、現在はピーク時の3分の1ほどの139社になっています。",
+   "what": "親会社と子会社がそれぞれ株を公開して売買する「親子上場」という仕組みの会社が、ピーク時と比べて減り、現在は139社になっているという話題です。",
+   "background": "会社は、別の会社の株を多く持って自分のグループにすることがあります。その中で、親会社も子会社もどちらも証券取引所に上場して株を売買している状態を「親子上場」と呼びます。会社のかかわり方が複雑になるため、見直す動きが進んでいます。",
+   "impact": "今すぐ直接的な変化はありませんが、会社の仕組みが変わることで、株式市場の動きや企業同士の結びつき方に影響を与えることがあります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "親子上場",
+     "meaning": "大きな会社である親会社と、その傘下にある子会社の双方が、同じように株を公開して売買している状態のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "48288e1c201dafd8",
+   "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+   "title_original": "House prices survived the last interest-rate rise. Will they this time?",
+   "source": "The Economist",
+   "image": "",
+   "region": "海外",
+   "published": "2026-09-20T09:05:41+00:00",
+   "title_ja": "金利が上がったときの住宅価格への影響",
+   "one_line": "過去に金利が上がったときは住宅市場が支えられましたが、今回は同じように持ちこたえられるかが注目されています。",
+   "what": "金利が上がったときに住宅の価格や市場がどうなるかについて、過去の金利上昇のときには市場を支える仕組みがあったものの、今回はその支えがなくなっているという状況について伝えています。",
+   "background": "家を買うときには銀行にお金を借りることが多く、そのときにかかる利息の割合である金利が上がると、返済の負担が大きくなります。過去にはさまざまな支えがあって住宅市場が守られましたが、その状況が変わってきています。",
+   "impact": "私たちの生活では、住宅ローンを組んで家を買うときの利息の負担や、家を建てたり買ったりする価格に影響することがあり、今後の経済の動きをみる大切なポイントになります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "金利",
+     "meaning": "銀行にお金を預けたり借りたりするときにやり取りする、手数料のような割合のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "0557ea1588f7c98f",
+   "url": "https://www.nikkei.com/article/DGXZQOUA036VV0T00C26A9000000",
+   "title_original": "築古物件リノベーションに優遇融資 賃貸流通促す新制度、国交省",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3550510004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=cadc533aaec8411898bf6fa8bfab1dfd",
+   "region": "国内",
+   "published": "2026-09-20T08:01:47+00:00",
+   "title_ja": "古い賃貸を直して貸すための新しいお金の貸し出しルール",
+   "one_line": "国交省が古い賃貸住宅を直して使いやすくする計画に対して、お金を借りやすくする新しい仕組みを作ります。",
+   "what": "国土交通省が、古いアパートやマンションを新しく作り替えるための特別な貸し出しルールを作ります。",
+   "background": "日本では、古い建物が増える一方で、そのままでは使われずに空き家になってしまうことが問題になっています。こうした古い建物をきれいに直して、また貸せるようにする取り組みには、多くのお金と時間がかかるという課題がありました。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、古い家が直されて借りやすくなれば、住む場所の選択肢が増えることにつながります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "リノベーション",
+     "meaning": "古い建物を直して、新しく使いやすくしたり、価値を高めたりすることです。"
+    },
+    {
+     "word": "国土交通省",
+     "meaning": "道路や鉄道、住宅、川など、国の中の基本的な仕組みや暮らしを支える仕事を担当する役所です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5b0a4ef9eb9b50e6",
+   "url": "https://www.cnbc.com/2026/09/20/ed-sheeran-calls-israels-treatment-of-gazans-unjustifiable.html",
+   "title_original": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/107273140-1689701455881-gettyimages-1486458337-egs04350_eeoemyj5.jpeg?v=1733369802&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-20T07:52:16+00:00",
+   "title_ja": "歌手のエド・シーランさんがパレスチナ問題めぐり発言",
+   "one_line": "イギリスの歌手エド・シーランさんが、コンサートの冒頭で中東の紛争や過去の事件について発言しました。",
+   "what": "イギリスの歌手であるエド・シーランさんが、コンサートの中で、イスラエルによるガザ地区への対応について考えを述べました。",
+   "background": "中東では、イスラエルとパレスチナの間で長年、激しい争いが続いています。2023年10月には、イスラエルが攻撃を受けて多くの人が亡くなる事件が起き、その後も戦闘や話し合いをめぐって世界中で様々な意見や議論が交わされています。",
+   "impact": "今すぐ私たちの暮らしやお金の動きに直接の影響はありませんが、世界的に有名な音楽家が社会的な問題について発言したことで、多くの人に問題への関心が広がることがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "63966f414282426d",
+   "url": "https://www.sankei.com/article/20260920-HN3RTI4KZBBHPPRNBLZ3KPNZOQ",
+   "title_original": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/L6WWLA27RRL6PIH23RTP2FYGLM.jpg?auth=9d44923d0451c04af600f20fdccb09519f1f9b050ea28449751c938818e7fdb6&quality=50&focal=906%2C521&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-20T07:30:00+00:00",
+   "title_ja": "人工知能とデザイナーの仕事についての大学学長の考え",
+   "one_line": "急速に進化する人工知能がデザインの仕事にどう影響するかについて、大学の学長が自身の考えを語りました。",
+   "what": "デジタルハリウッド大学の杉山知之学長が、急速に普及している人工知能がデザイナーの仕事を奪うのではないかという話題について答えました。",
+   "background": "近年、人間の代わりに文章や絵、デザインなどを自動で作ってくれる「生成人工知能」が急速に発達しています。これにより、人間の仕事が人工知能に置き換わるのではないかという不安や議論が様々な場所で起きています。",
+   "impact": "今すぐ身の回りの仕事がすべて変わるわけではありませんが、将来的に私たちが働くときの仕事のやり方や、学校で学ぶ内容に大きな影響を与える可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "生成AI",
+     "meaning": "人間のように文章や画像、音楽などを自動的に作り出すことができる人工知能のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "938ea6d274e23f30",
+   "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
+   "title_original": "損保ジャパン 望まない転勤廃止へ",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/2a51d43a7b48a45acfc398c24f57281036ad65991ec20c704577eebe5707b0bd.jpg",
+   "region": "国内",
+   "published": "2026-09-20T06:02:14+00:00",
+   "title_ja": "損保ジャパンが本人の望まない遠くへの引っ越しを伴う転勤を廃止へ",
+   "one_line": "損害保険会社の損保ジャパンが、社員が望まない引っ越しをともなう転勤をなくす方針を決めました。",
+   "what": "損害保険会社の損保ジャパンが、社員の希望を確認せずに会社側の都合だけで遠くへ引っ越す転勤をなくすこととしました。",
+   "background": "日本では、企業が正社員に対して、会社の都合で全国各地の支店へ引っ越しを伴う異動を命じる「転勤」という仕組みが広く使われてきました。しかし、子育てや介護など、社員それぞれの家庭の事情に配慮する動きが近年広がっています。",
+   "impact": "今すぐ他の会社全体が変わるわけではありませんが、働く人が自分の生活に合わせて働き方を選びやすい社会への変化の一つとして注目されます。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "転勤",
+     "meaning": "会社員の都合や会社の命令によって、今までと違う場所にある支店や会社で働くようになることです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "23dacb3b4aa34d36",
    "url": "https://www.theguardian.com/australia-news/2026/sep/20/intergenerational-report-australian-life-expectancy-forecast-to-rise",
@@ -7206,479 +7681,6 @@
    "category": "中国・アジア",
    "terms": [],
    "importance": 3
-  },
-  {
-   "id": "77cdbf649a2285ad",
-   "url": "https://www.asahi.com/articles/ASV9J0J53V9JULFA001M.html",
-   "title_original": "ドコモ、34万人の契約者情報をアマゾンに無断提供 「設定ミス」で",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20260916001160_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-16T02:19:16+00:00",
-   "title_ja": "ドコモ 契約者情報をアマゾンに無断提供",
-   "one_line": "NTTドコモで設定のミスがあり、34万人の契約者情報がアマゾンに無断で提供されました。",
-   "what": "NTTドコモは、システムの設定を間違えたことが原因で、34万人分の契約者の情報をアマゾンに許可なく提供してしまったと発表しました。",
-   "background": "企業やお店は、仕事をする上でたくさんの顧客情報をあずかっています。日本の法律や会社のルールでは、こうした大切な情報を本人の許可なく他の会社に渡してはいけないと決められています。",
-   "impact": "自分の個人情報が勝手に使われていないか不安になるかもしれませんが、今すぐ生活に大きな影響が出るわけではありません。企業にはより厳しい情報管理が求められます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "契約者情報",
-     "meaning": "携帯電話やサービスを使うときに登録した、名前や住所、連絡先などの大切な個人の記録です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b64f16d2020f117d",
-   "url": "https://toyokeizai.net/articles/-/958084",
-   "title_original": "【破談の深層】わずか4カ月で｢合意破棄｣､あいちFGと三十三FG統合はなぜ決裂したのか…東海FG案に反対､市場評価で明暗 | ビジネス | 東洋経済オンライン",
-   "source": "東洋経済オンライン",
-   "image": "https://tk.ismcdn.jp/mwimgs/d/1/1200w/img_d11b62cbc966d39183273b0fc1d6a255311576.jpg?nextgen=false",
-   "region": "国内",
-   "published": "2026-09-15T21:00:00+00:00",
-   "title_ja": "あいちFGと三十三FGの経営統合が破談に",
-   "one_line": "愛知県を地盤とする銀行グループ同士の経営統合の話が白紙に戻りました。",
-   "what": "あいちフィナンシャルグループと三十三フィナンシャルグループが、2026年9月に予定していた最終契約の締結を断念しました。",
-   "background": "銀行などの企業は、より大きな会社になることで経営を安定させたり、効率よく仕事をしたりするために「経営統合」という仕組みを使って一緒になることがあります。今回は話し合いの中で意見が合わなくなりました。",
-   "impact": "今すぐ私たちの預金や生活が変わるわけではありませんが、地域の銀行のあり方や、企業がどうやって成長していくかという問題に関わっています。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "経営統合",
-     "meaning": "複数の会社が、ひとつのグループの会社として一緒に経営をしていくことです。"
-    },
-    {
-     "word": "持ち株会社",
-     "meaning": "いくつかの会社をまとめて管理するための会社のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b9b483ed38e1d882",
-   "url": "https://toyokeizai.net/articles/-/957909",
-   "title_original": "【ルポ】抗菌薬｢ペニシリン｣原薬国産化工場の熱気…医薬品のチャイナ･リスク回避に本腰､サプライチェーン調査へ | 政治・経済・投資 | 東洋経済オンライン",
-   "source": "東洋経済オンライン",
-   "image": "https://tk.ismcdn.jp/mwimgs/d/c/1200w/img_dc7086a952391e4c7905077c28ac95381000090.jpg?nextgen=false",
-   "region": "国内",
-   "published": "2026-09-15T21:00:00+00:00",
-   "title_ja": "抗菌薬ペニシリンの国内生産に向けた動き",
-   "one_line": "医療に欠かせない薬の材料を日本国内で作るための取り組みが進んでいます。",
-   "what": "抗菌薬のペニシリンの材料について、海外からの輸入に頼る割合を減らし、日本国内で作るための工場での取り組みが進められています。",
-   "background": "私たちが使う薬の材料の多くは、海外から輸入しています。しかし、その国の状況やトラブルで材料が入ってこなくなると、国内で薬が作れなくなるリスクがあり、これを防ぐことが課題になっています。",
-   "impact": "今すぐ必要な薬が手に入らなくなるわけではありませんが、将来病気をしたときに安心して薬が使えるかどうかに関わる大事な問題です。",
-   "genre": "経済",
-   "category": "貿易・関税",
-   "terms": [
-    {
-     "word": "原薬",
-     "meaning": "くすりのなかで、病気を治すもとになる成分のことで、さまざまな加工をして飲み薬や注射の薬になります。"
-    },
-    {
-     "word": "サプライチェーン",
-     "meaning": "製品の材料を集めて、作って、お店に届けるまでのつながりの道筋のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "645ac484e5586284",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260915de50454",
-   "title_original": "高市首相 党役員人事 執行部ほぼ留任固める 政権安定狙いか",
-   "source": "NHKニュース 政治",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50454/20260915de50454_E0000030781_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-15T20:59:41+00:00",
-   "title_ja": "高市総理大臣が党役員の留任と内閣改造へ",
-   "one_line": "高市総理大臣が政権を安定させるため、党の役員人事や内閣の改造を行います。",
-   "what": "高市総理大臣は、重要政策をすすめるため、自民党の役員をほぼそのまま残す方針を固め、内閣の改造を行うことになりました。",
-   "background": "総理大臣は、自分の考えた政策をうまく進めるために、党の幹部を選んだり、大臣を入れ替えたりします。これを「党役員人事」や「内閣改造」と呼び、政権のまとまりを強くする狙いがあります。",
-   "impact": "これからの国の政策の進め方や、決まり方が変わる可能性があるため、私たちの暮らしや社会のルールに影響することがあります。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "内閣改造",
-     "meaning": "総理大臣が、国務大臣のメンバーを新しく選び直すことで、政権の雰囲気を変えたり政策を進めやすくしたりします。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9d3ee718e54c23bb",
-   "url": "https://www.nytimes.com/2026/09/15/world/ai-doomsday-skeptics-sydney-sweeney.html",
-   "title_original": "The A.I. Doomsday Skeptics",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-theworld-ai-fears-01-mbct-promo/16int-theworld-ai-fears-01-mbct-promo-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-15T20:51:00+00:00",
-   "title_ja": "人工知能の未来と現実的な危険性をめぐる議論",
-   "one_line": "人工知能がもたらす極端な未来の危機よりも、目の前の危険に目を向けるべきだという議論が高まっています。",
-   "what": "一部の専門家から、人工知能がもたらす地球規模の悲劇のような遠い未来の心配ばかりに注目が集まると、今まさに起きている現実の危険が見えなくなってしまうという指摘がなされています。",
-   "background": "人工知能は急速に進化しており、便利になる一方で、間違った情報の拡散や仕事への影響など、今すでに直面している問題があります。これまでの技術の歴史でも、新しいものが広まるときには必ず、未来の大きな不安と今の問題の両方が話し合われてきました。",
-   "impact": "私たちが普段使っているスマートフォンの機能や仕事のやり方に、人工知能のルールがどう影響するかに関わってきます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "人工知能",
-     "meaning": "人間の頭で考えるような複雑な作業を、コンピュータが自分でできるようにした技術のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "eaf5183552f72b22",
-   "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-   "title_original": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15int-gaza-strikes-1-pjkm/15int-gaza-strikes-1-pjkm-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-15T20:48:22+00:00",
-   "title_ja": "ガザ地区での攻撃で死者が出たことをめぐる情勢",
-   "one_line": "ガザ地区への攻撃で若者らが命を落とし、国際社会から攻撃を抑えるよう求める声が強まっています。",
-   "what": "ガザ地区でドローンによる攻撃があり、10代の若者と防災の仕事をしていた人が亡くなったと当局が発表しました。イスラエルに対しては、攻撃を減らすよう世界中からプレッシャーがかかっています。",
-   "background": "中東では長年にわたり、イスラエルとパレスチナの間で激しい争いが続いています。国際社会や国連などは、民間人が巻き込まれないように戦闘をやめさせたり、人道支援を届けたりするための話し合いや批判を続けています。",
-   "impact": "直接の生活への影響は見えにくいですが、世界のエネルギー価格や安全保障、国際的な平和のバランスに大きな関わりがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "ドローン",
-     "meaning": "人間が乗らずに、遠隔操作や自動で空を飛ぶことができる小型の飛行機や機械のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "b45f18665718d3a0",
-   "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
-   "title_original": "What Africa’s biggest IPO can do for its stock markets",
-   "source": "The Economist",
-   "image": "",
-   "region": "海外",
-   "published": "2026-09-15T20:44:13+00:00",
-   "title_ja": "アフリカ最大の株式公開と新しい投資家の動き",
-   "one_line": "アフリカで過去最大規模の株式公開が行われ、新しい世代の投資家が株を買っています。",
-   "what": "アフリカで最大規模となる株式の新規公開が行われ、新しい世代の投資家たちが現地の株を熱心に買い集めていると伝えられています。",
-   "background": "株式公開とは、会社の株を一般の人や投資家が証券取引所で自由に売買できるようにすることです。企業はこれによって大きな資金を集めることができ、経済を成長させるための大切な仕組みとして世界中で行われています。",
-   "impact": "遠くの国の出来事ですが、世界の大きなお金がどこに向かっているのか、世界経済のこれからの成長の形を知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "株式公開",
-     "meaning": "会社の株を証券取引所に初めて売り出し、誰でも買えるようにすることです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "8d38e9c72a6b6739",
-   "url": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
-   "title_original": "Australian politics live: Lambie compares ‘dangerous’ Hanson to Trump; NSW One Nation leader wants abortion ‘stopped’",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/a7a279c70064ed929102d387cef390b5db3c1bd9/669_0_6690_5352/master/6690.jpg?width=140&quality=85&auto=format&fit=max&s=8fd704a4ef159cababc9c122d4e3d939",
-   "region": "海外",
-   "published": "2026-09-15T20:43:05+00:00",
-   "title_ja": "オーストラリアの政党リーダーが中絶反対を訴える",
-   "one_line": "オーストラリアの政治家が中絶を制限する法律の採決を前に集会を開き、議論となっています。",
-   "what": "オーストラリアのニューサウスウェールズ州で、ある政党の代表が、中絶の権利に反対する集会に参加しました。州の議会では、性別を選んでの中絶を禁止する法律案の採決が予定されています。",
-   "background": "中絶とは、妊娠を人工的に終わらせる医療行為です。女性の権利や体の自由を守るべきだという考え方と、生まれる前の命を大切にすべきだという考え方の双方が存在し、国や地域によって法律やルールが大きく異なります。",
-   "impact": "いまのところ日本の私たちの暮らしに直接的な影響はありませんが、女性の権利や命のルールをめぐる世界的な議論の一つとして注目されています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "中絶",
-     "meaning": "妊娠した後に、おなかの中の赤ちゃんを人工的に体の外に出して、妊娠を終わらせることです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "5d1b1a39daad446b",
-   "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
-   "title_original": "Romanian shepards and farmers clash with police",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa997715127-1789499249.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-15T20:40:05+00:00",
-   "title_ja": "ルーマニアで農家と警察が衝突し多くのけが人",
-   "one_line": "ルーマニアで家畜の輸出禁止に反対する農家らと警察がぶつかり、多くの人がけがをしました。",
-   "what": "ルーマニアで、農家や羊飼いたちが警察と激しくぶつかり合いました。家畜の海外への輸出を禁止するルールが延長されたことに反対し、およそ2000人が集まって抗議デモを行ったためです。",
-   "background": "農業は、野菜や果物をつくったり、牛や豚などの家畜を育てたりして食べ物を得る、国にとってとても大切な産業です。国が安全や病気の予防などのためにルールを変えると、農家の仕事や生活に大きな影響が出ることがあります。",
-   "impact": "今すぐ日本の私たちの生活が変わるわけではありませんが、世界的な食料のやり取りや、農家の人たちの暮らしを守る難しさを考えるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "家畜",
-     "meaning": "人間が生活に役立てるために飼育する、牛や豚、羊などの動物のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "7d2fc0a32a05d58f",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260916de50470",
-   "title_original": "米 ベッセント財務長官 国債買い戻し増額「成功だった」",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50470/20260916de50470_E0000030791_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-15T20:37:00+00:00",
-   "title_ja": "アメリカ財務長官が国債買い戻しの増額を振り返る",
-   "one_line": "アメリカの財務長官が、金利を抑えるために国債を買い戻した対策について成功だったと語りました。",
-   "what": "アメリカのベッセント財務長官が、国が発行した借金のかみである国債を買い戻す規模を増やしたことについて、「成功だった」という考えを示しました。これは、上がりがちな長期金利を落ち着かせるための取り組みです。",
-   "background": "国債は、国がお金を借りるために発行する証書のようなものです。金利が上がると、国や企業が銀行からお金を借りるときの負担が増え、景気に影響を与えます。そのため、国は市場のバランスを保とうと様々な調整を行います。",
-   "impact": "アメリカの金利や物価の動きは、世界の経済や日本の円の価値、株の値段にも大きな影響を与えるため、今後の変化に注意が必要です。",
-   "genre": "国際",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "国債",
-     "meaning": "国が活動するためのお金を集めるために発行する、いわば国に対する借用書のようなものです。"
-    },
-    {
-     "word": "長期金利",
-     "meaning": "国にお金を貸し出すときの期間が長い場合の利息の割合で、世の中全体の金利の基準になります。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f3fee8737dffad84",
-   "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo",
-   "title_original": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
-   "region": "海外",
-   "published": "2026-09-15T20:34:12+00:00",
-   "title_ja": "中東の戦争でアメリカ軍の弾薬が不足と指摘",
-   "one_line": "アメリカ国防総省の検査で、戦争の影響により軍の弾薬が足りなくなっていることが分かりました。",
-   "what": "アメリカ国防総省の検査官が、これまでの戦争などの影響でアメリカ軍が使う弾薬の在庫が不足していると明らかにしました。トランプ大統領が「在庫は事実上いくらでもある」と主張していたことと食い違っています。",
-   "background": "国を守る軍隊では、万が一の戦いに備えて武器や弾薬を準備しています。しかし、実際に紛争や戦争が起きると、想像以上のスピードで弾薬が使われてしまい、再び作って届けるまでの仕組みが追いつかなくなることがあります。",
-   "impact": "日本の私たちの生活にすぐ影響が出るわけではありませんが、世界の安全保障のバランスや、アメリカの防衛体制の状況を知るうえで大切な情報です。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "弾薬",
-     "meaning": "銃や大砲などで使われる、撃ち出すための弾丸や火薬などの総称です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7ba0f4bfa3c4f4a3",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260916de50463",
-   "title_original": "米 国防総省報告書“イラン軍事作戦で弾薬の戦略備蓄が低下”",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50463/20260916de50463_E0000030787_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-15T20:32:00+00:00",
-   "title_ja": "アメリカの国防総省の報告書 イラン作戦で弾薬の備蓄が低下と指摘",
-   "one_line": "アメリカ軍がイランへの軍事作戦を続けたことで、武器の蓄えが減っていることが分かりました。",
-   "what": "アメリカの国防総省の監察部門が、イランへの軍事作戦についての初めての報告書をまとめました。作戦の影響で弾薬の備蓄が不足しており、すぐに作り増やすのも難しいと指摘しています。",
-   "background": "国防総省は、アメリカの軍事や安全保障をまとめて担当する組織です。国を守るために、いざという時に使える武器や弾薬をあらかじめ備蓄していますが、作戦が長引いたり規模が大きかったりすると、その蓄えが減ってしまう仕組みになっています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、アメリカ軍の武器の数が減ることは、世界の安全保障のバランスや、これからの軍の動き方に影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "国防総省",
-     "meaning": "アメリカで軍事や安全保障に関する仕事をまとめて行う、とても大きなお役所のことです。"
-    },
-    {
-     "word": "弾薬",
-     "meaning": "銃や大砲などで撃つための、弾のまとまりのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "44a0369be71b86ca",
-   "url": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
-   "title_original": "What makes these midterms so pivotal?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/%E2%88%9ALF-TX01-WIDE-THUMB-D-1789503522.jpg?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-15T20:19:26+00:00",
-   "title_ja": "2026年の中間選挙がアメリカの政治に大きな影響を与える理由",
-   "one_line": "アメリカで2年後に行われる大きな選挙が、国の政治の仕組みを大きく変えるかもしれないと注目されています。",
-   "what": "アメリカで2026年に行われる中間選挙について、トランプ政権の政策や政党の対立、選挙の争点が、国の政治のあり方を大きく作り変える可能性があると伝えられています。",
-   "background": "アメリカの大統領の任期は4年ですが、そのちょうど真ん中の2年目には、議会の議員を選ぶ「中間選挙」が行われます。この選挙の結果によって、大統領が自分の進めたい政策をやりやすくなるか、それとも反対派に邪魔されるかが大きく変わります。",
-   "impact": "アメリカの政治や政権の力がどう変わるかは、日本の安全保障や貿易などの外交関係にも大きく関わってくるため、今後の動きに注目が集まっています。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "中間選挙",
-     "meaning": "アメリカの大統領の任期のちょうど真ん中に行われる、国会の議員を選ぶための大切な選挙のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "b85c4d55a6f1164a",
-   "url": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
-   "title_original": "Stocks post back-to-back losses as oil surges, 10-year yield hits 19-year high: Live updates",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363133-17894885332026-09-15t160320z_21746204_rc2pjnaowezl_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-15T20:17:24+00:00",
-   "title_ja": "アメリカの株式市場で株価の下落が続く 原油価格の上昇や金利の高さが影響",
-   "one_line": "アメリカの株価が値下がりを続けており、油の値段や金利の高さが負担になっています。",
-   "what": "アメリカの株式市場で、主な株価の平均が2日続けて値下がりしました。国債の利回りが高止まりしていることや、原油の価格が上がっていることが、市場全体への負担になっていると伝えられています。",
-   "background": "株式市場では、世の中の金利が上がると、企業がお金を借りにくくなって業績への心配が増したり、投資家が株よりも安全な国債を買おうとしたりするため、株価が下がりやすくなる傾向があります。また、原油の価格が上がると企業の活動費が増えるため、これも株に悪い影響を与えます。",
-   "impact": "アメリカの経済や株価の動きは、日本の株式市場や為替のレートにもすぐにつながっているため、私たちの資産運用や物価の先行きに影響することがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "利回り",
-     "meaning": "投資したお金に対して、どれだけの利益や利子が戻ってくるかを示す割合のことです。金利の変化につれて変動します。"
-    },
-    {
-     "word": "原油",
-     "meaning": "ガソリンや灯油、プラスチックなどの材料になる、地下からくみ出したままの石油のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "af5e4c642ed885ef",
-   "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
-   "title_original": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108254907-1769005383264-gettyimages-2256831399-US_CAPITOL.jpeg?v=1789502467&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-15T20:16:31+00:00",
-   "title_ja": "アメリカの上院で暗号資産の新しいルール作りが止まる",
-   "one_line": "アメリカの上院で新しいルールを作るための採決が反対多数となり、暗号資産の業界に痛手となりました。",
-   "what": "アメリカの上院が火曜日に、暗号資産に関する新しいルールを作る法案を先に進めるための投票を行いましたが、反対が多くて止まってしまいました。",
-   "background": "暗号資産は国のルールがまだはっきり決まっていない部分が多く、お店で使えるお金のような法律やルールを作る動きが進められてきました。上院というのは、法律を作る話し合いをする場所です。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、新しいルールができないことで、暗号資産を安心して使うための仕組みづくりが遅れる可能性があります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "暗号資産",
-     "meaning": "インターネット上でやり取りされる、目に見えないデジタルのお金のようなものです。"
-    },
-    {
-     "word": "上院",
-     "meaning": "法律を作るときに話し合う、アメリカの国会を構成する二つの部屋のうちの一つです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6c35874250279dad",
-   "url": "https://www.nikkei.com/article/DGXZQOUA089O10Y6A900C2000000",
-   "title_original": "シルバー人材の最適業務をAI選定、企業･高齢者に提案へ 厚労省新事業",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3591993014092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.33&fp-y=0.09&h=630&w=1200&s=f1230cbad51ac87a6cd9c79e2a6ab1bb",
-   "region": "国内",
-   "published": "2026-09-15T20:00:00+00:00",
-   "title_ja": "高齢者の仕事選びを人工知能がサポート 厚生労働省が新事業",
-   "one_line": "厚生労働省が、シルバー人材センターで高齢者に合った仕事を人工知能が選ぶ新しい事業を始めます。",
-   "what": "厚生労働省が、高齢者が仕事をするためのシルバー人材センターで、その人にぴったりの仕事を人工知能が選んで企業や高齢者に提案する新しい取り組みを始めます。",
-   "background": "シルバー人材センターは、定年退職した高齢者がこれまでの経験をいかして働けるよう、地域の仕事を紹介する公的な組織です。高齢化が進む中で、働き手を増やす工夫が求められています。",
-   "impact": "高齢の方が自分に合った仕事を見つけやすくなり、地域の中で元気に働き続けるための選択肢が広がることが期待されます。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "シルバー人材センター",
-     "meaning": "お年寄りが自分の得意な仕事を引き受けて働くことで、生きがいを見つけたり地域社会を支えたりする場所です。"
-    },
-    {
-     "word": "人工知能",
-     "meaning": "人間の頭で考えるような複雑な作業を、コンピューターが代わりにできるようにした技術です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "430b238194af203e",
-   "url": "https://www.asahi.com/articles/ASV9H3F2XV9HUTFK00BM.html",
-   "title_original": "「高市流」内閣改造、どうなる支持率 「演出は不必要」と言うけれど",
-   "source": "朝日新聞 政治",
-   "image": "https://imgopt.asahi.com/ogp/AS20260915004098_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-15T20:00:00+00:00",
-   "title_ja": "高市氏の内閣改造と支持率のゆくえ",
-   "one_line": "高市氏による内閣改造と、それによって国民の支持率がどう変わるのかが注目されています。",
-   "what": "高市氏が新しく行う内閣のメンバー選びや仕事の進め方について、これからの支持率にどのような影響があるのかが話題になっています。",
-   "background": "内閣改造とは、総理大臣が大臣のメンバーを新しく入れ替えることです。国を動かす政治の方針を変えたり、国民の期待を高めたりするために行われます。",
-   "impact": "これからの政治がどのように進められていくのか、新しい大臣たちがどんな政策を決めるかによって、私たちのくらしや社会に大きな影響を与えます。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "内閣改造",
-     "meaning": "総理大臣が、一緒に仕事をする大臣のメンバーを新しく選び直すことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "335926061e3a7543",
-   "url": "https://www.dw.com/en/criticism-of-lgbtq-raids-in-turkey-is-growing/a-79284021?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Criticism of LGBTQ+ raids in Turkey is growing",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/69449797_6.jpg",
-   "region": "海外",
-   "published": "2026-09-15T19:32:00+00:00",
-   "title_ja": "トルコでの性的少数者への捜査に批判高まる",
-   "one_line": "トルコで性的少数者が警察に調べられたり逮捕されたりしたことに、国内外から強い批判が集まっています。",
-   "what": "トルコで、性的少数者（LGBTQ+）の人たちが警察に調べられたり逮捕されたりする出来事が相次ぎました。これに対して、たくさんの国内の団体や、ヨーロッパ連合の拠点があるブリュッセルから強い批判の声が上がっています。",
-   "background": "LGBTQ+とは、体の性と心の性が一致しない人や、同性を好きになる人など、さまざまな性のあり方を持つ人たちをまとめた言葉です。世界では権利を守る動きが進む一方、国や地域によっては法や伝統的な考え方との間で対立が起きています。",
-   "impact": "今すぐ日本の私たちの生活が変わるわけではありませんが、世界各国で人権や法律のあり方をめぐる意見の対立がどのように話し合われていくのか、国際社会の動きとして注目されます。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "LGBTQ+",
-     "meaning": "さまざまな性のあり方を持つ人たちを表す英語の頭文字を合わせた言葉です。"
-    },
-    {
-     "word": "ブリュッセル",
-     "meaning": "ヨーロッパ連合（EU）の多くの機関が集まっており、EU全体の意見をまとめる中心地です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c87a99631df4d922",
-   "url": "https://www.nikkei.com/article/DGXZQOFL115QTTR10C26A9000000",
-   "title_original": "豊田通商株、七大商社で上昇率首位 半導体・アフリカで光る独自色",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3599535015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=d636ee7e3dca80cdeb991aec3aa9031b",
-   "region": "国内",
-   "published": "2026-09-15T19:30:00+00:00",
-   "title_ja": "豊田通商の株価上昇率が七大商社で首位に",
-   "one_line": "豊田通商の株価が大手商社の中で一番上がっており、半導体やアフリカでの事業が注目されています。",
-   "what": "日本の大きな会社の一つである豊田通商の株価の上昇率が、七つの大きな商社の中で最も高くなりました。半導体やアフリカでのビジネスに独自の強みがあることが評価されています。",
-   "background": "商社は、世界中からさまざまな品物を買ってきて売ったり、企業の事業に投資したりする会社です。近年は、電気や機械に欠かせない半導体や、将来の成長が期待されるアフリカなどの地域に力を入れる企業が増えています。",
-   "impact": "今すぐ私たちの家計や買い物に直接影響するわけではありませんが、日本の大きな企業が世界のどこでどのように利益を出しているのかを知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "商社",
-     "meaning": "さまざまな品物を国内外で売買したり、新しい事業に出資したりして利益をあげる会社のことです。"
-    },
-    {
-     "word": "半導体",
-     "meaning": "電気の通り方をコントロールする部品で、スマートフォンや自動車など多くの製品に使われています。"
-    }
-   ],
-   "importance": 2
   }
  ]
 }
