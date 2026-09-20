@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T20:01:26.206932+09:00",
+ "updated_at": "2026-09-21T00:47:27.774042+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,14 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "292f3d9b12893186",
-   "until": "2026-09-20T11:27:12.918390+00:00"
-  },
-  {
-   "id": "5ff07024bcb7054c",
-   "until": "2026-09-20T11:27:12.918390+00:00"
-  },
   {
    "id": "2657abf4184ce8ab",
    "until": "2026-09-20T16:39:49.057748+00:00"
@@ -622,10 +614,299 @@
   {
    "id": "3cde31c4e462404e",
    "until": "2026-09-25T11:01:26.206932+00:00"
+  },
+  {
+   "id": "623c11528626b084",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "c5ca86b4007491bd",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "4eee3fd730449425",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "468c0e52a3783f1f",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "a6ab60eaf6e98d09",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "20b4e0bf4fd0cc02",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "bc6bf7c017f82f94",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "7036845bb2fb433a",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "41219fd96c379ece",
+   "until": "2026-09-25T15:47:27.774042+00:00"
+  },
+  {
+   "id": "45e01874210c1178",
+   "until": "2026-09-25T15:47:27.774042+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "69d2119549c5da82",
+   "url": "https://www.france24.com/en/middle-east/20260920-israeli-settler-and-palestinian-driver-killed-in-west-bank-shootings",
+   "title_original": "Israeli settler and Palestinian driver killed in West Bank shootings",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/95da504c-b504-11f1-bc3f-5b4fdf021577/w:1024/p:16x9/AP26263426242066.jpg",
+   "region": "海外",
+   "published": "2026-09-20T15:30:08+00:00",
+   "title_ja": "ヨルダン川西岸で銃撃や衝突により2人が死亡",
+   "one_line": "ヨルダン川西岸で銃撃や軍との衝突があり、イスラエル人とパレスチナ人の2人が亡くなりました。",
+   "what": "イスラエルの占領地であるヨルダン川西岸で、銃撃事件がありイスラエルの男性が亡くなりました。また、別の場所ではパレスチナ人の運転手がイスラエル兵に撃たれて亡くなりました。",
+   "background": "ヨルダン川西岸は、長年にわたりイスラエルとパレスチナの間で土地や権利をめぐる争いが続いている場所です。宗教的な祝日の前には、緊張が高まりやすいという背景があります。",
+   "impact": "今すぐ私たちの生活に直接の影響はありませんが、世界で起きている争いや安全保障の問題として、今後の動向が注目されます。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "ヨルダン川西岸",
+     "meaning": "中東にある地域の一つで、長年イスラエルとパレスチナの間で領地をめぐる争いや緊張が続いている場所です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "7ca2b224cf4cf344",
+   "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+   "title_original": "Trump says monumental arch in Washington, DC will also be military complex",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad6d78-1789750648.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-20T15:16:38+00:00",
+   "title_ja": "アメリカの首都ワシントンの記念建造物計画について",
+   "one_line": "アメリカのトランプ大統領が、首都ワシントンの記念アーチを軍の施設にする計画を述べました。",
+   "what": "アメリカのトランプ大統領が、首都ワシントンで計画されている大きなアーチについて、軍の施設としても使われるようにすると述べました。",
+   "background": "アメリカの首都ワシントンには、国の歴史や政治に関する多くの建物や記念碑があります。新しい建物の建設や都市の計画を進める際には、住民や反対するグループとの間で意見が分かれることがあります。",
+   "impact": "今すぐ私たちの暮らしが変わるものではありませんが、アメリカの首都のあり方や政治的な決定についてのニュースです。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "8ba8dbcd3ce388c0",
+   "url": "https://www.theguardian.com/australia-news/2026/sep/21/the-populist-one-nation-james-ashby-shed-pauline-hanson-gina-rinehart-ntwnfb",
+   "title_original": "One Nation-linked company built $56,000 shed on private property of Pauline Hanson’s right-hand man",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/c29aa0c171de4e32c033ab447f07ef9b68b43870/14_0_1385_1108/master/1385.jpg?width=140&quality=85&auto=format&fit=max&s=b5477de711a81122ebfbe3bb94dd9c89",
+   "region": "海外",
+   "published": "2026-09-20T15:00:20+00:00",
+   "title_ja": "オーストラリアの政党関係者をめぐるお金の動き",
+   "one_line": "オーストラリアの政党に関連する会社が、幹部の私有地に小屋を建てたと報じられました。",
+   "what": "オーストラリアの政党「ワン・ネイション」に関連する会社が、党の幹部であるジェームズ・アシュビー氏の個人の土地に、日本円でおよそ5万ドル以上に相当する小屋を建てたことが文書でわかりました。",
+   "background": "政党は、政治活動を行うための組織です。国会議員をえらんだり、自分たちの政策を国民に訴えたりします。政党や政治家のお金の使い方や寄付については、ルールを守って正しく行われているかどうかが厳しくチェックされます。",
+   "impact": "外国の政党の内部のお金の使い方に関するニュースであり、日本の私たちの暮らしに直接影響するものではありません。",
+   "genre": "国際",
+   "category": "選挙・政党",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "9c5ece921092b651",
+   "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+   "title_original": "The 'robot relations' department may become reality in workplace of the future",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108363244-1789497965297-gettyimages-2293419464-vcg111663866789.jpeg?v=1789497999&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-20T14:37:34+00:00",
+   "title_ja": "仕事の現場でロボットやAIの担当部署ができるかも",
+   "one_line": "AIやロボットの普及が、働く人の給料や働き方に大きな影響を与えています。",
+   "what": "AIやロボットを職場でどう使うかを管理する部署が、これからの未来の仕事場に登場するかもしれないという話題です。",
+   "background": "会社では、パソコンのプログラムで会話する仕組みや、自動で仕事を管理するシステムが広く使われるようになってきました。これらは働く人の給料や仕事の進め方に大きく関わっています。",
+   "impact": "将来、私たちが働くときのルールや給料の決まり方、仕事のやり方が大きく変わる可能性があります。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "AI",
+     "meaning": "人間の頭で考えるような作業を、コンピューターが代わりにできるようにした技術のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c75846d7f0ad1726",
+   "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+   "title_original": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108362154-1789217733683-gettyimages-2294794498-mg0011.jpeg?v=1789217766&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-20T14:23:53+00:00",
+   "title_ja": "アメリカが中東への旅行を再検討するよう呼びかけ",
+   "one_line": "中東の緊張が高まっているため、アメリカ政府が自国の市民に注意を促しています。",
+   "what": "アメリカ政府が、中東地域への旅行をもう一度よく考えるよう、アメリカの人たちに呼びかけたというニュースです。",
+   "background": "中東では、武装したグループによる攻撃が激しくなったり、海の大切な通り道がふさがれたりして、国と国の間の緊張が高まっています。",
+   "impact": "日本に直接の被害がすぐ出るわけではありませんが、世界の安全保障や石油の値段などを通して、私たちの暮らしに影響する場合があります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 4
+  },
+  {
+   "id": "691fda6498458e0a",
+   "url": "https://www.sankei.com/article/20260920-CWEGS7ISARFSVLLHNBYMGM2N5Y",
+   "title_original": "葉梨沖縄相、24日に新旧知事面会 山下法相「娘も結婚で氏変えた」旧姓使用拡大へ「ギア…",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/6PW4CHS7ZFCGDMZA42DEZPMNLI.jpg?auth=a99991cfb5832184f15f7f803d1541a194b57a0ff377135d6fe38a823e0bbc36&quality=50&focal=562%2C385&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-20T14:20:44+00:00",
+   "title_ja": "閣僚の動きや旧姓の利用拡大についての話題",
+   "one_line": "沖縄を担当する大臣の面会予定や、結婚したあとも前の苗字を使うことの検討が進んでいます。",
+   "what": "沖縄を担当する大臣が新しい知事と古い知事に面会することや、結婚したあとも古い苗字（旧姓）を使えるようにする取り組みについて話が出たというニュースです。",
+   "background": "日本では、法律で結婚した夫婦は同じ苗字にすると決められています。一方で、仕事や日常生活で結婚前の苗字をそのまま使いたいという声があり、国や政府の中でルールを見直す議論が続いています。",
+   "impact": "将来、結婚したあとも仕事などで前の苗字を使いやすくなる制度が変われば、多くの人の働き方や暮らしに関係してきます。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "57860392e6ee0345",
+   "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo",
+   "title_original": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
+   "region": "海外",
+   "published": "2026-09-20T13:50:51+00:00",
+   "title_ja": "アメリカの前大統領が計画する記念のアーチと施設",
+   "one_line": "アメリカのトランプ氏が計画している大きな門について、軍の施設もかねる方針だと伝えられています。",
+   "what": "トランプ氏が計画している凱旋門について、アメリカ軍からの要望をうけて、弾薬をしまっておく軍の施設としての役割もあわせ持つように計画を新しくしたと話しました。国の安全を守るための目的があるとしています。",
+   "background": "「凱旋門」というのは、戦争などで大きな戦いを終えてもどってきた軍隊をむかえるために、記念として建てられる大きな門のことです。軍の施設を国の中にどう配置するかは、国の安全や予算にかかわる大切な問題です。",
+   "impact": "今すぐ日本のくらしや家計に直接の影響が出るものではありませんが、アメリカのリーダーが軍や国の安全についてどのような考え方をしているのかを示す話題の一つです。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "弾薬",
+     "meaning": "銃や大砲などで使われる、玉や火薬などのもののこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d7ac2487568658bd",
+   "url": "https://news.yahoo.co.jp/pickup/6595960?source=rss",
+   "title_original": "インドネシアの島 奴隷制の実態",
+   "source": "Yahoo!ニュース 国際",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/c3b7c6e2df18e94e567d3b134f89fae62d968e7968ceb4265f9413f047e7ab20.jpg",
+   "region": "国内",
+   "published": "2026-09-20T13:09:01+00:00",
+   "title_ja": "インドネシアの島で起きている奴隷制の実態",
+   "one_line": "インドネシアの島で、人が自由に生きられない強制労働の実態が伝えられています。",
+   "what": "インドネシアのある島で、奴隷制のような形で人が働かされている実態について、ニュースとして伝えられています。",
+   "background": "奴隷制とは、人が他の人に所有され、自分の意志とは関係なく働かされる制度のことです。歴史的には世界中に存在していましたが、現在は国際的な決まりで禁止されています。しかし、今でも世界のどこかでは、違法に似たような状況で働かされる人がいる問題が起きています。",
+   "impact": "今すぐ日本の私たちの暮らしが変わるわけではありませんが、世界のどこかで起きている人権の問題として知っておくことが大切です。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "f1795dc5fa1289f5",
+   "url": "https://www.nikkei.com/article/DGXZQOUA200KK0Q6A920C2000000",
+   "title_original": "20日の高市首相の動静",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3624352020092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=c99a85c032e0e3d68cabc864f4337e04",
+   "region": "国内",
+   "published": "2026-09-20T13:08:59+00:00",
+   "title_ja": "高市首相の一日の動きを伝えるニュース",
+   "one_line": "日本の首相がどのような仕事や予定をこなしたかの一日を伝えています。",
+   "what": "日本のトップである高市首相が、この日にどのような人と会い、どんな会議に出たのかという「動静」が伝えられています。",
+   "background": "内閣のトップである首相の毎日の動きを記録し伝えることは、政治の透明性を保つために広く知らされています。首相はたくさんの専門家や外国の要人と会い、国の重要な方針を決めるための話し合いを行っています。",
+   "impact": "毎日の動きそのものがすぐに私たちの生活を変えるわけではありませんが、国のリーダーが今どんな仕事に力を入れているのかを知る手がかりになります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "1ba289f80ac866f6",
+   "url": "https://www.nikkei.com/article/DGXZQOCB201790Q6A920C2000000",
+   "title_original": "イラン、米国に交渉再開の7条件を伝達 返答待ちと説明",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3624768020092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.3&h=630&w=1200&s=b0f31fa643d5f34c6fa96b1bf629e562",
+   "region": "国内",
+   "published": "2026-09-20T13:08:36+00:00",
+   "title_ja": "イランがアメリカに交渉再開の条件を伝える",
+   "one_line": "イランがアメリカとの外交交渉を再び始めるための条件を伝えて返事を待っています。",
+   "what": "中東の国であるイランが、アメリカに対して交渉をもう一度始めるための7つの条件を伝え、現在その返事を待っていると説明しています。",
+   "background": "イランとアメリカは、過去の歴史や核開発などの問題をめぐって、長い間対立関係にあります。国と国の間で大きな意見の違いがあるときには、お互いに条件を出し合って話し合いのテーブルにつくかどうかを調整する外交の駆け引きが行われます。",
+   "impact": "遠くの国の出来事ですが、世界の平和や、私たちの生活に欠かせない石油などのエネルギーの価格や物価の動きに影響を与えることがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "ac66385267253ad8",
+   "url": "https://www.nikkei.com/article/DGXZQOGM200QG0Q6A920C2000000",
+   "title_original": "日ASEAN経済相会合、EPA改定へ共同研究で合意 供給網を強化",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3625054020092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.47&fp-y=0.41&h=630&upscale=false&w=1200&s=cadc06eb866a4178bf0bdb06e0ae30d2",
+   "region": "国内",
+   "published": "2026-09-20T12:15:50+00:00",
+   "title_ja": "日本とアセアンが貿易のルール見直しへ向けた共同研究に合意",
+   "one_line": "日本とアセアンの経済を担当する大臣が集まり、貿易のルールを作り直すための共同研究を始めると決めました。",
+   "what": "日本と東南アジアの国々が集まる会議で、これまでの貿易のルールを見直すための共同研究をすることに合意しました。ものづくりの材料や製品の流通をスムーズにする仕組みを強くすることが目的です。",
+   "background": "日本とアセアンは、これまでも貿易をしやすくするための協定を結んで協力してきました。時代が変わる中で、お互いの国のやり取りをより便利で安全にするために、ルールを定期的に見直す話し合いが行われます。",
+   "impact": "今すぐ生活が大きく変わるわけではありませんが、将来的に東南アジアとの貿易がもっとスムーズになり、日本に届く品物の流れが安定することにつながります。",
+   "genre": "経済",
+   "category": "貿易・関税",
+   "terms": [
+    {
+     "word": "EPA",
+     "meaning": "国と国の間で、税金をなくしたり減らしたりして貿易をしやすくする約束のことです。"
+    },
+    {
+     "word": "供給網",
+     "meaning": "商品を作るための部品や材料が、工場からお店に届くまでのつながりのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2f9bf4a4c9719c9f",
+   "url": "https://toyokeizai.net/articles/-/958784",
+   "title_original": "日銀の利上げ姿勢に失望感広がる…円相場は｢一段安｣のリスクを抱えながら波乱必至の1週間へ | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/e/d/1200w/img_ed02e3c846623054733cc5002ed34458416582.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-20T11:00:00+00:00",
+   "title_ja": "日本銀行の利上げに対する見方で円の価値が不安定に",
+   "one_line": "日本銀行の金利に対する方針について市場の受け止め方が分かれ、円の価値が下がってしまう心配が出ています。",
+   "what": "日本銀行の今後の金利の上げ方に関する姿勢に対して、市場で期待外れだという気持ちが広がりました。そのため、外国のお金に対して日本の円の価値が下がってしまう心配を抱えたまま、波乱の多い1週間を迎えることになりました。",
+   "background": "日本銀行は、物やサービスの値段の上がり方や景2気の様子を見ながら、お金の貸し出しの値段である金利をどうするかを決めています。市場では、金利が上がるかどうかが円の値段に大きな影響を与えます。",
+   "impact": "円の価値が下がると、外国から輸入する食べ物やエネルギーの値段が高くなり、私たちの買い物の負担が増える原因になります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "利上げ",
+     "meaning": "中央銀行が金利を上げることです。これによってお金の貸し出しが減り、景気の熱を冷ます効果があります。"
+    },
+    {
+     "word": "円相場",
+     "meaning": "日本のお金である円と、アメリカのドルなど外国のお金を交換するときの比率のことです。"
+    }
+   ],
+   "importance": 4
+  },
   {
    "id": "d0d8f08a618708bf",
    "url": "https://mainichi.jp/articles/20260920/k00/00m/010/220000c",
@@ -1059,6 +1340,29 @@
    "importance": 3
   },
   {
+   "id": "71fe0b5a5a821f06",
+   "url": "https://www.sankei.com/article/20260920-56W47VMG4RAUFGSHMU27EXDP5M",
+   "title_original": "生成AIの影響を受けやすい職業、受けにくい職業は？ 通訳、記者、ウェブデザイナー…",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/JO4SI6BKUNKMLPJ5RBTZ2C4LBA.jpg?auth=b2e511226ff0746f08c2048eb57c1d8a837f7e493c7e9b35fbb85511cb1ee368&quality=50&focal=920%2C820&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-20T06:30:00+00:00",
+   "title_ja": "人工知能の影響を受けやすい仕事と受けにくい仕事の特徴",
+   "one_line": "人間の仕事を手伝ったり代わったりできる最先端の人工知能が、さまざまな職業にどんな影響を与えるかが注目されています。",
+   "what": "文章を書いたり外国語を訳したりする最先端の人工知能技術が、これからの仕事にどのような影響を及ぼすのかについて、いくつかの職業を例に挙げて話し合われています。",
+   "background": "人工知能は、大量のデータをもとに文章を作ったり絵を描いたりするのが得意です。そのため、パソコンを使って情報を整理したり言葉をあつかったりする仕事の一部は、人工知能に置き換わるのではないかと言われています。",
+   "impact": "今すぐ仕事がなくなるわけではありませんが、これからは人工知能が得意なことを知り、それに負けない新しい自分の得意分野を見つけることが大切になってきます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "生成AI",
+     "meaning": "人間の指示に合わせて、新しく文章や画像、音楽などを自動的に作り出すことができるコンピュータの技術です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
    "id": "938ea6d274e23f30",
    "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
    "title_original": "損保ジャパン 望まない転勤廃止へ",
@@ -1314,6 +1618,29 @@
     {
      "word": "副首都",
      "meaning": "東京という首都の機能を補うために、別の重要な役割を持たせる都市のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c883cba5eb429448",
+   "url": "https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000",
+   "title_original": "AIバブルはこうして終わる 金利高と収穫逓減「死の交差」",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3607056016092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.72&fp-y=0.27&h=630&w=1200&s=78d14c9c3e83cc156603d4766c3a3ee0",
+   "region": "国内",
+   "published": "2026-09-20T02:00:00+00:00",
+   "title_ja": "人工知能ブームの終わりを予想する見方とその理由",
+   "one_line": "人工知能に関連する会社の株価が上がり続けてきたブームが、今後の金利の状況などで終わるかもしれないという見方が出ています。",
+   "what": "人工知能に関するビジネスや技術への期待から盛り上がっていた株価のブームが、今後の金利が高くなることなどを理由に、終わりを迎えるのではないかと指摘されています。",
+   "background": "新しい技術が注目されると、そこに多くのお金が集まって会社の価値である株価が急激に上がることがあります。しかし、世の中全体の金利が上がるとお金を借りにくくなり、投資の勢いが弱まることがあります。",
+   "impact": "人工知能に関連する会社に投資している人の財産や、日本の株式市場全体の動きに影響を与える可能性があります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "金利高",
+     "meaning": "銀行からお金を借りるときの利息や、預金につく利息の割合が全体的に高くなっている状態のことです。"
     }
    ],
    "importance": 3
@@ -7363,324 +7690,6 @@
     }
    ],
    "importance": 2
-  },
-  {
-   "id": "a5844566a3c50234",
-   "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-   "title_original": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108362853-1789450355490-gettyimages-2291459513-AFP_C6G27NB.jpeg?v=1789451011&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-16T04:01:59+00:00",
-   "title_ja": "中国のAI企業がアメリカの指摘に沈黙",
-   "one_line": "アメリカからの技術の危険性についての警告に対し、中国のAI企業はコメントをしていません。",
-   "what": "人工知能をつくる中国のいくつかの企業が、アメリカのシリコンバレーから出された技術の危険性についての警告や指摘について、取材に対して何も答えませんでした。",
-   "background": "人工知能は近年、私たちの生活や仕事に大きな影響を与える技術として世界中で注目されています。アメリカと中国は、この技術の開発で世界をリードしており、安全性の確保や技術の主導権をめぐってさまざまな議論や警戒が続いています。",
-   "impact": "今すぐ私たちの使っているパソコンやスマートフォンが変わるわけではありませんが、世界の最先端の技術がどのように進み、国同士でどう扱われていくのかに影響します。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "人工知能",
-     "meaning": "人間のように考えたり学んだりするコンピューターのプログラムや仕組みのことです。AIとも呼ばれます。"
-    },
-    {
-     "word": "シリコンバレー",
-     "meaning": "アメリカのカリフォルニア州にある、多くのＩＴ企業や新しい技術をもつ会社が集まっている地域の名前です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "73f8fc1d15d3d161",
-   "url": "https://www.nytimes.com/2026/09/16/world/asia/can-an-island-nations-rugby-dreams-change-its-fortunes.html",
-   "title_original": "Can an Island Nation’s Rugby Dreams Change Its Fortunes?",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-png-rugby-01-tqmf/16int-png-rugby-01-tqmf-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-16T04:01:21+00:00",
-   "title_ja": "ラグビーを通じて国同士の絆を深める試み",
-   "one_line": "パプアニューギニアで、大好きなラグビーを通じて国を良くしようとする動きがあります。",
-   "what": "パプアニューギニアという国では、人々がラグビーに熱狂しています。国のリーダーたちや隣の国であるオーストラリアは、このスポーツの力を借りて、政治的な関係を強めたり人々の生活を良くしようとしたりしています。",
-   "background": "スポーツは、国の人々を一つにまとめたり、別の国との友好関係を築いたりするための外交の道具として使われることがあります。これをスポーツを通じた外交と呼びます。",
-   "impact": "日本での毎日の生活にすぐ直接的な変化はありませんが、スポーツが世界の国と国とのつながりや外交にどう役立てられるのかという事例の一つです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "ジオポリティクス",
-     "meaning": "地理的な条件が国の政治や軍事、国際関係にどのような影響をあたえるかを考える学問や考え方のことです。地政学とも言います。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "94ca66e8d318a774",
-   "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-   "title_original": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-china-english-qwct/16int-china-english-qwct-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-16T04:01:06+00:00",
-   "title_ja": "中国で英語を学ぶ意味について議論",
-   "one_line": "人工知能が発達する中で、中国で英語を勉強する必要性について話し合いが起きています。",
-   "what": "中国で、人工知能の技術が進むにつれて「本当に英語を勉強する必要があるのか」という疑問がインターネット上で話し合われました。英語は選べる技術の一つであり、西側の影響の象徴だという見方もあると伝えられています。",
-   "background": "学校などで外国語を学ぶことは、外国の人とやり取りをしたり、新しい知識を得たりするために行われてきました。近年は、機械が言葉を自動で翻訳してくれる技術や、人工知能の性能がとても高くなっています。",
-   "impact": "今すぐ日本の私たちの生活が変わるわけではありません。しかし、技術が進む社会で外国語を学ぶ意味や、世界の人とどう関わっていくかという問題は、多くの国に関係するテーマです。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "6fb433cb70f456a2",
-   "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
-   "title_original": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/18b0ab9efd8a719e703c636e6aebbc396be59ee6/126_0_3987_3189/master/3987.jpg?width=140&quality=85&auto=format&fit=max&s=1becc18d27e0f28b5d377763853ef84b",
-   "region": "海外",
-   "published": "2026-09-16T04:00:12+00:00",
-   "title_ja": "空港の拡張と二酸化炭素の削減をめぐる意見",
-   "one_line": "イギリスの気候の専門組織が、空港を大きくするなら航空会社が環境対策でお金を払うべきだと提言しました。",
-   "what": "イギリスの政府に助言をする組織が、大きな空港を新しく広げるためには、飛行機から出る二酸化炭素を取り除く費用を航空会社が支払うべきだという意見をまとめました。現状のままでは、国が目指す環境の目標を達成できなくなると指摘しています。",
-   "background": "地球温暖化を防ぐため、世界中の国々が温室効果ガスを減らす目標を立てています。飛行機は大量の燃料を使うため、空の旅や運輸の分野でどうやって環境への負担を減らすかが大きな課題となっています。",
-   "impact": "イギリスの空港や航空会社に関わるルールが変わる可能性があります。将来的に飛行機を使った旅行の費用や、航空業界の仕組みに影響が出るかもしれません。",
-   "genre": "国際",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "二酸化炭素",
-     "meaning": "ものを燃やしたときなどに出るガスで、地球温暖化を進める原因の一つとされています。"
-    },
-    {
-     "word": "ネットゼロ",
-     "meaning": "人間活動による温室効果ガスの排出量を、全体としてゼロにすることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "35edc4d38d875825",
-   "url": "https://news.yahoo.co.jp/pickup/6595480?source=rss",
-   "title_original": "マツダ・ロードスター 購入層変化",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/16/d2ba7a4bd1363ff33599bdbd9a0b0f7e763b613e7fe617cb111d4b52b913576f.jpg",
-   "region": "国内",
-   "published": "2026-09-16T03:57:17+00:00",
-   "title_ja": "マツダの「ロードスター」を買う人の層が変わる",
-   "one_line": "マツダの車「ロードスター」を買う人の年齢や好みの層が変わってきています。",
-   "what": "マツダが作っている二人乗りのスポーツカー「ロードスター」を買う人たちの年齢層やタイプに変化が出てきているという話です。",
-   "background": "自動車を作る会社は、どんな人がどんな車を好むのかをいつも調べています。若い人が車離れをしていると言われる中で、スポーツカーのような趣味性の高い車は、買う人の年齢やライフスタイルが時代によって変わることがあります。",
-   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるものではありませんが、世の中の人がどんな車を好きになり、企業がどうやって車を売ろうとしているのかを知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "b5fd8c1bc14afa44",
-   "url": "https://www.asahi.com/articles/ASV943C5DV94PLZB003M.html",
-   "title_original": "京都府八幡市の川田翔子市長が女児を出産 4カ月の産休取得中",
-   "source": "朝日新聞 政治",
-   "image": "https://imgopt.asahi.com/ogp/AS20260916001742_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-16T03:55:48+00:00",
-   "title_ja": "京都府八幡市の市長が赤ちゃんを出産",
-   "one_line": "京都府八幡市の川田翔子市長が赤ちゃんを出産し、4か月の産休を取っています。",
-   "what": "京都府八幡市の川田翔子市長が、子供を産みました。市長は4か月の休みを取っているところです。",
-   "background": "会社で働く人と同じように、国会議員や知事、市区町村の長といった仕事をしている人たちも、子どもが生まれたときには仕事を休む制度や仕組みがあります。昔は仕事を休むことが難しかったのですが、少しずつ休みを取りやすい環境が整えられています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、お仕事をするリーダー層が子どもを産んで休みを取る姿は、これからの働き方や子育ての環境を考える上で一つの例になります。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "d7a3cefa65998ddf",
-   "url": "https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html",
-   "title_original": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363411-1789519866000-gettyimages-1240756081-SINGAPORE_GRAB.jpeg?v=1789519888&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-16T03:50:41+00:00",
-   "title_ja": "東南アジアのグラブが金融サービスを拡大へ",
-   "one_line": "東南アジアでアプリを運営するグラブが、別の金融企業を買収して事業を広げようとしています。",
-   "what": "東南アジアで生活に関わるさまざまなサービスを提供する企業「グラブ」が、お買い物のお金を後払いにできる仕組みを持つ企業「アトム」を買収するため、大きなお金を使う計画を立てているという話です。",
-   "background": "企業の買収とは、ある会社が別のお会社のお金や権利を買い取って自分の仲間に入れることです。インターネットやアプリを使った便利なサービスを提供する企業は、大きなお金を動かして新しい技術や仕組みを手に入れ、事業を大きくしようとすることがよくあります。",
-   "impact": "今すぐ私たちの毎日の生活や日本の景気が変わるわけではありませんが、世界中でスマートフォンを使ったお金の貸し借りや支払い方法のサービスがどのように広がっているのかを示す動きです。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "買収",
-     "meaning": "ある会社が別の会社の株や事業を買い取って、自分のものにしたり仲間に入れたりすることです。"
-    },
-    {
-     "word": "消費者向け貸し付け",
-     "meaning": "一般の人が買い物や生活のためにお金を借りるサービスのことで、後払いなどの仕組みも含まれます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4a64e78f428a2393",
-   "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
-   "title_original": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa9ee61-1789521505.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-16T03:39:50+00:00",
-   "title_ja": "アメリカ政府がイスラエルへ大型の爆弾を売る計画",
-   "one_line": "アメリカ政府がイスラエルへ、およそ28億ドルの大型爆弾を売る計画を進めています。",
-   "what": "アメリカの政権が、イスラエルに対して総額28億ドルにのぼる重い爆弾の売り込みを進めています。この計画には、たくさんの一般の人が被害を受けているという批判の声もあがっています。",
-   "background": "アメリカとイスラエルは長年にわたり、軍事面で深く協力し合う関係にあります。アメリカはイスラエルに対して、自国の防衛や軍事力を保つための武器や資金を継続的に提供し続けてきました。",
-   "impact": "今すぐに私たちの暮らしが変わるわけではありませんが、世界の国々の結びつきや、中東地域での争いのゆくえに大きな影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "爆弾",
-     "meaning": "火薬をつめこみ、爆発させて建物や人を攻撃するための武器のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "9ef9fb727bdd9037",
-   "url": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
-   "title_original": "China’s defence chief warns against coercion, avoids US, Japan mention",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-16T012948Z_1136678497_RC20KNAETMH6_RTRMADP_3_CHINA-DEFENCE-1789525819.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-16T03:38:57+00:00",
-   "title_ja": "中国の国防トップが強制や圧力をかけないよう訴える",
-   "one_line": "中国の防衛を担当するトップが、他国を力で従わせようとすることに注意を促しました。",
-   "what": "中国の国防を担当するトップである董軍氏が、国同士が力や圧力で相手を従わせようとすることに注意を呼びかけました。その一方で、みんなで安全を守る仕組みや、軍同士の協力の大切さを訴えました。",
-   "background": "国と国のあいだでは、自分の国に有利なようにほかの国を力で従わせようとする動きが問題になることがあります。そのため、国同士が話し合ってルールを作り、お互いの安全を守ろうとする外交の取り組みが続けられています。",
-   "impact": "今すぐ私たちの生活に直接の変化はありませんが、アジア全体の平和や、日本を含むまわりの国々との関係にどう影響するか注目されています。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [
-    {
-     "word": "国防",
-     "meaning": "外国からの攻撃や侵略から、自分の国と国民の安全を守るための仕組みや活動のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7290307896507740",
-   "url": "https://www.jiji.com/jc/article?k=2026091600102&g=pol&m=rss",
-   "title_original": "自民執行部が発足 「骨格」麻生・鈴木氏続投―高市首相、総裁選へ安定重視",
-   "source": "時事通信",
-   "image": "https://www.jiji.com/news2/kiji_photos/202609/20260916at13S_o.jpg",
-   "region": "国内",
-   "published": "2026-09-16T03:29:00+00:00",
-   "title_ja": "自由民主党の新体制がスタート 麻生氏や鈴木氏が続投",
-   "one_line": "自由民主党の新しい幹部たちが決まり、麻生氏や鈴木氏が引き続き重要な役割を担います。",
-   "what": "自由民主党の新しい指導部が発足しました。高市首相が総裁としての安定を重視し、麻生氏や鈴木氏らを引き続き要職にとどめる体制となっています。",
-   "background": "日本の政治では、政権をとっている政党の中でリーダーである「総裁」が選ばれ、そのあとで政党を動かしたり重要な仕事を担当したりする幹部の人事が行われます。党内のバランスをとるために、経験豊富なメンバーが選ばれることがよくあります。",
-   "impact": "国の政治の方針や法律、予算の決め方に大きな影響を与える政党の仕組みづくりであるため、これからの日本の政治の動きに直結します。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [
-    {
-     "word": "総裁",
-     "meaning": "政党のトップに立ち、党全体をまとめる立場の人のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "fdfcaae42cf03478",
-   "url": "http://www.france24.com/en/americas/20260916-new-french-ambassador-to-us-cleared-to-take-up-post-after-diplomatic-spat",
-   "title_original": "New French ambassador to US cleared to take up post after diplomatic spat",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/5c9fb67c-b177-11f1-9c05-53b7617a3a51/w:1024/p:16x9/AP24012249631357.jpg",
-   "region": "海外",
-   "published": "2026-09-16T03:10:13+00:00",
-   "title_ja": "フランスの新しいアメリカ大使が着任へ",
-   "one_line": "外交上のトラブルで止まっていたフランスの新しいアメリカ大使の赴任が認められました。",
-   "what": "フランスからアメリカへ向かう予定の新しい大使が、アメリカでの仕事をはじめられるようになりました。フランス政府が国連での投票をめぐるアメリカへの批判について謝罪したことで、二国間のトラブルが解決に向かったためです。",
-   "background": "大使とは、自分の国の代表として別の国に住み、相手国の政府と話し合いをしたり、仲を良くしたりするための大切な仕事を担う人のことです。国同士の意見がぶつかると、大使のやり取りが一時的に止まることがあります。",
-   "impact": "今すぐ私たちの毎日の暮らしが変わるわけではありませんが、フランスとアメリカという大きな国同士の仲がどのように修復されていくのか、世界の安定にとって大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "大使",
-     "meaning": "自分の国を代表して外国に赴き、相手国の政府と交渉したり自国の利益を守ったりする外交官のトップのことです。"
-    },
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が加盟し、世界の平和や安全を守るため話し合う国際的な組織のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "397b0bcf7eeddc2c",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260916de50526",
-   "title_original": "日経平均株価 小幅な値動き",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50526/20260916de50526_E0000030926_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-16T03:07:04+00:00",
-   "title_ja": "日経平均株価 小幅な値動きが続く",
-   "one_line": "16日の東京株式市場で、日経平均株価は売り買いが交錯し小幅な値動きとなりました。",
-   "what": "16日の東京株式市場で、日経平均株価は株を売りたい人と買いたい人の注文が交ざり合い、あまり大きく値が動かない一日となりました。",
-   "background": "株価とは、株式会社が発行している株の値段のことです。株式市場では、社会の景気の良し悪しや、企業の調子によって、株を買いたい人と売りたい人のバランスが変わり、値段が毎日上下しています。",
-   "impact": "日経平均株価の少しの値動きは、私たちの毎日の生活や買い物の値段にすぐに大きな変化を与えるものではありません。しかし、日本の経済の元気さをはかる目安の一つになります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "日経平均株価",
-     "meaning": "日本を代表する225社の株の値段を合わせて計算した、日本の景気のよさをみるための大切な数字です。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "9ef31669ba3ff1e1",
-   "url": "https://www.nikkei.com/article/DGXZQOFL1629V0W6A910C2000000",
-   "title_original": "商品11時30分 原油が高い、サウジの供給懸念で 金は上昇幅拡大",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-09-16T03:06:08+00:00",
-   "title_ja": "原油の価格が高くなり金は上昇幅が拡大",
-   "one_line": "サウジアラビアの供給への不安から原油価格が高くなり、金は上昇幅が大きくなりました。",
-   "what": "16日午前、商品の市場でサウジアラビアからの供給に対する不安から原油の価格が高くなり、金の価格は値上がりの幅が大きくなりました。",
-   "background": "原油はガソリンや電気を作るもとになる大切な資源です。金は世界中で価値が認められている貴重な金属で、世の中の不安が大きいときに買われやすいという特徴があります。",
-   "impact": "原油の価格が高くなると、ガソリン代や電気代、さまざまな物の値段が上がって、私たちの家計の負担につながることがあります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "原油",
-     "meaning": "地下からくみ上げた、まだ加工していない石油のことで、ガソリンやプラスチックなど色々なものの材料になります。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a1a5096356d8203e",
-   "url": "https://www.asahi.com/articles/ASV9F0VWQV9FUHBI00WM.html",
-   "title_original": "中国へ「禁書」、拘束されても 香港と本を愛した書店人が貫いた信念",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20260913001495_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-16T03:00:00+00:00",
-   "title_ja": "中国へ本を売り香港で活動した書店人の信念",
-   "one_line": "香港で本を愛し、中国への本の販売や活動を続けた書店人の生き方が伝えられています。",
-   "what": "香港で本を大切に扱い、中国に向けて本を売る活動を続け、拘束されてもなお自身の信念を貫き通した書店人の姿が報じられています。",
-   "background": "香港は中国の一部ですが、かつての歴史的ないきさつから、本土とは異なる法律や表現の自由が守られてきました。しかし近年はその仕組みや社会の様子が大きく変わってきています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界で表現の自由や人々の権利がどう守られているかを知る大切な出来事です。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [],
-   "importance": 3
   }
  ]
 }
