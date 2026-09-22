@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T01:39:47.256636+09:00",
+ "updated_at": "2026-09-23T06:05:30.394754+09:00",
  "genres": [
   "政治",
   "経済",
@@ -690,10 +690,385 @@
   {
    "id": "ffd0b04831aae4dc",
    "until": "2026-09-27T16:39:47.256636+00:00"
+  },
+  {
+   "id": "40455fddb19242a9",
+   "until": "2026-09-27T21:05:30.394754+00:00"
+  },
+  {
+   "id": "bdc710796cbcb80c",
+   "until": "2026-09-27T21:05:30.394754+00:00"
+  },
+  {
+   "id": "8f8ee72a2a9c2631",
+   "until": "2026-09-27T21:05:30.394754+00:00"
+  },
+  {
+   "id": "a1bd7f92989b8581",
+   "until": "2026-09-27T21:05:30.394754+00:00"
+  },
+  {
+   "id": "e75a4d167b505e07",
+   "until": "2026-09-27T21:05:30.394754+00:00"
+  },
+  {
+   "id": "43d66fccc0ed20a9",
+   "until": "2026-09-27T21:05:30.394754+00:00"
+  },
+  {
+   "id": "af50a4e5b9f750d7",
+   "until": "2026-09-27T21:05:30.394754+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "6c4e49e1d0d45130",
+   "url": "https://mainichi.jp/articles/20260918/k00/00m/010/188000c",
+   "title_original": "沖縄知事選2026:「同化と異化のはざま」の葛藤 「沖縄の心」が行き着く先は",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/18/20260918k0000m010226000p/0c10.jpg?1",
+   "region": "国内",
+   "published": "2026-09-22T21:00:15+00:00",
+   "title_ja": "2026年の沖縄県知事選に向けた動きとこれまでの歩み",
+   "one_line": "2026年に予定される沖縄県知事選に向けて、これからの沖縄の行く末を考える議論が始まっています。",
+   "what": "2026年に予定されている沖縄県の知事を選ぶ選挙に向けて、沖縄のこれからの姿や歩みについての記事が報じられました。",
+   "background": "知事選とは、都道府県のトップを選ぶ大切な選挙です。沖縄県では、米軍基地の問題や、本土との歴史的な結びつきなど、地域特有の大きな政治的な課題について、いつも激しい話し合いや選挙戦が行われてきました。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるものではありませんが、沖縄の未来や安全保障のあり方を決める大切な選挙に向けた動きは、日本全体に関わる重要な話題です。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "3bfb445b751ab526",
+   "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/vietnams-leader-is-likely-to-warn-of-threats-to-middle-powers",
+   "title_original": "Vietnam’s leader is likely to warn of threats to middle powers.",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22unga-live-vietnam-setup-cbkv/22unga-live-vietnam-setup-cbkv-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-22T20:59:09+00:00",
+   "title_ja": "ベトナムの指導者が語る中堅国への脅威と国際社会の動き",
+   "one_line": "ベトナムのトップが、大きな国々の間で影響を受ける国々の課題について語る見通しです。",
+   "what": "ベトナムの指導者が、世界の大きな国々の力関係の変化の中で、中くらいの力を持つ国々が直面する危険や脅威について警告する見込みだと報じられました。",
+   "background": "国際社会では、アメリカや中国のような非常に大きな力を持つ国々だけでなく、その中間に位置する国々も存在感を高めています。それぞれの国が自分の国を守りながら、大国との関係をどうバランスよく保つかが重要な外交の課題となっています。",
+   "impact": "今すぐ私たちの暮らしが直接変わるものではありませんが、アジアの国々の動きや大国同士の関係の変化は、日本の貿易や安全保障に大きな影響を与えることがあります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "中堅国",
+     "meaning": "大国ほどではありませんが、それなりの経済力や政治的な影響力を持ち、国際社会で一定の役割を果たしている国のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bdf29414a41deaa3",
+   "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o",
+   "title_original": "How Ceuta, football and Israel are shaping Morocco's election",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6d/live/eb5cde20-b6af-11f1-bc1f-3f186ca4140c.jpg",
+   "region": "海外",
+   "published": "2026-09-22T20:59:00+00:00",
+   "title_ja": "モロッコの選挙でサッカーや外交が争点に",
+   "one_line": "モロッコの選挙で、若者向けにサッカーや仕事の約束、外交の話題が使われています。",
+   "what": "北アフリカにあるモロッコで、若い有権者に向けてサッカーの合言葉や仕事の約束、イスラエルに関する呼びかけなどが使われています。",
+   "background": "モロッコは北アフリカに位置する王国です。選挙では、政党や候補者が有権者の支持を集めるために、さまざまなスローガンや政策を掲げて投票を呼びかけます。若者の投票率や関心を高めることが、どの国でも選挙の大きな課題となっています。",
+   "impact": "外国の選挙の話題であり、私たちの日本の暮らしに直接すぐに変わる影響はありませんが、世界各国で若者の心をつかむためにどのような工夫がされているのかを知る手がかりになります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "e3fedb95c52a9bbf",
+   "url": "https://www.nytimes.com/2026/09/22/world/ai-cold-war-iran-un.html",
+   "title_original": "Cold War Lessons for A.I.",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23int-theworld-top-cjqt/23int-theworld-top-cjqt-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-22T20:58:01+00:00",
+   "title_ja": "人工知能の安全保障でアメリカと中国が冷戦の歴史から学ぶこと",
+   "one_line": "アメリカと中国が、新しい技術である人工知能の暴走を防ぐために、昔の冷戦の教訓を生かそうとしています。",
+   "what": "アメリカと中国の間で、新しい技術である人工知能の危険性をどのように管理するかについて、かつてのアメリカとソビエト連邦の冷戦時代の経験を参考にできるかどうかが話し合われています。",
+   "background": "冷戦とは、かつてアメリカを中心とする陣営とソビエト連邦を中心とする陣営が、直接戦うことは避けながらも激しく争った時代のことをいいます。当時は核兵器という非常に危険な兵器をどう管理するかについて、両国で話し合いやルール作りが行われました。",
+   "impact": "今すぐ私たちの家計や生活が変わるわけではありませんが、世界中で急速に広がる人工知能のルール作りは、将来の安全やテクノロジーの利用方法に大きな影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間のように考えたり判断したりするコンピューターの技術や仕組みのことです。"
+    },
+    {
+     "word": "冷戦",
+     "meaning": "武器を使って直接戦うのではなく、政治や経済、技術などで激しく対立した時代の呼び方です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c1acdef77a50c768",
+   "url": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
+   "title_original": "French government scales up targeted fuel price relief",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/8a15ad1e-b6c7-11f1-9a2a-557acd7c815c/w:1024/p:16x9/capture-7310295556ab2ea935571e0-15059456.jpg",
+   "region": "海外",
+   "published": "2026-09-22T20:54:51+00:00",
+   "title_ja": "フランス政府が燃料価格の高騰対策で支援を拡大",
+   "one_line": "フランス政府が、燃料の値段が高くなっていることに対する事業者や労働者向けの支援をさらに広げると発表しました。",
+   "what": "フランス政府は、燃料価格の高騰に苦しむ企業や働く人々を助けるため、影響を大きく受けている人たちに向けたエネルギー支援を拡大すると発表しました。新たな対策には約4億5000万ユーロがかかり、これまでの総額は14億ユーロに達します。",
+   "background": "ヨーロッパなどの国々では、燃料やエネルギーの値段が大きく上がることがあり、市民の生活や会社の活動に大きな負担となります。政府は税金を使ってこうした負担を軽くするための対策（補助金など）を行うことがあります。",
+   "impact": "日本の直接の制度が変わるわけではありませんが、世界的なエネルギーの価格や、海外の国々が物価高に対してどのような経済対策を行っているのかを知る参考になります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "バイオ燃料",
+     "meaning": "植物などの生物から作られる、燃料として使えるエネルギーのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "28c38fe161bf454e",
+   "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+   "title_original": "Australia news live: ABC watchdog criticises ‘culture of secrecy’ and factchecking at Four Corners",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/e3cc965e7ec2b8cc499eba649af3da5e6e683301/8_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a0606abcfa16969fb2229628ead4e1db",
+   "region": "海外",
+   "published": "2026-09-22T20:51:50+00:00",
+   "title_ja": "アメリカのトランプ氏が人工知能の規制に不満を示す",
+   "one_line": "トランプ氏がAIの規制に反対し、名称変更まで提案しました。",
+   "what": "アメリカのトランプ氏が、人工知能の行き過ぎた規制や技術を抑え込もうとする国々の動きに強い不満を表しました。不安を減らすために技術の名前そのものを変えるべきだという考えも示しています。",
+   "background": "人工知能は近年めざましく進化していますが、フェイクニュースの拡散や著作権の問題、社会への悪影響が心配されています。このため、世界中の国々でルールを作って正しく使わせようという動きが進んでいます。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、アメリカの政治の動きによって、これからの国際的なルール作りや日本の技術の使い方が影響を受ける可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間の頭脳のように考えて、学習したり判断したりするコンピュータの技術のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1ccd770627e91be5",
+   "url": "https://toyokeizai.net/articles/-/958264",
+   "title_original": "ニトリ元社長が助言､年中無休･夜9時まで診療する異色のクリニックが覆す医療の常識 ｢コンビニのように使ってほしい｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/1/a/1200w/img_1a1591f47fd458d59a4ccb6cdc7abfe284354.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-22T20:50:00+00:00",
+   "title_ja": "年中無休で夜まで開く新しいクリニックが開業する",
+   "one_line": "年中無休で夜9時まで診療する珍しい総合クリニックが誕生します。",
+   "what": "日本の医療現場が厳しさを増す中で、八王子市に365日いつでも対応でき、夜9時まで診察を行う珍しい総合クリニックが新しく作られることになりました。",
+   "background": "日本では、多くの病院が休診日や夜間は閉まっているのが一般的です。しかし、会社勤めの人や夜間に急な体調不良になった人が気軽に受診できる仕組みが求められており、民間の知恵を取り入れた新しい医療の形が模索されています。",
+   "impact": "今すぐ全国の病院が変わるわけではありませんが、身近な場所で夜間や休日に受診できる医療機関が増えれば、私たちの通院の負担や不安を軽くすることにつながります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "クリニック",
+     "meaning": "入院用のベッドが少ないか、あるいは無い小規模な病院や診療所のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8f3405bc736c1d51",
+   "url": "https://toyokeizai.net/articles/-/958435",
+   "title_original": "『ダ･ヴィンチ』は休刊､『ダイヤモンド』は紙発行終了へ､雑誌市場は約30年で1/4まで衰退…｢底なし不況｣が広げる波紋 | ビジネス | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/7/e/1200w/img_7e33e2e4f9860d6b310dd796e02f602f239995.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-22T20:40:00+00:00",
+   "title_ja": "雑誌の紙での発行終了や休刊が相次ぐ出版不況",
+   "one_line": "ネットの普及や市場の縮小により、名門雑誌の休刊や紙の終了が続いています。",
+   "what": "出版業界では、スマホやインターネットの普及によって情報をすぐに得られるようになった影響で、有名な雑誌が次々と休刊したり紙での発行を終えたりしています。雑誌の市場規模は約30年で4分の1まで減っています。",
+   "background": "昔は本や雑誌が情報を得るための中心でしたが、インターネットやスマートフォンの登場で、ニュースや漫画を画面で読む人が増えました。これに伴い、紙の本や雑誌を売る会社やお店の経営が厳しくなっています。",
+   "impact": "今すぐ私たちの暮らしが大きく変わるわけではありませんが、身近な書店が減ったり、紙で読めるお気に入りの雑誌がなくなったりするなど、読書や情報の集め方に変化が出ています。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "休刊",
+     "meaning": "新聞や雑誌などを、しばらくの間またはやめるために発行しなくすることです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6cf78c3773ddc302",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260922de51902",
+   "title_original": "日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51902/20260922de51902_E0000034386_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-22T20:38:56+00:00",
+   "title_ja": "日米首脳会談で中国をめぐる課題や国際的な連携を協議",
+   "one_line": "日本の総理大臣とアメリカの大統領が会談し、中国への対応などで緊密に協力していくことを確認しました。",
+   "what": "国連の会議が開かれているアメリカのニューヨークで、日本の高市総理大臣とアメリカのトランプ大統領が会談しました。間近に迫ったアメリカと中国の首脳会談を見すえて、中国をめぐるさまざまな課題について意見を交わしました。",
+   "background": "国連総会は、世界中から多くの国や地域の代表が集まり、世界平和や地球規模の課題について話し合う、国際連合の大きなお祭りであり会議です。また、日米首脳会談は、日本とアメリカのトップ同士が直接会って、お互いの国の関係や世界情勢について話し合う大切な場です。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、日本とアメリカがどのような方針で世界や中国と向き合うかは、日本の安全や経済に大きな影響を与えます。今後の外交の動きに注目が集まります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国連総会",
+     "meaning": "世界中の国々が集まって、地球の平和や協力について話し合う国際連合の大きな会議のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "3fd630c19b6e3592",
+   "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
+   "title_original": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108366464-1790106895627-gettyimages-2279393456-042a6837_z1kl6pep.jpeg?v=1790106926&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-22T20:30:17+00:00",
+   "title_ja": "米クアルコムがAI向けAndroidチップを発表",
+   "one_line": "アメリカの企業が人工知能の処理に特化した新しい半導体を発表し、スマホ市場の将来が注目されています。",
+   "what": "アメリカの半導体企業であるクアルコムが、人工知能を動かすための新しいチップを発表しました。一方で、部品となるメモリが足りない問題があり、2026年のスマートフォンの出荷台数は大きく減ると予想されています。",
+   "background": "スマートフォンには、計算や情報を処理するための「半導体」や「メモリ」と呼ばれる小さな部品がたくさん使われています。これを作るためには高度な技術や工場が必要で、世界的な材料の不足や部品の奪い合いが起きることがあります。",
+   "impact": "スマホを作るための部品が足りなくなると、新しいスマホの値段が高くなったり、買いたいときにすぐ買えなくなったりする可能性があります。私たちの買い物の仕方や家計に少しずつ影響するお話です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "半導体",
+     "meaning": "電気を通す材料と通さない材料の中間の性質を持ち、パソコンやスマホなどで計算や記憶をする頭脳にあたる部品です。"
+    },
+    {
+     "word": "メモリ",
+     "meaning": "スマホやパソコンで、動かしているアプリのデータや一時的な情報を覚えておくための大切な部品のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d5228024545e6484",
+   "url": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+   "title_original": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/SAUDIKING-1790102756_364134-1790106052.jpg?resize=1200%2C630&quality=80",
+   "region": "海外",
+   "published": "2026-09-22T20:27:45+00:00",
+   "title_ja": "サウジアラビア国王がメッカへの攻撃を強く非難",
+   "one_line": "サウジアラビアの国王が、隣国イエメンからの武装勢力による聖地への攻撃をめぐって強い怒りを示しました。",
+   "what": "サウジアラビアのサルマン国王が、イスラム教の聖地であるメッカなどがテロ組織とされる武装勢力から攻撃を受けていることを強く非難しました。国王が自ら公の場でここまで強く批判するのは珍しいことと伝えられています。",
+   "background": "サウジアラビアは中東にある国で、イスラム教のとても大切な聖地であるメッカとメディナを抱えています。隣の国イエメンでは長く内戦が続いており、そこからドローンやミサイルを使った攻撃がサウジアラビアに向けて行われることがあります。",
+   "impact": "中東の情勢が不安定になると、日本が輸入している石油の値段や供給に影響が出ることがあります。私たちのガソリン代や電気代、さまざまな商品の値段に関わってくる大切な問題です。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "聖地",
+     "meaning": "宗教的な歴史の中で、特に大切で神聖な場所として多くの信者から信仰を集める土地のことです。"
+    },
+    {
+     "word": "武装勢力",
+     "meaning": "国が正式に認めた軍隊とは別に、自分たちの主張や利益のために武器を持って戦う集団のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9e7b9e78d9fe4211",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+   "title_original": "Trump: US-Iran meeting at UN was ‘very good’",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790108524.jpg?resize=1920%2C1080&quality=80",
+   "region": "海外",
+   "published": "2026-09-22T20:23:48+00:00",
+   "title_ja": "アメリカとイランの代表が国連の場で会談",
+   "one_line": "アメリカのトランプ大統領が、イランの役人たちと国連で会談しました。",
+   "what": "アメリカのドナルド・トランプ大統領が、イランの役人たちと国連の場で3時間にわたる会談を行いました。会談について、トランプ大統領は「とても良かった」と話しています。",
+   "background": "アメリカとイランは、核開発の問題や過去の歴史的ないきさつから、長い間お互いの政府が激しく対立してきました。国連というのは、世界中の国が集まって話し合い、世界の平和や安全を守るための場所です。",
+   "impact": "今すぐ私たちの暮らしやお金の動きに影響が出るものではありませんが、両国の関係が落ち着くのか、それとも対立が続くのかは、世界の平和にとって大切な問題です。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "国連",
+     "meaning": "世界中の国々が参加して、世界の平和を守る話し合いや、病気・貧困をなくすための協力を行う国際的な組織です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6b06f1c8f4088ce7",
+   "url": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
+   "title_original": "You can’t trade your way through the AI apocalypse",
+   "source": "The Economist",
+   "image": "",
+   "region": "海外",
+   "published": "2026-09-22T19:51:26+00:00",
+   "title_ja": "人工知能の発展がもたらす未来の課題",
+   "one_line": "高度な人工知能の危険性を売買や経済の力だけで防ぐのは難しいという記事です。",
+   "what": "高度な人工知能がもたらす脅威について、貿易や経済の取引だけで解決したり値段をつけたりすることは難しいという内容を伝えています。",
+   "background": "人工知能は人間の仕事や生活を便利にする一方で、人間のコントロールを離れて大きな危険をもたらすのではないかという心配も議論されています。新しい技術が社会に与える影響については、世界中で様々な意見があります。",
+   "impact": "今すぐ私たちの買い物や家計が変わるわけではありませんが、これから新しい技術が私たちの社会にどんなルールや危険をもたらすのかを考えるための大切なテーマです。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "コンピュータが人間のように考えたり学んだりして、難しい判断や作業ができるように作られた技術のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9aad735bab726237",
+   "url": "https://www.nikkei.com/article/DGXZQOUA221030S6A920C2000000",
+   "title_original": "高市早苗首相「法の支配は挑戦に直面」 国連演説、ICCの支持表明",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3626790022092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.42&fp-y=0.37&h=630&w=1200&s=0874c77c4eb1bfd3bb4f62cf4a2fa586",
+   "region": "国内",
+   "published": "2026-09-22T19:00:00+00:00",
+   "title_ja": "高市早苗首相が国連で演説、法の支配やICC支持を表明",
+   "one_line": "高市早苗首相が国連の場で、世界のルールや国際的な裁判所の支持を訴えました。",
+   "what": "高市早苗首相が国連で演説し、ルールに基づいた国際秩序が挑戦を受けていると指摘した上で、国際刑事裁判所を支持する考えを示しました。",
+   "background": "国連は、世界中の国々が集まって話し合い、戦争を防いだり平和を守ったりするための大きな国際組織です。また国際刑事裁判所は、世界で起きた重い犯罪を裁くための裁判所です。",
+   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるわけではありませんが、日本のリーダーが世界の平和やルールについてどのような考えを持っているかを示す大切な出来事です。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "国際刑事裁判所",
+     "meaning": "戦争犯罪など、世界中が注目する重い罪を犯した個人を裁くための国際的な裁判所のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3dd769398fc3b82e",
+   "url": "https://www.nikkei.com/article/DGXZQOFL221KO0S6A920C2000000",
+   "title_original": "ドイツ株22日 小幅続伸、原油下落は支え",
+   "source": "日本経済新聞 市場",
+   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+   "region": "国内",
+   "published": "2026-09-22T17:52:39+00:00",
+   "title_ja": "ドイツの株価が小幅に上がる、原油の安さが下支え",
+   "one_line": "ドイツの株式市場で株価が少し上がり、原油の価格が下がったことがプラスとなりました。",
+   "what": "22日のドイツの株式市場で、株価が前の日に続いて少し上がりました。原油の値段が下がったことが、企業の負担を軽くする材料として喜ばれました。",
+   "background": "株とは、会社が資金を集めるために発行する証券のことです。株式市場は、その株を売り買いする場所で、世界中のさまざまな出来事や景気の良し悪しによって値段が日々変化します。",
+   "impact": "ドイツの経済の動きは世界のほかの国にも影響を与えますが、日本の私たちの家計や買い物にすぐに直接の変化があるものではありません。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "原油",
+     "meaning": "地中から掘り出した、ガソリンなどのもとになるドロドロした油のことです。"
+    }
+   ],
+   "importance": 2
+  },
   {
    "id": "c1ebcd6915fc325e",
    "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
@@ -1349,6 +1724,29 @@
    "importance": 3
   },
   {
+   "id": "269c2b0f074b8c7b",
+   "url": "https://news.yahoo.co.jp/pickup/6596158?source=rss",
+   "title_original": "パラマウント WBD買収へ前進",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/22/c188da1bdea3e4a8cf1f326c41b21c762a7fa0a3a557b990114d54723603aa72.jpg",
+   "region": "国内",
+   "published": "2026-09-22T08:30:29+00:00",
+   "title_ja": "パラマウント、ワーナー・ブラザース・ディスカバリー買収へ前進",
+   "one_line": "アメリカの大きな企業同士が、会社の買収に向けて一歩前進しました。",
+   "what": "アメリカのメディア企業であるパラマウントが、同じく大手のワーナー・ブラザース・ディスカバリーを買収することに向けて、手続きが進みました。",
+   "background": "企業買収とは、ある会社が別の会社のおよそ全ての株を買い取って、自分の仲間やグループにすることをいいます。会社同士が大きくなることで、ライバルに勝ったり新しい仕事をしやすくなったりするメリットがあります。",
+   "impact": "アメリカの大きな企業の話なので、日本の私たちの毎日の生活がすぐに変わることはありませんが、世界の映画やテレビ業界の仕組みに影響することがあります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "買収",
+     "meaning": "他のお金を払って、別の会社やお店の経営権を手に入れることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
    "id": "c1ea5844c761a248",
    "url": "https://www.sankei.com/article/20260922-JB36O2XJL5IPPHO67ME774DRV4",
    "title_original": "日立製作所「AI活用」鉄道運行支援 異常予測し遅れや運休抑制、27年受注車両から搭載",
@@ -1797,6 +2195,29 @@
     {
      "word": "上場",
      "meaning": "会社の株を証券取引所で誰でも買ったり売ったりできるようにすることです。会社はお金を広く集めやすくなります。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "621a2300fa427158",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260922de51819",
+   "title_original": "NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51819/20260922de51819_E0000034189_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-22T00:25:00+00:00",
+   "title_ja": "ニューヨーク株式市場、ナスダックが約3か月半ぶり最高値",
+   "one_line": "アメリカのハイテク株中心の市場で、約3か月半ぶりに株価の最高値が更新されました。",
+   "what": "21日のニューヨーク株式市場で、中東のイランをめぐる心配な様子が和らいだことなどから買い注文が広がり、ハイテク企業が多いナスダックの株価が約3か月半ぶりに最も高い値段を更新しました。",
+   "background": "株価指数とは、たくさんの会社の株の値段をまとめて計算し、市場全体が全体としてどれくらい上がったか下がったかを示す数字のことです。ナスダックにはパソコンやAIに関連する企業が多く含まれています。",
+   "impact": "アメリカの株の動きは日本を含めた世界の株式市場に大きな影響を与えます。日本の株価が上がったり下がったりするきっかけになることがありますが、今のところ私たちのすぐの暮らしに直接結びつくわけではありません。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "株価指数",
+     "meaning": "たくさんの会社の株の値段をまとめて、市場全体の調子を分かりやすく表した数字のことです。"
     }
    ],
    "importance": 3
@@ -7196,408 +7617,6 @@
      "meaning": "国民が選挙などを通じて自分たちの代表を選び、自分たちの手で政治を行う仕組みに変えていくことです。"
     }
    ],
-   "importance": 3
-  },
-  {
-   "id": "5f18a25997946cf3",
-   "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
-   "title_original": "Australia news live: Burke defends immigration policy; China says Aukus ‘destabilises region’, ambassador to US tells thinktank",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/ce12d187526cd26955334b697bbd3b75492f943d/0_0_5006_4005/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=1c12203f00215b6ca416ff75cef4069f",
-   "region": "海外",
-   "published": "2026-09-17T20:54:10+00:00",
-   "title_ja": "潜水艦の協力事業をめぐるイギリスと中国の主張",
-   "one_line": "イギリスの担当者が原子力潜水艦の協力事業について、反対する国があるからこそ意味があると語りました。",
-   "what": "イギリスの原子力潜水艦の協力事業（オーカス）の担当者が、アメリカの調査機関で講演を行いました。この事業は反対する国があるからこそ正しく機能しているという考えを示した一方で、中国側は地域の安定を乱すと反発しています。",
-   "background": "国と国が安全保障や防衛のために、お互いに兵器を共同で開発したり技術を教え合ったりする仕組みは、国際社会のバランスをとるための取り決めとしてよく行われます。一方で、それが周りの国にどう受け止められるかで対立が生じることもあります。",
-   "impact": "今すぐ私たちの生活が変わることはありませんが、世界の国々のあいだで軍事的な緊張が高まったり、安全保障をめぐる話し合いが変わったりすることは、世界の平和や日本の安全にも関わる問題です。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "安全保障",
-     "meaning": "国や国民の命、平和な暮らしを守るために、軍事や外交の力を使って国を外敵から守る仕組みや取り組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b36c1079a8acbc0a",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260917de50925",
-   "title_original": "ジャガイモ輸入解禁めぐり アメリカが手続き加速を要求",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50925/20260917de50925_E0000032358_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-17T20:51:03+00:00",
-   "title_ja": "アメリカがジャガイモの輸入手続きを急ぐよう要求",
-   "one_line": "アメリカが日本に対して、生のジャガイモの輸入を早く認めるよう強く求めました。",
-   "what": "日本の省庁の幹部が、アメリカの担当者から、生のジャガイモの輸入を認めるための手続きを急ぐよう改めて求められました。アメリカ側は全面的な解禁を求めています。",
-   "background": "国と国の間で野菜や果物をやり取りするときは、病気や害虫が日本に入り込まないように、とても厳しいルールで安全を確かめます。この確認には何年もかかることが珍しくありません。",
-   "impact": "今すぐ私たちの食卓やお店のジャガイモがどうこうなるわけではありません。将来的に、もしアメリカからの輸入が増えれば、お店に並ぶ品物や値段が変わる可能性があります。",
-   "genre": "経済",
-   "category": "貿易・関税",
-   "terms": [
-    {
-     "word": "輸入解禁",
-     "meaning": "外国から特定の食べ物や品物を日本国内へ持ってきて売ることを、特別に許可すること。"
-    },
-    {
-     "word": "農林水産省",
-     "meaning": "農業や林業、水産業の仕事や、食べ物の安全などを担当している国の役所。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9ffe3e792ef948c5",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260918de50935",
-   "title_original": "日銀 金融政策決定会合 政策金利1.25％程度へ引き上げの見通し",
-   "source": "NHKニュース 経済",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50935/20260918de50935_E0000032377_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-17T20:44:58+00:00",
-   "title_ja": "日銀が政策金利を引き上げる見通し",
-   "one_line": "日本銀行が、物価の上がりすぎを防ぐために金利を上げる方針です。",
-   "what": "日本銀行は会合を開き、政策金利を1.25パーセント程度に引き上げる見通しです。ものの値段が大きく上がり続けるリスクに備えるため、金利を上げるペースを速める形になります。",
-   "background": "金利とは、お金を借りたり預けたりするときにやり取りする「手数料」のようなものです。日本銀行は、景気の様子や物の値段の上がり方を見て、この金利を上げ下げする仕事をしています。",
-   "impact": "金利が上がると、住宅ローンや会社の借金の返す金額が増えるなど、私たちのお金の使い方や暮らしにさまざまな影響が出てきます。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "金融政策決定会合",
-     "meaning": "日本銀行が、世の中の金利やお金の量をどうするかを決めるための大切な話し合いのこと。"
-    },
-    {
-     "word": "政策金利",
-     "meaning": "日本銀行が設定する、すべての金利の基準となる大切な金利のこと。"
-    }
-   ],
-   "importance": 5
-  },
-  {
-   "id": "181db8d3ddc68aa3",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo",
-   "title_original": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e890/live/25bea680-b2cc-11f1-aa00-7947ea0dbeab.jpg",
-   "region": "海外",
-   "published": "2026-09-17T20:44:53+00:00",
-   "title_ja": "アメリカがイラン代表団の入国を認める方針",
-   "one_line": "アメリカが、国連の会議に出席するためイランの代表団の入国を認める見通しです。",
-   "what": "アメリカ政府は、アメリカのニューヨークで開かれる国連の会議に出席するため、イランの大統領や外務大臣などの代表団がアメリカに入ることを認める方針であることが分かりました。",
-   "background": "国連は、世界中の国が集まって世界の平和や問題について話し合う場所です。会議が開かれる国は、原則として他の国から来る代表団が会議に参加できるよう、入国を認めることになっています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありません。しかし、対立する国同士がどのような話し合いの場を持つかは、世界の平和や安全に大きな関わりがあります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が加盟し、戦争を防いだり地球のさまざまな問題をみんなで解決したりするための国際的な組織。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d9566ad8879ce1f3",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260918de50937",
-   "title_original": "第2次高市改造内閣発足 食料品の消費税減税など政策推進が課題",
-   "source": "NHKニュース 政治",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50937/20260918de50937_E0000032380_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-17T20:37:42+00:00",
-   "title_ja": "第2次高市改造内閣が発足、食料品の消費税減税などが課題",
-   "one_line": "高市総理大臣が内閣を新しくし、食料品の消費税を下げるための話し合いなどに取り組みます。",
-   "what": "高市総理大臣は内閣を新しく作り直し、これまでの重要な仕事を続ける人を残す一方で、新しく7人の大臣をえらびました。これから食料品の消費税を下げるための法律について話し合うことが大きな課題となっています。",
-   "background": "日本の政治では、総理大臣が自分の思う政策を進めるために、手伝う大臣を新しくえらび直す「内閣改造」を行うことがあります。また、消費税の仕組みを変えるには、国会でしっかりと法律の話し合いをする必要があります。",
-   "impact": "もし食料品の消費税が下げることになれば、お買い物をするときの代金や家計の負担に直接かかわってくる大切な動きです。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "内閣改造",
-     "meaning": "総理大臣が、政策を進めるチームである内閣のメンバーを入れ替えることです。"
-    },
-    {
-     "word": "消費税",
-     "meaning": "お買い物やサービスの利用のときに、国に支払う税金のことです。"
-    }
-   ],
-   "importance": 5
-  },
-  {
-   "id": "da72b97b7d77c0c3",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
-   "title_original": "Can ‘middle powers’ come together to build a new economic alliance?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa72f15-1789341461.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-17T20:37:06+00:00",
-   "title_ja": "カナダ首相が欧州連合との経済的な結びつき強化を提案",
-   "one_line": "カナダの首相が、ヨーロッパの国々と経済の結びつきを強めるための計画を明らかにしました。",
-   "what": "カナダの首相が、ヨーロッパ連合との間でより強い絆を結び、新しい経済の協力関係を作るための計画について説明しました。",
-   "background": "国と国が貿易や経済で協力し合うとき、お互いのルールを話し合って結びつきを強くすることがあります。特に大国以外の国々が協力することで、世界全体のバランスをとろうとすることがあります。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、世界中の国同士のつながり方や、日本への貿易に少しずつ影響することがあります。",
-   "genre": "国際",
-   "category": "貿易・関税",
-   "terms": [
-    {
-     "word": "欧州連合",
-     "meaning": "ヨーロッパの国々が集まって、経済や政治のルールを共通にして協力しているグループのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7b4b065f65e6c3b7",
-   "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo",
-   "title_original": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg",
-   "region": "海外",
-   "published": "2026-09-17T20:34:30+00:00",
-   "title_ja": "国連の専門家がアメリカの軍事攻撃について戦争犯罪の可能性を指摘",
-   "one_line": "国連の専門家グループが、アメリカによる軍事攻撃について戦争犯罪の根拠があると発表しました。",
-   "what": "国連の専門家たちが、学校などが標的となった攻撃について、アメリカが軍事攻撃を行ったとする根拠があると述べました。アメリカ側は、その攻撃を行ったことを認めていません。",
-   "background": "戦争や武力を使った争いには、国際的なルールで守られている決まりがあります。そのルールに違反するような重大な行為があった場合、国連などの専門機関が調査や指摘を行うことがあります。",
-   "impact": "直接日本のくらしが変わるものではありませんが、世界の平和や安全、国同士の大きなルールについて考える大切なニュースです。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "国際連合",
-     "meaning": "世界中の国々が参加して、世界の平和を守るために話し合う大きな組織のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "0096c8be72b17a06",
-   "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-   "title_original": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364635-1789677070399-gettyimages-2222880844-TRUMP_TAX_BILL.jpeg?v=1789677107&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-17T20:32:07+00:00",
-   "title_ja": "アメリカの共和党がトランプ氏の減税法をアピール",
-   "one_line": "アメリカの共和党が、トランプ氏が決めた税金を安くする法律の成果をアピールしています。",
-   "what": "選挙が近づく中、アメリカの政治家たちが、トランプ氏がかつて決めた大きな税金の引き下げについて、誰に一番メリットがあったのかを話し合っています。",
-   "background": "アメリカには大きく分けて、小さな政府を目指す「共和党」と、福祉を大切にする「民主党」があります。税金の仕組みは、国の予算やみんなの暮らしに直接つながる大切なテーマです。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、国の税金をどう集めてどう使うのかという政治の考え方を考えるきっかけになります。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "減税",
-     "meaning": "国に払う税金や、店で買うときにかかる税金の金額を安くすることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d034a46a6e5ef809",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
-   "title_original": "Why have China’s oil prices reached a record high?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/katrina-horizontal-thumb-1789676912.jpg?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-17T20:30:39+00:00",
-   "title_ja": "中国の石油の価格が過去最高値に",
-   "one_line": "中国で石油の値段がこれまでで最も高くなっている理由について伝えられています。",
-   "what": "中国国内で売られている石油の価格が、これまでで一番高い値段に達したことが話題になっています。",
-   "background": "石油は、ガソリンやプラスチックなど、私たちの暮らしに欠かせないさまざまな製品の材料になります。世界中の国々で売り買いされるため、世界全体の景気や産油国の事情によって値段が大きく変わります。",
-   "impact": "石油の値段が高くなると、ものを運ぶためのトラックの燃料代や工場を動かすお金がかかるようになり、まわり回っていろいろな商品の値段が上がる原因になります。",
-   "genre": "経済",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "石油",
-     "meaning": "地下から採れる黒い液体で、ガソリンや灯油、さまざまな工業製品の材料になる大切なエネルギーです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "2da13c80bf62012e",
-   "url": "https://www.nytimes.com/2026/09/17/climate/the-racial-disparities-of-flood-buyouts.html",
-   "title_original": "The Racial Disparities of Flood Buyouts",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17cli-newsletter-retreat-bmpv/17cli-newsletter-retreat-bmpv-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-17T20:26:55+00:00",
-   "title_ja": "アメリカの洪水対策の買い取り制度の人種格差",
-   "one_line": "アメリカの災害対策プログラムで、人種によってお金の支払いに差があるという調査結果が出ました。",
-   "what": "アメリカで洪水などの災害から家を守るための制度について、新しい調査が行われました。その結果、白人の家と黒人の家で、国から支払われるお金の金額に違いがあることが分かりました。",
-   "background": "アメリカでは過去の歴史や社会の仕組みから、住む場所や財産に違いが生まれてしまう問題があります。国や自治体がお金を出して被災した土地の家を買い取る仕組みなどがあります。",
-   "impact": "今すぐ日本のルールが変わるわけではありませんが、災害対策や支援のお金が、公平に配られているかどうかを考えるための大切な情報になります。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "FEMA",
-     "meaning": "アメリカで大雨や地震などの災害が起きたときに、国として救助や復旧の支援をする仕事をする組織です。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e472f1d613c95f66",
-   "url": "https://www.nikkei.com/article/DGXZQOGN1601X0W6A910C2000000",
-   "title_original": "メキシコ、米国と関税引き下げへ合意模索 ｢共闘｣カナダと割れる戦略",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3609774016092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.57&fp-y=0.19&h=630&w=1200&s=d1ea3e22790b7db2d73f4a563e1c7cc8",
-   "region": "国内",
-   "published": "2026-09-17T20:00:20+00:00",
-   "title_ja": "メキシコがアメリカとの関税引き下げをめざす動き",
-   "one_line": "メキシコがアメリカとの間で関税を下げるための話し合いをめざしていると伝えられています。",
-   "what": "メキシコがアメリカとの間で、輸入品にかかる税金である関税を引き下げるための話し合いを求めています。一方で、同じ地域にあるカナダとは異なる戦略をとろうとしています。",
-   "background": "関税とは、外国からものを買うときに国にかける税金のことです。近くの国同士で貿易をしやすくするために、ルールを話し合って決めることがよくあります。",
-   "impact": "日本に直接すぐに大きな影響が出るわけではありませんが、世界中の国々がどのように貿易のルールを変えようとしているのかを知る手がかりになります。",
-   "genre": "国際",
-   "category": "貿易・関税",
-   "terms": [
-    {
-     "word": "関税",
-     "meaning": "外国から品物を買うときに、国が上乗せしてかける税金のことです。自国の産業を守るために使われます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c799581ca886479d",
-   "url": "https://www.france24.com/en/the-harms-have-come-to-outweigh-the-benefits-of-social-media-researcher-says",
-   "title_original": "'The harms have come to outweigh the benefits' of social media, researcher says",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/44df0360-b2cd-11f1-8181-1d1125ed9143/w:1024/p:16x9/EN-20260917-210451-211619-CS.jpg",
-   "region": "海外",
-   "published": "2026-09-17T19:29:04+00:00",
-   "title_ja": "ヨーロッパ連合が子どもたちのSNS利用に新しい制限を計画",
-   "one_line": "ヨーロッパ連合が、子どもたちが安全にインターネットを使えるように新しいルールを作ろうとしています。",
-   "what": "ヨーロッパの国々が集まるヨーロッパ連合が木曜日、子どもたちがソーシャルメディアやゲーム、人工知能を使うときの年齢制限や、安全な仕組みを作ることを企業に義務づける計画を発表しました。",
-   "background": "ヨーロッパ連合は、加盟している国々の間で法律やルールを話し合って決める大きな組織です。これまでインターネットのルールは、親が責任を持って子どもを守ることが中心でしたが、企業側に対策を求める声が高まっていました。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、将来的に世界中のインターネットの使い道や、企業の仕組みづくりに大きな影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "ソーシャルメディア",
-     "meaning": "インターネットを通じて、世界中の人たちとメッセージや写真、動画を送り合ってやり取りできるサービスのことです。"
-    },
-    {
-     "word": "人工知能",
-     "meaning": "人間のように考えたり判断したりするコンピュータの技術のことで、最近は会話や絵を描くことも得意になっています。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "0e06d429d6d5c5c2",
-   "url": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Russian birth tourism to Brazil increases",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/78545071_6.jpg",
-   "region": "海外",
-   "published": "2026-09-17T19:19:00+00:00",
-   "title_ja": "ブラジルへ子どもを産みに行くロシアの人が増えている",
-   "one_line": "ロシアからブラジルへ移動して子どもを産む人が増え、ブラジルの国籍を取得する動きが出ています。",
-   "what": "ロシアがウクライナに攻め込んだことや、別の国でのルールが厳しくなったことをきっかけに、ロシアの人たちがブラジルへ旅行して子どもを産み、その子どもにブラジルの国籍を取らせる動きが広がっています。",
-   "background": "国籍というものは、どの国で生まれたかや、両親がどの国の出身かによって決まる仕組みが国ごとに違います。ブラジルでは、その国で生まれた子どもには自動的にブラジルの国籍が与えられる法律があります。",
-   "impact": "今すぐ日本の私たちの生活やお金のやり取りが変わるわけではありませんが、世界情勢が変わる中で人々の移動のしかたや国のルールが影響を受けていることがわかります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "国籍",
-     "meaning": "自分がどの国に所属しているかを示す資格のことで、パスポートを持ったりその国で選挙に参加したりするときに関わります。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "880922d25c0503b9",
-   "url": "https://www.nikkei.com/article/DGXZQOUB157O70V10C26A9000000",
-   "title_original": "日経平均、26年末に8万円 大和証券の橋詰氏",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3601390015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.49&fp-y=0.28&h=630&w=1200&s=c1c9b041c305346dfec72af898641b14",
-   "region": "国内",
-   "published": "2026-09-17T19:00:00+00:00",
-   "title_ja": "大和証券の専門家が日経平均株価の将来を予測",
-   "one_line": "証券会社の専門家が、日本の株価が数年後に大きく上がるという予測を発表しました。",
-   "what": "大和証券の橋詰氏が、2026年の終わり頃には日本の代表的な株価の平均が8万円に達するという見通しを示しました。",
-   "background": "証券会社は、株を売り買いしたい人のお手伝いをしたり、これからの経済や株の値段がどうなるかを調べたり予測したりする会社です。株の値段は、会社の業績や世の中の景気によって日々上がり下がりします。",
-   "impact": "これはあくまで一つの予測であり、今すぐ私たちの給料や物価が変わるわけではありませんが、将来の日本経済がどうなると期待されているかを知る手がかりになります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "日経平均株価",
-     "meaning": "日本を代表するたくさんの会社の株の値段をまとめて平均し、今の日本の株全体の状態を表す数字にしたものです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "4f8f133de5d6f84e",
-   "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-   "title_original": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358009-1788376886015-gettyimages-2292651452-G20_INNOVATION_MINISTERIAL.jpeg?v=1788376911&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-17T16:37:28+00:00",
-   "title_ja": "企業のトップが人工知能のルール作りを求める",
-   "one_line": "アメリカのIT企業の社長が、人工知能を安全に使うための常識的なルールを作るべきだと訴えました。",
-   "what": "アメリカのIT企業パランティアの社長であるアレックス・カープ氏が、テレビの番組で、人工知能の技術について「常識的なガイドラインが必要だ」と語りました。",
-   "background": "人工知能は文章を作ったり絵を描いたりして人間の仕事を助ける便利な技術ですが、間違った情報を本当のことのように話したり、悪用されたりする心配もあります。そのため、社会を混乱させないためのルールが必要だという意見があります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、人工知能をどのように正しく使うかというルールが決まると、将来的に私たちの暮らしや仕事での使われ方が大きく変わる可能性があります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "人工知能",
-     "meaning": "人間の脳のように考えて学習し、言葉や絵を作ったり判断したりするコンピューターの技術のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1de8ee00092b0b45",
-   "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-   "title_original": "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363818-17895791972026-09-16t171402z_912914715_rc2hkna0kgel_rtrmadp_0_global-oil.jpeg?v=1789579261&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-17T16:14:48+00:00",
-   "title_ja": "アメリカで燃料の価格が過去最高になり経済に影響",
-   "one_line": "アメリカでディーゼル燃料の価格が高くなっており、運送をはじめとする経済全体への影響が心配されています。",
-   "what": "アメリカでトラックや鉄道などの動かすために使われるディーゼル燃料の価格が記録的な高さになり、運送業界が大きな打撃を受けています。燃料の価格が高いままだと、その影響はさらに広がると伝えられています。",
-   "background": "ディーゼル燃料は、物流の主役であるトラックや貨物列車を動かすために欠かせないエネルギーです。燃料の値段が上がると、荷物を運ぶための費用が高くなり、それがさまざまな商品の値段に影響することになります。",
-   "impact": "アメリカの出来事ですが、燃料の値段が高い状態が続くと、物を運ぶお金が高くなり、お店に並ぶさまざまな商品の値段が上がって、私たちの家計にも影響する可能性があります。",
-   "genre": "経済",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "ディーゼル燃料",
-     "meaning": "トラックやバス、大きな船などを動かすために使われる、石油から作られる燃料の一種です。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6f6108c94c26173f",
-   "url": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
-   "title_original": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aac03373237-1789657911.jpg?resize=1200%2C675",
-   "region": "海外",
-   "published": "2026-09-17T16:10:49+00:00",
-   "title_ja": "サウジアラビアとイエメンの武装勢力が衝突、5人死亡",
-   "one_line": "サウジアラビアとイエメンの反政府勢力が攻撃をやり合い、5人が死亡しました。",
-   "what": "サウジアラビアとイエメンのフーシ派と呼ばれるグループの間で攻撃のやり取りがあり、5人が亡くなりました。フーシ派のリーダーは、サウジアラビア側が主張している聖地への攻撃について「ひどいウソだ」と反論しています。",
-   "background": "イエメンでは長年、政府側と「フーシ派」と呼ばれるグループの間で激しい争いが続いています。また、サウジアラビアは隣国であるイエメンの争いに深く関わっており、これまでもフーシ派と対立してきました。中東地域では、国やグループの間で宗教や政治の考え方の違いから、長い間争いが絶えない状況が続いています。",
-   "impact": "日本にすぐに直接的な影響が出るわけではありませんが、中東での争いが激しくなると、日本が輸入している石油の値段や供給に影響する心配があります。世界の平和や安全に関わる大切なニュースです。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
    "importance": 3
   }
  ]
