@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T06:21:24.987071+09:00",
+ "updated_at": "2026-09-25T13:21:28.192928+09:00",
  "genres": [
   "政治",
   "経済",
@@ -638,10 +638,387 @@
   {
    "id": "269bedff23a3b07e",
    "until": "2026-09-29T21:21:24.987071+00:00"
+  },
+  {
+   "id": "7a69d9caa46d3b88",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "55c6f297860111ba",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "45451f6550cfb647",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "a86acf3a588626c0",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "d58938329e048c02",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "a9349b0f194917b7",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "5afbe683a670bd7b",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "555a66b30f9ae9d8",
+   "until": "2026-09-30T04:21:28.192928+00:00"
+  },
+  {
+   "id": "9d909c229e4c36e6",
+   "until": "2026-09-30T04:21:28.192928+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "cbc1342050b51560",
+   "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+   "title_original": "Stock futures are little changed as Dow heads for fourth straight losing week: Live updates",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108367509-1790263470090-Traders-OB-20260924-ACJ-PRESS-3.jpg?v=1790263551&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-25T04:15:28+00:00",
+   "title_ja": "アメリカの株の未来を示す先物がほぼ横ばいの動き",
+   "one_line": "アメリカの株式市場で、株の将来の価格を示す先物がほとんど動いていないと伝えられています。",
+   "what": "アメリカの株式市場で、株の将来の価格を示す先物がほとんど変わりない状態となりました。一方で、債券の利回りは上昇を続けています。",
+   "background": "株の先物とは、未来の特定の時期に株をいくらで買うか、あらかじめ約束して売買する仕組みのことです。また、債券とは国や企業にお金を貸したときに発行される証明書で、利回りはその投資に対する見返りの割合を指します。",
+   "impact": "アメリカの経済の動きや金利の変化は、日本の株や円の価値、私たちの買い物などに影響を与えることがありますが、今回は直ちに大きな変化が起きるものではありません。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "先物",
+     "meaning": "未来の特定の時期に売買することを、あらかじめ約束して取引する仕組みのことです。"
+    },
+    {
+     "word": "債券の利回り",
+     "meaning": "国や企業が発行する借用証書を買ったときにもらえる、利益の割合のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "aee297a265221372",
+   "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+   "title_original": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108355305-17878516282026-08-27t172438z_2070356008_rc257navmzp0_rtrmadp_0_usa-trump.jpeg?v=1787851687&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-25T04:14:11+00:00",
+   "title_ja": "SNSに投稿した写真がもとで企業の最高経営責任者が退任",
+   "one_line": "インターネットに投稿された写真がきっかけで、会社のトップが会社を離れることになりました。",
+   "what": "アメリカで、自身の家族の写真をインターネット上に投稿した最高経営責任者が、その会社にもはやいない状態になったと伝えられています。",
+   "background": "最高経営責任者とは、英語で「CEO」とも呼ばれ、会社全体の仕事の方向性を決めて実行する、いちばん上の責任者のことです。",
+   "impact": "個人のインターネット上の振る舞いが、会社の経営やトップの立場に影響を与えることがあるという事例ですが、私たちのくらしに直接すぐ影響するものではありません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "最高経営責任者",
+     "meaning": "会社全体の仕事の管理や方針の決定をおこなう、もっとも責任が重い役職のことです。"
+    }
+   ],
+   "importance": 1
+  },
+  {
+   "id": "e2835194fa18582c",
+   "url": "https://mainichi.jp/articles/20260925/k00/00m/030/113000c",
+   "title_original": "抗日戦で活躍 米中連携の象徴「フライング・タイガース」とは",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/25/20260925k0000m030111000p/0c10.jpg?1",
+   "region": "国内",
+   "published": "2026-09-25T04:01:39+00:00",
+   "title_ja": "アメリカと中国の歴史的なつながりを示す部隊の話題",
+   "one_line": "昔の戦争でアメリカと中国が協力した歴史的な存在について紹介されています。",
+   "what": "歴史的な出来事の中で、アメリカと中国がともに戦ったことの象徴とされる存在について報じられています。",
+   "background": "国同士が争った歴史において、時には共通の相手と戦うために別の国同士が手を結ぶことがありました。今回は過去の国際関係における協力の歴史にふれる内容です。",
+   "impact": "昔の外交や協力関係についての話題であり、今すぐ私たちの暮らしや日本の政治・経済が変わるものではありません。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 1
+  },
+  {
+   "id": "6ed9c22ca4e5225a",
+   "url": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html",
+   "title_original": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/25/multimedia/25int-uk-arday-investigation-zkfl/25int-uk-arday-investigation-zkfl-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-25T04:01:05+00:00",
+   "title_ja": "イギリスの大学が教授の採用をめぐる調査を取りやめ",
+   "one_line": "イギリスの大学が、議論を呼んでいた教授の採用についての詳しい調査をとりやめました。",
+   "what": "イギリスの大学が、ジェイソン・アーデイという教授をどのように採用したかについて、詳しく調べる計画をやめると決めました。この教授の採用をめぐっては、多様性を大切にする取り組みについて議論が起きていました。",
+   "background": "大学などの高い教育を行う場所では、さまざまな背景を持つ人たちを公平に受け入れようとする「多様性」の取り組みが長年続けられています。しかし、そのやり方が公平なのかどうかについては、人によって意見が分かれることも少なくありません。",
+   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるわけではありません。しかし、世界中の大学や社会で「公平な採用とは何か」を考える際の一つの出来事として注目されています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "多様性",
+     "meaning": "性別や国籍、人種などの違いに関わらず、すべての人がお互いを認め合って共に生きること。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8a9e8f5d50235b40",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52331",
+   "title_original": "参院自民 臨時国会10月5日召集方針伝える“会期69日間で調整”",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52331/20260925de52331_E0000035458_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-25T04:00:57+00:00",
+   "title_ja": "秋の臨時国会を10月5日に開く方向で調整",
+   "one_line": "政府と与党が、今年の秋の国会を10月5日からはじめる方向で野党に伝えました。",
+   "what": "国会をいつ開くかについて、与党の自由民主党が立憲民主党に対して、政府の方針を伝えました。来月の10月5日に国会を開き、話し合う期間は12月12日までの69日間とする方向で調整が進められています。",
+   "background": "国会は、日本を動かすための大切なルールやお金の使い方を決める場所です。年に何回か開かれ、国会議員たちが集まって話し合います。中でも「臨時国会」は、その時々に起きた問題を話し合うために開かれるものです。",
+   "impact": "これから国会でどのような法律や予算について話し合われるかによって、私たちの暮らしや税金の使い道が決まってきます。どのような議論が交わされるか、これからのニュースに注目しましょう。",
+   "genre": "政治",
+   "category": "国会・法律",
+   "terms": [
+    {
+     "word": "臨時国会",
+     "meaning": "通常の国会とは別に、特別な問題やその時々の課題を話し合うために臨時に開かれる国会のこと。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "273d7c05001582d4",
+   "url": "https://www.asahi.com/articles/ASV9T15JJV9TULFA00ZM.html",
+   "title_original": "中部電、浜岡原発の再稼働申請取り下げ 「申請の維持、適切でない」",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260925001886_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-25T04:00:21+00:00",
+   "title_ja": "中部電力、浜岡原子力発電所の再稼働の手続きを取り下げ",
+   "one_line": "中部電力が、浜岡原子力発電所の運転をふたたび始めるための手続きを取り下げました。",
+   "what": "中部電力が、静岡県にある浜岡原子力発電所をふたたび動かすために国に出していた申請を取り下げました。「今のままでは申請を続けることが適切ではない」と判断したためです。",
+   "background": "原子力発電所は、ウランという燃料を使って大きな電気を作る施設です。日本では、東日本大震災のあとに安全のための厳しいルールが作られ、発電所を動かすには国による厳しい検査と許可が必要になりました。",
+   "impact": "今すぐ家庭の電気が使えなくなったり、料金が変わったりすることはありませが、日本の電気をどうやって作っていくかという将来の計画やエネルギー政策に大きく関わるお話です。",
+   "genre": "経済",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "再稼働",
+     "meaning": "一度止めた発電所を、もう一度動かすこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "bda2cafedb91510f",
+   "url": "https://toyokeizai.net/articles/-/959142",
+   "title_original": "とどのつまりは\"身内ウケ\"？ 空席目立つ議場とトランプ｢日本の首相｣連呼が浮き彫りにする｢高市国連外交｣の微妙っぷり | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/7/d/1200w/img_7df2de554018aefba8a9a062c5332dc3369927.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-25T04:00:00+00:00",
+   "title_ja": "高市総理大臣の国連での演説をめぐり様々な評価",
+   "one_line": "高市総理大臣が初めて国連で行った演説について、様々な受け止め方がされています。",
+   "what": "高市早苗総理大臣にとって初めてとなる国連の大きな会議での演説が行われました。政府の中ではうまくできたという声がある一方で、インターネットや関係者の間では厳しい意見や評価の分かれる声も聞かれています。",
+   "background": "「国連総会」は、世界中から多くの国のリーダーが集まり、世界平和や地球の環境問題などについて話し合う、一年に一度のとても大切な国際的な会議です。各国のリーダーが自分の国の考えを世界に向けて発信する場でもあります。",
+   "impact": "日本という国が世界の国々とどのように関わり、どんなメッセージを発信していくかは、日本の安全や外交に深く関わります。今すぐ生活が変わるわけではありませんが、日本の国際的な立場に影響を与えます。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国連総会",
+     "meaning": "世界中のすべての加盟国が集まり、国際的な問題について話し合う国連の最も重要な会議。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "727e136195ee1859",
+   "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo",
+   "title_original": "Xi got Trump's red carpet welcome - but not everything he wanted",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg",
+   "region": "海外",
+   "published": "2026-09-25T03:57:09+00:00",
+   "title_ja": "中国のトップがアメリカを訪れて話し合い",
+   "one_line": "中国のトップがアメリカを訪れて歓迎されましたが、求めていた成果は十分には得られませんでした。",
+   "what": "中国のトップがアメリカを訪れ、盛大な歓迎を受けました。しかし、中国が求めていた貿易や技術、台湾に関する問題では、期待していたほどの進み具合にはなりませんでした。",
+   "background": "国同士が話し合うとき、それぞれの国には自分たちの国の利益を守りたいという願いがあります。特に大国同士は、お金のやり取りや先端技術、領土をめぐる問題で意見が対立することがよくあります。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界を大きく動かす二つの国の関係は、世界中の経済や貿易に影響を与えるため、今後の動きに注目が集まります。",
+   "genre": "国際",
+   "category": "中国・アジア",
+   "terms": [
+    {
+     "word": "貿易",
+     "meaning": "国と国の間で、商品やサービスを売り買いすることです。お互いの国に足りないものを補い合うために行われます。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "b8b85cc580c8836a",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+   "title_original": "Jewish protestors join Free Palestine march to denounce Netanyahu",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790308057.jpg?resize=1680%2C1080&quality=80",
+   "region": "海外",
+   "published": "2026-09-25T03:49:43+00:00",
+   "title_ja": "イスラエルの首相に反対するデモが行われる",
+   "one_line": "パレスチナを応援するデモの中にユダヤ教徒の姿もあり、イスラエルの首相への反対を訴えました。",
+   "what": "パレスチナを応援する行進の中で、ユダヤ教徒のデモ参加者たちがイスラエルの首相のやり方に強く反対する声をあげました。",
+   "background": "中東の地域では、土地や歴史的な理由から、長年にわたって激しい争いが続いています。同じ宗教や民族の中でも、政治のやり方や方針をめぐってさまざまな意見や対立があります。",
+   "impact": "遠い国の出来事ですが、中東での争いや対立は、世界の平和やエネルギーの価格などに影響することがあります。今すぐ日本での生活が変わるものではありません。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "8cccd7c9831869ca",
+   "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+   "title_original": "Young men flee Tigray amid fears of forced recruitment",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_4867-1790175275.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-25T03:45:06+00:00",
+   "title_ja": "ティグレ地域で若い男性たちが故郷を離れる",
+   "one_line": "過去の戦争のあとも緊張が続く地域で、若い男性たちが無理やり戦いに集められることを恐れて逃げています。",
+   "what": "過去に大きな戦争があったティグレという地域で、解決していない緊張が再び高まっています。そのため、若い男性たちが無理やり戦いに連れていかれることを恐れて、故郷から逃げ出しています。",
+   "background": "国や地域の中で、民族や政治的な対立から内戦が起きることがあります。一度戦争が終わっても、完全にお互いのわだかまりが消えないと、再び争いが始まる不安が残り続けます。",
+   "impact": "今すぐ私たちの暮らしに直接的な影響はありませんが、世界各地で起きる紛争や人々の避難は、国際社会全体で平和を守るための大切な課題となります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "cd1a4cfbc6ddc911",
+   "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+   "title_original": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/329c41740d9ff323fbde3b87c6cf9324354da8b8/186_0_4366_3493/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=e45121948285528a1d6cceb649df2797",
+   "region": "海外",
+   "published": "2026-09-25T03:33:48+00:00",
+   "title_ja": "ブラジルの大統領選めぐりアメリカの関与を批判",
+   "one_line": "ブラジルの大統領選挙を前に、アメリカが選挙に干渉しているという批判が出ました。",
+   "what": "ブラジルの大統領選挙に向けたテレビの選挙広告の中で、アメリカの指導者がブラジルの自然の資源を手に入れようとして選挙に口出しをしていると批判しました。アメリカが選挙の結果に影響を与えようとしているという心配が背景にあります。",
+   "background": "国と国の関係では、ほかの国の大統領選挙や政治の動きに対して、自分たちの都合のよいように影響を与えようとすることが問題になることがあります。それぞれの国は自分たちの力や資源を守ろうとするため、時に対立が生まれます。",
+   "impact": "今すぐ私たちの暮らしに直接影響するわけではありませんが、国と国の関係や世界全体の政治の動きに影響をあたえることがあります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "e2aae487ec74f1a4",
+   "url": "https://www.jiji.com/jc/article?k=2026092500477&g=pol&m=rss",
+   "title_original": "片山財務相「米大統領が円安懸念」 高市首相は円の過小評価問題視",
+   "source": "時事通信",
+   "image": "https://www.jiji.com/news2/kiji_photos/202609/20260925ds57_o.jpg",
+   "region": "国内",
+   "published": "2026-09-25T03:33:00+00:00",
+   "title_ja": "アメリカの大統領が円安を心配していると財務大臣が明かす",
+   "one_line": "アメリカの大統領が、日本の通貨である円の価値が下がっていることを心配していると伝えられました。",
+   "what": "日本の片山財務大臣が、アメリカの大統領が円安について心配しているという考えを示したことを明らかにしました。また、日本の首相も円の価値が低くなりすぎている問題について注目していると伝えられています。",
+   "background": "「円安」とは、外国のお金にくらべて日本の円の価値が低くなることです。円安になると、海外から輸入する食べ物やエネルギーの値段が高くなり、私たちの買い物のときの代金に影響することがあります。そのため、政府や財務大臣が通貨の価値について話し合うことがあります。",
+   "impact": "円の価値や外国との関係のニュースは、私たちが買う品物の値段や、日本の会社の業績に影響することがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "円安",
+     "meaning": "外国のお金にくらべて、日本のお金である円の価値が下がること。"
+    },
+    {
+     "word": "財務相",
+     "meaning": "国の予算や税金、お金のやりとりなどを担当する大臣のこと。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ef13c6731893b671",
+   "url": "https://toyokeizai.net/articles/-/959123",
+   "title_original": "高市首相｢NY外交｣は本当に成功だったのか？ ｢旧敵国条項｣で中国を刺激し｢無人の空港｣で手を振る｢国内向け外交｣の限界 | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/8/5/1200w/img_850650f36bc2eae527b2fa7988f1f90e518225.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-25T03:30:00+00:00",
+   "title_ja": "高市首相の国連演説と外交の評価について",
+   "one_line": "高市首相が国連で古い条項の削除を訴えた演説など、その外交の是非について振り返ります。",
+   "what": "高市早苗首相が国連総会の場において、国連憲章にある「旧敵国条項」の削除を求めるなど、踏み込んだ内容の演説を行いました。その発言が国内外にどのような波紋を広げ、どのように評価されているのかが注目されています。",
+   "background": "国連総会は、世界中から多くの国や地域の代表が集まり、それぞれの意見を世界に向けて発表する大切な場です。また外交においては、他国との関係を保ちながら自国の主張を伝えることが重視され、そのやり方や言葉選びには慎重さが求められます。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるわけではありませんが、日本が世界からどう見られるかや、外国との仲の良し悪しに影響する大切な動きです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国連総会",
+     "meaning": "世界中のすべての加盟国が集まり、大切な問題について話し合ったり、意見を述べたりする会議のこと。"
+    },
+    {
+     "word": "旧敵国条項",
+     "meaning": "第二次世界大戦で連合国側の敵だった国に対し、当時のルールに基づき特別な措置が取れるとする、現在の国連憲章に残る古い条項。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "205f2774c8827d85",
+   "url": "https://news.yahoo.co.jp/pickup/6596469?source=rss",
+   "title_original": "蘭首相 ICCへの米「攻撃」を批判",
+   "source": "Yahoo!ニュース 国際",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/25/407eb2ba00c49f072799f3bc70345aa0f9a8d48b6423d699e4bc05691bae27db.jpg",
+   "region": "国内",
+   "published": "2026-09-25T03:22:08+00:00",
+   "title_ja": "オランダの首相がアメリカのICC対応を批判",
+   "one_line": "オランダの首相が、国際刑事裁判所に対するアメリカの攻撃的な姿勢を批判しました。",
+   "what": "オランダの首相が、国際刑事裁判所（ICC）に対するアメリカの攻撃的な姿勢に対して批判の声を上げました。国際的な司法機関の役割や、国同士の関係をめぐる議論となっています。",
+   "background": "国際刑事裁判所は、世界で起きた重い罪や争いに関する裁きを行うための独立した裁判所です。国同士の意見の違いから、こうした裁判所の判断や関わり方をめぐって国によって考え方が分かれることがあります。",
+   "impact": "今すぐ私たちの暮らしやお金に直接変化が出るものではありませんが、国際的なルールや国同士の協力関係に影響を与える出来事です。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "国際刑事裁判所",
+     "meaning": "戦争犯罪やジェノサイドなどの重い罪を犯した個人を裁くために作られた、世界的な裁判所の仕組みのこと。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b86edcb45d606227",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52326",
+   "title_original": "株価 値上がり 金利上昇で銀行銘柄など上昇",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52326/20260925de52326_E0000035442_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-25T03:14:19+00:00",
+   "title_ja": "長期金利の上昇を受け東京の株価が値上がり",
+   "one_line": "金利が上がったことを受けて銀行の株が買われ、25日の東京の株価は値上がりしました。",
+   "what": "25日の東京の株式市場で、長期金利の上昇という動きをきっかけにして、銀行の株に買い注文が集まりました。その結果、市場全体の株価が値上がりする動きとなりました。",
+   "background": "株式市場では、企業の業績や金利の変化など、経済に関する様々なニュースをきっかけにして株の値段が日々上がったり下がったりします。金利が上がると、お金を貸し出して利益を得る銀行などの仕事に好影響があると見なされやすくなります。",
+   "impact": "株価の変動や金利の動きは、銀行の預金金利や住宅ローンの仕組み、さらには人々の投資や企業の活動を通じて、私たちの暮らしや家計に少しずつ影響を与えます。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "長期金利",
+     "meaning": "国債の金利をもとに決まる、長期間のお金を貸し借りするときの基準となる金利のこと。"
+    },
+    {
+     "word": "銀行銘柄",
+     "meaning": "株式市場で取引されている、銀行の仕事を営む会社の株のこと。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "b112321b6981721e",
    "url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
@@ -7304,349 +7681,6 @@
     }
    ],
    "importance": 4
-  },
-  {
-   "id": "fbea76a25d727a89",
-   "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
-   "title_original": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/f9a7967fb988adda878fb805da809b762da3ae74/467_0_4665_3732/master/4665.jpg?width=140&quality=85&auto=format&fit=max&s=aa721b7f9b46aa2a494ff6e330b1467c",
-   "region": "海外",
-   "published": "2026-09-20T10:00:13+00:00",
-   "title_ja": "人工知能のルール作りと政治の動き",
-   "one_line": "アメリカの人工知能をめぐる政策の中で、大統領の家族や関係する企業が大きな契約やお金を得ています。",
-   "what": "アメリカのホワイトハウスが人工知能を広げるためのルール作りを支える中、大統領の家族や古い友人たちが、軍から大きなお金や契約を得ていることが伝えられています。また、大統領は人工知能の業界を応援する姿勢を示しています。",
-   "background": "アメリカでは、新しい技術や大きなビジネスを進める企業と、それを決める政治とのつながりがたびたび話題になります。国の安全保障に関わる重要な契約をどのような企業にまかせるかは、大きな問題として扱われます。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、最先端の技術をめぐる政治の動きや、大きな企業と国のかかわり方がどのように進んでいくのか、今後のルール作りに影響する可能性があります。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "人工知能",
-     "meaning": "人間のように考えたり学んだりするコンピューターの仕組みのことで、さまざまな分野で技術の活用が進んでいます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bacbc50f0d1e91e4",
-   "url": "https://news.yahoo.co.jp/pickup/6595937?source=rss",
-   "title_original": "北再びミサイル発射 EEZ外落下か",
-   "source": "Yahoo!ニュース 国際",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/8738bcfcade91cfd0cb8733916ae2da9d4908e70a57c3b78822e546b815f20bf.jpg",
-   "region": "国内",
-   "published": "2026-09-20T09:44:29+00:00",
-   "title_ja": "北朝鮮がミサイルを発射し海の領域の外側に落下",
-   "one_line": "北朝鮮がミサイルを発射し、日本の経済水域の外側に落ちたとみられています。",
-   "what": "北朝鮮からミサイルが発射されました。このミサイルは、日本が経済的な権利を持つ海の領域である「排他的経済水域」の外側に落ちたとみられています。",
-   "background": "北朝鮮はこれまでにも、国際的なルールや国連の決議に反してミサイルを発射してきました。日本やまわりの国々は、安全を守るために警戒を続けています。",
-   "impact": "今すぐ私たちのくらしに大きな変化はありませんが、地域の安全や平和に関わる重大な問題であるため、政府が情報収集や警戒を続けています。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "排他的経済水域",
-     "meaning": "海岸から200海里までの海域で、国が魚をとったり資源を探したりする優先的な権利を持つ場所のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c4337a7759e0caa2",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260920de51372",
-   "title_original": "自民 林前総務相“一議員として 中長期的な政策課題など議論”",
-   "source": "NHKニュース 政治",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51372/20260920de51372_E0000033785_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-20T09:33:29+00:00",
-   "title_ja": "自民党の林前総務大臣がこれからの活動について語る",
-   "one_line": "大臣を離れた林前総務大臣が、これからは一人の国会議員として政策の議論に参加していく考えを示しました。",
-   "what": "自民党の林前総務大臣が、今回の内閣改造で大臣の仕事を離れたことを受け、今後は一人の国会議員として、これからの長い目で見た政策の課題についての話し合いに積極的に加わっていく考えを表しました。",
-   "background": "日本の政治では、内閣のメンバーである大臣が入れ替わることがよくあります。大臣を離れた国会議員は「閣外」と呼ばれ、特定の行政の仕事から離れることになりますが、国会議員としての仕事や党での活動は続けます。",
-   "impact": "今すぐ私たちの暮らしやお金の仕組みが大きく変わるわけではありません。国会議員がどのような政策について話し合いを進めていくのか、これからの動きに注目が集まります。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "内閣改造",
-     "meaning": "総理大臣が新しく大臣を選び直して、内閣のメンバーを入れ替えることです。"
-    },
-    {
-     "word": "閣外",
-     "meaning": "大臣の仕事をしていない状態のことで、大臣以外の国会議員として活動する立場をいいます。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "8160bda691347e2a",
-   "url": "https://www.nikkei.com/article/DGXZQOUB0265U0S6A900C2000000",
-   "title_original": "親子上場に狭まる包囲網 上場子会社139社、ピークの3分の1",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3610597017092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=05db59f2658506701f6ab1f13a512bf1",
-   "region": "国内",
-   "published": "2026-09-20T09:13:14+00:00",
-   "title_ja": "親会社と子会社が両方株を売買する「親子上場」が減る",
-   "one_line": "親会社と子会社がどちらも株を売る親子上場が減っており、現在はピーク時の3分の1ほどの139社になっています。",
-   "what": "親会社と子会社がそれぞれ株を公開して売買する「親子上場」という仕組みの会社が、ピーク時と比べて減り、現在は139社になっているという話題です。",
-   "background": "会社は、別の会社の株を多く持って自分のグループにすることがあります。その中で、親会社も子会社もどちらも証券取引所に上場して株を売買している状態を「親子上場」と呼びます。会社のかかわり方が複雑になるため、見直す動きが進んでいます。",
-   "impact": "今すぐ直接的な変化はありませんが、会社の仕組みが変わることで、株式市場の動きや企業同士の結びつき方に影響を与えることがあります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "親子上場",
-     "meaning": "大きな会社である親会社と、その傘下にある子会社の双方が、同じように株を公開して売買している状態のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "48288e1c201dafd8",
-   "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
-   "title_original": "House prices survived the last interest-rate rise. Will they this time?",
-   "source": "The Economist",
-   "image": "",
-   "region": "海外",
-   "published": "2026-09-20T09:05:41+00:00",
-   "title_ja": "金利が上がったときの住宅価格への影響",
-   "one_line": "過去に金利が上がったときは住宅市場が支えられましたが、今回は同じように持ちこたえられるかが注目されています。",
-   "what": "金利が上がったときに住宅の価格や市場がどうなるかについて、過去の金利上昇のときには市場を支える仕組みがあったものの、今回はその支えがなくなっているという状況について伝えています。",
-   "background": "家を買うときには銀行にお金を借りることが多く、そのときにかかる利息の割合である金利が上がると、返済の負担が大きくなります。過去にはさまざまな支えがあって住宅市場が守られましたが、その状況が変わってきています。",
-   "impact": "私たちの生活では、住宅ローンを組んで家を買うときの利息の負担や、家を建てたり買ったりする価格に影響することがあり、今後の経済の動きをみる大切なポイントになります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "金利",
-     "meaning": "銀行にお金を預けたり借りたりするときにやり取りする、手数料のような割合のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "0557ea1588f7c98f",
-   "url": "https://www.nikkei.com/article/DGXZQOUA036VV0T00C26A9000000",
-   "title_original": "築古物件リノベーションに優遇融資 賃貸流通促す新制度、国交省",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3550510004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=cadc533aaec8411898bf6fa8bfab1dfd",
-   "region": "国内",
-   "published": "2026-09-20T08:01:47+00:00",
-   "title_ja": "古い賃貸を直して貸すための新しいお金の貸し出しルール",
-   "one_line": "国交省が古い賃貸住宅を直して使いやすくする計画に対して、お金を借りやすくする新しい仕組みを作ります。",
-   "what": "国土交通省が、古いアパートやマンションを新しく作り替えるための特別な貸し出しルールを作ります。",
-   "background": "日本では、古い建物が増える一方で、そのままでは使われずに空き家になってしまうことが問題になっています。こうした古い建物をきれいに直して、また貸せるようにする取り組みには、多くのお金と時間がかかるという課題がありました。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、古い家が直されて借りやすくなれば、住む場所の選択肢が増えることにつながります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "リノベーション",
-     "meaning": "古い建物を直して、新しく使いやすくしたり、価値を高めたりすることです。"
-    },
-    {
-     "word": "国土交通省",
-     "meaning": "道路や鉄道、住宅、川など、国の中の基本的な仕組みや暮らしを支える仕事を担当する役所です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5b0a4ef9eb9b50e6",
-   "url": "https://www.cnbc.com/2026/09/20/ed-sheeran-calls-israels-treatment-of-gazans-unjustifiable.html",
-   "title_original": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/107273140-1689701455881-gettyimages-1486458337-egs04350_eeoemyj5.jpeg?v=1733369802&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-20T07:52:16+00:00",
-   "title_ja": "歌手のエド・シーランさんがパレスチナ問題めぐり発言",
-   "one_line": "イギリスの歌手エド・シーランさんが、コンサートの冒頭で中東の紛争や過去の事件について発言しました。",
-   "what": "イギリスの歌手であるエド・シーランさんが、コンサートの中で、イスラエルによるガザ地区への対応について考えを述べました。",
-   "background": "中東では、イスラエルとパレスチナの間で長年、激しい争いが続いています。2023年10月には、イスラエルが攻撃を受けて多くの人が亡くなる事件が起き、その後も戦闘や話し合いをめぐって世界中で様々な意見や議論が交わされています。",
-   "impact": "今すぐ私たちの暮らしやお金の動きに直接の影響はありませんが、世界的に有名な音楽家が社会的な問題について発言したことで、多くの人に問題への関心が広がることがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "63966f414282426d",
-   "url": "https://www.sankei.com/article/20260920-HN3RTI4KZBBHPPRNBLZ3KPNZOQ",
-   "title_original": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/L6WWLA27RRL6PIH23RTP2FYGLM.jpg?auth=9d44923d0451c04af600f20fdccb09519f1f9b050ea28449751c938818e7fdb6&quality=50&focal=906%2C521&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-20T07:30:00+00:00",
-   "title_ja": "人工知能とデザイナーの仕事についての大学学長の考え",
-   "one_line": "急速に進化する人工知能がデザインの仕事にどう影響するかについて、大学の学長が自身の考えを語りました。",
-   "what": "デジタルハリウッド大学の杉山知之学長が、急速に普及している人工知能がデザイナーの仕事を奪うのではないかという話題について答えました。",
-   "background": "近年、人間の代わりに文章や絵、デザインなどを自動で作ってくれる「生成人工知能」が急速に発達しています。これにより、人間の仕事が人工知能に置き換わるのではないかという不安や議論が様々な場所で起きています。",
-   "impact": "今すぐ身の回りの仕事がすべて変わるわけではありませんが、将来的に私たちが働くときの仕事のやり方や、学校で学ぶ内容に大きな影響を与える可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "生成AI",
-     "meaning": "人間のように文章や画像、音楽などを自動的に作り出すことができる人工知能のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "71fe0b5a5a821f06",
-   "url": "https://www.sankei.com/article/20260920-56W47VMG4RAUFGSHMU27EXDP5M",
-   "title_original": "生成AIの影響を受けやすい職業、受けにくい職業は？ 通訳、記者、ウェブデザイナー…",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/JO4SI6BKUNKMLPJ5RBTZ2C4LBA.jpg?auth=b2e511226ff0746f08c2048eb57c1d8a837f7e493c7e9b35fbb85511cb1ee368&quality=50&focal=920%2C820&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-20T06:30:00+00:00",
-   "title_ja": "人工知能の影響を受けやすい仕事と受けにくい仕事の特徴",
-   "one_line": "人間の仕事を手伝ったり代わったりできる最先端の人工知能が、さまざまな職業にどんな影響を与えるかが注目されています。",
-   "what": "文章を書いたり外国語を訳したりする最先端の人工知能技術が、これからの仕事にどのような影響を及ぼすのかについて、いくつかの職業を例に挙げて話し合われています。",
-   "background": "人工知能は、大量のデータをもとに文章を作ったり絵を描いたりするのが得意です。そのため、パソコンを使って情報を整理したり言葉をあつかったりする仕事の一部は、人工知能に置き換わるのではないかと言われています。",
-   "impact": "今すぐ仕事がなくなるわけではありませんが、これからは人工知能が得意なことを知り、それに負けない新しい自分の得意分野を見つけることが大切になってきます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "生成AI",
-     "meaning": "人間の指示に合わせて、新しく文章や画像、音楽などを自動的に作り出すことができるコンピュータの技術です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "938ea6d274e23f30",
-   "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
-   "title_original": "損保ジャパン 望まない転勤廃止へ",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/2a51d43a7b48a45acfc398c24f57281036ad65991ec20c704577eebe5707b0bd.jpg",
-   "region": "国内",
-   "published": "2026-09-20T06:02:14+00:00",
-   "title_ja": "損保ジャパンが本人の望まない遠くへの引っ越しを伴う転勤を廃止へ",
-   "one_line": "損害保険会社の損保ジャパンが、社員が望まない引っ越しをともなう転勤をなくす方針を決めました。",
-   "what": "損害保険会社の損保ジャパンが、社員の希望を確認せずに会社側の都合だけで遠くへ引っ越す転勤をなくすこととしました。",
-   "background": "日本では、企業が正社員に対して、会社の都合で全国各地の支店へ引っ越しを伴う異動を命じる「転勤」という仕組みが広く使われてきました。しかし、子育てや介護など、社員それぞれの家庭の事情に配慮する動きが近年広がっています。",
-   "impact": "今すぐ他の会社全体が変わるわけではありませんが、働く人が自分の生活に合わせて働き方を選びやすい社会への変化の一つとして注目されます。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "転勤",
-     "meaning": "会社員の都合や会社の命令によって、今までと違う場所にある支店や会社で働くようになることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "23dacb3b4aa34d36",
-   "url": "https://www.theguardian.com/australia-news/2026/sep/20/intergenerational-report-australian-life-expectancy-forecast-to-rise",
-   "title_original": "More Australians to live into their 90s as life expectancy forecast to rise over coming decades",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/48f48cf0d1889545fb5b64bb14dc81ae82f06eb6/739_0_3679_2945/master/3679.jpg?width=140&quality=85&auto=format&fit=max&s=9478c6aa2225d83355dc72912cdc57fa",
-   "region": "海外",
-   "published": "2026-09-20T04:11:57+00:00",
-   "title_ja": "オーストラリアで平均寿命が延びる見通し",
-   "one_line": "オーストラリアの財務省の報告書で、将来的に平均寿命が延びると予測されています。",
-   "what": "オーストラリアの財務省がまとめた長年の未来を予測する報告書で、女性は89歳、男性は86歳まで平均寿命が延びるという見通しが示されました。",
-   "background": "財務省は、国の予算や税金の使い道を考えるために、人口の増え方や長生きする人の割合の変化を何十年も先まで予測する報告書を作ることがあります。",
-   "impact": "今すぐ私たちの生活が変わるわけではありませんが、世界の国々で長生きする人が増える傾向が示されています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "平均寿命",
-     "meaning": "その年に生まれた赤ちゃんが、何年生きられるかを平均したものです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a1bec2351ce399af",
-   "url": "https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb",
-   "title_original": "Australia news live: Plibersek says ‘we owe these women more than our sorrow’ after NSW deaths; Chalmers flags ‘confronting’ 40-year outlook",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/1cb3254c211d7229e905a13291d850d087f2c193/222_0_5370_4296/master/5370.jpg?width=140&quality=85&auto=format&fit=max&s=4676bc92bd5a446a34a21652f4e1a507",
-   "region": "海外",
-   "published": "2026-09-20T04:08:55+00:00",
-   "title_ja": "オーストラリアの首相がEU加盟について言及",
-   "one_line": "オーストラリアの首相が記者からEUへの加盟について質問を受け答えました。",
-   "what": "オーストラリアの首相が、カナダが検討されているような形でEUに加わる予定があるか尋ねられ、地域的な違いなどを理由に答えました。",
-   "background": "EUはヨーロッパの国々が集まってルールを共通にする組織ですが、ヨーロッパ以外の国との協力の形については様々な議論があります。",
-   "impact": "今すぐ私たちの生活が変わるものではありませんが、国と国の結びつきや協力のあり方を考えるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "EU",
-     "meaning": "ヨーロッパの国々が集まって、貿易や政治のルールを一緒に決める大きな組織です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d7c163bd38c98cb0",
-   "url": "https://news.yahoo.co.jp/pickup/6595893?source=rss",
-   "title_original": "沖縄知事選受け 自衛隊南西シフト",
-   "source": "Yahoo!ニュース 国内",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/369f39d23ae72548f04420f5f403b965c9ad77fc7bbc0f4e0ee18d75bd8b04cd.jpg",
-   "region": "国内",
-   "published": "2026-09-20T04:02:49+00:00",
-   "title_ja": "沖縄知事選挙の結果を受けた自衛隊の南西シフト",
-   "one_line": "沖縄の選挙結果を受けて、日本が南西地域の防衛を強める動きが進んでいます。",
-   "what": "沖縄の知事選挙がおこなわれたことを受け、日本の西の端や南の島々を守る自衛隊の体制を強化する「南西シフト」が進められています。",
-   "background": "日本は四方を海に囲まれており、特に九州から台湾の近くまでの南西諸島には多くの島が並んでいます。この地域は海や空の通り道として重要な場所であり、国を守るための備えを厚くすることが話し合われてきました。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、日本がどのようにお国を守るかという安全保障の方針に関わる大切な動きです。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "3a33b5d26aa176b1",
-   "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-   "title_original": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/14/multimedia/00int-myanmar-ambo-profile-01-glwq/00int-myanmar-ambo-profile-01-glwq-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-20T04:01:07+00:00",
-   "title_ja": "国連のミャンマー代表がニューヨークの地位に居座り",
-   "one_line": "ミャンマーの国連代表が、5年以上もニューヨークの地位を手放さずにいます。",
-   "what": "ミャンマーから派遣された外交官のキョー・モー・トゥン氏が、5年以上もニューヨークにある国連での地位や建物から離れることを拒んでいます。",
-   "background": "国連は、世界中の国々が集まって世界の平和や話し合いをするための場所です。加盟している国はそれぞれ代表を送り出し、意見を述べたり外交を行ったりします。国の中での政権の変わり方と、国連での代表権をめぐって問題が起きることがあります。",
-   "impact": "今すぐ日本の私たちのくらしや仕事に直接の影響はありませんが、世界全体の政治の仕組みや外交のルールに関わるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が集まって、平和や安全を守るために話し合いをする大きな国際機関のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "1a80e1f1ead80e14",
-   "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
-   "title_original": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20int-Germany-WTK-hlfc/20int-Germany-WTK-hlfc-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-20T04:01:06+00:00",
-   "title_ja": "ドイツ東部で選挙、勢いづく右派政党への注目",
-   "one_line": "ドイツ東部の選挙で、勢力を伸ばす右派政党の動向が注目されています。",
-   "what": "ドイツ東部でおこなわれる選挙により、勢力を強めている「ドイツのための選択肢」という右派政党への支持が広がるか、あるいはそれを押し戻す動きが起きるかが注目されています。",
-   "background": "ドイツにはたくさんの政党があり、それぞれが国のあり方について異なる考えを持っています。ヨーロッパでは近年、これまでの政治とは違う考え方をする新しい政党や、自国の利益を強く主張する政党が支持を集めることが増えています。",
-   "impact": "日本の日常のくらしに直接変わるものではありませんが、ヨーロッパの国々がこれからどのような政治を選ぶのか、世界の政治の大きな流れに影響を与えます。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "右派政党",
-     "meaning": "伝統や国としてのまとまり、これまでの国のあり方を大切にする政治の考え方を持った政党のことです。"
-    }
-   ],
-   "importance": 3
   }
  ]
 }
