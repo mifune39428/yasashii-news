@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T20:32:38.138040+09:00",
+ "updated_at": "2026-09-26T01:56:18.469147+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,46 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "623c11528626b084",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "c5ca86b4007491bd",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "4eee3fd730449425",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "468c0e52a3783f1f",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "a6ab60eaf6e98d09",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "20b4e0bf4fd0cc02",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "bc6bf7c017f82f94",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "7036845bb2fb433a",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "41219fd96c379ece",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
-  {
-   "id": "45e01874210c1178",
-   "until": "2026-09-25T15:47:27.774042+00:00"
-  },
   {
    "id": "63e5e1bb9296039d",
    "until": "2026-09-25T20:34:59.036785+00:00"
@@ -650,10 +610,435 @@
   {
    "id": "c4d8b555b3904eca",
    "until": "2026-09-30T11:32:38.138040+00:00"
+  },
+  {
+   "id": "65a3a47e37c06c78",
+   "until": "2026-09-30T16:56:18.469147+00:00"
+  },
+  {
+   "id": "016123006d0b49bf",
+   "until": "2026-09-30T16:56:18.469147+00:00"
+  },
+  {
+   "id": "a25c3a9948a9237e",
+   "until": "2026-09-30T16:56:18.469147+00:00"
+  },
+  {
+   "id": "e3fc0324436ce931",
+   "until": "2026-09-30T16:56:18.469147+00:00"
+  },
+  {
+   "id": "f7744cb87542866e",
+   "until": "2026-09-30T16:56:18.469147+00:00"
+  },
+  {
+   "id": "cb77f479b423aecd",
+   "until": "2026-09-30T16:56:18.469147+00:00"
+  },
+  {
+   "id": "6f683541ffda8e43",
+   "until": "2026-09-30T16:56:18.469147+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "f6761d9dc56ef30a",
+   "url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+   "title_original": "US Supreme Court allows Trump to use controversial voter 'verification' system",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/477530d0-b8fa-11f1-8e25-c959b9d22ec6/w:1024/p:16x9/AP26254125465273.jpg",
+   "region": "海外",
+   "published": "2026-09-25T16:52:32+00:00",
+   "title_ja": "アメリカ最高裁判所、新しい有権者確認システムの利用を許可",
+   "one_line": "アメリカの最高裁判所が、選挙での有権者の国籍を調べる新しい仕組みを使うことを認めました。",
+   "what": "アメリカの最高裁判所は金曜日、選挙の時に投票する人が本当に国籍を持っているかを調べる、新しい仕組みを使うことを認めました。反対する人たちは、選挙で外国籍の人が投票することはとても少ないのに、仕組みを使うことで投票しにくくなる人が出ると心配しています。",
+   "background": "アメリカでは、市民権を持っている人が選挙で投票できます。誰が投票できるかを確認する方法はこれまでもありましたが、政府が新しい仕組みを取り入れようとしたところ、本当に必要なのかどうかをめぐって議論になっていました。最高裁判所は、国全体の裁判所で一番えらい場所で、法律や憲法に合っているかを最後に決めます。",
+   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるわけではありませんが、これからのアメリカの選挙のやり方や、誰が投票できるようになるのかに大きな影響をあたえる可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "最高裁判所",
+     "meaning": "国のなかで一番えらい裁判所で、法律や決まりが憲法に合っているかどうかを最後に判断する場所です。"
+    },
+    {
+     "word": "有権者",
+     "meaning": "選挙で投票する権利を持っている人のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "7d0261ffa23c323e",
+   "url": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html",
+   "title_original": "You Get an Eagle, and You Get an Eagle: Xi Gets Trump’s Go-To Gift",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/24/multimedia/25xp-eagle-top/25xp-eagle-top-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-25T16:40:11+00:00",
+   "title_ja": "アメリカ大統領が外交の場でワシントンの像を贈る",
+   "one_line": "アメリカの大統領が、外国のリーダーと会うときにワシントンの像をプレゼントすることがよくあります。",
+   "what": "アメリカの大統領は、外国のリーダーと会うときの贈り物として、国の鳥であるワシントンの像を選ぶことがよくあります。この贈り物は、過去の大統領も使ってきた伝統的なものです。",
+   "background": "国と国の外交では、友好な関係を深めるためにプレゼントを贈り合うことがよくあります。その国の歴史や文化を感じられるものや、特別な意味を持った品物が選ばれることが多く、どのような品物を選ぶかはニュースになることもあります。",
+   "impact": "今すぐ私たちの暮らしが変わるような出来事ではありませんが、国と国のあいだでどのようなやり取りが行われているのかを知る手がかりになります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 1
+  },
+  {
+   "id": "ae108346f453f614",
+   "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
+   "title_original": "Healey appoints Labour manifesto writer, adding to election speculation",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/6b683b2fc67e992b40238fe7b14f8c21cac5bd12/463_92_1968_1575/master/1968.jpg?width=140&quality=85&auto=format&fit=max&s=c07fd9190891ad8f2894c67fa3218186",
+   "region": "海外",
+   "published": "2026-09-25T16:34:13+00:00",
+   "title_ja": "イギリス財務大臣、選挙公約を書いた専門家を顧問に迎える",
+   "one_line": "イギリスの財務大臣が、次の選挙に向けた政策を作った専門家を重要なアドバイザーに選びました。",
+   "what": "イギリスの財務大臣を支えるチームに、かつて選挙の公約を書いた経済の専門家が新しいアドバイザーとして加わりました。この人事によって、イギリスで予定より早く選挙が行われるのではないかといううわさが広がっています。財務大臣は、秋に予定されている大事な予算の発表に向けて、チームを強くしたいと考えています。",
+   "background": "イギリスでは、国のお金の使い方や税金をどうするかを決める「予算」がとても大切です。また、国会での政治の状況や経済の調子によっては、予定されている時期よりも早く選挙が行われることがあります。大臣は、自分を支える優秀な専門家を集めて政策を進めようとします。",
+   "impact": "今すぐ日本の私たちの生活が変わるわけではありませんが、イギリスの政治の動きや経済の状況によって、世界全体の景気や物の値段に影響することがあります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "財務大臣",
+     "meaning": "国のお金や税金、予算の管理を担当する、政府の中でとても大切な仕事をする人のことです。"
+    },
+    {
+     "word": "マニフェスト",
+     "meaning": "選挙のときに、政党や候補者が「もし政権を取ったらこういうことをします」と国民に約束する計画のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ea5c3b21facb313c",
+   "url": "https://www.france24.com/en/video/20260925-pope-leon-xiv-greets-crowds-on-popemobile-ride-through-paris",
+   "title_original": "Pope Leon XIV greets crowds on 'popemobile' ride through Paris",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/7bf5509a-b8fc-11f1-84e5-852b23529bb9/w:1024/p:16x9/Thumb-popemobile-V2.png",
+   "region": "海外",
+   "published": "2026-09-25T16:23:03+00:00",
+   "title_ja": "ローマ教皇がパリを訪れ平和を呼びかけ",
+   "one_line": "ローマ教皇がフランスの首都パリを訪れ、多くの人々を前にスピーチをしました。",
+   "what": "ローマ教皇がフランスのパリを訪れ、専用の車に乗って集まった人々に挨拶をしました。その中で、平和を大切にすることや、機械やAIが中心になる世界で人間らしさを失わないよう呼びかけました。",
+   "background": "ローマ教皇は、世界中に多くの信者がいるキリスト教の一つのグループのリーダーです。世界各地を訪れて、平和や人々の助け合いについてメッセージを伝える活動をしています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界全体の平和やこれからのテクノロジーとの向き合い方についてのメッセージとして、多くの国で受け止められています。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "aad94e7f11064c71",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260926de52517",
+   "title_original": "政治団体NHK党 立花党首 兵庫県議への脅迫容疑改めて不起訴",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52517/20260926de52517_E0000036010_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-25T16:15:45+00:00",
+   "title_ja": "NHK党の立花党首を改めて不起訴処分に",
+   "one_line": "検察が再捜査した結果、NHK党の立花党首を改めて不起訴としました。",
+   "what": "政治団体「NHKから国民を守る党」の立花孝志党首が、兵庫県の議員に対する脅迫の疑いで調べられていましたが、神戸地方検察庁は改めて「不起訴」とすることを決めました。",
+   "background": "「不起訴」とは、裁判にかけて罰を与える必要はないと検察官が判断することです。一度不起訴になった事件について、一般の人から選ばれたメンバーでつくる「検察審査会」が「もう一度調べたほうがよい」と判断した場合、検察は改めて捜査をし直す決まりになっています。",
+   "impact": "特定の政治団体やリーダーの法的判断に関わるニュースですが、法律や裁判の仕組みを考えるうえでの一つの出来事となります。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "不起訴",
+     "meaning": "警察や検察が調べた結果、裁判官に事件を判断してもらうために裁判所へ送らないことを決めることです。"
+    },
+    {
+     "word": "検察審査会",
+     "meaning": "一般から選ばれた市民が、検察官の判断が正しかったかどうかをチェックする組織です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "72a897e41cd97c75",
+   "url": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem?traffic_source=rss",
+   "title_original": "Ethiopia’s new rebel alliance faces an old problem",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab69cf0-1790352624.jpg?resize=1200%2C675",
+   "region": "海外",
+   "published": "2026-09-25T16:10:55+00:00",
+   "title_ja": "エチオピアで新しい反政府グループが結成",
+   "one_line": "エチオピアでかつての敵同士が手を組み、新たなグループを作りました。",
+   "what": "アフリカのエチオピアで、これまで争っていたかつての敵同士が手を取り合い、新しいグループを作りました。しかし、土地や権力をめぐる意見の違いから、まとまり続けるのが難しいのではないかと伝えられています。",
+   "background": "エチオピアでは、政府のやり方や地域の権利などをめぐって、さまざまなグループの間で長い間争いが続いてきました。国内での勢力争いや政権との対立が歴史的な課題となっています。",
+   "impact": "遠い国の政治の動きであるため日本の暮らしにすぐ影響することはありませんが、世界の平和や安全保障を考える上で大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "9263382333f97d40",
+   "url": "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding?traffic_source=rss",
+   "title_original": "More than 55,000 Sudanese refugees flee to Chad as UN calls for funding",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/getty_69b17d37b5-1773239607.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-25T16:06:45+00:00",
+   "title_ja": "スーダンからチャドへ多くの避難民",
+   "one_line": "スーダンの争いを避けて、一日に何百人もの人が隣のチャドへ逃げています。",
+   "what": "スーダンから隣のチャドへ、一日に約四百人が逃げ込んでいます。これまでの二十倍ほどの速さで、国連は支援のためのお金が足りないと呼びかけています。",
+   "background": "国連は、世界中の戦争や飢え、災害で困っている人を助けたり、平和を守ったりするために作られた国際的な組織です。難民とは、自分の国で争いや迫害などがあり、安全な場所に逃れざるを得なくなった人たちのことを言います。",
+   "impact": "わたしたちの暮らしにすぐに直接の影響はありませんが、世界中で多くの人が家を追われているという大きな問題を知るきっかけになります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国連",
+     "meaning": "世界中の国々が話し合って、世界の平和や安全を守るために作られた国際的な組織です。"
+    },
+    {
+     "word": "難民",
+     "meaning": "戦争や自分の国での危険から逃れるために、他の国へ逃げざるを得なくなった人たちのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4ada3649465f9694",
+   "url": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
+   "title_original": "African Presidents Call for Permanent African Seats on U.N. Security Council",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-live-africa-sc-seats-topart-01-hwjl/24unga-live-africa-sc-seats-topart-01-hwjl-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-25T16:06:38+00:00",
+   "title_ja": "アフリカの首脳らが国連安全保障理事会の改革を求める",
+   "one_line": "アフリカの国々のリーダーたちが、国連の重要な話し合いの場に常任理事国を求めています。",
+   "what": "ガーナ、リベリア、ケニア、ナミビアなどのアフリカのリーダーたちが、国連安全保障理事会にアフリカの常任理事国を置くよう求めました。国連の事務総長も、アフリカから常任理事国が出ていない現状について批判しました。",
+   "background": "国連安全保障理事会は、世界中の平和を守るために特に重要な話し合いをする場所です。ここには、第二次世界大戦のあとに強い影響力を持った五つの国が常任理事国として入っており、世界中の国々からその仕組みを変えるべきだという意見が出ています。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、世界中の国がどのように話し合い、不公平をなくそうとしているのかという国際ルールの大きな仕組みに関わるニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国連安全保障理事会",
+     "meaning": "世界の平和と安全を守るために、具体的な対策や決定を話し合う国連の中の特別な組織です。"
+    },
+    {
+     "word": "常任理事国",
+     "meaning": "国連安全保障理事会の中で、ずっとその地位を持ち続け、物事を決めるときにとても強い力を持つ国々のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3961750668115274",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260926de52516",
+   "title_original": "円相場1ドル＝156円台に値上がり 介入警戒強まる",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52516/20260926de52516_E0000036008_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-25T15:48:00+00:00",
+   "title_ja": "円の価値が一時一ドル＝百五十六円台へ値上がり",
+   "one_line": "外国の市場で日本のお金の価値が少し上がり、国の対策に対する警戒感が高まっています。",
+   "what": "ニューヨークの市場で、ドルを売って円を買う動きが強まり、円の価値が一時一ドル＝百五十六円台になりました。これを受けて、国の為替介入に対する警戒感が強まっています。",
+   "background": "外国為替市場では、世界中の国のお金を売り買いしています。日本のお金である円の価値が下がると輸入品の値段が高くなり、逆に円の価値が上がるとその影響の仕方が変わります。急激な変動を防ぐため、国が市場にお金を出して調整することがあります。",
+   "impact": "円の価値が変わると、海外から日本に入ってくる食べ物やエネルギーの値段に影響します。今すぐ私たちの買い物が大きく変わるわけではありませんが、今後の物価の動きを見る上で大切な情報です。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "為替市場",
+     "meaning": "国と国のお金を売り買いして、それぞれの価値の値段を決める場所のことです。"
+    },
+    {
+     "word": "介入",
+     "meaning": "お金の価値が大きく変わりすぎたときに、政府や中央銀行が市場にお金を出して調整することです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "6c4fd0c7f071a978",
+   "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo",
+   "title_original": "Students strike across Germany in protest against military service",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58af/live/7383ad60-b8ef-11f1-a430-4d16ee157c41.jpg",
+   "region": "海外",
+   "published": "2026-09-25T15:36:22+00:00",
+   "title_ja": "ドイツの学生らが軍事サービスに反対してストライキ",
+   "one_line": "ドイツで、軍隊に関連する法律や将来の義務化への不安から学生が抗議活動をしています。",
+   "what": "ドイツ各地で、学生たちが軍事サービスに反対するストライキを行いました。今年の一月に、自分の意思で選ぶ自発的な軍事サービスの法律が始まりましたが、将来的に強制的なものになってしまうのではないかと心配する声が上がっています。",
+   "background": "多くの国には、国の守りを固めるために軍隊があります。国によっては、国民に一定期間軍隊で働くことを義務付ける制度をとってきた歴史がありますが、個人の自由や平和の観点から、そのあり方をめぐって様々な意見があります。",
+   "impact": "今すぐ日本の暮らしや制度が変わるわけではありませんが、世界の国々が軍隊や平和をどのように考えているのかを知るための大切な出来事です。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "ストライキ",
+     "meaning": "労働者や学生などが、自分たちの主張や反対の気持ちを示すために、仕事や勉強を一時的に休む行動のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "aff7678dbcd2bada",
+   "url": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html",
+   "title_original": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108367885-1790311451228-gettyimages-2294250093-bhatnagar-notitle260911_npRPg.jpeg?v=1790311498&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-25T15:24:20+00:00",
+   "title_ja": "インドの政党が選挙の管理者の辞め方を求めた話",
+   "one_line": "インドの「ゴキブリ党」という名前の政党が、選挙の責任者の辞任を求めました。",
+   "what": "インドの「ゴキブリ・ジアンタ党」という政党が、有権者の名簿を直すやり方をめぐって、選挙を管理するトップの人の辞任を求めました。このトップの人が「民主主義にとって最大の危険だ」と主張しています。",
+   "background": "選挙は、国民が自分たちの代表を選ぶための大切な仕組みです。その選挙を公平に行うため、政治家から独立して中立を守る「選挙管理委員会」という組織があります。インドでは、この委員会のトップの判断ややり方をめぐって、政党との間で意見がぶつかることがあります。",
+   "impact": "今すぐ私たちの暮らしや日本が変わるわけではありません。しかし、世界の大国であるインドで、選挙を管理する組織と政党がどのようなやりとりをするかは、その国の民主主義の仕組みを考える上でとても大切な動きです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "29196d8b677b1a47",
+   "url": "https://www.nikkei.com/article/DGXZQOUA25AXU0V20C26A9000000",
+   "title_original": "片山財務相「円の過小評価は問題と再確認」 ベッセント氏との協議で",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3641753025092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.06&fp-y=0.32&h=630&w=1200&s=cef454014f31b172725943e491616453",
+   "region": "国内",
+   "published": "2026-09-25T15:18:11+00:00",
+   "title_ja": "日本の財務大臣とお金の話をしたアメリカの代表が話し合ったこと",
+   "one_line": "日本の片山財務相が、アメリカの経済の担当者と話し合いを行いました。",
+   "what": "日本の片山財務相が、アメリカのベッセント氏と話し合いをしました。その中で、日本の通貨である「円」の価値が実際の力よりも低くなっていることについて、問題であると改めて確認し合いました。",
+   "background": "国の通貨である「円」や「ドル」の価値は、世界中の市場での売り買いによって日々変化します。円の価値が下がりすぎると、海外からものを買うときの値段が高くなり、私たちの買いものや企業の経営に大きな影響を与えます。そのため、国の大臣同士が話し合って、通貨の価値について意見を交わすことがあります。",
+   "impact": "円の価値が低くなりすぎると、ガソリンや食べ物など、海外から輸入するものの値段が高くなる原因になります。今回の話し合いが、今後の円の価値や私たちの買いものの値段にどう影響するのかが注目されます。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "財務相",
+     "meaning": "国の予算や税金、お金の管理などを担当する大臣のことです。"
+    },
+    {
+     "word": "為替協議",
+     "meaning": "異なる国の通貨の価値や、その変動について話し合う会議のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "160364fb1807ce57",
+   "url": "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html",
+   "title_original": "Pope Leo warns in France that AI is creating 'paradise of machines'",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368121-1790348572234-gettyimages-2297074227-_teo0173_bye1t1us.jpeg?v=1790348635&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-25T15:04:20+00:00",
+   "title_ja": "ローマ教皇がフランスでAIの使いすぎに注意を呼びかけた話",
+   "one_line": "ローマ教皇が、AIの技術が進みすぎることについて警鐘を鳴らしました。",
+   "what": "ローマ教皇がフランスで、人工知能（AI）の開発について考え直すよう訴えました。人間よりも機械が力を持つ「機械の楽園」のような未来になってしまうのではないかと心配する気持ちを伝えています。",
+   "background": "ローマ教皇は、キリスト教のカトリックというグループのリーダーです。世界中に多くの信者がおり、宗教的な話だけでなく、平和や環境、テクノロジーの進歩など、人間がこれからどう生きるべきかという大きな問題について、世界に向けてメッセージを発信しています。",
+   "impact": "今すぐ私たちのパソコンやスマホの使い方が変わるわけではありません。しかし、AIが私たちの仕事や生活にどんどん入り込んでくる中で、人間がどのように機械と付き合っていくべきかを見つめ直すきっかけになります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "ローマ教皇",
+     "meaning": "世界中にいるキリスト教カトリックの信者たちのリーダーです。バチカンという国に住んでいます。"
+    },
+    {
+     "word": "人工知能",
+     "meaning": "人間の脳のように考えたり判断したりするコンピューターの仕組みのことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "544240acbe000924",
+   "url": "https://www.nikkei.com/article/DGXZQOUA2578V0V20C26A9000000",
+   "title_original": "トランプ氏が円安に懸念、日米首脳会談で異例の言及",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3640269025092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.16&fp-y=0.23&h=630&w=1200&s=71978a0ceb75f4cb08fef87c5d314870",
+   "region": "国内",
+   "published": "2026-09-25T14:52:36+00:00",
+   "title_ja": "アメリカのトランプ大統領が円安に懸念を示す",
+   "one_line": "トランプ大統領が日米首脳会談で円安の行き過ぎについて心配を口にしました。",
+   "what": "トランプ大統領が日米首脳会談の中で、日本の通貨である円の価値が下がりすぎていることについて懸念を示しました。",
+   "background": "外国のお金と日本のお金の交換比率を為替レートと呼びます。歴史的にアメリカの政権は、自国の輸出に不利になるような極端なドル高や他国通貨安について意見を述べることがあります。",
+   "impact": "為替の値動きが激しくなると、輸入品の値段や日本企業の業績に影響が出るため、今後の両国のやり取りに注目が集まります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 4
+  },
+  {
+   "id": "f79c4bb7d3605d1b",
+   "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-world-4025-rdf",
+   "title_original": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79435180_6.jpg",
+   "region": "海外",
+   "published": "2026-09-25T14:34:00+00:00",
+   "title_ja": "リトアニアの首相が防衛の強化を語る",
+   "one_line": "リトアニアの首相がインタビューでNATOによる空の守りや軍事費について述べました。",
+   "what": "リトアニアのミンガウダス・シンケビチュウス首相がドイツのメディアのインタビューに応じました。その中で、ロシアやベラルーシからの脅威について触れ、北大西洋条約機構による強力な防衛の必要性を語りました。",
+   "background": "リトアニアはヨーロッパの国で、近隣の国々との関係や安全保障上の理由から、軍事的な備えや同盟国との協力を重視しています。北大西洋条約機構は、加盟国同士が協力して平和と安全を守るための軍事同盟です。",
+   "impact": "ヨーロッパの安全保障環境の変化は、世界の政治や経済の動き、エネルギー価格などを通じて巡り巡って日本にも影響を与えることがあります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "北大西洋条約機構",
+     "meaning": "ヨーロッパや北アメリカの国々が、お互い協力して国を守るために作った組織のことです。"
+    },
+    {
+     "word": "防衛",
+     "meaning": "外からの攻撃や危険から国や地域を守るための備えや活動のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "17e73d5bd6618624",
+   "url": "https://www.sankei.com/article/20260925-U2UZ3T7K7VPK3HEDYOCYWNJCMU",
+   "title_original": "トランプ氏、中国の対イラン支援「容認できず」と首脳会談で伝達 駐中国大使が明かす",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/KT4HEFQYOVLO5BRSFILAPP7UMA.jpg?auth=bb99756f4c6b4f65268c03a71c275f0a37515ee62ad010f91cef3a246cd59de7&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-25T14:25:30+00:00",
+   "title_ja": "トランプ氏が中国にイランへの支援をやめるよう伝える",
+   "one_line": "アメリカのトランプ氏が首脳会談で、中国がイランを支援することを認められないと伝えました。",
+   "what": "アメリカのトランプ氏が首脳会談の中で、中国がイランに対しておこなっている支援について、容認できないという考えを直接伝えたことが、中国に駐在する大使によって明らかにされました。",
+   "background": "国と国が話し合う外交の場では、お互いの国のリーダーが直接会って、お互いの国の安全や他の国への対応について意見をぶつけ合い、協力や警告をおこなうことが大切にされています。",
+   "impact": "今すぐ私たちの暮らしが直接変わるものではありませんが、大国同士の関係や世界的な安全保障のあり方に大きな影響を与える出来事です。",
+   "genre": "国際",
+   "category": "中国・アジア",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "0df57c8da4324091",
+   "url": "https://www.sankei.com/article/20260925-C72IONBMXFMZLHNTOYQ2D6GXGE",
+   "title_original": "80年間の提言をデータ化して公開 関西経済同友会、実現度をAIで分析",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/MMCGANLCPVM3DCK74SROOYN6T4.jpg?auth=2a3f23c7fff9ce5412f990223c4cc80f4554ff3a4fc706b99c7adabb2569a046&quality=50&focal=755%2C424&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-25T14:14:31+00:00",
+   "title_ja": "関西経済同友会が過去の提言をデータ化しAIで分析",
+   "one_line": "関西経済同友会が、これまでの長い歴史の中で出してきた提案をデータ化し、人工知能で分析します。",
+   "what": "関西経済同友会が、これまでの八十年間におこなってきたさまざまな提案や意見をすべてデータにして公開しました。さらに、人工知能を使ってそれらがどれくらい実現できたのかを分析する取り組みを始めました。",
+   "background": "経済同友会は、会社を経営する人たちが集まって、国の経済をよりよくするためのアイデアや意見をまとめる民間の中核的な組織です。社会に向けてさまざまな提案をおこなっています。",
+   "impact": "私たちの暮らしがすぐに変わるわけではありませんが、過去の会社や経済の活動の記録が人工知能によって分析されることで、今後のよりよい社会づくりに役立てられます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間の頭でおこなうような複雑な計算や判断を、コンピュータが代わりにできるようにした仕組みのことです。"
+    }
+   ],
+   "importance": 2
+  },
   {
    "id": "8f27b7f72530be3d",
    "url": "https://mainichi.jp/articles/20260925/k00/00m/030/300000c",
@@ -7266,378 +7651,6 @@
      "meaning": "世界中のすべての加盟国が集まり、大切な問題について話し合ったり意見を述べたりする会議のことです。"
     }
    ],
-   "importance": 3
-  },
-  {
-   "id": "0d19b78d293399ae",
-   "url": "https://www.nikkei.com/article/DGXZQOUA1157N0R10C26A9000000",
-   "title_original": "GPIF運用好調、「年金増」アピールの厚労省 背景に政治への警戒",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3612134017092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.29&fp-y=0.42&h=630&w=1200&s=c3c916da06de8c10f25d9eb1f9455e37",
-   "region": "国内",
-   "published": "2026-09-20T20:00:00+00:00",
-   "title_ja": "年金の積立金を運用するGPIFの好調と厚生労働省",
-   "one_line": "年金の積立金を運用するGPIFの成績が良く、厚生労働省がアピールしています。",
-   "what": "国民の年金のもとになるお金を運用する「GPIF」の成績が良いことについて、厚生労働省がアピールしている背景に政治への警戒があると伝えられています。",
-   "background": "GPIFは、私たちが将来もらう年金のお金を、株や債券などで増やしている組織です。年金は日本に住む人みんなの生活に関わる大きなお金のため、そのお金がうまく増やせているかどうかは、政治や選挙のときにもとても注目される話題になります。",
-   "impact": "年金の運用実績が良いことは、将来の年金の安心につながりますが、今すぐ毎月の金額が増えたり減ったりするわけではありません。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "厚生労働省",
-     "meaning": "医療や福祉、働くことや年金など、国民のくらしを支える仕事をまとめて担当する国の役所です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9da3fba6b47fcd95",
-   "url": "https://www.nikkei.com/article/DGXZQOGR18BJ40Y6A910C2000000",
-   "title_original": "トルコ市場に流動性ショック 投信解約殺到、当局が異例介入",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3622898018092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=e477f5df7d5be358f46a203c5d67f08b",
-   "region": "国内",
-   "published": "2026-09-20T20:00:00+00:00",
-   "title_ja": "トルコの市場で投資信託の解約が急増し当局が介入",
-   "one_line": "トルコのお金や株の市場で投資信託の解約が相次ぎ、国が特別な対策をとる事態になりました。",
-   "what": "トルコの市場で、投資信託を急いでやめたい人が一斉に集まったため、お金の流れが大きく滞る問題が起き、国の機関が特別な対策に乗り出しました。",
-   "background": "市場というのは、世界中のお金や株、品物が売買される大きな仕組みのことです。みんなが一斉にお金を引き出そうとすると、市場のバランスが崩れて経済が混乱することがあります。",
-   "impact": "今すぐ私たちの日本の暮らしに直接の影響が出るわけではありませんが、遠くの国の経済の大きな揺れは、世界全体の景気や金融の動きにつながることがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "投資信託",
-     "meaning": "たくさんの人から集めたお金を、専門家がいろいろな株や債券に分けて投資し、出た利益をみんなで分け合う仕組みのこと。"
-    },
-    {
-     "word": "流動性",
-     "meaning": "お金や資産を、どれだけスムーズに現金に変えたり売買したりできるかを表す度合いのこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "49b70f046572ad9e",
-   "url": "https://www.nikkei.com/article/DGXZQOUB0989B0Z00C26A9000000",
-   "title_original": "時価総額トップ大混戦、26年は4社が頂点に 次の主導役探し活発",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3617092018092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=4a801d52a1676116b1639e71ea7756af",
-   "region": "国内",
-   "published": "2026-09-20T20:00:00+00:00",
-   "title_ja": "企業の価値を表す時価総額のトップ争いが大混戦",
-   "one_line": "企業の大きさや価値を示す時価総額のトップ争いが激しくなり、次の主役を探す動きが活発になっています。",
-   "what": "企業の価値を示す時価総額のランキングでトップ争いが激しくなっており、2026年には4つの会社が頂点を競う状態になり、次の主役がどこになるか注目されています。",
-   "background": "時価総額とは、その会社が発行している株全体の値段を合わせたもので、その会社の社会的な大きや価値を比べるためによく使われる数字です。",
-   "impact": "今すぐ私たちの暮らしや家計が直接変わるわけではありませんが、どの企業が社会で大きな力を持つか、日本の経済の勢いがどう変わるかを知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "時価総額",
-     "meaning": "会社が持つ株のすべての値段を合わせたもので、株式市場でのその会社の大きさを表すもの。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "33f8eec8affd086b",
-   "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-   "title_original": "US, China open high-level talks ahead of Trump-Xi summit",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab0312d-1789931821.jpg?resize=1920%2C1377",
-   "region": "海外",
-   "published": "2026-09-20T19:42:13+00:00",
-   "title_ja": "アメリカと中国が高官による重要な話し合いを開始",
-   "one_line": "アメリカと中国のトップ会談を前に、両国の高官がニューヨークで話し合いを始めました。",
-   "what": "アメリカのスコット・ベッセント氏と中国の何立峰氏がニューヨークで会談し、今週予定されているアメリカと中国の首脳会談に向けた話し合いを行いました。",
-   "background": "アメリカと中国は世界でとても大きな影響力を持つ二つの国です。貿易や安全保障などをめぐって意見が対立することが多く、首脳同士や高い地位の人たちが集まって話し合いを重ねています。",
-   "impact": "世界最大の経済大国同士の関係は、世界の景気や貿易、私たちのまわりのモノの値段にも大きな影響を与えるため、今後の行方が注目されます。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "高官",
-     "meaning": "政府の中で、とても高い地位や重要な責任を持っている人のこと。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "fb22242a26ba36dc",
-   "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-   "title_original": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/d1da131ed1994a890b3cf9a95c9ff92c89db60eb/290_0_2905_2324/master/2905.jpg?width=140&quality=85&auto=format&fit=max&s=4dc7b975cf4c20c40d1952948f30c24e",
-   "region": "海外",
-   "published": "2026-09-20T19:36:29+00:00",
-   "title_ja": "アメリカとイランの対立がイギリスの予算作りに影響か",
-   "one_line": "アメリカとイランの争いが、来月のイギリスの国の予算づくりを難しくさせるとの心配が出ています。",
-   "what": "イギリスの閣僚が、アメリカのドナルド・トランプ大統領によるイランとの戦争が、来月予定されている国の予算づくりをより難しくすると述べました。また、イギリスの首相が国連の会議でアメリカ大統領と会談する予定についても言及しました。",
-   "background": "国の予算とは、1年間に国が何にどれだけお金を使うか、どこから税金を集めるかを決める大切な計画です。イギリスでは政権が変わったあと、新しい方針に沿った予算づくりが進められています。また、アメリカとイランの間では長年、緊張した関係が続いています。",
-   "impact": "外国での争いや対立が激しくなると、世界のエネルギーの値段や経済の仕組みを通じて、遠く離れた国々の物価や暮らしにも影響を及ぼすことがあります。今すぐ私たちの生活が直接変わるわけではありませんが、世界の動きに注目が集まっています。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "予算",
-     "meaning": "国や会社などが、一定の期間にいくらお金を集めて、何にいくら使うかをあらかじめ計画したものです。"
-    },
-    {
-     "word": "閣僚",
-     "meaning": "国の政治の中心である内閣に参加し、それぞれの担当分野の仕事を行う大臣たちのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bf6e49419344d1db",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
-   "title_original": "Qatar says it is working to revive Iran-US talks",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-qatar-iran-us-talks-1789932916.png?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-20T19:36:12+00:00",
-   "title_ja": "カタールがアメリカとイランの話し合いの再開へ仲介に動く",
-   "one_line": "中東の国カタールが、対立するアメリカとイランの話し合いを再び始めるための手助けをしています。",
-   "what": "カタールの外務省の担当者が、アメリカとイランの間で話し合いを再び始めるために、あいだに入って調整を行っていると明らかにしました。",
-   "background": "国際社会で意見が対立している国同士が直接話し合うことが難しい場合、第三の国が間に入って話し合いをすすめる手伝いをすることがあります。これを「仲介（ちゅうかい）」と呼びます。カタールはこれまでも、中東地域のさまざまな問題で間に入る役割を果たしてきました。",
-   "impact": "アメリカとイランの対立が和らぐかどうかは、世界の平和だけでなく、原油の価格や世界の経済全体にも大きな影響を与えます。今すぐ私たちの生活が変わるものではありませんが、世界の安全保障にかかわる大切な動きです。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "仲介",
-     "meaning": "意見が対立している2つのグループや国のあいだに入って、話し合いがうまくいくようにお手伝いをすることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a741f932f87a5df8",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260921de51477",
-   "title_original": "イラン“米軍基地など攻撃対象に” アメリカを強くけん制",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51477/20260921de51477_E0000019908_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-20T19:13:07+00:00",
-   "title_ja": "イランがアメリカ軍基地などを攻撃対象にすると強くけん制",
-   "one_line": "イランが、アメリカが軍事行動を再開すれば中東にあるアメリカ軍の基地などを攻撃すると警告しました。",
-   "what": "イランの国営メディアが中央司令部の声明として、アメリカが再び軍事的な行動を起こした場合、中東地域にあるアメリカ軍の基地などを攻撃の対象にすると警告し、強くけん制する姿勢を示しました。",
-   "background": "中東地域には、アメリカ軍の基地が多く置かれており、地域の安全保障における重要な拠点となっています。アメリカとイランは長年、政治的・軍事的な緊張関係が続いており、互いに警戒を強めています。",
-   "impact": "中東地域での緊張が高まると、原油の供給や価格を通じて、日本を含む世界中のエネルギー事情や経済に影響が出る心配があります。今すぐ生活が変わるわけではありませんが、今後の動向に注意が必要です。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "けん制",
-     "meaning": "相手が自分たちに不利な動きをしないように、警戒させたり行動を抑えようとしたりすることです。"
-    },
-    {
-     "word": "司令部",
-     "meaning": "軍隊の作戦や行動全体を計画し、命令を出す中心となる組織のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6fbb62169d82c5cc",
-   "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo",
-   "title_original": "Sister of Pakistan's ex-PM Imran Khan arrested",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg",
-   "region": "海外",
-   "published": "2026-09-20T19:04:11+00:00",
-   "title_ja": "パキスタンの元首相の姉が逮捕される",
-   "one_line": "パキスタンで、元首相の姉が全国的な抗議の呼びかけに関わったとして警察に逮捕されました。",
-   "what": "パキスタンで、収監されている元首相の姉が逮捕されました。全国的な抗議活動に向けて、元首相を支持する人々をまとめようとした疑いがもたれています。",
-   "background": "パキスタンは南アジアにある国です。政治のリーダーがたびたび変わり、国内の政党やグループの間の争いが激しいことで知られています。裁判や警察の動きをめぐって、国を二分するような対立が続くことがあります。",
-   "impact": "日本での暮らしにすぐ影響はありませんが、パキスタンの国内が不安定になると、地域の安全や世界全体の動きに影響することがあります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "dcedd0bb35843c55",
-   "url": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
-   "title_original": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/2aae4180-b521-11f1-bd8b-5b4fdf021577/w:1024/p:16x9/000-C8UJ3KN.jpg",
-   "region": "海外",
-   "published": "2026-09-20T18:29:56+00:00",
-   "title_ja": "フランスとカナダが関係を深めることで一致",
-   "one_line": "フランスの大統領とカナダの首相が会談し、世界的な課題に対応するため両国の結びつきを強めることで一致しました。",
-   "what": "フランスの大統領とカナダの首相が、北アメリカの近くにあるフランス領の島で会談しました。両国の指導者が揃ってこの島を訪れるのは初めてのことで、これからの協力関係をさらに強めていくことを確認しました。",
-   "background": "フランスとカナダは、歴史的に深いつながりを持つ民主主義の国です。どちらの国も、アメリカ合衆国との間で難しい外交のかじ取りを迫られる場面があり、同じ価値観を持つ国同士で手を取り合うことが増えています。",
-   "impact": "今すぐ私たちの生活が変わるわけではありませんが、大きな国々の関係性の変化は、世界の経済や貿易のルールに長い目で見て影響を与えることがあります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "3ec302ba041d29ab",
-   "url": "https://www.nytimes.com/2026/09/19/world/europe/uk-israel-west-bank-sanctions.html",
-   "title_original": "Inside the Breakdown of U.K.-Israel Relations Over West Bank Settlements",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/18/multimedia/00int-uk-israel-01-zflq/00int-uk-israel-01-zflq-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-20T18:06:46+00:00",
-   "title_ja": "イギリスとイスラエルの関係がギクシャクする",
-   "one_line": "イギリスとイスラエルの間で、パレスチナ側の土地の開発をめぐる認識の違いから意見が対立しています。",
-   "what": "イギリスの政府関係者は、イスラエルが将来のパレスチナの国にとって大切な土地での建設作業を一時的に見合わせると考えていました。しかしイスラエル側は、そんな約束はしていないと主張し、話し合いがうまくかみ合っていません。",
-   "background": "中東地域では、イスラエルとパレスチナの間で土地や権利をめぐる激しい対立が長く続いています。世界中の国々がこの問題に関心を寄せており、イギリスのような大国も、それぞれの国との外交関係や平和への考え方をめぐって難しい判断を迫られています。",
-   "impact": "直接的な影響はありませんが、中東でのいさかいや国と国の約束をめぐる対立は、世界の平和やエネルギーの価格などに間接的なつながりを持つことがあります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "8282a73cf7158959",
-   "url": "https://www.nikkei.com/article/DGXZQOUB156XO0V10C26A9000000",
-   "title_original": "利上げ加速で始まる銀行選別 信金の嘆き｢天井まで耐えられるのか｣",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3617222018092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.2&fp-y=0.42&h=630&w=1200&s=5a3605933584ba0ddef91edaaccfd86c",
-   "region": "国内",
-   "published": "2026-09-20T17:00:00+00:00",
-   "title_ja": "金利の引き上げで変わる銀行の仕組み",
-   "one_line": "金利が上がっていく中で、銀行や信用金庫がどのような影響を受けるかというお話です。",
-   "what": "金利が上がっていくスピードが速くなることで、銀行の間で新しい選別が始まり、信用金庫などの地域に根差した金融機関からは今後の耐力を心配する声が上がっています。",
-   "background": "銀行には、お金を預かったり、企業や人に貸し出したりして利益を得る仕組みがあります。金利というのは、お金を貸し借りするときの「手数料」のようなもので、中央銀行が決める政策金利が変わると、世の中全体の金利も連動して動きます。",
-   "impact": "銀行の経営状況が変わることで、企業がお金を借りるときの条件や、私たちの預金やローンに巡り巡って影響が出る可能性があります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "信用金庫",
-     "meaning": "地域の人や中小企業を応援するために作られた、地域密着型の金融機関のことです。"
-    },
-    {
-     "word": "利上げ",
-     "meaning": "中央銀行が決める基準の金利を上げることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "69d2119549c5da82",
-   "url": "https://www.france24.com/en/middle-east/20260920-israeli-settler-and-palestinian-driver-killed-in-west-bank-shootings",
-   "title_original": "Israeli settler and Palestinian driver killed in West Bank shootings",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/95da504c-b504-11f1-bc3f-5b4fdf021577/w:1024/p:16x9/AP26263426242066.jpg",
-   "region": "海外",
-   "published": "2026-09-20T15:30:08+00:00",
-   "title_ja": "ヨルダン川西岸で銃撃や衝突により2人が死亡",
-   "one_line": "ヨルダン川西岸で銃撃や軍との衝突があり、イスラエル人とパレスチナ人の2人が亡くなりました。",
-   "what": "イスラエルの占領地であるヨルダン川西岸で、銃撃事件がありイスラエルの男性が亡くなりました。また、別の場所ではパレスチナ人の運転手がイスラエル兵に撃たれて亡くなりました。",
-   "background": "ヨルダン川西岸は、長年にわたりイスラエルとパレスチナの間で土地や権利をめぐる争いが続いている場所です。宗教的な祝日の前には、緊張が高まりやすいという背景があります。",
-   "impact": "今すぐ私たちの生活に直接の影響はありませんが、世界で起きている争いや安全保障の問題として、今後の動向が注目されます。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "ヨルダン川西岸",
-     "meaning": "中東にある地域の一つで、長年イスラエルとパレスチナの間で領地をめぐる争いや緊張が続いている場所です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "7ca2b224cf4cf344",
-   "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-   "title_original": "Trump says monumental arch in Washington, DC will also be military complex",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad6d78-1789750648.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-20T15:16:38+00:00",
-   "title_ja": "アメリカの首都ワシントンの記念建造物計画について",
-   "one_line": "アメリカのトランプ大統領が、首都ワシントンの記念アーチを軍の施設にする計画を述べました。",
-   "what": "アメリカのトランプ大統領が、首都ワシントンで計画されている大きなアーチについて、軍の施設としても使われるようにすると述べました。",
-   "background": "アメリカの首都ワシントンには、国の歴史や政治に関する多くの建物や記念碑があります。新しい建物の建設や都市の計画を進める際には、住民や反対するグループとの間で意見が分かれることがあります。",
-   "impact": "今すぐ私たちの暮らしが変わるものではありませんが、アメリカの首都のあり方や政治的な決定についてのニュースです。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "8ba8dbcd3ce388c0",
-   "url": "https://www.theguardian.com/australia-news/2026/sep/21/the-populist-one-nation-james-ashby-shed-pauline-hanson-gina-rinehart-ntwnfb",
-   "title_original": "One Nation-linked company built $56,000 shed on private property of Pauline Hanson’s right-hand man",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/c29aa0c171de4e32c033ab447f07ef9b68b43870/14_0_1385_1108/master/1385.jpg?width=140&quality=85&auto=format&fit=max&s=b5477de711a81122ebfbe3bb94dd9c89",
-   "region": "海外",
-   "published": "2026-09-20T15:00:20+00:00",
-   "title_ja": "オーストラリアの政党関係者をめぐるお金の動き",
-   "one_line": "オーストラリアの政党に関連する会社が、幹部の私有地に小屋を建てたと報じられました。",
-   "what": "オーストラリアの政党「ワン・ネイション」に関連する会社が、党の幹部であるジェームズ・アシュビー氏の個人の土地に、日本円でおよそ5万ドル以上に相当する小屋を建てたことが文書でわかりました。",
-   "background": "政党は、政治活動を行うための組織です。国会議員をえらんだり、自分たちの政策を国民に訴えたりします。政党や政治家のお金の使い方や寄付については、ルールを守って正しく行われているかどうかが厳しくチェックされます。",
-   "impact": "外国の政党の内部のお金の使い方に関するニュースであり、日本の私たちの暮らしに直接影響するものではありません。",
-   "genre": "国際",
-   "category": "選挙・政党",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "9c5ece921092b651",
-   "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
-   "title_original": "The 'robot relations' department may become reality in workplace of the future",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363244-1789497965297-gettyimages-2293419464-vcg111663866789.jpeg?v=1789497999&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-20T14:37:34+00:00",
-   "title_ja": "仕事の現場でロボットやAIの担当部署ができるかも",
-   "one_line": "AIやロボットの普及が、働く人の給料や働き方に大きな影響を与えています。",
-   "what": "AIやロボットを職場でどう使うかを管理する部署が、これからの未来の仕事場に登場するかもしれないという話題です。",
-   "background": "会社では、パソコンのプログラムで会話する仕組みや、自動で仕事を管理するシステムが広く使われるようになってきました。これらは働く人の給料や仕事の進め方に大きく関わっています。",
-   "impact": "将来、私たちが働くときのルールや給料の決まり方、仕事のやり方が大きく変わる可能性があります。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "AI",
-     "meaning": "人間の頭で考えるような作業を、コンピューターが代わりにできるようにした技術のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c75846d7f0ad1726",
-   "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-   "title_original": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108362154-1789217733683-gettyimages-2294794498-mg0011.jpeg?v=1789217766&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-20T14:23:53+00:00",
-   "title_ja": "アメリカが中東への旅行を再検討するよう呼びかけ",
-   "one_line": "中東の緊張が高まっているため、アメリカ政府が自国の市民に注意を促しています。",
-   "what": "アメリカ政府が、中東地域への旅行をもう一度よく考えるよう、アメリカの人たちに呼びかけたというニュースです。",
-   "background": "中東では、武装したグループによる攻撃が激しくなったり、海の大切な通り道がふさがれたりして、国と国の間の緊張が高まっています。",
-   "impact": "日本に直接の被害がすぐ出るわけではありませんが、世界の安全保障や石油の値段などを通して、私たちの暮らしに影響する場合があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 4
-  },
-  {
-   "id": "691fda6498458e0a",
-   "url": "https://www.sankei.com/article/20260920-CWEGS7ISARFSVLLHNBYMGM2N5Y",
-   "title_original": "葉梨沖縄相、24日に新旧知事面会 山下法相「娘も結婚で氏変えた」旧姓使用拡大へ「ギア…",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/6PW4CHS7ZFCGDMZA42DEZPMNLI.jpg?auth=a99991cfb5832184f15f7f803d1541a194b57a0ff377135d6fe38a823e0bbc36&quality=50&focal=562%2C385&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-20T14:20:44+00:00",
-   "title_ja": "閣僚の動きや旧姓の利用拡大についての話題",
-   "one_line": "沖縄を担当する大臣の面会予定や、結婚したあとも前の苗字を使うことの検討が進んでいます。",
-   "what": "沖縄を担当する大臣が新しい知事と古い知事に面会することや、結婚したあとも古い苗字（旧姓）を使えるようにする取り組みについて話が出たというニュースです。",
-   "background": "日本では、法律で結婚した夫婦は同じ苗字にすると決められています。一方で、仕事や日常生活で結婚前の苗字をそのまま使いたいという声があり、国や政府の中でルールを見直す議論が続いています。",
-   "impact": "将来、結婚したあとも仕事などで前の苗字を使いやすくなる制度が変われば、多くの人の働き方や暮らしに関係してきます。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [],
    "importance": 3
   }
  ]
