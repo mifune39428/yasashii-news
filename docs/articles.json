@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T05:52:54.435529+09:00",
+ "updated_at": "2026-09-27T13:42:56.775445+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,50 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "474dd00e2524d715",
-   "until": "2026-09-26T21:51:29.856286+00:00"
-  },
-  {
-   "id": "405038dce55aa011",
-   "until": "2026-09-26T21:51:29.856286+00:00"
-  },
-  {
-   "id": "5d020f6779143372",
-   "until": "2026-09-26T21:51:29.856286+00:00"
-  },
-  {
-   "id": "6ffded3286476b78",
-   "until": "2026-09-26T21:51:29.856286+00:00"
-  },
-  {
-   "id": "2c34bcaf26eeeb4b",
-   "until": "2026-09-26T21:51:29.856286+00:00"
-  },
-  {
-   "id": "a09e6c81d5692156",
-   "until": "2026-09-27T04:14:37.078698+00:00"
-  },
-  {
-   "id": "dd13863e2c61dabe",
-   "until": "2026-09-27T04:14:37.078698+00:00"
-  },
-  {
-   "id": "d2103142dbaa6327",
-   "until": "2026-09-27T04:14:37.078698+00:00"
-  },
-  {
-   "id": "f8a6a2762d12d714",
-   "until": "2026-09-27T04:14:37.078698+00:00"
-  },
-  {
-   "id": "64251eaadb5f7d6f",
-   "until": "2026-09-27T04:14:37.078698+00:00"
-  },
-  {
-   "id": "396c03c7cb7731f5",
-   "until": "2026-09-27T04:14:37.078698+00:00"
-  },
   {
    "id": "67100dadc0242f4e",
    "until": "2026-09-27T11:17:40.647887+00:00"
@@ -674,10 +630,361 @@
   {
    "id": "bac021563129ff1f",
    "until": "2026-10-01T20:52:54.435529+00:00"
+  },
+  {
+   "id": "fd04ebb44081d72f",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "4c21b09a61a26048",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "f95947a0488cb7c3",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "4e4e164e7c3791b4",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "b64ec09653bc4f8d",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "77daa2329f11d000",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "81892de3b2819434",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "afca040c504ad159",
+   "until": "2026-10-02T04:42:56.775445+00:00"
+  },
+  {
+   "id": "a16e6f8a71b007d8",
+   "until": "2026-10-02T04:42:56.775445+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "6b2e63b530b8036d",
+   "url": "https://news.yahoo.co.jp/pickup/6596706?source=rss",
+   "title_original": "岩屋前外相らが訪中 関係改善探る",
+   "source": "Yahoo!ニュース 国内",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/27/9508b3e9baca5d1f15e49d580d94e21056266f0aec1386f3d7c124d03969664e.jpg",
+   "region": "国内",
+   "published": "2026-09-27T04:38:03+00:00",
+   "title_ja": "岩屋前外務大臣が中国を訪問、関係の改善を探る",
+   "one_line": "岩屋前外務大臣が中国を訪れ、話し合いを通じてお互いの関係を良くする方法を探りました。",
+   "what": "岩屋前外務大臣が中国を訪れました。両国の間で、これからの関係をより良くするための話し合いが行われました。",
+   "background": "外務大臣というのは、日本とほかの国との間を結ぶ外交の仕事を担当する責任者です。国と国との間で意見が食い違うときや、もっと仲を深めたいときに、直接会って話し合うことは大切なお仕事とされています。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるわけではありませんが、日本と中国の関係が良くなると、旅行や物の売り買いなどがスムーズになることがあります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "9c954a081b36dbdd",
+   "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb",
+   "title_original": "Australia news live: AFL grand final breaks records; Marles defends army barracks sell-off amid controversy",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/03db844a182d42e6ed5a400cb70d9d1c1eeac951/1319_270_4577_3664/master/4577.jpg?width=140&quality=85&auto=format&fit=max&s=0de0abfe696fe1c9e2a9f9d2d295aa46",
+   "region": "海外",
+   "published": "2026-09-27T04:16:42+00:00",
+   "title_ja": "オーストラリアのニュース：サイバー防御の課題など",
+   "one_line": "オーストラリアで、子どもの安全や情報の防犯対策に関する話題が伝えられました。",
+   "what": "オーストラリアで、子どもの保護制度に関するデータが発表されたほか、情報の防犯対策をめぐる議論などが伝えられました。",
+   "background": "国や地域を安全に保つため、政府は子どもを守る仕組みを整えたり、大切な情報が外部から盗まれないように守るサイバー防御の仕組みを考えたりしています。",
+   "impact": "今すぐ日本での生活が変わるわけではありませんが、世界中で子どもの安全や情報の守り方が大きな課題になっていることを示しています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "サイバー防御",
+     "meaning": "インターネットを通じて大切な情報が盗まれたり、コンピュータが壊されたりするのを防ぐ仕組みのことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "4fd61d486188b0ab",
+   "url": "https://toyokeizai.net/articles/-/959284",
+   "title_original": "米TV各社､トランプ大統領のホワイトハウスでの行事の取材を再開…｢締め出し｣を巡る3社の訴訟は継続 | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/a/5/1200w/img_a5b36b2a552442f39169b5df3f90c3fa308223.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-09-27T04:05:00+00:00",
+   "title_ja": "アメリカのテレビ局がホワイトハウスでの取材を再開",
+   "one_line": "トランプ大統領の行事で一時断られていたテレビ局の取材が戻りました。",
+   "what": "トランプ大統領が中国の習近平国家主席をホワイトハウスに迎えた行事で、これまで取材を断られていた主要なテレビ局が、再び取材できるようになりました。",
+   "background": "ホワイトハウスは、アメリカの大きな政治の舞台であり、大統領が仕事をする場所です。ジャーナリストたちは、国民に政治の動きを正しく伝えるために、そこで何が起きているかを取材し、伝える役割を持っています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、国のトップ同士が会う大事な場面で、どのような話し合いが行われたのかを私たちが知るための大切な情報が届きやすくなります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "1b49889f7e3228f6",
+   "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
+   "title_original": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-china-ai-safety-01-cphf/27int-china-ai-safety-01-cphf-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-09-27T04:01:24+00:00",
+   "title_ja": "中国が人工知能の安全を呼びかける動きに慎重な理由",
+   "one_line": "中国では、人工知能の危険性を心配する声に対して、別の見方があります。",
+   "what": "アメリカをはじめとする西洋の国々から出ている人工知能の危険を訴える声について、中国では、アメリカの会社が中国の会社に負けないようにするための策略ではないかと疑う見方があります。",
+   "background": "人工知能は、人間のように考えたり作業したりするコンピューターの技術です。近年、世界中でとてもすごいスピードで進化しており、これを作り出すアメリカと中国の間で、世界のリーダーを目指した激しい競争が続いています。",
+   "impact": "今すぐ私たちの毎日の生活がすぐに変わるわけではありませんが、世界中で人工知能をどのように安全に扱い、ルールを作っていくのかを決める話し合いに影響を与えることがあります。",
+   "genre": "国際",
+   "category": "中国・アジア",
+   "terms": [
+    {
+     "word": "人工知能",
+     "meaning": "人間のように考えてお仕事や計算をする、とても賢いコンピューターの技術のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5bbb4ba7fe6df849",
+   "url": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html",
+   "title_original": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
+   "source": "The New York Times",
+   "image": "",
+   "region": "海外",
+   "published": "2026-09-27T04:01:20+00:00",
+   "title_ja": "ミャンマーの争いで小型の飛行具が使われています",
+   "one_line": "ミャンマーで続く争いの中で、エンジン付きの小さな飛行具が攻撃に使われています。",
+   "what": "国を動かす立場を軍が国のかたちを変えてから何年も続くミャンマーの争いにおいて、軍がエンジン付きのパラグライダーなどを使い、反発するグループがいる地域を攻撃しています。",
+   "background": "ミャンマーでは、軍が国の力を使って政権を握ったことに対して、それに反対するグループとの間で激しい戦いが長く続いています。国の中の多くの場所で、今も争いが終わっていません。",
+   "impact": "日本の私たちの暮らしに直接大きな影響が出るわけではありませんが、世界のどこでどのような争いが起きているのかを知るための大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "クーデター",
+     "meaning": "国の政治の中心にいる人たちを、法律に逆らうようなやり方で急に追い出して、別の人が権力をにぎることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2262b4134847aa40",
+   "url": "https://www.sankei.com/article/20260927-6ZHMMFG3DBDTFEMFAXHBRG2WOI",
+   "title_original": "中道崩壊、日本のリベラル政党はガラパゴスか メディアの甘やかしが生んだ「独自の退化」",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/AMH5Y2VOM5PCHARKCFHUTCKL5M.jpg?auth=be56a4a81d0747f01a545f5b43d70d01c1efa9b61023014c6fdfc931876774cf&quality=50&focal=2165%2C1371&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-09-27T04:00:00+00:00",
+   "title_ja": "日本のリベラル政党のあり方を考える",
+   "one_line": "日本のリベラルと呼ばれる政党の政治的な立場や動きについて論じた記事です。",
+   "what": "日本の政治の中で「リベラル」と呼ばれる考え方を持つ政党について、その現状やこれまでの歩みを振り返る記事が掲載されました。",
+   "background": "日本では、憲法や平和主義を大切にし、格差をなくすことを重視する政党や政治家が「リベラル」と呼ばれることがあります。選挙でなかなか大きな支持を集められない理由について、さまざまな意見があります。",
+   "impact": "今すぐ私たちの暮らしが変わるものではありませんが、国会でどのような政治の意見が話し合われるのかを知るための話題の一つです。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "リベラル",
+     "meaning": "個人の自由や権利を大切にし、社会の不平等を直そうとする政治的な立場のことをいいます。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8b482e77c05b31ab",
+   "url": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss",
+   "title_original": "Detained Tunisian flotilla activists: Worsening health amid family anguish",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab420313d03-1790189617.jpg?resize=1200%2C675",
+   "region": "海外",
+   "published": "2026-09-27T03:51:46+00:00",
+   "title_ja": "チュニジアで拘束された活動家の家族が不安を訴える",
+   "one_line": "チュニジアで船団の活動家が拘束され、家族が健康状態の悪化や不安を訴えています。",
+   "what": "チュニジアという国で、船団に乗って活動していた人たちが拘束されました。家族からは、健康状態が悪くなっていることへの心配の声が上がっています。",
+   "background": "国や地域の間で意見が対立したり、法律やルールをめぐってトラブルが起きたりしたときに、抗議活動を行う人々が治安当局にとめられたり、おとなしくさせられたりすることがあります。",
+   "impact": "日本での直接の暮らしにはすぐに関わりませんが、世界各地で起きている人権や政治をめぐる問題の一つです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "活動家",
+     "meaning": "社会や政治の仕組みを変えるために、自分たちの意見を訴えて行動する人のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "57f3f195faa0d49c",
+   "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
+   "title_original": "German, Russian foreign ministers hold rare talks amid rising tensions",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26269641599869-1790475976.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-09-27T03:36:19+00:00",
+   "title_ja": "ドイツとロシアの外務大臣が話し合いを行う",
+   "one_line": "関係が緊張しているドイツとロシアの外務大臣が、珍しい話し合いを行いました。",
+   "what": "ドイツとロシアの外交の責任者である外務大臣が話し合いを行いました。お互いの意見の対立について、それぞれの主張が伝えられています。",
+   "background": "国と国のあいだで問題や争いが起きているとき、お互いの代表者が集まって話し合いを行うことを外交といいます。ロシアとヨーロッパの国々のあいだでは、安全保障をめぐって緊張する状態が続いています。",
+   "impact": "今すぐ日本の生活が変わるわけではありませんが、ヨーロッパ全体の安全や世界の経済の動きに影響を与えることがあります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "外務大臣",
+     "meaning": "国を代表して、外国との話し合いや外交の仕事を行う大臣のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3e0b9d6044ed4cb3",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260927de52671",
+   "title_original": "選挙中のSNSでの偽情報拡散 収益の仕組みなどめぐり与野党協議",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52671/20260927de52671_E0000036418_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-27T02:44:58+00:00",
+   "title_ja": "選挙のときのネットのうそ情報 与野党で話し合い",
+   "one_line": "選挙期間中にインターネットで広がるうそや偽の情報について、与野党が対策の話し合いを進めています。",
+   "what": "選挙のときにインターネットやSNSでうその情報が広がる問題について、与野党の話し合いの会合が開かれました。特に、見られた回数に応じてお金がもらえる仕組みをどうするかなどを話し合っており、近く考え方をまとめる予定です。",
+   "background": "選挙は、政治家を選ぶための大切な仕組みです。しかし、最近はインターネットやSNSを通じて、事実とは違う情報や、人をだますような情報が広がり、正しい判断を邪魔することが問題になっています。そのため、政治のルールを決める国会で、どのような対策が必要か議論されています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、将来の選挙のルールや、インターネットで情報を調べるときの仕組みが変わる可能性があります。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "与野党",
+     "meaning": "政治の中心になって国を動かす政党である「与党」と、それに対抗する「野党」のことです。"
+    },
+    {
+     "word": "SNS",
+     "meaning": "インターネットを使って、だれでも簡単に文章や写真、動画を投稿したり、ほかの人とやり取りしたりできるサービスののことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d7299c6a3f52346e",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260927de52673",
+   "title_original": "イラン外相 トランプ大統領の反応認識も仲介国待ち対応判断",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52673/20260927de52673_E0000036419_1_l.jpg",
+   "region": "国内",
+   "published": "2026-09-27T02:40:00+00:00",
+   "title_ja": "イラン外相 アメリカ大統領の反応への対応を検討",
+   "one_line": "イランの外務大臣が、アメリカのトランプ大統領の反応を受け、仲介する国からの連絡を待って次の対応を決めると述べました。",
+   "what": "イランのアラグチ外務大臣が、アメリカのトランプ大統領がイラン側の提案を拒否したことについて、アメリカ側の反応はわかっていると話しました。そのうえで、両国の間に入って話し合いを助ける「仲介国」からの連絡を待って、次にどうするかを判断する考えを示しました。",
+   "background": "中東にあるイランとアメリカは、長い間さまざまな問題で対立しています。特に海峡の安全や軍事的な問題は、世界のエネルギーや貿易に大きな影響を与えるため、両国の関係には世界中から注目が集まっています。直接の話し合いが難しい場合、第三の国が間に入って意見を伝える「仲介」という方法が使われます。",
+   "impact": "今すぐ私たちの暮らしやお金の使い方が直接変わるものではありませんが、中東の情勢や外国との関係によって、日本のエネルギーの輸入などに影響が出る場合があります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "外相",
+     "meaning": "国の外務大臣のことで、よその国との外交や話し合いを担当する仕事です。"
+    },
+    {
+     "word": "仲介国",
+     "meaning": "争っている国や話し合いがうまくいっていない国の間に入って、意見を伝えたり話をまとめたりする役割を引き受ける国のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "03f1e9b0be791e21",
+   "url": "https://www.theguardian.com/politics/2026/sep/26/belfast-court-decision-orange-order-march-garvaghy-road",
+   "title_original": "Loyalist parade in Northern Ireland given go-ahead as almost 30-year ban overturned",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/fab265b059ccc130c46e0713d3b5baa2e4ecbb15/60_0_3879_3104/master/3879.jpg?width=140&quality=85&auto=format&fit=max&s=4da44be566450f7616f7625362ca738c",
+   "region": "海外",
+   "published": "2026-09-27T02:39:51+00:00",
+   "title_ja": "北アイルランドで約30年ぶりの行進が認められる",
+   "one_line": "イギリスの北アイルランドで、およそ30年ぶりに禁止されていた特定のグループによる行進が認められました。",
+   "what": "イギリスの北アイルランドの町で、約30年間にわたって禁止されていたグループの行進が、裁判所の決定によっておこなわれることになりました。",
+   "background": "北アイルランドでは、イギリスに残りたい人々と、アイルランドとひとつになりたい人々の間で、長い間対立や争いが続いてきました。今回の行進をおこなうグループはイギリスとのつながりを強く支持する人たちで、反対の立場の人たちとの衝突が心配されています。",
+   "impact": "日本の暮らしに直接影響することはありませんが、長年対立が続いている地域での大きな動きとして、現地の安全や平和がどう保たれるのか注目されています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "オレンジオーダー",
+     "meaning": "北アイルランドでイギリスとのつながりを強く支持する、プロテスタント教徒を中心とした歴史的な組織のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "344cb34940c97b21",
+   "url": "https://www.nikkei.com/article/DGXZQOCD1689C0W6A910C2000000",
+   "title_original": "MIXIの挑戦 管理職は罰ゲームにあらず、「憧れの対象」へ待遇改善",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3608063016092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.84&fp-y=0.41&h=630&w=1200&s=f45f82c299389cc75830d02161e3b759",
+   "region": "国内",
+   "published": "2026-09-27T02:30:00+00:00",
+   "title_ja": "MIXIが管理職の待遇を改善する取り組み",
+   "one_line": "IT企業のミクシィが、管理職の仕事の負担を軽くし、あこがれの仕事にするための待遇改善にとりくんでいます。",
+   "what": "インターネット関連の企業であるミクシィが、会社の管理職の仕事を見直し、給料を増やすなどの待遇改善をおこなう方針を明らかにしました。",
+   "background": "会社で働く人のお金を管理したり、部下に仕事を割り振ったりする管理職は、責任や負担が重い一方で、給料があまり増えないなどの理由から、なり手不足が問題になることがあります。そのため、多くの企業が働き方を見直す動きを進めています。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、多くの会社で働く人たちの給料の決め方や、リーダーの働きやすい環境づくりに影響を与える可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "5c801ed3a92da4d2",
+   "url": "https://www.asahi.com/articles/ASV9L1GD8V9LULLI00CM.html",
+   "title_original": "試練乗り越え「産業ケアマネ」にかける60歳からのセカンドキャリア",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20260918002413_comm.jpg",
+   "region": "国内",
+   "published": "2026-09-27T02:00:00+00:00",
+   "title_ja": "60歳からの新しい仕事、介護と仕事を両立する専門家",
+   "one_line": "仕事を続けながら家族の介護をする人を支える「産業ケアマネ」という仕事に、60歳で挑戦する人が紹介されています。",
+   "what": "60歳を迎えた人が、人生の次のステップとして、働く人と介護をする人を結びつける「産業ケアマネ」という仕事にかける思いが取り上げられています。",
+   "background": "日本では、働く人が家族の介護を理由に仕事を辞めてしまうことが問題になってきました。「ケアマネジャー」は介護が必要な人がどのような手助けを受けられるか計画を立てる専門職ですが、企業の中で働く人を支える専門家は「産業ケアマネ」と呼ばれています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、将来、家族の介護と仕事をどのように両立するかを考えるときに、こうした専門家による支えが大切になってきます。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "産業ケアマネ",
+     "meaning": "会社で働きながら家族の世話をする人を手助けするため、介護の制度や仕事の両立方法についてアドバイスをする専門家のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "7dd513f96f88bc90",
+   "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+   "title_original": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108236093-1764784788711-gettyimages-2249777843-_m0a1995_il9os5ws.jpeg?v=1764784809&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-09-26T21:21:04+00:00",
+   "title_ja": "アメリカで自動車の燃費のルールが見直しへ",
+   "one_line": "アメリカのトランプ大統領が、前政権で進められてきた電気自動車を増やすための厳しい燃費のルールを取りやめると発表しました。",
+   "what": "アメリカのトランプ大統領が、自動車の新しい燃料の燃費に関する基準を承認し、電気自動車の普及を急ぐバイデン前政権の厳しいルールを元に戻す方針を示しました。",
+   "background": "アメリカでは、地球温暖化の原因となる二酸化炭素を減らすため、自動車の燃費の基準を厳しくして電気自動車を広く普及させようとする政策が進められてきました。しかし、どのような車を重視するかについては、政権によって考え方が異なることがあります。",
+   "impact": "アメリカでどのような車が作られやすくなるかが変わるため、世界中の自動車会社や、日本から車を輸出する企業の方針、私たちの将来の車の買い方にも影響する可能性があります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "電気自動車",
+     "meaning": "ガソリンを使わず、電気を動力源として走る自動車のことで、走行時に排気ガスを出さないのが特徴です。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "90a1ef280c71758d",
    "url": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
@@ -750,6 +1057,29 @@
     }
    ],
    "importance": 2
+  },
+  {
+   "id": "620d0272c163b870",
+   "url": "https://www.nikkei.com/article/DGXZQOCC122DH0S6A810C2000000",
+   "title_original": "「地方交付税なし」自治体の憂鬱 国借金肩代わり、新たな負担懸念も",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3545301003092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=474a7eff466c6cc4f2b1ff0f17d6a55c",
+   "region": "国内",
+   "published": "2026-09-26T20:00:00+00:00",
+   "title_ja": "「地方交付税なし」の自治体が抱えるお金の悩み",
+   "one_line": "国からお金をもらっていない一部の自治体が、過去の借金の肩代わりなどによって新たな金銭的な負担を心配しています。",
+   "what": "国からの「地方交付税」に頼らずに自分たちの税金などでやりくりしている自治体が、過去の借金の肩代わりなどの問題から、将来の負担が増えるのではないかと心配していることが伝えられています。",
+   "background": "「地方交付税」とは、税金が集まりにくい地方の自治体に、国が配るお金のことです。豊かな自治体にはこれが配られないことがありますが、それぞれの地域で必要な仕事や借金の返済をどのようにやりくりするかは、常に大きな課題となっています。",
+   "impact": "今すぐ私たちの家計が変わるわけではありませんが、住んでいる地域の自治体のお金のやりくりが厳しくなると、公共サービスの維持などに影響が出る可能性があります。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "地方交付税",
+     "meaning": "日本全国の自治体がどこでも同じように行政サービスを行えるよう、国が税収の少ない自治体へ配るお金のことです。"
+    }
+   ],
+   "importance": 3
   },
   {
    "id": "4b4f11e811e1dd6e",
@@ -7338,347 +7668,6 @@
    "category": "中東",
    "terms": [],
    "importance": 3
-  },
-  {
-   "id": "63fd172020c51d98",
-   "url": "https://www.theguardian.com/society/2026/sep/22/social-platforms-and-police-are-failing-women-abused-online-report-finds",
-   "title_original": "Jane told police intimate photos of her were online. They told her to go to the tech companies",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/f7e675aac980da2e90324f2505276207fa00d937/533_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=f115ae26be0876a34daf5a24b19a411f",
-   "region": "海外",
-   "published": "2026-09-22T16:22:25+00:00",
-   "title_ja": "インターネット上に公開された私的な写真への警察の対応に批判",
-   "one_line": "本人の同意がない写真がネットに公開された被害に対し、警察や運営会社の対応が不十分だという報告が出ました。",
-   "what": "ある女性が、自分の私的な写真が無断でネット上に載せられたため警察に相談したところ、自分でネット会社に相談するよう言われ、事件が十分に調べられずに終わってしまったことが報じられました。",
-   "background": "インターネットやスマートフォンが普及したことで、本人の同意なしに写真や個人情報がネット上に広められる被害が世界中で問題になっています。被害を受けた人が警察やネット会社の窓口に相談した際、どのような支援を受けられるかルールや仕組み作りが求められています。",
-   "impact": "インターネットを使うときのルールや、被害を受けた人が適切に助けを求められる仕組みが、今後どのように見直されていくのかに関わってきます。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "780802fd4d7d1146",
-   "url": "https://www.theguardian.com/music/2026/sep/22/church-accuses-sheeran-choosing-capitalism-over-right-thing",
-   "title_original": "Charlotte Church accuses Ed Sheeran of ‘choosing capitalism over doing the right thing’",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/4b494ffdddf2ff48754df462c4a389725802f620/980_462_3774_3021/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=25a094b81ab5539dba795b0ca887df37",
-   "region": "海外",
-   "published": "2026-09-22T16:20:31+00:00",
-   "title_ja": "音楽家の発言をめぐりコンサートツアーの出演者が外された問題",
-   "one_line": "歌手の発言がもとでコンサートツアーから出演者が外されたことについて、別の音楽家から批判の声が上がりました。",
-   "what": "アメリカでのコンサートツアーで、ステージ上で特定の地域に関する発言をした出演者が外されたことに対し、別の歌手が「利益を優先している」と批判しました。この影響で、他の出演者もツアーを辞退する動きが出ています。",
-   "background": "有名な音楽家が大規模なコンサートツアーを開くときには、多くの関係者や会場の管理者との調整が行われます。表現の自由をどう扱うかや、政治的な発言がイベントに与える影響について、社会的な議論になることがあります。",
-   "impact": "今すぐ私たちの暮らしに直接影響するわけではありませんが、エンターテインメントの分野における表現の自由や、社会的な意見の対立がどのように扱われるのかを示す出来事です。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "資本主義",
-     "meaning": "自由に商売をして利益を追い求めることを中心とする、現代の経済の仕組みのことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "f0e9a9301ee96630",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-   "title_original": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-17.16.58-1790093871.png?resize=1200%2C630",
-   "region": "海外",
-   "published": "2026-09-22T16:18:48+00:00",
-   "title_ja": "トランプ氏が国連で過去の外交について主張",
-   "one_line": "アメリカのトランプ大統領が国連で演説し、これまでに多くの紛争の解決に関わったと主張しました。",
-   "what": "アメリカのトランプ大統領が国連総会で演説し、ガザでの戦いを含めて、これまでに多くの戦争や争いを終わらせることに協力したと述べました。",
-   "background": "国連総会は、加盟しているすべての国が一堂に会して、世界のさまざまな問題について自分たちの意見や立場を発表する大切な場です。各国のリーダーが演説を行い、国際社会に向けて自国の政策や考えをアピールします。",
-   "impact": "今すぐ私たちの生活を変えるものではありませんが、アメリカの外交方針や国際社会での立場がどのように受け止められるのか、今後の世界情勢に影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "3ba9150202c13318",
-   "url": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms",
-   "title_original": "Iran: Trump believes in an agreement after US midterms",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/e8874df6-b6a1-11f1-939f-d382746d948a/w:1024/p:16x9/Trump-onu.jpg",
-   "region": "海外",
-   "published": "2026-09-22T16:17:06+00:00",
-   "title_ja": "アメリカ大統領がイランとの合意に前向きな姿勢を示す",
-   "one_line": "アメリカの大統領が、中東での争いを終わらせるための話し合いについて、秋の選挙の後に合意できるかもしれないと話しました。",
-   "what": "アメリカのドナルド・トランプ大統領が国連の会議で演説し、中東での争いを終わらせる約束をイランが守らない場合は厳しい手段をとる考えを示しつつも、11月の中間選挙の後には話し合いによる合意ができると考えていると述べました。",
-   "background": "国連とは、世界中の国々が話し合って世界の平和や安全を守るための大きな組織です。アメリカとイランは、長年にわたって意見が対立しており、特にイランの核開発や中東の地域をめぐる問題で緊張が続いています。",
-   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、世界全体が平和になるか、それとも争いが激しくなるかは、日本のエネルギーの価格や安全にも大きな関わりがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が集まって、世界の平和やみんなの困りごとを話し合って解決しようとする大きな組織のことです。"
-    },
-    {
-     "word": "中間選挙",
-     "meaning": "アメリカで大統領の任期の途中に、国会の議員などを新しく選ぶためにおこなわれる大きな選挙のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "2b95742190ae94a5",
-   "url": "https://news.yahoo.co.jp/pickup/6596196?source=rss",
-   "title_original": "日米首脳会談 高市氏の考えは",
-   "source": "Yahoo!ニュース 国内",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/23/2aa05a6b7a45093b679496121fbac66c339c13c338e726a5bdf2b39c80dc66a4.jpg",
-   "region": "国内",
-   "published": "2026-09-22T16:16:54+00:00",
-   "title_ja": "日米首脳会談で高市氏の考えが話題に",
-   "one_line": "日本とアメリカのトップが話し合う「日米首脳会談」で、高市氏の考え方について話し合われました。",
-   "what": "日本とアメリカのリーダーが顔を合わせて話し合う「日米首脳会談」がおこなわれ、その中で高市氏の考え方や方針について話題になりました。",
-   "background": "日米首脳会談とは、日本とアメリカの国の代表である首相や大統領が直接会って、お互いの国の協力関係や世界の政治について話し合う大切な会議のことです。",
-   "impact": "日本とアメリカの強い結びつきは、日本の安全や経済に大きく関わります。国のリーダー同士がどのような話をしたのかは、私たちの将来のくらしにも影響します。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "日米首脳会談",
-     "meaning": "日本とアメリカのトップである首相と大統領が、直接会ってこれからの協力や世界の課題について話し合う会議のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c0528bb53c69b087",
-   "url": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
-   "title_original": "Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108366202-17900877252026-09-22t143106z_725695937_rc2eonax5a1m_rtrmadp_0_un-assembly.jpeg?v=1790087827&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-22T16:14:00+00:00",
-   "title_ja": "アメリカ大統領が国連演説でイランやキューバを批判",
-   "one_line": "アメリカの大統領が国連の演説で、イランやキューバへの厳しい姿勢を示し、AIの成長を守る考えを語りました。",
-   "what": "アメリカのドナルド・トランプ大統領が国連の会議で演説し、アメリカに対する脅威は決して許さないと述べてイランやキューバを厳しく批判しました。一方で、AIの技術をさらに成長させていくことの大切さも主張しました。",
-   "background": "国連は、世界中の国々が集まって平和や安全について話し合う国際的な機関です。アメリカは世界の国々と協力しながら、自国の安全保障や技術の発展についてそれぞれの国に強く訴えかけています。",
-   "impact": "アメリカのこうした方針や発言は、世界全体の政治の動きや、私たちが使っているAIなどの新しい技術の広がり方に影響を与えることがあります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "AI",
-     "meaning": "人間の頭脳のように考えて動いたり、絵を描いたり文章を作ったりすることができる、コンピューターの新しい技術のことです。"
-    },
-    {
-     "word": "国連",
-     "meaning": "世界中の国々が参加して、世界の平和や地球のルールについて話し合う大きな組織のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8f71d3e38c94293e",
-   "url": "https://www.jiji.com/jc/article?k=2026092200774&g=int&m=rss",
-   "title_original": "ＩＣＣ加盟国に脱退呼び掛け イラン核阻止で協力要請―米大統領が国連演説",
-   "source": "時事通信",
-   "image": "https://www.jiji.com/news2/kiji_photos/202609/20260922at69S_o.jpg",
-   "region": "国内",
-   "published": "2026-09-22T16:12:00+00:00",
-   "title_ja": "アメリカ大統領が国連演説でICCからの脱退などを呼び掛け",
-   "one_line": "アメリカの大統領が国連の演説で、国際的な裁判所からの脱退を呼びかけ、イランの核開発を止めるための協力を求めました。",
-   "what": "アメリカのドナルド・トランプ大統領が国連で演説し、国際的な犯罪を裁く組織であるICCへの加盟国に対して脱退を呼びかけました。また、イランが核兵器を持つことを防ぐために、世界各国が協力するよう求めました。",
-   "background": "ICCとは、世界で起きた重い犯罪や争いでのルール違反を裁くための国際的な裁判所です。また、核兵器はとても大きな破壊力を持つため、世界中でこれ以上増やさないためのルールや協力が長年続けられています。",
-   "impact": "世界の安全を守るためのルールや組織がどのように変わるかは、日本を含む世界中の国々の安全や平和な暮らしに大きく関わっています。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "ICC",
-     "meaning": "世界で起きた重い犯罪や戦争のルール違反を調べて、個人を裁判にかけるための国際的な裁判所のことです。"
-    },
-    {
-     "word": "核",
-     "meaning": "非常に大きなエネルギーや破壊力を持つ兵器などのもとになるもので、世界の平和を守るために厳しく管理されています。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d65f021b932452c0",
-   "url": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
-   "title_original": "Trump TV: Can the US president bypass mainstream media?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab27742bda8-1790080834.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-22T15:33:22+00:00",
-   "title_ja": "アメリカのトランプ大統領が自分のチャンネルをはじめたこと",
-   "one_line": "アメリカのトランプ大統領が、ホワイトハウスの記者たちと意見が合わない中で、自分専用のテレビチャンネルをスタートさせました。",
-   "what": "アメリカのトランプ大統領が、ホワイトハウスの記者団とギクシャクした関係がつづく中で、自分専用のテレビチャンネルを新しく立ち上げました。",
-   "background": "アメリカの大統領と、テレビや新聞などの大手メディアは、ニュースの伝え方をめぐって意見がぶつかることがよくあります。大統領は自分の考えを直接国民に伝えるために、これまでもインターネットなどを工夫して使ってきました。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、政治家が新しい手段を使って情報を発信することが、これからの世の中にどんな影響を与えるか注目されます。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "b6f374c386aa5489",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260922de51928",
-   "title_original": "国連総会で事務総長“超大国は限界自覚し多国間体制を”",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51928/20260922de51928_E0000034374_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-22T15:19:08+00:00",
-   "title_ja": "国連総会で事務総長が協力しあう大切さを訴えたこと",
-   "one_line": "国連のトップである事務総長が、国連総会で大きな国も力の限界を認めて、みんなで話し合って協力しあうよう訴えました。",
-   "what": "世界中から国のリーダーが集まる国連総会で、グテーレス事務総長が演説をしました。その中で、力のある大きな国も自分たちの限界を知り、国連を中心にして世界各国が話し合いで問題を解決する仕組みを守ることが大切だと強調しました。",
-   "background": "国際連合（国連）は、第二次世界大戦のあとに世界の平和や安全を守るため、そして国同士が協力し合うために作られた話し合いの場です。世界のさまざまな国が集まり、地球規模の問題について話し合います。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、世界の国々がどのように手を取り合って戦争や地球のピンチを防ぐのかという、これからの世界のルールや平和に関わる大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "国連総会",
-     "meaning": "世界中からすべての加盟国の代表が集まって、世界の平和やルールについて話し合う、国際連合の最も大切な会議のこと。"
-    },
-    {
-     "word": "事務総長",
-     "meaning": "国際連合の仕事のリーダーであり、世界に向けて平和のための意見を言ったり、話し合いのまとめ役をしたりする人のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "877dbc3fa3ed4b29",
-   "url": "https://news.yahoo.co.jp/pickup/6596192?source=rss",
-   "title_original": "地方のキャバクラ 経営「四重苦」",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/22/f3ae35906f8fea6cc359ef3a73e7531605d07b89c4ccf443ab069e9c4a7aa7aa.jpg",
-   "region": "国内",
-   "published": "2026-09-22T14:01:34+00:00",
-   "title_ja": "地方のキャバクラ経営が四重苦で厳しい状況にあること",
-   "one_line": "地方にあるキャバクラなどの夜のお店が、重なる負担によって経営がとても厳しい状態にあると伝えられています。",
-   "what": "地方にあるキャバクラなどの夜の飲食店が、経営においてさまざまな重い負担（四重苦）を抱え、厳しい状況になっていると報じられています。",
-   "background": "街の飲食店や夜のお店は、物の値段が上がることや、お客さんの使い方、働く人の不足など、社会や経済のさまざまな変化の影響を直接受けやすい仕組みになっています。",
-   "impact": "今すぐ私たちの日常の買い物や生活が直接変わるわけではありませんが、地域の小さなお店やサービス業が直面している景気の厳しさを知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "40888b6e21e9e88d",
-   "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-   "title_original": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold War base: Report",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108256548-1769198310705-gettyimages-2257829943-2s4a4978_f5t6ftkr.jpeg?v=1769198363&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-22T11:11:32+00:00",
-   "title_ja": "アメリカがグリーンランドの安全保障で合意",
-   "one_line": "アメリカがグリーンランドの安全保障をずっと引き受けることで合意しました。",
-   "what": "トランプアメリカ大統領が、デンマークの自治領であるグリーンランドとの間で、安全保障をずっとアメリカが管理する取り決めを結んだと発表しました。",
-   "background": "グリーンランドは北極圏にあり、まわりに氷が広がるとても寒い場所です。デンマークの土地ですが、自分たちのことは自分たちで決める「自治」が認められています。また、むかしから世界のおもな国々にとって、軍事的にとても大事な場所でした。",
-   "impact": "今すぐ私たちの暮らしがすぐに変わるわけではありませんが、遠い北の海でアメリカや関係する国々の動きが大きく変わるかもしれません。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "安全保障",
-     "meaning": "国やその地域が、ほかの国からの攻撃や危険から守られ、平和や安全を保つ仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a59caa3d2254b3bb",
-   "url": "https://mainichi.jp/articles/20260922/k00/00m/030/150000c",
-   "title_original": "トランプ氏、国連総会演説へ 対イラン戦闘の成果強調",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/09/22/20260922k0000m030148000p/0c10.jpg?1",
-   "region": "国内",
-   "published": "2026-09-22T11:09:55+00:00",
-   "title_ja": "トランプ氏が国連総会の演説で成果を強調へ",
-   "one_line": "トランプ氏が国連総会の演説でイランとの戦いの成果をアピールするとみられています。",
-   "what": "トランプアメリカ大統領が、国の代表が集まる会議である国連総会で演説することになりました。イランとの戦いで得られた成果を強調する予定です。",
-   "background": "国連総会は、世界中の多くの国が集まって、世界の平和や困りごとについて話し合う大きな会議です。ここでは各国のリーダーが自分たちの考えや最近の成果を世界に向けて発表します。",
-   "impact": "今すぐ日本の私たちの生活が変わることはありませんが、世界全体の空気や、アメリカとイランの関係に影響する可能性があります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "国連総会",
-     "meaning": "世界中のすべての加盟国が集まり、世界の平和や協力について話し合う、年に一度の大きな会議のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "39d094084a16c38e",
-   "url": "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html",
-   "title_original": "Trump Set to Meet With Persian Gulf Allies as Middle East Wars Widen",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22int-trump-gulf-leaders-01-pqjm/22int-trump-gulf-leaders-01-pqjm-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-22T11:09:48+00:00",
-   "title_ja": "トランプ氏が中東の国々と会談へ",
-   "one_line": "中東で争いが広がる中、アメリカのトランプ大統領が地域の仲間たちと会談します。",
-   "what": "中東で続く争いが広がるなか、トランプアメリカ大統領がペルシャ湾のまわりにある国々の代表たちと会談する予定です。",
-   "background": "ペルシャ湾のまわりには、たくさんの石油がとれる国が集まっています。この地域では、国同士の争いやグループ間の戦いが起きており、世界中から心配されています。アメリカはこれまでもこの地域の安全を守る役割を担ってきました。",
-   "impact": "中東の状況は、日本が買う石油の値段や私たちの暮らしに大きな関係があります。今後の動きには注意が必要です。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "安全保障の保証",
-     "meaning": "ある国が危険な目にあったとき、別の国が軍事的な力などを使って守るという約束のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "4c1c339ec963597f",
-   "url": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
-   "title_original": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22int-china-xi-01-pmgl/22int-china-xi-01-pmgl-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-22T11:08:43+00:00",
-   "title_ja": "中国の習近平指導者がアメリカとの和平を模索",
-   "one_line": "中国のリーダーがアメリカとの関係を落ち着かせようとしています。",
-   "what": "中国の指導者である習近平氏が、アメリカの大統領との会談で、関係の落ち着きを長持ちさせようと働きかける見通しとなりました。",
-   "background": "中国とアメリカは、お互いの貿易や技術をめぐって長い間ぶつかり合ってきました。また、中国国内では景気が思うように良くならないという問題も抱えています。そのため、アメリカとの激しい争いを一時的にでも止めたいという事情があります。",
-   "impact": "世界で一番大きな力を持つ二つの国の関係がうまくいくかどうかは、世界の経済や日本の企業にも大きな影響を与えます。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [
-    {
-     "word": "和平",
-     "meaning": "国と国とが戦争や激しい争いをやめて、平和な状態に戻ること、またはそのための約束のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "4251b1aa59e879ad",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-   "title_original": "Trump set to address UNGA with Middle East and Ukraine on agenda – US politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/a25b42e2be033e6f69d3a2acfe088ab740d153fb/1361_323_5481_4385/master/5481.jpg?width=140&quality=85&auto=format&fit=max&s=4fe3130d7216a2378689fceb619c1cbe",
-   "region": "海外",
-   "published": "2026-09-22T11:08:02+00:00",
-   "title_ja": "トランプ大統領が国連総会で演説へ　中東やウクライナ情勢を話し合い",
-   "one_line": "アメリカのトランプ大統領が、国連総会で中東やウクライナの問題について演説を行います。",
-   "what": "アメリカのトランプ大統領が、国連総会で中東やウクライナの問題をテーマに演説を行う予定です。トランプ大統領は演説のほかに、世界各国の１１人のリーダーたちと個別に話し合いをすることも決まっており、これからの世界情勢を左右する重要な場となります。",
-   "background": "国連総会とは、世界中の国々が集まって、地球全体の安全や平和、協力について話し合う年に一度の大きな会議です。特に戦争が続いているウクライナの情勢や、対立が激しくなっている中東の地域をどうやって平和に導くかは、世界中が今すぐに解決しなければならない最も大切なテーマとなっています。",
-   "impact": "世界のリーダーたちが話し合って戦争を止めるルールを作れるかどうかは、私たちの安全や、物の値段（ガソリンや電気代、食べ物など）が安定するかどうかに深く関わっています。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "国連総会",
-     "meaning": "世界中の国々の代表が集まり、地球全体の平和や安全、協力について話し合う年に一度の大きな会議。"
-    }
-   ],
-   "importance": 4
   }
  ]
 }
