@@ -5,9 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>やさしいニュース解説</title>
 <meta name="description" content="政治・経済・国際のニュースを、そもそもの背景からやさしく解説します。国内外の報道を自動で集めて、6時間ごとに更新。">
-<meta name="color-scheme" content="light dark">
-<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0f1115" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="only light">
+<meta name="theme-color" content="#e9eaec">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="やさしいニュース">
 <meta property="og:title" content="やさしいニュース解説">
@@ -20,7 +19,8 @@
 <style>
   /* ---------------------------------------------------------------- 色（このサイトの分） */
   :root {
-    --bg: #f1f2f4;
+    color-scheme: only light;
+    --bg: #e9eaec;
     --card: #ffffff;
     --text: #1a1d21;
     --muted: #666b73;
@@ -29,7 +29,7 @@
     --soft: rgba(47,93,138,.08);
     --chip: rgba(0,0,0,.05);
     --seg-on: #ffffff;
-    --header: rgba(255,255,255,.86);
+    --header: rgba(233,234,236,.9);
     --shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.05);
     --radius: 16px;
     --seiji: #3a6ea5;
@@ -37,25 +37,6 @@
     --kokusai: #a65a2f;
     --panel: #f5f6f8;
     --ph-bg: radial-gradient(120% 90% at 30% 20%, #6d9cc9 0%, #2f5d8a 45%, #16304b 100%);
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #0f1115;
-      --card: #181b20;
-      --text: #eceef1;
-      --muted: #9aa0a8;
-      --line: rgba(255,255,255,.08);
-      --accent: #7fb0e3;
-      --soft: rgba(127,176,227,.13);
-      --chip: rgba(255,255,255,.07);
-      --seg-on: #2b3038;
-      --header: rgba(15,17,21,.82);
-      --shadow: 0 0 0 1px rgba(255,255,255,.05);
-      --seiji: #7fb0e3;
-      --keizai: #6cc79a;
-      --kokusai: #e59a6a;
-      --panel: #20242a;
-    }
   }
 
   * { box-sizing: border-box; }
@@ -293,7 +274,6 @@
 
   /* ---------------------------------------------------------------- このサイトだけの部品 */
   .logo { background: var(--accent); color: #fff; letter-spacing: .06em; font-size: 10px; }
-  @media (prefers-color-scheme: dark) { .logo { color: #0f1115; } }
   .wordmark { letter-spacing: .06em; font-size: 18px; }
   .genre { font-weight: 900; letter-spacing: .04em; }
   .genre.seiji { color: var(--seiji); }
