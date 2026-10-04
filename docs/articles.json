@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T21:05:03.322657+09:00",
+ "updated_at": "2026-10-05T06:06:34.865098+09:00",
  "genres": [
   "政治",
   "経済",
@@ -39,6 +39,7 @@
   "NHKニュース 国際",
   "NHKニュース 政治",
   "NHKニュース 経済",
+  "The Economist",
   "The Guardian",
   "The New York Times",
   "Yahoo!ニュース 国内",
@@ -58,30 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "407c015a915d8c12",
-   "until": "2026-10-04T12:30:02.951730+00:00"
-  },
-  {
-   "id": "cd50cb4b54b6c76d",
-   "until": "2026-10-04T12:30:02.951730+00:00"
-  },
-  {
-   "id": "21695427161d2908",
-   "until": "2026-10-04T12:30:02.951730+00:00"
-  },
-  {
-   "id": "87d9dd51cdf9e088",
-   "until": "2026-10-04T12:30:02.951730+00:00"
-  },
-  {
-   "id": "bb8370260a7a7e00",
-   "until": "2026-10-04T12:30:02.951730+00:00"
-  },
-  {
-   "id": "ddd6b78bdfd3fb68",
-   "until": "2026-10-04T12:30:02.951730+00:00"
-  },
   {
    "id": "123840852ca3e58f",
    "until": "2026-10-04T22:04:33.691346+00:00"
@@ -641,10 +618,521 @@
   {
    "id": "5035e4a756ae00e6",
    "until": "2026-10-09T12:05:03.322657+00:00"
+  },
+  {
+   "id": "94beacacd101e8d4",
+   "until": "2026-10-09T21:06:34.865098+00:00"
+  },
+  {
+   "id": "3581bf65ac493aed",
+   "until": "2026-10-09T21:06:34.865098+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "ff5167751dfebadf",
+   "url": "https://mainichi.jp/articles/20261002/k00/00m/010/133000c",
+   "title_original": "政界は「応仁の乱」前夜？ 亀井静香さんが語るポスト野党共闘",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/10/02/20261002k0000m010134000p/0c10.jpg?1",
+   "region": "国内",
+   "published": "2026-10-04T21:00:21+00:00",
+   "title_ja": "政界の仕組みとこれからの野党の動きについて",
+   "one_line": "政治の世界で、政党同士がくっついたり離れたりする動きについて考えるお話です。",
+   "what": "政治の世界のこれからや、野党がどのように協力し合っていくべきかについて、過去の政治の様子もふまえて語られています。",
+   "background": "日本の政治は、自分たちの考え方に近い政党同士が力を合わせたり、ときに対立したりしながら選挙や国会での話し合いを行ってきました。政党の組み合わせが変わることは、政権交代を目指すうえで大きな意味を持ちます。",
+   "impact": "今すぐ私たちの暮らしやお金が変わるわけではありませんが、国のリーダーや方針を決める政治の仕組みに直接つながる話題です。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "f1861ab143cbfd14",
+   "url": "https://toyokeizai.net/articles/-/959932",
+   "title_original": "〈特別対談〉アメリカは｢ロシア支援国｣に最大100％関税も…中間選挙で民主党勝利ならトランプ外交に一段の圧力も | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/1/2/1200w/img_124e464f6448452e67aac6523d8db64d293843.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-10-04T21:00:00+00:00",
+   "title_ja": "アメリカの政治の動きと世界の国々への影響",
+   "one_line": "アメリカで行われる選挙の結果が、世界の国々との関係にどう影響するかというお話です。",
+   "what": "アメリカの選挙の行方によって、ウクライナをめぐる外国同士の争いや、外国からの輸入品にかける税金のルールがどう変わるのかについて専門家が話し合っています。",
+   "background": "アメリカは世界に大きな影響力を持つ国です。そのため、アメリカ国内でどの政党が力を持つかによって、世界中の国々との約束事や、貿易のルール、安全を守るための外交のやり方が大きく変わることがあります。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるわけではありませんが、日本のまわりの安全や、輸入品の値段を通じて家計に影響する可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "関税",
+     "meaning": "外国から品物を買うときに、国が上乗せしてかける税金のことです。自国の品物を守るために使われます。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "51e3f6a341f538e3",
+   "url": "https://toyokeizai.net/articles/-/959903",
+   "title_original": "｢石油化学事業は独立した形が最適｣､半導体材料への集中急ぐレゾナックCFOが語るクラサス｢Pスピンオフ｣の狙い | ビジネス | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/7/4/1200w/img_7478f22737b015e21d2094fa336cd05c227994.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-10-04T21:00:00+00:00",
+   "title_ja": "会社が事業を切り離して新しい形にする理由",
+   "one_line": "大きな会社が、自分の事業を別の会社として独立させる仕組みについての話題です。",
+   "what": "ある会社が、石油化学の事業を新しく別の会社として切り離し、今後は半導体の材料を作る事業に力を入れていく方針を語っています。",
+   "background": "会社は、時代の変化に合わせて自分たちが一番得意な仕事や、これから伸びる仕事に集中しようとすることがあります。そのため、持っている事業の一部を切り離して独立させたり、別の会社にしたりすることが行われます。",
+   "impact": "今すぐ私たちの生活が大きく変わるものではありませんが、会社が新しい技術に力を入れることで、将来の製品や産業のあり方に影響を与えます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "スピンオフ",
+     "meaning": "会社の事業の一部を切り離して、新しく独立した会社にすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b1baa8c288f8c406",
+   "url": "https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html",
+   "title_original": "The Return of Middle East Oil",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-theworld-hormuz-lwqh-promo/05int-theworld-hormuz-lwqh-promo-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-10-04T20:58:41+00:00",
+   "title_ja": "中東の海をとおる石油の動きと世界の国々への影響",
+   "one_line": "中東の海をとおる石油の量が増えたことで、まわりの国にどんな影響があるかというお話です。",
+   "what": "ホルムズ海峡という海を通って運ばれる石油の量が増えたことが、戦争をしているイランという国にとって、どのような力関係の変化を生むのかを伝えています。",
+   "background": "中東は世界中で使われる石油がたくさん取れる大切な地域です。狭い海峡を通って石油が世界中に運ばれるため、この地域の安定は世界全体のエネルギー事情を大きく左右します。",
+   "impact": "今すぐガソリンの値段などが急に変わるわけではありませんが、世界の石油の流れが変わることは、私たちのくらしやエネルギーの値段に結びついています。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "ホルムズ海峡",
+     "meaning": "中東にある、石油を運ぶ船がたくさん通るとても狭い海のことです。世界のエネルギーにとって重要な場所です。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "379bdc2b6a109b43",
+   "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+   "title_original": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04dc-ukbase-plot-lwbh/04dc-ukbase-plot-lwbh-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-10-04T20:55:20+00:00",
+   "title_ja": "アメリカ軍、イギリスの基地から爆撃機を急きょ移動",
+   "one_line": "アメリカ軍が、イギリスにある基地から爆撃機を急きょ別の場所へ動かしました。",
+   "what": "アメリカ軍が、イギリスにある空軍基地から、爆撃機をとても急いで別の場所へ移動させました。アメリカの政府関係者によると、イランが関わっているとみられる、この基地への危険な計画についての情報があったためだということです。",
+   "background": "そもそも軍の基地は、戦闘機や爆撃機、兵士などを置いて、いざというときに備える場所です。国と国との関係が緊張しているときには、テロや攻撃の標的にされないよう、飛行機を急いで別の安全な場所へ動かすことがあります。",
+   "impact": "今すぐに私たちの生活や日本の安全が直接変わるものではありませんが、海外にあるアメリカ軍の基地をめぐる緊迫した動きは、世界の安全保障の状況を考える上で大切なニュースです。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "42712a1c4b5bf587",
+   "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+   "title_original": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/8887125ce6f772e5ec61e7ca43fd4945ba9ac1e6/1723_16_4171_3336/master/4171.jpg?width=140&quality=85&auto=format&fit=max&s=8af7065b7eb7150baf5fdf122a03e1d0",
+   "region": "海外",
+   "published": "2026-10-04T20:42:08+00:00",
+   "title_ja": "ボスニアの選挙でセルビア人勢力の政党が勝利を宣言",
+   "one_line": "ボスニアの選挙で、ロシア寄りの政治家が率いる政党が勝利を宣言しました。",
+   "what": "ヨーロッパのボスニアという国でおこなわれた選挙で、ボスニア・セルビア人のナショナリストであるドディク氏が、自身の率いる政党の勝利を宣言しました。この国では、経済の難しさや、ヨーロッパ連合への加盟を目指す動き、かつての戦争以来の民族間の対立が続いています。",
+   "background": "そもそも選挙とは、国民や住民が投票によって自分たちの代表を選ぶ仕組みです。ボスニアは1990カ年代前半に激しい内戦を経験した歴史があり、現在も異なる民族の間で意見が分かれやすい複雑な政治の仕組みを持っています。",
+   "impact": "今すぐ私たちの暮らしに直接影響が出るわけではありませんが、ヨーロッパの国々やロシアとの関係に影響を与える地域で、政治の不安定さや民族の対立がどうなるのか、世界が注目しています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "ナショナリスト",
+     "meaning": "自分たちの民族や国の利益や伝統をとても大切にし、他の民族や国と対立することがある人のことです。"
+    },
+    {
+     "word": "separatist",
+     "meaning": "国から分かれて独立しようとする考え方や、その動きのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "992f3c88ac7c78e5",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+   "title_original": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac1552b9e3b-1791055147.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-10-04T20:00:05+00:00",
+   "title_ja": "ブラジル大統領選挙、現職と前職が激しく競い合う",
+   "one_line": "ブラジルの大統領選挙で、候補者同士の激しい選挙戦が繰り広げられています。",
+   "what": "南アメリカのブラジルで行われている大統領選挙で、左派の現職であるルラ氏と、右派のフラビオ・ボルソナロ上院議員が、票を激しく争う接戦となっています。",
+   "background": "そもそも大統領選挙とは、国のリーダーである大統領を選ぶためにおこなわれる国民投票の仕組みです。ブラジルでは、政治の考え方が異なるグループの間で、国の進むべき道をめぐって長い間激しい選挙戦が続けられています。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、世界的に大きな影響力を持つブラジルの新しいリーダーがどちらになるのかは、国際社会の経済や政治に大きな関わりを持っています。",
+   "genre": "国際",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "左派",
+     "meaning": "社会の格差をなくすことや、国が経済や福祉に大きく関わることを大切にする政治の考え方です。"
+    },
+    {
+     "word": "右派",
+     "meaning": "伝統や国の安全、個人の自由な経済活動を大切にする政治の考え方です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "42370f7aa547b994",
+   "url": "https://www.nikkei.com/article/DGXZQOGN02C0R0S6A001C2000000",
+   "title_original": "下がらぬ米長期金利の異変 新債券王「景気後退でも上昇の恐れ」",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3677587003102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.79&fp-y=0.81&h=630&w=1200&s=14afda67fc0dd972e840957723198312",
+   "region": "国内",
+   "published": "2026-10-04T20:00:00+00:00",
+   "title_ja": "アメリカの国債の金利が下がらない異変について",
+   "one_line": "アメリカの長い時間の国債の金利が高止まりし、景気が悪くなっても上がり続ける心配が出ています。",
+   "what": "アメリカの国債の金利が下がらないという異変が起きており、新債券王と呼ばれる専門家が、景気が悪くなっても金利が上がる恐れがあると指摘しました。",
+   "background": "国債というのは、国がお金を借りるために発行する証券のことです。国は国債を買ってもらうために、利息として「金利」を払います。一般的に、景気が悪くなると金利は下がるとされていますが、今回は下がらない状態が続いています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、アメリカの金利の動きは世界中のお金の流れや日本の円の価値、物価などに大きな影響を与えます。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "長期金利",
+     "meaning": "国にお金を貸すときの期間が長い場合の利息の割合のことです。世の中のさまざまなローンや会社の借り入れの金利の基準になります。"
+    },
+    {
+     "word": "景気後退",
+     "meaning": "ものやサービスの売れ行きが落ち込み、会社がもうからなくなって、社会全体が元気のなくなる状態のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "73ce686bfc23008e",
+   "url": "https://www.nikkei.com/article/DGXZQOCC30C9D0Q6A930C2000000",
+   "title_original": "群馬県「デジタル人材バンク」構想浮上の背後に2つの現実",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3673946002102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.34&fp-y=0.42&h=630&w=1200&s=7613a3e20c52774c695d6d80659c9872",
+   "region": "国内",
+   "published": "2026-10-04T20:00:00+00:00",
+   "title_ja": "群馬県のデジタル人材バンク構想の背景にある現実",
+   "one_line": "群馬県が進めようとしている、パソコンやインターネットに詳しい人を集める仕組みの背景には、2つの現実があります。",
+   "what": "群馬県で「デジタル人材バンク」という構想が浮上しており、その背景には2つの現実があると伝えられています。",
+   "background": "地方の自治体では、コンピューターやインターネットの専門的な知識を持つ人が足りていないという問題があります。そうした技術を持つ人を民間から集めて行政の仕事に生かそうとする動きが各地で検討されています。",
+   "impact": "今すぐ私たちの暮らしが大きく変わるものではありませんが、自治体の仕事が便利になったり、新しいサービスが始まったりする可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "デジタル人材",
+     "meaning": "パソコンやインターネット、AIなどの最先端の技術を使いこなして、仕事を効率よくしたり新しい仕組みを作ったりできる人のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "06dad4b620fa24a4",
+   "url": "https://www.dw.com/en/brazil-polls-close-in-tight-race-between-lula-and-bolsonaro/a-79533857?maca=en-rss-en-world-4025-rdf",
+   "title_original": "Brazil: Polls close in tight race between Lula and Bolsonaro",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79539264_6.jpg",
+   "region": "海外",
+   "published": "2026-10-04T20:00:00+00:00",
+   "title_ja": "ブラジル大統領選挙でルラ氏とボルソナロ氏が競り合う",
+   "one_line": "ブラジルで行われた大統領選挙で、現職のルラ氏と前大統領のボルソナロ氏の息子が関わる選挙戦が行われました。",
+   "what": "ブラジルの大統領選挙で投票が締め切られ、事前の世論調査では1回目の投票だけでは決まらず、上位2人による2回目の投票に進む可能性が高いと伝えられています。",
+   "background": "大統領選挙は、国を代表するリーダーを選ぶ大切な選挙です。ブラジルでは、意見の違う政治家同士が競い合うことが多く、今回の選挙も多くの有権者の注目を集めました。投票で過半数を取る人がいない場合、上位の2人で再度投票を行う仕組みになっています。",
+   "impact": "今すぐ日本での私たちの暮らしが直接変わるわけではありませんが、南アメリカの大きな国であるブラジルの政治の行方は、世界の経済や貿易に影響を与えることがあります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "決選投票",
+     "meaning": "1回目の投票で決着がつかなかったときに、票数の多かった上位2人だけで改めて投票を行い、勝負を決める仕組みのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "35a11407aab8ba1d",
+   "url": "https://www.asahi.com/articles/ASVB41PGJVB4UTFK00QM.html",
+   "title_original": "どうなる国会 まず消費減税、定数削減で対立必至 国会改革も焦点に",
+   "source": "朝日新聞 政治",
+   "image": "https://imgopt.asahi.com/ogp/AS20261004002257_comm.jpg",
+   "region": "国内",
+   "published": "2026-10-04T20:00:00+00:00",
+   "title_ja": "始まる国会の話し合い 消費税や議員の数で意見が対立",
+   "one_line": "新しい国会が始まり、消費税をどうするかや議員の数を減らす議論が始まります。",
+   "what": "これから始まる国会で、消費税を安くすることや、国会議員の数を減らすことなどをめぐり、話し合いの対立が予想されています。",
+   "background": "国会は、日本全国の代表である議員が集まって、国の方針や法律、税金の使い方などを決める場所です。選挙で選ばれた人たちが話し合いを行い、多数決で物事を決める日本の政治の中心となっています。",
+   "impact": "国会での話し合いの結果は、私たちが払う税金の仕組みや、これからの物価の動き、社会のルールを大きく変えることにつながります。",
+   "genre": "政治",
+   "category": "国会・法律",
+   "terms": [
+    {
+     "word": "国会",
+     "meaning": "日本全国の代表である議員が集まって、新しい法律を作ったり、国のお金の使い方を決めたりする場所のことです。"
+    },
+    {
+     "word": "消費減税",
+     "meaning": "買い物や食事をするときにかかる消費税の割合を、今よりも安くすることです。"
+    },
+    {
+     "word": "定数削減",
+     "meaning": "国で働いている議員の全体の人数を減らすことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6ed2844d9cb34396",
+   "url": "https://www.nikkei.com/article/DGXZQOUC102HK0Q6A810C2000000",
+   "title_original": "「選ばれる買収案、価格とシナジーが両立」 みずほ証券の木戸執行役員",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3654030029092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.73&fp-y=0.26&h=630&w=1200&s=559e5ff448fb30ab0e7a9ea2213a1175",
+   "region": "国内",
+   "published": "2026-10-04T20:00:00+00:00",
+   "title_ja": "会社を買うときのポイント みずほ証券の担当者が語る",
+   "one_line": "会社を買うときは、値段の安さだけでなく、一緒になることで生まれる相乗効果が大切です。",
+   "what": "みずほ証券の木戸執行役員が、企業が別の企業を買収するときの重要なポイントとして、価格の安さと一緒になることで生まれる効果の二つが両立している必要があると述べました。",
+   "background": "会社を買う「買収」は、ある会社が別の会社の株を買い占めたりして、自分のグループの仲間に入れる仕組みです。会社同士が一緒になることで、新しい仕事に進んだり、効率よく利益を出したりするために行われます。",
+   "impact": "企業の買収がうまくいけば、会社の仕組みが変わったり新しいサービスが生まれたりして、私たちの仕事や買い物に影響を与えることがあります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "買収",
+     "meaning": "ある会社が別の会社の株などを買って、自分たちのグループの仲間や部下にすることです。"
+    },
+    {
+     "word": "シナジー",
+     "meaning": "二つのものが一緒になることで、一人では出せないような大きな効果や成果を生み出すことです。"
+    },
+    {
+     "word": "執行役員",
+     "meaning": "会社の中で、決まった仕事を実際に進めたり、部下をまとめて動かしたりする役職のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "65c44d767df1980f",
+   "url": "https://www.nikkei.com/article/DGXZQOUC01BBB0R01C26A0000000",
+   "title_original": "仕込み代行サービスのシコメル、AIで飲食店と委託工場を仲介へ",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3670357001102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.71&fp-y=0.19&h=630&w=1200&s=0a80358ea25e45a959ec66554741c7e6",
+   "region": "国内",
+   "published": "2026-10-04T20:00:00+00:00",
+   "title_ja": "シコメルがAIを使い飲食店と工場を仲介へ",
+   "one_line": "仕込みを代行する会社が、人工知能を使って飲食店と工場をつなぐサービスを始めます。",
+   "what": "仕込み代行サービスの「シコメル」が、人工知能（AI）を使って、料理の仕込みを頼みたい飲食店と、仕事を引き受けたい工場をうまく引き合わせる仕組みを作ると発表しました。",
+   "background": "飲食店の仕事では、お客様に料理を出す前の「仕込み」に多くの時間と手間がかかります。この仕込みの部分だけを、専門の工場が代わりに引き受ける仕事が広がっています。",
+   "impact": "飲食店が仕込みを外の工場にお願いしやすくなることで、お店の負担が減り、人手不足の中でも美味しい料理が食べ続けられることにつながります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "AI",
+     "meaning": "人間の頭で考えるような作業を、コンピューターが代わりに考えて行う仕組みのことです。"
+    },
+    {
+     "word": "仕込み",
+     "meaning": "料理を作る前に、野菜を切ったりお肉をたれに漬け込んだりして、調理の下準備をしておくことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "494561423b197e26",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261005de54388",
+   "title_original": "臨時国会きょう召集 消費税減税法案などで論戦へ",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54388/20261005de54388_E0000042752_1_l.jpg",
+   "region": "国内",
+   "published": "2026-10-04T19:54:04+00:00",
+   "title_ja": "臨時の国会が今日からスタート 消費税などで議論へ",
+   "one_line": "内閣が新しくなって初めての国会が始まり、消費税や物価への対策をめぐって議論が始まります。",
+   "what": "内閣が新しくなって初めての話し合いの場となる臨時国会が5日に始まりました。政府や与党は食料品の消費税を下げる法案を通そうとする一方、野党側はその効果や財源について厳しく質問する予定です。",
+   "background": "国会は、法律や予算を決める日本の大切な場所です。その中でも「臨時国会」は、特別な事情があったり、急いで話し合う必要があるときに臨時に開かれる会議のことです。",
+   "impact": "私たちの暮らしに直結する消費税の仕組みや、上がってしまった物価に対する対策がどう決まるのかが決まるため、家計や買い物に大きな影響を与えます。",
+   "genre": "政治",
+   "category": "国会・法律",
+   "terms": [
+    {
+     "word": "臨時国会",
+     "meaning": "通常の時期以外に、急いで話し合う必要がある特別な理由ができたときに開かれる国会のことです。"
+    },
+    {
+     "word": "与党",
+     "meaning": "そのときに日本政府を動かしている中心の政党のことです。"
+    },
+    {
+     "word": "野党",
+     "meaning": "与党に対して、政治のやり方をチェックしたり反対の意見を言ったりする政党のことです。"
+    }
+   ],
+   "importance": 5
+  },
+  {
+   "id": "9666c972f8288440",
+   "url": "https://www.cnbc.com/2026/10/04/germanys-merz-arrives-in-kyiv-to-finalize-drone-deal-release-aid.html",
+   "title_original": "Merz unveils fresh military aid in Kyiv, says Germany won't be intimidated",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108372255-1791102888595-gettyimages-2297927980-20090101261004-99-848422.jpeg?v=1791102903&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-10-04T19:19:45+00:00",
+   "title_ja": "ドイツのメルツ首相がウクライナを訪問し軍事支援を表明",
+   "one_line": "ドイツの首相がウクライナを訪れ、どんな脅しにも負けずに支援を続けると約束しました。",
+   "what": "ドイツのフリードリヒ・メルツ首相が日曜日、ウクライナの首都キエフを訪れました。そこで新しい軍事的な支援を発表し、「いかなる脅しにも屈せず、ウクライナへの支援をやめることはない」と述べました。",
+   "background": "ウクライナとロシアの間では、長年にわたって戦争が続いています。ウクライナは自国を守るため、外国から武器やお金などの支援を受けています。ドイツはヨーロッパの中心にある国で、これまでに何度もウクライナを助けてきました。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるわけではありませんが、世界の平和や日本の外交、電気やガスなどの値段に長い目で見て影響することがあります。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "軍事支援",
+     "meaning": "戦争をしている国に対して、武器や防具、軍用車両などを贈ったり、お金を出して手伝ったりすること。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "7a2028891d9adb3e",
+   "url": "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
+   "title_original": "Polls close in Bosnia-Herzegovina's divisive election",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79535117_6.jpg",
+   "region": "海外",
+   "published": "2026-10-04T19:15:00+00:00",
+   "title_ja": "ボスニア・ヘルツェゴビナで意見が分かれる選挙の投票が締め切る",
+   "one_line": "ボスニア・ヘルツェゴビナで意見の対立が目立つ選挙が行われ、投票が締め切られました。",
+   "what": "ボスニア・ヘルツェゴビナで選挙の投票が締め切られました。セルブ人ナショナリストの候補者であるツビヤノビッチ氏が、3人で構成される大統領評議会のセルブ人枠でリードしています。",
+   "background": "ボスニア・ヘルツェゴビナは、過去に大きな紛争を経験した国です。国内に異なる民族が一緒に住んでおり、国の仕組みや選挙のやり方も複雑になっています。民族ごとの意見の違いが大きく、政治が難しくなりやすい場所です。",
+   "impact": "日本での直接の暮らしにはすぐに変化はありません。しかし、ヨーロッパの別の地域でどのような政治の動きがあるのかは、世界の安定を考える上で大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "ナショナリスト",
+     "meaning": "自分の民族や国の利益や文化をとても大切にし、優先しようとする考え方を持つ人のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3bea43f2c8407670",
+   "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+   "title_original": "Brazil presidential election 2026: first-round live results",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9c00a21e71375914289846c3d01d7179",
+   "region": "海外",
+   "published": "2026-10-04T19:01:28+00:00",
+   "title_ja": "ブラジルの大統領選挙で第1回目の投票が締め切られる",
+   "one_line": "ブラジルで次の大統領を決める選挙の投票が行われ、結果の速報が出ています。",
+   "what": "ブラジルで大統領選挙の第1回目が行われ、投票が締め切られました。今のルラ大統領と、元大統領の息子であるフラビオ・ボルソナロ氏が争っています。ブラジルの大統領になるには、過半数の票が必要です。",
+   "background": "ブラジルでは、大統領を選ぶために直接国民が投票をします。1回目の投票でどちらかの候補者が半分以上の票を取れなければ、上位の2人による2回目の投票が行われます。南アメリカの中でとても大きな力を持つ国の大統領を選ぶ、大切な選挙です。",
+   "impact": "私たちの毎日の暮らしがすぐに変わるわけではありませんが、ブラジルは広い国土を持ち、世界との貿易や環境問題で重要な役割を持つため、これからの国際関係に影響を与えます。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "過半数",
+     "meaning": "全体の数の半分よりも多い数のこと。選挙では投票全体の半分より多い票を指すことが多い。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "ee3a6ddf1c45c1a1",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president",
+   "title_original": "A Profile of Brazil's Potential President",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/d73b2380-c01d-11f1-8efa-13e372f41e70/w:1024/p:16x9/9e6d0d4bbdec1f8c7bb91b10df86b261d1bb19d0-1.jpg",
+   "region": "海外",
+   "published": "2026-10-04T18:34:51+00:00",
+   "title_ja": "ブラジル大統領選の候補者フラビオ・ボルソナロ氏の特徴に迫る",
+   "one_line": "ブラジル大統領選挙の候補者であるフラビオ・ボルソナロ氏の人物像や政策が伝えられています。",
+   "what": "ブラジル大統領選挙の候補者であるフラビオ・ボルソナロ氏について、専門家が解説を行いました。フラビオ氏がどのように国を変えようとしているのか、その政治的な姿勢や背景が取り上げられています。",
+   "background": "大統領選挙では、候補者がどのような人柄で、国をどうしていきたいと考えているのかが重要になります。ブラジルでは過去の政治の歴史や、家族の背景なども含めて、候補者の考え方に注目が集まっています。",
+   "impact": "今すぐ日本の生活が変わるような影響はありませんが、南米の大国であるブラジルの政治の方向性がどのように変わるのかを知るための重要な情報です。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "8a8f3d3f5297e251",
+   "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
+   "title_original": "The world is facing an almighty LNG crunch",
+   "source": "The Economist",
+   "image": "",
+   "region": "海外",
+   "published": "2026-10-04T17:11:12+00:00",
+   "title_ja": "液化天然ガスの大きな不足と将来の余剰の懸念",
+   "one_line": "世界中で液化天然ガスが足りなくなるおそれと、逆に将来あふれてしまうおそれの双方が心配されています。",
+   "what": "世界的に液化天然ガス（LNG）がとても手に入りにくくなる深刻な不足の危機が起きており、時間が経つとその後にガスの量が急激に増えすぎて価値が下がってしまう混乱も起きるかもしれないと伝えられています。",
+   "background": "液化天然ガスは、天然ガスをとても冷やして液体にしたもので、発電や家庭の暖房、調理などに使われる大切なエネルギーです。遠くの国へ船で運ぶために一度液体にします。世界のエネルギーの需給バランスは、気候の変化や国際情勢によって大きく揺れ動く性質を持っています。",
+   "impact": "今すぐ私たちの生活でガスが使えなくなるわけではありませんが、エネルギーが不足すると電気代やガス代が値上がりする原因になり、将来の価格の動きにも関わってきます。",
+   "genre": "経済",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "LNG",
+     "meaning": "「液化天然ガス」の英語の頭文字をとった呼び方で、天然ガスを冷やして液体にしたものです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "dc2468d484124a1d",
+   "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
+   "title_original": "Indian police accused of sexually harassing journalists at protest",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg",
+   "region": "海外",
+   "published": "2026-10-04T17:01:19+00:00",
+   "title_ja": "インドの警察が抗議デモの記者に対して問題行為の疑い",
+   "one_line": "インドで投票者リストの変更に反対するデモの取材中、警察官から嫌がらせを受けたという訴えが出されました。",
+   "what": "選挙管理の責任者の辞めさせを求めるデモの最中に警察が大勢の参加者を拘束したあと、現場にいた記者たちが警察官から性的な嫌がらせを受けたという申し立てがなされました。",
+   "background": "民主主義の国では、国民が選挙のやり方や政府の決定に反対して、デモという形で意見を伝える権利が認められています。また、その様子を公平に伝える報道機関や記者の安全を守ることは、社会の公正さを保つ上でとても大切とされています。",
+   "impact": "日本での直接の生活の変化はありませんが、世界の国々における警察の行動や、言論の自由、記者が安全に仕事ができる環境が守られているかという問題につながるニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "b634f73a354e1869",
+   "url": "https://www.nikkei.com/article/DGXZQODK220KS0S6A920C2000000",
+   "title_original": "縮む新築住宅と価格高騰の行方は 中古住宅再生カチタス社長が読む今後",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3650105028092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.47&fp-y=0.34&h=630&w=1200&s=920add4261f77200d057776aa31aaf6e",
+   "region": "国内",
+   "published": "2026-10-04T17:00:00+00:00",
+   "title_ja": "小さくなる新築の家と高くなる価格のこれから",
+   "one_line": "新築の家が小さくなり値段が上がっている状況について、中古住宅を直して売る会社の社長が今後の見通しを語りました。",
+   "what": "新築住宅の大きさが縮んで価格が高騰している問題について、中古の家を新しく生まれ変わらせて販売する「カチタス」の社長が、今後の住宅市場の行方について意見を述べました。",
+   "background": "日本では、人口の減少や建築に使う材料の値段、土地の値段が上がっていることなどを背景に、新築の家を建てる費用が高くなっています。そのため、一度建てられた古い家をきれいに直して再び活用する「中古住宅の再生」という仕組みに注目が集まっています。",
+   "impact": "これから家を買ったり借りたりしようと考えている人にとって、新築にするか中古にするかを選ぶ際の大切な判断材料や、これからの住宅市場の価格の目安を知る手がかりになります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "中古住宅再生",
+     "meaning": "古い家を買い取り、傷んだところを直したりきれいに改装したりして、再び住めるようにして売る仕組みや仕事のことです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "f7e4c1973cc27849",
    "url": "https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones",
@@ -854,6 +1342,29 @@
     }
    ],
    "importance": 2
+  },
+  {
+   "id": "3bcd8ed6361e3509",
+   "url": "https://www.sankei.com/article/20261004-V5OKGAQ4DZNKJLNFYGWIPKQJWY",
+   "title_original": "日経新聞にサイバー攻撃 業務ソフトに不正ログイン、なりすましメール約9000件送信か",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/UNQZVYSC55BKPLBVBIERBS4YFU.jpg?auth=bd3fd9aa04f73aa0e59109fb2610bc9bf52eb0b020bed07be84e809681e96c3c&quality=50&focal=653%2C411&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-04T10:30:04+00:00",
+   "title_ja": "日本経済新聞社がサイバー攻撃を受け偽メール送信か",
+   "one_line": "日本経済新聞社がサイバー攻撃を受け、仕事用のソフトの不正利用から偽の電子メールが大量に送られたおそれがあります。",
+   "what": "日本経済新聞社に対してサイバー攻撃が行われ、業務で使うソフトに不正にログインされた結果、その会社をかたる偽りの電子メールが約9000件送信されたとみられています。",
+   "background": "企業や組織がインターネット上から不正な侵入や攻撃を受けることをサイバー攻撃と呼びます。近年のデジタル社会では、仕事でパソコンや専用のソフトを使うことが増えたため、企業を狙った不正アクセスや、実在の組織になりすましてウイルス付きのメールなどを送る手口への対策が重要な課題となっています。",
+   "impact": "日本経済新聞社から送られたとされる偽メールを受け取った人が詐欺やウイルス被害に巻き込まれるおそれがあり、インターネットや企業のセキュリティ対策の大切さを改めて考えさせる出来事です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "サイバー攻撃",
+     "meaning": "コンピュータやインターネットを通じて、企業や個人のシステムに不正に侵入し、データを盗んだり壊したり、業務を妨害したりすることです。"
+    }
+   ],
+   "importance": 3
   },
   {
    "id": "051e2167a1004671",
@@ -7229,533 +7740,6 @@
     }
    ],
    "importance": 3
-  },
-  {
-   "id": "83bbc7433e031b8a",
-   "url": "https://toyokeizai.net/articles/-/958756",
-   "title_original": "アップルが最後発で参入した｢折り畳みスマホ｣市場､3つ折りや横ワイド型が先行する中でiPhone Duoが狙う新市場 | ビジネス | 東洋経済オンライン",
-   "source": "東洋経済オンライン",
-   "image": "https://tk.ismcdn.jp/mwimgs/9/e/1200w/img_9eae7415465e7ddb8dea398e807b882b258540.jpg?nextgen=false",
-   "region": "国内",
-   "published": "2026-09-28T23:00:00+00:00",
-   "title_ja": "アメリカの会社が新しい折り畳みスマホを発表",
-   "one_line": "アメリカの企業が新しく折り畳むことができるスマートフォンを発表しました。",
-   "what": "アメリカのアップルという会社が、画面を折り畳むことができる新しいスマートフォンを発表し、注目を集めています。",
-   "background": "スマートフォンは私たちの生活に欠かせない道具ですが、最近では画面を折り畳んで大きく使える新しいタイプの製品を、いろいろな会社が作って売り出しています。",
-   "impact": "今すぐ私たちが使う道具が変わるわけではありませんが、新しい技術が広がることで、将来の買い物の選択肢が増えるかもしれません。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "スマートフォン",
-     "meaning": "インターネットにつないで調べ物をしたり、写真や動画を見たりできる、小さなパソコンのような携帯電話のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "ec1f6c2e1ed6814b",
-   "url": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
-   "title_original": "Stock futures are little changed after higher yields lead to losing session: Live updates",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363992-1789586282415-gettyimages-2295046784-AFP_C8HZ9CC.jpeg?v=1789586381&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-28T22:52:35+00:00",
-   "title_ja": "アメリカの株や金利の動き",
-   "one_line": "アメリカの経済の動きを受けて、株の値段が少し変化しています。",
-   "what": "アメリカで国の借金に関係する金利が上がったことを受けて、株の価格が少し下がった状態からあまり変わらない動きをしています。",
-   "background": "金利とはお金の貸し借りにつく手数料のような割合で、国が発行する債券という証券の金利が上がると、企業の株の値段に影響を与えることがあります。",
-   "impact": "アメリカの経済の動きは日本を含めた世界の経済や株価につながっているため、私たちの資産や景気にも間接的に影響することがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "金利",
-     "meaning": "お金を借りたり預けたりするときに支払ったりもらったりする、割合のことです。"
-    },
-    {
-     "word": "株",
-     "meaning": "会社が資金を集めるために発行する証書のようなもので、これを買うことで会社のオーナーのひとりになれます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "fd61e3e42c6a0bb3",
-   "url": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
-   "title_original": "Australia news live: Chalmers says taxes lower than under Howard as rate decision due; deaths of NSW men under investigation",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/515d1119e357fd1f5e6b9348d6501616a51f1a16/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fbd21ed948b09f2445224c1a0be36e34",
-   "region": "海外",
-   "published": "2026-09-28T22:47:07+00:00",
-   "title_ja": "オーストラリアの税金と中央銀行の役割",
-   "one_line": "オーストラリアで税金の水準や中央銀行による物価と雇用の調整について話し合われています。",
-   "what": "オーストラリアの政府高官が、現在の税金の負担は過去の政権の時代よりも低いと述べました。また、中央銀行が物価の安定と雇用の維持を目指して政策を考えていることが伝えられています。",
-   "background": "中央銀行は、国の経済やお金のめぐりを良くするため、金利を上げ下げして物価が急激に上がったり下がったりしないように調整する特別な役割を持っています。",
-   "impact": "今すぐ日本の私たちの暮らしが変わるわけではありませんが、世界の国々が物価の上昇や景気の安定にどのように取り組んでいるかを知る手がかりになります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "中央銀行",
-     "meaning": "国の中枢にある銀行で、世の中に出回るお金の量を調整したり、物価や景気を安定させたりする役割を持っています。"
-    },
-    {
-     "word": "インフレ",
-     "meaning": "モノ全体の値段が上がり続けることで、お金の価値が下がってしまう現象のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "2514fb17fd277222",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-   "title_original": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/f88590e10388331e5ffbbfb897feeff374ec1248/704_16_2983_2387/master/2983.jpg?width=140&quality=85&auto=format&fit=max&s=d39dbe3cf2c4417e53c0dd6253b27583",
-   "region": "海外",
-   "published": "2026-09-28T22:40:37+00:00",
-   "title_ja": "アメリカとイランをめぐる動きと議会の様子",
-   "one_line": "アメリカとイランの関係をめぐる発言や、議会での法律案の審議が伝えられています。",
-   "what": "アメリカのトランプ大統領がイランとの関係について発言し、両国の話し合いの行方が注目されています。また、アメリカの議会ではスポーツに関する法案などの審議が進められています。",
-   "background": "アメリカの議会は、法律を作ったり予算を決めたりする場所で、上院と下院の二つの部屋に分かれています。大統領の外交方針に対して議会や議員が意見を言うこともあります。",
-   "impact": "アメリカとイランの関係は世界中の平和やエネルギーの価格に影響を与えることがありますが、現時点で私たちの生活に直接の変化があるわけではありません。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "議会",
-     "meaning": "国民から選ばれた議員が集まって、国で使う法律や予算などを話し合って決める場所のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "16ef1453eef045d6",
-   "url": "https://www.france24.com/en/europe/20260928-evicted-spanish-pensioner-to-return-home-after-housing-protest-deal-spain-madrid",
-   "title_original": "Evicted 87-year-old Spanish pensioner to return home after deal",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/21b7db2a-b91a-11f1-ae34-91cf9f3cd539/w:1024/p:16x9/2026-09-23T131755Z-2084017206-RC2XONACI57G-RTRMADP-3-SPAIN-HOUSING.jpg",
-   "region": "海外",
-   "published": "2026-09-28T22:34:14+00:00",
-   "title_ja": "スペインで家賃高騰と住宅をめぐる問題",
-   "one_line": "スペインで住宅の家賃が高くなっている問題をきっかけに、住まいに関する話し合いが行われています。",
-   "what": "スペインのマドリードで、高齢の女性が住まいを追い出されそうになった問題をきっかけに抗議活動が起きていましたが、所有者との話し合いにより自宅に戻れることになりました。",
-   "background": "ヨーロッパの一部の国々では、家賃がとても高くなったり、住む場所が見つかりにくくなったりする問題が起きており、政府に対策を求める声が高まっています。",
-   "impact": "日本の直接の生活が変わるわけではありませんが、世界各地で起きている家賃の上昇や住まいの問題は、多くの国で共通の悩みとなっています。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "テナント",
-     "meaning": "ビルや家などの不動産を借りて住んだりお店を開いたりしている人のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e599241ffc09ef46",
-   "url": "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html",
-   "title_original": "UK Villages That Host US Bombers Are Abuzz Over Possible Terrorist Plot",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/28/multimedia/28int-uk-1-fairford-scene-1-lmwj/28int-uk-1-fairford-scene-1-lmwj-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-09-28T22:12:32+00:00",
-   "title_ja": "イギリスの基地周辺でテロ計画の可能性、村々がざわめく",
-   "one_line": "イギリスにあるアメリカ軍の基地の近くで、テロを企てた疑いがあるとして調査が進められています。",
-   "what": "イギリス国内にあるアメリカ空軍の基地の近くの村や町で、テロの計画があったのではないかとして、当局が調査を始めていることが伝えられました。",
-   "background": "イギリスとアメリカは、安全保障の分野で深く結びついています。イギリス国内にはアメリカ軍の基地があり、両国の軍隊が協力して作戦や訓練を行ったりしています。",
-   "impact": "遠い外国の出来事で、私たちの暮らしに直接の影響はありませんが、世界各地での安全をめぐる問題や、軍の施設を狙った動きについてのニュースです。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "413c737c4f6e250f",
-   "url": "https://www.nikkei.com/article/DGXZQOFL2902S0Z20C26A9000000",
-   "title_original": "シカゴ日本株先物概況・28日 日経平均先物は670円安の6万5785円",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-09-28T22:06:48+00:00",
-   "title_ja": "アメリカのシカゴ市場で日経平均先物が下落",
-   "one_line": "アメリカのシカゴ市場で、日本の株価の先行きを示す「先物」の値段が値下がりしました。",
-   "what": "アメリカのシカゴでの取引で、日経平均株価の先物が前日の終わり値に比べて670円安い値段で取引を終えました。",
-   "background": "「先物取引」とは、将来の決まった時期に株や品物をいくらで売買するかをあらかじめ約束する取引のことです。本番の市場がはじまる前に、海外で日本の株がどう見られているかを知る手がかりになります。",
-   "impact": "海外での株の値段の動きは、翌日の日本の株式市場全体の雰囲気や株価に影響を与えることがありますが、日々の値段の上下はさまざまな要因で変わるものです。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "先物",
-     "meaning": "将来のあらかじめ決めた日時に、売買する値段を今のうちに約束して取引することです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "bfb127cce3982061",
-   "url": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
-   "title_original": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2023/04/AP21203625458024-1682587625.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-28T22:05:43+00:00",
-   "title_ja": "アメリカで南アジア系に対するネット上の悪口や差別が増加",
-   "one_line": "アメリカのインターネット上で、南アジア系の人々に対する差別的な言葉が急増しているという調査結果が出ました。",
-   "what": "研究者たちの調査により、アメリカのインターネット上で南アジア系の人々を標的にした憎しみや偏見を込めた言葉や書き込みが大きく増えていることが分かりました。",
-   "background": "アメリカでは、政治の場での移民をめぐる議論や、社会全体の経済状況への不安などが背景にあると指摘されています。また、社会で活躍する南アジア系の人が増えていることも関係しているとされています。",
-   "impact": "外国のインターネット上の出来事ですが、世界各地で起きている移民や多様性をめぐる社会的な対立や、人種差別の問題を考えるニュースです。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "ef1380870ac2ad18",
-   "url": "https://www.nikkei.com/article/DGXZQOGN2901Q0Z20C26A9000000",
-   "title_original": "ボーイング、737MAX新型機でソフト不具合 米航空当局が認証延期",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3651183029092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.28&fp-y=0.66&h=630&w=1200&s=c8ee11b7b696d058be7b59f0191a9b4c",
-   "region": "国内",
-   "published": "2026-09-28T22:05:42+00:00",
-   "title_ja": "飛行機ボーイングの新型機、安全チェックが延期に",
-   "one_line": "アメリカの航空機を作る会社ボーイングの新しい飛行機の安全のチェックが、ソフトウェアの不具合で遅れることになりました。",
-   "what": "アメリカの飛行機を作る会社ボーイングの「737MAX」という新しい飛行機について、アメリカの航空を管理する役所が、安全を確認して認める手続きを遅らせることを決めました。",
-   "background": "飛行機などの大きな乗り物は、国が定めた安全の基準をしっかり満たしているか、専門の役所が隅々まで調べて「安全です」とお墨付きを与えないと、お客さんを乗せて飛ぶことができません。これを認証といいます。新しい飛行機を作る時は、設計やシステムに問題がないか何度も慎重に調べられます。",
-   "impact": "今すぐ私たちの生活に変化はありませんが、飛行機の安全確認に時間がかかると、航空会社が新しい飛行機を手に入れる時期が遅れたり、飛行機の生産やスケジュールに影響が出ることがあります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "認証",
-     "meaning": "製品や計画などが、国の決めた正しい基準やルールをしっかり満たしていると、正式に認めてもらうことです。"
-    },
-    {
-     "word": "不具合",
-     "meaning": "機械やコンピュータのプログラムなどが、設計通りにうまく動かないことや、故障の原因になる問題のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "f45537191cc05c46",
-   "url": "https://www.nikkei.com/article/DGXZQOFL28AIX0Y6A920C2000000",
-   "title_original": "NY円相場、反落 1ドル=157円35〜45銭 原油高や米金利上昇で円売り",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-09-28T22:00:32+00:00",
-   "title_ja": "ニューヨーク市場で円が値下がり、1ドル157円台に",
-   "one_line": "アメリカのニューヨークの市場で、外国のお金と交換する円のねだんが下がり、1ドル＝157円台になりました。",
-   "what": "アメリカのニューヨークの市場で、外国のお金と交換するときの円のねだんが前よりも下がり、1ドルが157円台の真ん中あたりで取引されました。原因として、原油のねだんが上がったことや、アメリカの金利が上がったことが挙げられています。",
-   "background": "外国為替市場という場所では、世界中のお金を日々交換しています。それぞれの国の景気や物価の動き、金利の高さなどによって、お金の価値は常に変わります。金利が高い国のお金は買われやすくなり、反対に低い国のお金は売られやすくなる仕組みがあります。",
-   "impact": "円のねだんが下がると、海外から日本へ輸入する食べ物やエネルギー、材料などの代金が高くなり、私たちの身の回りの品物の値段に影響することがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "為替相場",
-     "meaning": "日本のお金と外国のお金を交換するときの、ねだんの割合のことです。"
-    },
-    {
-     "word": "金利",
-     "meaning": "お金を銀行に預けたり借りたりするときにつく、利息の割合のことです。国によって金利の高さが違います。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "936b1725fd426983",
-   "url": "https://www.nikkei.com/article/DGXZQOGN2900R0Z20C26A9000000",
-   "title_original": "AMD、「AIゴッドマザー」の米新興1.3兆円買収 フィジカルAI開発",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3651225029092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.4&fp-y=0.24&h=630&w=1200&s=8becff9fb355660846fcf702ed2761f0",
-   "region": "国内",
-   "published": "2026-09-28T22:00:28+00:00",
-   "title_ja": "半導体企業AMD、AI分野の新興企業を巨額買収へ",
-   "one_line": "アメリカの半導体を作る会社AMDが、人工知能を開発する新しい会社を約1兆3千億円で買い取ると発表しました。",
-   "what": "アメリカの半導体を作る会社であるAMDが、人工知能の分野で注目されているアメリカの新興企業を、およそ1兆3千億円という大きなお金を使って自分の仲間（子会社）にすることを決めました。",
-   "background": "大きな会社が別の会社を買い取ることを買収といいます。企業は、自分に足りない技術や新しいアイデアを持つ会社を仲間に加えることで、新しい製品を早く作ったり、ビジネスの力を大きくしたりしようとします。",
-   "impact": "今すぐ私たちの毎日の暮らしが変わるわけではありませんが、AIの技術を進める企業同士が結びつくことで、将来のパソコンやスマートフォン、便利な機械の進化のスピードが変わる可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "買収",
-     "meaning": "ある会社が、別の会社の株式などを買い取ることで、その会社を自分の仲間やグループにすることです。"
-    },
-    {
-     "word": "新興企業",
-     "meaning": "新しくできたばかりで、勢いよく成長している会社のことをいいます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "587f26a7cb8afdbc",
-   "url": "https://www.asahi.com/articles/ASV9X3VT0V9XUTFK003M.html",
-   "title_original": "高市首相「外国の不当干渉の防止強化」インテリジェンスで有識者会議",
-   "source": "朝日新聞 政治",
-   "image": "https://imgopt.asahi.com/ogp/AS20260928004858_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-28T22:00:00+00:00",
-   "title_ja": "外国からの不当な干渉を防ぐ会議を開く方針",
-   "one_line": "政府が外国からの不当な干渉を防ぐため、専門家の意見を聞く会議を立ち上げます。",
-   "what": "日本の総理大臣が、外国からの不当な干渉を防ぐための力を強めるため、専門家を集めて話し合う会議を作るという考えを示しました。",
-   "background": "インテリジェンスとは、国を守るために外国の動きや秘密の情報を集めて分析する活動のことです。国と国との間で情報戦が激しくなる中、日本でも安全を守るための仕組みを整える動きが進められています。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、国の安全保障や情報管理のあり方に関わる大切な動きです。",
-   "genre": "政治",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "インテリジェンス",
-     "meaning": "国を守るために、外国の動きや安全に関する情報を集めて分析することです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b57c8b8582a34058",
-   "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o",
-   "title_original": "French PM warns against escalation of school protests after 164 arrested",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f058/live/59b822c0-bb7a-11f1-b505-77b42c904b07.jpg",
-   "region": "海外",
-   "published": "2026-09-28T21:46:53+00:00",
-   "title_ja": "フランスの学校の抗議活動と首相の注意",
-   "one_line": "フランスで学校への不満から抗議活動が広がり、首相が暴力に反対するよう呼びかけました。",
-   "what": "フランスの生徒たちが、教室に生徒が多すぎるなどの問題に対して抗議の声を上げました。その中で多くの人が逮捕される事態となり、フランスの首相が暴力的な行動をとらないよう注意を促しました。",
-   "background": "ヨーロッパの国々では、学校の環境や予算などをめぐって生徒や市民が政府や学校に対してデモや抗議を行うことがよくあります。意見を伝える権利は認められていますが、それが暴力に発展すると法律で取り締まられます。",
-   "impact": "今すぐ日本の私たちの暮らしに直接影響するものではありませんが、外国の学校制度や社会の様子を知るためのニュースです。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "エスカレーション",
-     "meaning": "問題や争いごとが、だんだんと激しく大きなものになっていくことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2e30e266d32cefbc",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260929de52961",
-   "title_original": "南北境界線付近で韓国軍将兵負傷「北朝鮮の地雷の可能性高い」",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52961/20260929de52961_E0000037367_1_l.jpg",
-   "region": "国内",
-   "published": "2026-09-28T21:46:04+00:00",
-   "title_ja": "韓国と北朝鮮の境界線で兵士がケガ",
-   "one_line": "韓国と北朝鮮の境界線近くで韓国軍の兵士が地雷の爆発でケガをしました。",
-   "what": "韓国と北朝鮮の軍事境界線の近くで、韓国軍の兵士が活動中に地雷の爆発で負傷しました。韓国軍は、これが北朝鮮がしかけた地雷による可能性が極めて高いという調査結果を発表しました。",
-   "background": "朝鮮半島は、1950年代の戦いのあとに北朝鮮と韓国に分断され、そのあいだに軍が近づかないように決められた「軍事境界線」があります。この境界線の近くでは、これまでも両国の間で緊張状態が続いてきました。",
-   "impact": "今すぐ私たちの暮らしやお金の動きに直接変わるものではありませんが、アジアの平和や安全に関わる大切なニュースです。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "軍事境界線",
-     "meaning": "国同士が戦ったあとに、お互いの軍隊がこれ以上進んではいけないと決めた境界線のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c8c59c303f689520",
-   "url": "https://www.sankei.com/article/20260929-BIC6TQ35VNIDBJRZ3NRG4Y6ZBY",
-   "title_original": "中国外相が岩屋前外相と会談 高市首相「台湾発言」是正要求、政権に揺さぶりかける狙い",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/5SDUAS6TT5PXHI6OKPTS4ZO2K4.jpg?auth=8ae94783d1561656f85743e86fdd176e8173e9089743df642d1eb1f3a4900993&quality=50&focal=655%2C346&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-28T21:44:39+00:00",
-   "title_ja": "中国の外務大臣が岩屋前外務大臣と会談しました",
-   "one_line": "中国の外務大臣が日本の前外務大臣と会談し、高市首相の「台湾発言」の是正を求めました。",
-   "what": "中国の外務大臣と日本の岩屋前外務大臣が会談を行いました。中国側は、日本の高市首相による「台湾発言」を直すよう求め、政治的な揺さぶりをかけていると伝えられています。",
-   "background": "外務大臣は、国と国の外交を担当する特別な大臣です。日本と中国の間には、歴史や政治的な立場をめぐって様々な意見の違いがあり、お互いの発言や対応が注目され続けています。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、日本と中国の外交関係や安全保障に大きな影響を与えるため、今後の政府の対応が注目されます。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [
-    {
-     "word": "外務大臣",
-     "meaning": "外国との話し合いや交渉を担当する、国の政府のメンバーの一人です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5c58b131defd8ccd",
-   "url": "https://news.yahoo.co.jp/pickup/6596906?source=rss",
-   "title_original": "マンション修繕談合 コンサル謝罪",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/29/e6302ef55fae1626274794d53608ed33bab2e0aacc12f6160e41aed961bde0ac.jpg",
-   "region": "国内",
-   "published": "2026-09-28T21:41:02+00:00",
-   "title_ja": "マンション修繕の談合問題でコンサルタントが謝罪しました",
-   "one_line": "マンションの大規模修繕工事をめぐる談合問題で、コンサルタント会社が謝罪しました。",
-   "what": "マンションの大規模な修繕工事をめぐり、工事の計画などを手伝うコンサルタント会社が、談合に関わったとして謝罪しました。",
-   "background": "マンションは時間が経つと傷むため、住民から集めたお金で定期的に大がかりな修繕工事を行います。コンサルタントは、工事の計画や業者選びを中立な立場で助ける役割を持っています。",
-   "impact": "マンションに住む人々の管理費や修繕積立金が不正に高く使われていないか、今後の調査や再発防止の取り組みが注目されます。今すぐ個人の家計に直接の変化はありません。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "談合",
-     "meaning": "本来は競争するはずの業者同士が、事前に相談して決めた価格や業者で工事を分け合う不正な行為です。"
-    },
-    {
-     "word": "コンサルタント",
-     "meaning": "専門的な知識を使って、計画のアドバイスや手助けをする人や会社のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d3ab501d369110df",
-   "url": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
-   "title_original": "John Healey says Labour will stick to fiscal rules in first speech as chancellor – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/5f4418a6224681aca5517921ce9d7fb0af30bbad/140_83_2389_1912/master/2389.jpg?width=140&quality=85&auto=format&fit=max&s=85bfde7dfa2489868caf483e4cd80a44",
-   "region": "海外",
-   "published": "2026-09-28T13:16:50+00:00",
-   "title_ja": "イギリスの財務大臣が国の予算のルールを守ると発表",
-   "one_line": "イギリスの新しい財務大臣が、国の借金を増やしすぎないためのルールを守り続けると話しました。",
-   "what": "イギリスの財務大臣が、初めての演説で「国の予算のルール（財政規律）を守る」と発表しました。また、若い人たちが仕事の技術を身につけるための新しい仕組みを作ることも明らかにしました。",
-   "background": "国は、税金を集めて道路や学校などを作るために使いますが、使いすぎると借金が増えてしまいます。そのため、多くの国では「これ以上は借金を増やさない」といった独自のルールを決めて、国の家計を管理しています。財務大臣はその家計をまとめる責任者です。",
-   "impact": "国が無理な借金をしないことは、イギリスの経済を安定させることにつながります。ただ、ルールを守るということは、予算を大幅に増やすことが難しい場合もあり、国民の生活への影響を見守る必要があります。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "財政規律",
-     "meaning": "国が予算を使うときに、借金を増やしすぎないように自分たちで決めた約束やルールのことです。"
-    },
-    {
-     "word": "財務大臣",
-     "meaning": "国の税金や予算を管理し、経済政策を考えるリーダーのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "c2a00db581e1f5eb",
-   "url": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
-   "title_original": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368570-1790574909813-gettyimages-2296179458-AFP_C97K8BU.jpeg?v=1790580513&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-09-28T13:09:26+00:00",
-   "title_ja": "アメリカでディーゼル燃料の輸出を禁止する案が浮上",
-   "one_line": "アメリカで、ディーゼル燃料を海外に売ることを禁止する案が検討されており、物価への影響が心配されています。",
-   "what": "アメリカで、トラックや船の燃料になるディーゼル燃料が世界的に不足していることを受け、海外への輸出を禁止することが検討されています。しかし、専門家からは「かえって世界中の燃料価格が上がり、アメリカ国内のガソリン代も高くなる」と心配する声が出ています。",
-   "background": "国は、国内で使う物資が足りなくなると、海外に売ることを止めて国内を優先しようとすることがあります。しかし、燃料は世界中で取引されているため、一つの国が輸出を止めると、世界全体のバランスが崩れて価格が急激に変わることがあります。",
-   "impact": "もし燃料の価格が上がれば、物を運ぶためのトラックの費用が高くなり、スーパーに並ぶ食べ物や日用品の値段も上がってしまう可能性があります。世界中の経済がつながっているため、アメリカの決定は日本の暮らしにも関わります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "ディーゼル燃料",
-     "meaning": "大型トラックやバス、船などを動かすときに使う燃料のことです。"
-    },
-    {
-     "word": "輸出",
-     "meaning": "国内で作った製品や資源を、外国に売って運ぶことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "67561ba1801a78b9",
-   "url": "https://www.jiji.com/jc/article?k=2026092800696&g=int&m=rss",
-   "title_original": "韓国軍兵士負傷、北朝鮮地雷か 緊張高まる可能性",
-   "source": "時事通信",
-   "image": "https://www.jiji.com/news2/kiji_photos/202609/20260928at39S_o.jpg",
-   "region": "国内",
-   "published": "2026-09-28T13:01:00+00:00",
-   "title_ja": "韓国の兵士が負傷し北朝鮮による地雷の可能性",
-   "one_line": "韓国の兵士がけがをした件で、北朝鮮が仕掛けた地雷が原因ではないかと疑われており、緊張が高まっています。",
-   "what": "韓国の兵士がけがをした事故について、北朝鮮が仕掛けた地雷が爆発した可能性があると伝えられています。このため、韓国と北朝鮮の間の緊張がさらに高まることが心配されています。",
-   "background": "韓国と北朝鮮は、かつての戦争のあと、現在も正式には「休戦中」という状態です。二つの国の間には、兵士が立ち入らないように決めた「軍事境界線」があり、その周辺には地雷が埋められている場所があります。この境界線付近では、時々トラブルが起きています。",
-   "impact": "隣り合う国同士の緊張が高まると、地域の安全が脅かされることになります。すぐに私たちの生活が変わることはありませんが、平和な状態が続くのか、それとも悪い方向へ進んでしまうのか、世界中が注目しています。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [
-    {
-     "word": "地雷",
-     "meaning": "地面の下に埋めておき、人が踏んだり車が通ったりしたときに爆発するように作られた兵器のことです。"
-    },
-    {
-     "word": "軍事境界線",
-     "meaning": "韓国と北朝鮮の間に引かれた、互いの軍隊が入ってはいけないという決まりがある境界線のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "6f269f48bda896fd",
-   "url": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo",
-   "title_original": "Plan for controversial Sydney data centre scrapped after push-back",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a81/live/9c696a80-bb2e-11f1-a9b8-670e5d9d8eee.png",
-   "region": "海外",
-   "published": "2026-09-28T12:47:09+00:00",
-   "title_ja": "オーストラリアの巨大データセンター建設が中止に",
-   "one_line": "不動産大手のグッドマン・グループが、計画していたデータセンターの建設をやめると発表しました。",
-   "what": "オーストラリアのシドニーで、大きなデータセンターを作る計画がありましたが、中止されることになりました。計画を進めていた不動産会社は、ルールや決まりごとが変わったことが理由だと説明しています。",
-   "background": "データセンターとは、インターネット上の膨大なデータや情報を保存・処理するための大きな機械が集まる施設です。今はスマートフォンや動画配信などが普及し、こうした施設は社会に不可欠なものとなっています。一方で、建設には広い土地や大量の電気が必要なため、場所選びや環境への配慮をめぐって議論になることがあります。",
-   "impact": "今すぐ私たちの暮らしが大きく変わることはありません。しかし、デジタル社会を支えるための施設をどこに、どのように作るのかという問題は、今後も世界中で議論が続く可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "データセンター",
-     "meaning": "インターネットの情報を管理するサーバーという機械をたくさん集めた施設のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "49cfd30ec8107627",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/police-clash-with-protesters-over-mosque-demolitions-in-india?traffic_source=rss",
-   "title_original": "Police clash with protesters over mosque demolitions in India",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/clashes-mosque-demolition-horizontal-thumb-1790599213.jpg?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-28T12:40:36+00:00",
-   "title_ja": "インドでモスクの取り壊しをめぐり警察と住民が衝突",
-   "one_line": "インドでイスラム教の礼拝所であるモスクを取り壊す計画に反対する住民と、警察がぶつかりました。",
-   "what": "インドで、モスク（イスラム教の礼拝所）を取り壊すという計画に対して反対する人たちが集まり、警察と激しくぶつかる出来事がありました。",
-   "background": "インドは多くの宗教がある国ですが、宗教の違いによる対立が時折起きています。特にモスクや寺院といった宗教施設は、それぞれの信者にとってとても大切な場所です。そのため、政府や自治体がこうした施設に関わるときには、地域の住民との間で意見が分かれやすく、緊張が高まることがあります。",
-   "impact": "日本に直接的な影響はありませんが、宗教や文化の違いによる対立が激しくなると、その地域の安定や平和に影響が出るため、世界中で注目されています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "モスク",
-     "meaning": "イスラム教の人たちが神にお祈りをするための大切な場所のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "08d3b0d5a456fb9b",
-   "url": "https://news.yahoo.co.jp/pickup/6596884?source=rss",
-   "title_original": "衆院選制度見直し 10月末めど結論",
-   "source": "Yahoo!ニュース 国内",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/28/7e358e0a303f94b69e8042ff5233a80ab9edb99984eea56666f4e7611c895163.jpg",
-   "region": "国内",
-   "published": "2026-09-28T12:32:28+00:00",
-   "title_ja": "衆議院選挙のやり方を見直す話し合いが続いています",
-   "one_line": "衆議院選挙のルールをどう変えるかについて、10月の終わりごろをめどに結論を出そうと話し合われています。",
-   "what": "衆議院の選挙のやり方について、今の仕組みでよいのか、それとも変えたほうがよいのかを話し合う動きがあります。関係者は、10月の終わりごろまでに一つの答えを出そうとしています。",
-   "background": "衆議院選挙は、私たちの代表を選んで国会に送るための大切な仕組みです。選挙区の区割りや投票のルールなどは法律で決まっていますが、時代に合わせて仕組みをより良くしようと、定期的に見直しが行われます。どのようなルールにするかによって、どの政党が勝ちやすいかが変わるため、慎重な議論が求められます。",
-   "impact": "選挙のルールが変わると、次に私たちが投票するときに、誰に、どのような形で一票を投じるのかが変わる可能性があります。今後の議論に注目が必要です。",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [],
-   "importance": 4
   }
  ]
 }
