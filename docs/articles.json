@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T14:46:58.697722+09:00",
+ "updated_at": "2026-10-06T22:06:40.242786+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,18 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "5794025a7a12ea95",
-   "until": "2026-10-06T12:49:43.012411+00:00"
-  },
-  {
-   "id": "7ca33839adc1b744",
-   "until": "2026-10-06T12:49:43.012411+00:00"
-  },
-  {
-   "id": "833259a7be1fc3ed",
-   "until": "2026-10-06T12:49:43.012411+00:00"
-  },
   {
    "id": "bc2475ef2a492812",
    "until": "2026-10-06T22:31:15.309490+00:00"
@@ -618,10 +606,355 @@
   {
    "id": "1a31adf479e2179a",
    "until": "2026-10-11T05:46:58.697722+00:00"
+  },
+  {
+   "id": "a1e1d452e8a194c7",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "ffafbafcade8b1be",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "7946b5d8aee89b02",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "95934806da329e13",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "cd317999c01531f4",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "78fe2c82c0c41107",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "2b98515ecb7383b6",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "4eff54d1b6e26e67",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "2868c1b08446ffa8",
+   "until": "2026-10-11T13:06:40.242786+00:00"
+  },
+  {
+   "id": "395d832604ad9024",
+   "until": "2026-10-11T13:06:40.242786+00:00"
   }
  ],
  "count": 300,
  "items": [
+  {
+   "id": "d3a5f47e3a6dacae",
+   "url": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
+   "title_original": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108373128-1791284032604-gettyimages-2259854967-20260204ppel3246_20260204.jpeg?v=1791286450&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-10-06T13:05:46+00:00",
+   "title_ja": "リトアニアが核兵器禁止の見直しを求める動きに反発",
+   "one_line": "リトアニアが国の安全を守るため、核兵器に関するルールを変える動きを見せ、ロシアが反発しています。",
+   "what": "リトアニアが、国の安全を高めるために、核兵器禁止のルールをなくすよう求めています。これに対し、ロシアが強く反発しています。",
+   "background": "国と国の関係が不安なとき、周囲の国々は自分たちの国を守るために、軍の力を強めたり、他の国と協力したりします。特に大きな国と隣り合う国では、安全を守るための話し合いや対策がとても大切になります。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界の国々の安全保障や軍のルールをめぐる動きは、国際社会全体の安定に影響を与えることがあります。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "安全保障",
+     "meaning": "国や人々が外国からの攻撃や危険から身を守り、平和で安全に暮らせるようにすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9a8e9777827f6e1f",
+   "url": "https://mainichi.jp/articles/20261006/k00/00m/010/296000c",
+   "title_original": "簗農相、国交省に予算配分問い合わせ 対立候補応援の2市町分",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/10/06/20261006k0000m010031000p/0c10.jpg?1",
+   "region": "国内",
+   "published": "2026-10-06T13:04:33+00:00",
+   "title_ja": "農林水産大臣が国交省へ予算配分の問い合わせ",
+   "one_line": "農林水産大臣が、選挙で対立する候補を応援した2つの市町村への予算配分について問い合わせました。",
+   "what": "農林水産大臣が、国土交通省に対して、特定の2つの市町村への予算の配分について問い合わせをしたと伝えられています。この2つの市町村は、選挙で別の候補を応援していた場所です。",
+   "background": "国は、全国の自治体に対して、道路や建物などをつくるための予算を配分します。予算の配分は公正に行われるべきものであり、政治家が自分の都合や選挙の結果によって特定の地域を不公平に扱わないようにルールが定められています。",
+   "impact": "今すぐ私たちのくらしに直接変化はありませんが、政府の仕事や予算の使い方が公平に行われているかどうかの問題として、政治の信頼に関わる動きです。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "74d38b5ab967c789",
+   "url": "https://www.france24.com/en/video/20261006-heavy-police-presence-as-students-set-to-march-in-paris",
+   "title_original": "'Heavy police presence' as students set to march in Paris",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/d938c622-c182-11f1-b138-73f176a2394c/w:1024/p:16x9/EN-20261006-140245-140633-CS.jpg",
+   "region": "海外",
+   "published": "2026-10-06T12:57:07+00:00",
+   "title_ja": "フランスの学生が教室の環境改善を求めてデモ行進",
+   "one_line": "フランスの首都パリで、学生たちが教室の環境をよくすることを求めてデモ行進を行いました。",
+   "what": "フランスの学生たちが、学校の教室の環境に不満を持ち、改善を求めてパリの中心部でデモ行進を行いました。警察官が多く見守る中での行進となりました。",
+   "background": "ヨーロッパでは、学生や市民が自分たちの生活や学校の環境について不満があるとき、道路を歩いて意見を訴える「デモ行進」という方法がよく使われます。過去にトラブルがあったため、警察が警戒することがあります。",
+   "impact": "今すぐ日本の学生の生活や私たちに影響はありませんが、海外の学校環境や若者たちの社会への訴え方を知るための出来事です。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "デモ行進",
+     "meaning": "大勢の人たちが集まって、自分たちの意見や要求を社会や政府に伝えるために、道路を歩いてアピールすることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "fc942be8ce364735",
+   "url": "https://www.france24.com/en/tv-shows/focus/20261006-mexico-makes-push-for-fracking-despite-environmental-concerns",
+   "title_original": "Mexico makes push for fracking despite environmental concerns",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/fa357b98-c0e4-11f1-9aa2-1ff0321dbbd3/w:1024/p:16x9/FR-NW-OOV-ECRAN-FOCUS-MEXIQUE-FRACKING-GOUGEON-Guillaume.jpg",
+   "region": "海外",
+   "published": "2026-10-06T12:55:22+00:00",
+   "title_ja": "メキシコが地下資源を掘り出す新しい方法を検討",
+   "one_line": "メキシコが外国に頼らずエネルギーを自分でまかなうため、新しい採掘方法の導入を進めています。",
+   "what": "メキシコ政府が、専門家と相談を重ねたうえで、「フラッキング」という方法を使って地下の石油や天然ガスを掘り出す準備を進めています。アメリカへの頼り度を下げ、自分の国で使うエネルギーを自分たちで用意することが目的です。",
+   "background": "メキシコのように石油やガスがたくさん眠る国では、海外からエネルギーを買う量を減らすため、新しい技術を使って地下資源を取り出そうとすることがあります。しかし、この方法は自然環境への影響や汚染が心配されるため、世界中で議論になっています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界のエネルギーの値段や、環境を守るためのルールにどのような影響が出るのか、今後の動きが注目されます。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "フラッキング",
+     "meaning": "地下の岩を壊して、中にある石油やガスをとり出す方法のことです。環境への影響が心配されています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "123ef8b1fccecd30",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/06/british-man-arrested-over-suspected-raf-fairford-terrorism-plot",
+   "title_original": "British man arrested over suspected RAF Fairford terrorism plot",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/6ca240b08d8926f9887a3558ca6dfd664706da50/1272_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=86fe5bbfeb08e3097818c012cc684cbc",
+   "region": "海外",
+   "published": "2026-10-06T12:52:44+00:00",
+   "title_ja": "イギリスでテロを計画した疑いで男性が逮捕される",
+   "one_line": "イギリスの警察が、テロを計画した疑いがあるとして、ロンドンで22歳の男性を逮捕しました。",
+   "what": "イギリスの警察は、テロに関する罪の疑いで、ロンドン市内で22歳のイギリス人の男性を逮捕しました。空軍の基地に関係するとみられるテロの計画について、これまでに何人もの人が逮捕されており、今回はそのうちの1人です。",
+   "background": "イギリスをはじめとする多くの国では、国や社会の安全を守るために、テロの計画や準備を見つけ出す専門の警察組織があります。法律に基づいて、テロを企む動きを厳しく取り締まる仕組みになっています。",
+   "impact": "イギリス国内での治安や安全保障に関わる事件ですが、今すぐ日本での生活や安全に直接の影響が出るものではありません。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "テロ",
+     "meaning": "政治的な目的などを達成するため、暴力や脅しを使って人々を恐怖に陥れる行為のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "90a5c75befaadf51",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+   "title_original": "German Officials Arrest Former Spy Chief on Espionage Charges",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06germany-spy-jgmw/06germany-spy-jgmw-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-10-06T12:49:34+00:00",
+   "title_ja": "ドイツで元情報機関のトップがスパイ容疑で逮捕される",
+   "one_line": "ドイツで、かつて国の安全を守る組織のトップだった人物が、外国に協力した疑いで逮捕されました。",
+   "what": "ドイツの捜査当局が、かつて国の情報機関のトップを務めていたアウグスト・ハニング容疑者を、外国政府を助けたスパイの疑いで逮捕しました。この逮捕はドイツの政治の世界に大きな衝撃を与えています。",
+   "background": "国の中枢で働いていた人が、機密情報を外国に漏らしたり協力したりすることは、国家の安全保障を揺るがす重大な問題とされています。そのため、どこの国でも厳しい法律で処罰の対象となっています。",
+   "impact": "ドイツ国内の政治や安全保障に関わる大きなニュースですが、日本の私たちの暮らしや経済に直接の変化をもたらすものではありません。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "f1cae770574ee817",
+   "url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
+   "title_original": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T115146Z_38652932_RC2XWNA4ZPHU_RTRMADP_3_UKRAINE-CRISIS-DONETSK-ATTACK-1791286317.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-10-06T12:42:19+00:00",
+   "title_ja": "ウクライナがロシアの首都周辺へ大規模なドローン攻撃",
+   "one_line": "ウクライナによる大規模なドローン攻撃で、ロシアの首都モスクワ周辺で2人が死亡しました。",
+   "what": "ロシア政府によると、夜間のウクライナからの攻撃により、モスクワおよびその周辺地域に向けて多数の無人機（ドローン）が発射され、2人が死亡しました。",
+   "background": "ウクライナとロシアの間では、軍事的な衝突が長期間続いています。お互いの領土や施設に対して、ドローンやミサイルを使った攻撃や防衛の応酬が日常的に行われています。",
+   "impact": "直接的な日本への影響はありませんが、紛争が激しくなることで世界の平和や安全保障、エネルギーや物資の流通にどのような影響が出るかが懸念されます。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "ドローン",
+     "meaning": "人が乗らずに、遠隔操作や自動で空を飛ぶ機械のことです。カメラを積んで映像を映したり、荷物を運んだり、攻撃に使われたりします。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "c297bbdbfaffec85",
+   "url": "https://www.bbc.com/japanese/articles/cm86zqpy4l94o",
+   "title_original": "イエメン政府軍、紅海の重要航路を「確保」と発表 フーシ派は否定",
+   "source": "BBC NEWS JAPAN",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e58c/live/3aa7d380-c0ca-11f1-a5b0-6f550c662e91.jpg",
+   "region": "国内",
+   "published": "2026-10-06T12:34:33+00:00",
+   "title_ja": "イエメン政府軍が海の要衝を確保と発表、反政府側は否定",
+   "one_line": "イエメンの政府軍と反政府組織が海の重要航路や空港をめぐり、主張の対立と攻撃を続けています。",
+   "what": "イエメン政府の軍が、紅海の南端にある海の重要な通り道を「確保した」と発表しました。しかし、反政府武装勢力のフーシ派はこの発表を否定しました。さらにフーシ派は、政府軍を応援するサウジアラビアの空港などを攻撃したと話しています。",
+   "background": "中東にあるイエメンという国では、政府を支持するグループと、それに反対する反政府武装勢力の間で長い間あらそいが続いています。周辺の国々も巻き込み、世界の海や空の安全に影響を与える問題となっています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界の船が通る大切な海の道でトラブルが起きると、運ぶ荷物の届くのが遅れたり、物の値段が上がったりする心配があります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "紅海",
+     "meaning": "アフリカ大陸とアラビア半島のあいだにある海で、ヨーロッパとアジアを結ぶ船が行き交うとても大切な通り道です。"
+    },
+    {
+     "word": "フーシ派",
+     "meaning": "イエメンのなかで力を持ち、政府とあらそっている反政府のグループの名前です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "891256a7abbec7c9",
+   "url": "https://www.asahi.com/articles/ASVB63TJNVB6PIHB00XM.html",
+   "title_original": "兵庫県がフリー記者に会見参加認めない方針伝える 斎藤知事の判断",
+   "source": "朝日新聞 政治",
+   "image": "https://imgopt.asahi.com/ogp/AS20261006003803_comm.jpg",
+   "region": "国内",
+   "published": "2026-10-06T12:30:00+00:00",
+   "title_ja": "兵庫県がフリー記者に会見参加を認めない方針を伝える",
+   "one_line": "兵庫県が知事の判断として、フリーランスの記者による会見への参加を認めない方針を伝えました。",
+   "what": "兵庫県が、決まった社に所属しないフリーの記者に対して、記者会見への参加を認めない方針を伝えました。これは知事の判断によるものとされています。",
+   "background": "日本の行政機関や地方自治体では、ニュースを伝える報道機関の集まりに加わっている社だけでなく、フリーランスの記者や新しいメディアの人が記者会見に参加できるかどうかが、ルールや公平性の面でたびたび話題になります。",
+   "impact": "今すぐ私たちの暮らしや家計が直接変わるものではありませんが、政治や行政の動きを広く伝えるためのルールや、情報の伝え方のあり方にかかわる出来事です。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "cd21ecd228245188",
+   "url": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
+   "title_original": "An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-spain-assess-1-hmqc/06int-spain-assess-1-hmqc-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-10-06T12:08:03+00:00",
+   "title_ja": "スペインの首都でおきた立ち退き問題と首相のゆくえ",
+   "one_line": "スペインで起きたお年寄りの立ち退き問題が、国の政治を揺るがす大きな騒ぎになりました。",
+   "what": "先月、スペインの首都マドリードで、87歳のおばあさんが家から追い出される出来事がありました。このことがきっかけで、ペドロ・サンチェス首相の政府がぐらつくなど大きな問題になっています。",
+   "background": "ヨーロッパの国々では、国を動かす政治のリーダーや政権が、国民の生活に関するトラブルや不満への対応を誤ると、大きな批判を受けて立場が危うくなることがよくあります。",
+   "impact": "遠いヨーロッパの国での出来事なので、日本の私たちのくらしに直接影響することはありませんが、世界の政治がどう動くかを示すニュースです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "立ち退き",
+     "meaning": "家や土地の持ち主から出ていくように言われて、住んでいる場所から引っ越すことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "47510f45b4af82c8",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261006de55532",
+   "title_original": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55532/20261006de55532_E0000003477_1_l.jpg",
+   "region": "国内",
+   "published": "2026-10-06T11:53:33+00:00",
+   "title_ja": "企業への不正アクセスが相次ぎ個人情報が大規模流出",
+   "one_line": "企業のパソコンなどに不正に侵入される被害が相次ぎ、大切な個人情報が外に漏れています。",
+   "what": "企業のコンピュータシステムにインターネットを通じて悪い方法で入り込む「不正アクセス」の被害が続いています。そのため、企業がつながり合って仕事をする仕組みに影響が出たり、たくさんの人の個人情報が外に漏れてしまったりするケースが起きています。",
+   "background": "インターネットが当たり前になった現代では、多くの企業が顧客の名前や住所などの大切な情報をコンピュータで管理しています。しかし、セキュリティの網をかいくぐる犯罪も増えています。",
+   "impact": "私たちがお店やインターネットサービスに登録した名前や連絡先などの大切な情報が、思わぬところで盗まれて悪用される危険があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "不正アクセス",
+     "meaning": "許されていない人が、パスワードを盗むなどして、他人のコンピュータや会社のシステムに勝手に入り込むことです。"
+    },
+    {
+     "word": "サプライチェーン",
+     "meaning": "部品の工場からお店に届くまでの、仕事や製品のつながりの流れのことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "d7306bce8d1702c1",
+   "url": "https://www.nikkei.com/article/DGXZQOUF0686P0W6A001C2000000",
+   "title_original": "古野電気の純利益3%減に上振れ、3〜8月 商船向け機器受注増",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3690794006102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=6b1183578ff47d8d36d6ff1e569e55b2",
+   "region": "国内",
+   "published": "2026-10-06T11:31:10+00:00",
+   "title_ja": "古野電気の3から8月利益、予想より上向きに",
+   "one_line": "古野電気の3月から8月の期間のもうけが、事前の予想よりも良くなりました。",
+   "what": "古野電気という会社が発表した3月から8月までの決算で、会社全体の最終的なもうけである純利益の減り方が、予想よりも小さくなり上振れしました。大きな船向けの機器の注文が増えたことが背景にあります。",
+   "background": "会社は数ヶ月ごとに収入や支出の記録をまとめて、どれだけもうかったかを発表します。船向けの機器を作る会社では、世界の海の物流や商船の動きが、会社の業績に大きな影響を与えます。",
+   "impact": "今すぐ私たちの家計や買い物が直接変わるわけではありませんが、企業の業績は日本の経済や株の値段を動かす大切な情報です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "純利益",
+     "meaning": "会社が売上からすべての費用や税金を引いたあとに残る、最終的なもうけのことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "1c770b23addf631a",
+   "url": "https://www.sankei.com/article/20261006-6EPFYNH77JIE5NTFZLGRCJ4G4E",
+   "title_original": "茨城の企業、中東情勢の危機感緩和か 「かなりマイナス」10ポイント減、常陽産業研調査",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/NAYGYZNGGNEBBKR6ZYEYW2D5GA.jpg?auth=405f9d40a6cf1bd50908b187c89f53336eeebd6d06a3624aa2fab03db558c9a1&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-06T11:27:56+00:00",
+   "title_ja": "茨城の企業で中東情勢への危機感が和らぐ",
+   "one_line": "茨城県の企業の間で、中東の争いが会社に与える影響への心配が少しやわらいでいます。",
+   "what": "常陽産業研究所の調査によると、茨城県にある企業の中で、中東の政治情勢の悪化について「かなりマイナスだ」と答えた割合が、前回よりも10ポイント減りました。",
+   "background": "中東地域は、日本が使う石油などのエネルギーが多く集まる場所です。そのため、中東で争いやトラブルが起きると、燃料の値段が上がって日本企業の負担が増えるのではないかと心配されてきました。",
+   "impact": "今すぐ私たちの生活用品の値段や仕事が直接変わることはありませんが、世界の国々の出来事が日本の会社の受け止め方に影響を与えています。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "b2236c8ea4fba300",
+   "url": "https://news.yahoo.co.jp/pickup/6597786?source=rss",
+   "title_original": "レタス5割高 9月下旬の価格高騰",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/6/953e73798f55cdafc5c2e03b92a81bc88717db44bbef352793f812fe22a287bb.jpg",
+   "region": "国内",
+   "published": "2026-10-06T11:07:22+00:00",
+   "title_ja": "9月下旬のレタス価格が5割値上がりに",
+   "one_line": "9月の終わりの時期に、レタスの値段が例年と比べて5割も高くなっています。",
+   "what": "9月下旬の野菜の市場価格で、サラダなどに使われるレタスの値段が、通常の時期に比べて50パーセントほど高い状態になりました。",
+   "background": "野菜は、雨が多い、台風が来る、気温が高すぎるなど、そのときの天気の変化によって育ち方が大きく左右されます。作物がうまく育たずにとれる量が減ると、市場に出回る数が少なくなり、値段が高くなります。",
+   "impact": "スーパーでレタスを買うときの負担が増え、毎日の食事の献立や、野菜を使う飲食店のやりくりに影響が出ます。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [],
+   "importance": 3
+  },
   {
    "id": "f24f3ec6315dbdd3",
    "url": "https://mainichi.jp/articles/20261006/k00/00m/310/024000c",
@@ -7337,338 +7670,6 @@
     {
      "word": "政党",
      "meaning": "同じような政治の考え方を持った人たちが集まったグループのこと。選挙で代表を国会に送り、政治を動かします。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "4b21d196a103edd7",
-   "url": "https://www.asahi.com/articles/ASV9Z33KTV9ZULFA027M.html",
-   "title_original": "西武渋谷が閉店、文化の起点が陥った苦境 それでも渋谷は変化とめず",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20260930003933_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-30T11:41:47+00:00",
-   "title_ja": "西武渋谷店が閉店し、長年の歴史に幕を下ろします",
-   "one_line": "多くの文化を発信してきた西武渋谷店が閉店し、建物の営業を終了することになりました。",
-   "what": "長年、渋谷の街で親しまれてきた百貨店の「西武渋谷」が閉店することになりました。多くの人でにぎわった文化の出発点でもありましたが、近年の厳しい経営の状況から、お店を閉じることになりました。",
-   "background": "百貨店は、たくさんの種類の品物を一つの建物で売るお店です。昔は買い物といえば百貨店でしたが、インターネットで買い物をする人が増えたり、まわりにおしゃれな専門店が増えたりして、経営が厳しくなるお店が出てきています。",
-   "impact": "お買い物の場所や、街のようすが変わります。また、長年親しまれてきたお店がなくなることで、地域の街づくりや人々の思い出の場所に大きな変化がおきます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "百貨店",
-     "meaning": "洋服や食料品、生活雑貨など、さまざまな売り場が一つの大きな建物に集まっているお店のこと。デパートとも呼ばれます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9fcbf1fdb9828b42",
-   "url": "https://www.asahi.com/articles/ASV9Z34V4V9ZUHBI001M.html",
-   "title_original": "接戦予想のブラジル大統領選 80歳の現職ルラ氏か前大統領の長男か",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20260930003341_comm.jpg",
-   "region": "国内",
-   "published": "2026-09-30T11:40:00+00:00",
-   "title_ja": "ブラジル大統領選、現職と前大統領の長男が争う",
-   "one_line": "ブラジルの大統領を決める選挙で、現職のルラ氏と前大統領の家族が争う見通しです。",
-   "what": "ブラジルで大統領を選ぶ選挙がおこなわれ、80歳の現職であるルラ氏と、前大統領の長男が激しく争う予想となっています。",
-   "background": "大統領は、その国で一番えらい人として、政治のルールやお金の使い方を決める大切な役割です。国によって選挙のやり方や、何年ごとに選ばれるかはちがいますが、国民の投票で新しいリーダーを決めます。",
-   "impact": "ブラジルは南アメリカにある広い国で、日本とも遠くの国から食べ物や資源をやりとりしています。そのため、誰が大統領になるかで世界の経済や貿易につながりがあります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "大統領",
-     "meaning": "国を代表して政治の中心に立つ、選挙で選ばれるリーダーのことです。"
-    },
-    {
-     "word": "現職",
-     "meaning": "いま現在、その仕事や役についている人のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "35f21be93ccc2ff9",
-   "url": "https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss",
-   "title_original": "Ireland vs Israel Nations League match will go ahead, coach confirms",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T201022Z_134677767_UP1EM9R1K19QN_RTRMADP_3_SOCCER-UEFANATIONS-ISR-IRL-1790768060.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-30T11:36:35+00:00",
-   "title_ja": "アイルランドとイスラエルのサッカー試合を実施へ",
-   "one_line": "サッカーの国際大会で、アイルランドとイスラエルの試合がおこなわれる予定です。",
-   "what": "アイルランドのサッカー協会は、反対の声がある中でも、イスラエルとのサッカーの試合を予定どおりおこなうと発表しました。",
-   "background": "国と国がスポーツで戦う国際大会は、世界中の国ぐにがスポーツを通じて交流するための仕組みです。ときには世界の政治のようすによって、試合をすることに対してさまざまな意見が出ることがあります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、スポーツと世界のできごとや国際的な問題がどのように結びついているのかを知るきっかけになります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "b2994378c78848c0",
-   "url": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
-   "title_original": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-30T072618Z_700916561_RC2HTNAV8KIV_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1790768267.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-09-30T11:32:24+00:00",
-   "title_ja": "ウクライナの首都周辺で攻撃、4人が死亡",
-   "one_line": "ウクライナの首都の近くが攻撃され、子どもを含む4人が亡くなりました。",
-   "what": "ウクライナの首都キエフの周辺で攻撃があり、首都で3人、まわりの地域で子ども1人のあわせて4人が亡くなりました。電気を送る施設もねらわれました。",
-   "background": "ウクライナとロシアの間では、がけっしい争いが長く続いています。戦争では、兵士だけでなく、一般の人がくらす街や、生活に必要な電気・ガスなどの施設が攻撃されることが大きな問題となっています。",
-   "impact": "日本の暮らしにすぐ大きな変化があるわけではありませんが、世界のエネルギーの値段や、食べ物の価格が変わる原因になることがあります。平和の大切さを考えるニュースです。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "首都",
-     "meaning": "その国の中で、政治の中心となる一番大切な街のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "51678490404339f3",
-   "url": "https://www.nikkei.com/article/DGXZQOUA299BV0Z20C26A9000000",
-   "title_original": "30年ぶり｢金利3%｣の予算編成 諮問会議提言に変化、市場信認を重視",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3662543030092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.94&fp-y=0.15&h=630&w=1200&s=ef41be4cea94619ac62df78fe8d64147",
-   "region": "国内",
-   "published": "2026-09-30T10:59:45+00:00",
-   "title_ja": "政府の会議で金利3パーセントを想定した予算編成を提言",
-   "one_line": "国が借金を返すための利息が高くなることを想定して、お金の使い方を考え直すよう会議が提言しました。",
-   "what": "国の予算の使い道を話し合う「経済財政諮問会議」という会議で、30年ぶりとなる「金利3%」という数字を念頭に置いた予算の作り方をすべきだという提言がまとまりました。市場からの信用を大切にする狙いがあります。",
-   "background": "そもそも国の予算とは、1年間で国が使うお金の計画のことです。国は足りないお金を借金（国債）でまかなっています。金利が上がると、国が借金を返すための利息の負担が重くなります。これまでは長い間、金利がとても低い状態が続いていました。",
-   "impact": "国が支払う利息が増えると、子育てや医療など、ほかの大切なことに使えるお金が減ってしまう可能性があります。今のところ私たちの生活にすぐ影響するわけではありませんが、国の借金の管理に関わる大切な動きです。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "経済財政諮問会議",
-     "meaning": "総理大臣や大臣、民間の専門家が集まって、日本の経済や予算の基本的な方針を話し合う会議のこと。"
-    },
-    {
-     "word": "国債",
-     "meaning": "国がお金を借りるために発行する証書のようなもので、国が借金をする仕組みのこと。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c544ec1b1584e24d",
-   "url": "https://www.sankei.com/article/20260930-NFAROH6335K7HMCI5Q4TDQ74FA",
-   "title_original": "100歳の妻死去で心労…101歳・マハティール元マレーシア首相が入院",
-   "source": "産経新聞 国際",
-   "image": "https://www.sankei.com/resizer/v2/NJC5MPQ2EBIJBCQ7US5UBSGST4.jpg?auth=7672fa5fa2c4b5990d9c5afd04b525affeafce250a7801d3b7626c030dc852b4&quality=50&focal=324%2C226&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-09-30T10:57:13+00:00",
-   "title_ja": "101歳のマハティール元マレーシア首相が入院",
-   "one_line": "101歳のマハティール元マレーシア首相が、妻を亡くした心労により入院したと伝えられています。",
-   "what": "マレーシアのマハティール元首相が病院に入院しました。100歳だった妻が亡くなったことによる心労が原因とされています。",
-   "background": "そもそもマハティール氏は、マレーシアで長い間首相をつとめ、国の発展に大きく貢献した政治家です。日本との関係を深める政策にも力を入れ、アジアの政治の世界でよく知られている人物です。",
-   "impact": "今回の入院は海外の出来事であり、日本の私たちの暮らしに直接的な影響はありません。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "元首相",
-     "meaning": "かつて国の政治のトップである首相という仕事をつとめていた人のこと。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "bc2abe9ecd5783f7",
-   "url": "https://toyokeizai.net/articles/-/959716",
-   "title_original": "【今すぐ始めるべき？】金額別の積み立てシミュレーション／口座開設は何を重視？／各金融機関のキャンペーンに要注意／学資保険との使い分けは？／ジュニアNISAとの違い／18歳で資産1000万超も？ | ビジネス | 東洋経済オンライン",
-   "source": "東洋経済オンライン",
-   "image": "https://tk.ismcdn.jp/mwimgs/b/7/1200w/img_b701d620eefd3e772673506d309b2f65233196.jpg?nextgen=false",
-   "region": "国内",
-   "published": "2026-09-30T10:00:00+00:00",
-   "title_ja": "こどもNISAのスタートを前に金融機関が口座受付を開始",
-   "one_line": "2027年1月に始まる新しい制度に備えて、お金を預かる金融機関が口座の受付を始めています。",
-   "what": "2027年1月から始まる予定の「こどもNISA」に向けて、銀行や証券会社などの金融機関が口座を開くための受付を始めています。親のNISA枠の使い方や、子どものお金の引き出しルールなどが注目されています。",
-   "background": "そもそもNISAとは、国が決めた、投資で得た利益に税金がかからなくなるお得な仕組みのことです。これまで大人向けの制度がありましたが、子ども向けの新しい制度として2027年1月から「こどもNISA」が始まる予定です。",
-   "impact": "将来のために子どものお金をどうやって増やしていくか考えるきっかけになります。ただし、金融機関によってサービスやキャンペーンが違うため、どこで口座を作るか注意深く選ぶ必要があります。",
-   "genre": "経済",
-   "category": "働く・くらしのお金",
-   "terms": [
-    {
-     "word": "こどもNISA",
-     "meaning": "子どもの将来に向けた資産づくりのために、投資の利益に税金がかからなくなるようにする国の新しい制度のこと。"
-    },
-    {
-     "word": "金融機関",
-     "meaning": "銀行や証券会社など、お金を預かったり貸したり、投資のお手伝いをしたりする会社のこと。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "2f6e1c3b58cf8c15",
-   "url": "https://www.nikkei.com/article/DGXZQOUA302C70Q6A930C2000000",
-   "title_original": "鉄鋼の迂回輸出、中国念頭に日米欧で対抗 流通情報の枠組み合意",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3662224030092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=f32f90eeaaef62d3c95dc1d19a171eae",
-   "region": "国内",
-   "published": "2026-09-30T09:51:02+00:00",
-   "title_ja": "鉄鋼の迂回輸出に対抗するため日米欧が情報の仕組みに合意",
-   "one_line": "安い鉄が別の国を経由して流れてくるのを防ぐため、日本とアメリカ、ヨーロッパが協力します。",
-   "what": "日本とアメリカ、ヨーロッパの国々が、鉄鋼の「迂回輸出」に対抗するため、鉄の流通に関する情報を共有する新しい枠組みを作ることで合意しました。中国などの動きを意識した対応とされています。",
-   "background": "そもそも鉄鋼とは、建物や車など色々なものに使われる大切な材料です。ある国で作られた安い鉄が、ルールを避けて別の国を経由して売られることを「迂回輸出」と呼び、世界中の貿易のルールに影響を与えることがあります。そのため、関係する国々が協力して監視する仕組みが作られます。",
-   "impact": "日本の鉄を作る会社や、鉄を使って製品を作る日本の産業の仕事や価格に影響する可能性があります。今すぐ私たちの買い物が変わるわけではありませんが、世界の貿易のルールが変わる動きです。",
-   "genre": "経済",
-   "category": "貿易・関税",
-   "terms": [
-    {
-     "word": "迂回輸出",
-     "meaning": "ルールや貿易の制限を避けるために、別の国を一度経由してから商品を売り出すこと。"
-    },
-    {
-     "word": "枠組み",
-     "meaning": "物事を進めたり協力したりするための、共通のルールや仕組みのこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a54463fe946f5a91",
-   "url": "https://news.yahoo.co.jp/pickup/6597059?source=rss",
-   "title_original": "モロッコ初の女性首相 組閣へ",
-   "source": "Yahoo!ニュース 国際",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/30/c30d8272be04e885070199c57e01c9cdf21cabfecd3e943b6657b295a92a1a60.jpg",
-   "region": "国内",
-   "published": "2026-09-30T04:55:37+00:00",
-   "title_ja": "モロッコで初めて女性の首相が組閣へ",
-   "one_line": "モロッコで初めて女性の首相が新しい政府をつくる準備を始めました。",
-   "what": "モロッコで、歴史上初めて女性が首相に選ばれ、新しい政府を組み立てるための準備を進めると伝えられています。",
-   "background": "国の政治を動かす首相は、選挙の結果などをふまえて国王や大統領から選ばれます。国によっては、これまで男性がえらばれることが多くありましたが、近年は世界中で女性がこの仕事につくことが増えています。",
-   "impact": "今すぐ私たちの暮らしや日本との関係が大きく変わるわけではありませんが、世界の政治で女性がどのように活躍していくのかを知る大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "組閣",
-     "meaning": "首相が中心となって、政府を支える大臣たちを新しくえらび、チームを作ることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "827f3aad4a194a87",
-   "url": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
-   "title_original": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/8e91d809446ddce2562ab99dea42f3fe65e322d1/150_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=16c5708a8a79d0dc5e61d865e26398a5",
-   "region": "海外",
-   "published": "2026-09-30T04:40:25+00:00",
-   "title_ja": "オーストラリアの物価上昇で金利引き上げの心配",
-   "one_line": "オーストラリアで物価が上がり続け、利息がさらに高くなる心配が出ています。",
-   "what": "オーストラリアの物価上昇率が４パーセントになり、ジム・チャルマーズ財務担当大臣が政府の経済のやり方をめぐって批判をうけています。海外の石油の値段が上がったことが原因だと説明されています。",
-   "background": "物価が上がりすぎると、中央銀行という特別な銀行が、お金を借りにくくして経済の熱を冷ますために、金利を上げることがあります。金利が上がると、住宅ローンや買い物でお金を借りたときの負担が増える仕組みです。",
-   "impact": "オーストラリアの経済や金利の動きは、世界中の経済や為替のようすを通じて私たちの生活にも間接的なつながりがありますが、今すぐ日本の生活が直接変わるものではありません。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "インフレ",
-     "meaning": "モノやサービスの値段（物価）全体が、長い時間にわたって上がり続ける現象のことです。"
-    },
-    {
-     "word": "金利",
-     "meaning": "お金を借りたり預けたりするときに発生する、いわば「お金のレンタル料」のようなものです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b711723038dea3ec",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss",
-   "title_original": "South African president orders action on femicide after killings",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790743124.jpg?resize=1435%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-30T04:39:34+00:00",
-   "title_ja": "南アフリカ大統領が女性への暴力対策を指示",
-   "one_line": "南アフリカの大統領が、女性をねらった暴力や事件を防ぐ新しい対策を命じました。",
-   "what": "南アフリカのシリル・ラマポーザ大統領が、女性に対する暴力や事件をなくすため、新しい対策をおこなうと発表しました。",
-   "background": "国や社会のなかで、性別を理由にした差別や暴力はなくすべき大きな問題とされています。世界中の多くの国で、法律をつくったり警察の力を強めたりして、こうした事件から人々を守る取り組みが続けられています。",
-   "impact": "南アフリカ国内の治安や人権を守るための動きであり、今すぐ私たちの暮らしに直接的な影響があるわけではありませんが、世界的な社会問題の解決に向けた取り組みの一つです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "7135644cd72f3cbe",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss",
-   "title_original": "Democrats hope anger at Trump enough to get young people to vote",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790742907.jpg?resize=1920%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-09-30T04:36:27+00:00",
-   "title_ja": "アメリカの若者の投票とトランプ氏への怒り",
-   "one_line": "アメリカの政治家たちが、若い人たちに選挙で投票してもらおうと考えています。",
-   "what": "アメリカの政治の専門家が、若い人たちは通常、中間選挙のときにあまり投票しないと話しています。",
-   "background": "アメリカでは、大統領を選ぶ選挙の間に、議会を選ぶ「中間選挙」という別の大きな選挙があります。普段は若い人が選挙に行きにくいと言われています。",
-   "impact": "今すぐ私たちのくらしが変わるわけではありませんが、アメリカのこれからの政治の方向性を決める大切な動きとして注目されています。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "中間選挙",
-     "meaning": "アメリカで大統領の任期の途中に行われる、議会のメンバーを選ぶための大切な選挙のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "2a4bd77d7998f496",
-   "url": "https://news.yahoo.co.jp/pickup/6597051?source=rss",
-   "title_original": "ウ侵攻 通信インフラの防御策焦点",
-   "source": "Yahoo!ニュース 国際",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sasakimasaakiex/02731136/title-1790719575971.jpeg?exp=10800",
-   "region": "国内",
-   "published": "2026-09-30T04:32:47+00:00",
-   "title_ja": "ウクライナでの通信を守るための対策が焦点に",
-   "one_line": "ウクライナで、インターネットや電話などの通信網を守るための対策が話し合われています。",
-   "what": "ウクライナへの軍事侵攻が続く中、インターネットや電話などの通信インフラを守るための対策が大きな焦点となっています。",
-   "background": "国と国とが争うとき、相手の国と連絡が取れなくしたり、情報を伝えにくくしたりするために、通信のための機械や電線がねらわれることがあります。そのため、それをどうやって守るかが大切になります。イエスかノーかを決める重要な問題のことを「焦点」と言います。",
-   "impact": "今すぐ日本のくらしが直接変わることはありませんが、世界の安全や情報がどのように守られるかに関わる大切なニュースです。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "インフラ",
-     "meaning": "くらしや産業を支えるための、電気・水道・道路・通信などの大切な基盤や施設のことを言います。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3331f76817c9e3a6",
-   "url": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o",
-   "title_original": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c90/live/65be9d30-bc81-11f1-a200-b9459c1e297a.jpg",
-   "region": "海外",
-   "published": "2026-09-30T04:21:11+00:00",
-   "title_ja": "中国の国家主席の名前を付けた韓国の中華料理店が襲撃される",
-   "one_line": "中国の国家主席の名前を使った韓国の中華料理店が、中国国籍の人々に襲われました。",
-   "what": "韓国にある、中国の習近平国家主席と同じ名前の中華料理店が、中国国籍の人々から襲撃を受けました。店のオーナーは「韓国で一番美味しい中国料理店にしたくてこの名前を選んだ」と話しています。",
-   "background": "国と国の関係や、政治家の名前をめぐる受け止め方は、人によってさまざまです。特に海外で暮らす人々にとって、母国の指導者の名前やイメージは強い関心事であり、お店の名前として使われることに対して複雑な感情を抱くことがあります。",
-   "impact": "今すぐ私たちの暮らしやお金が変わるわけではありませんが、外国で政治家の名前がどのように受け止められ、トラブルにつながるかを示す出来事です。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "習近平",
-     "meaning": "中国の現在の指導者であり、中国共産党のトップを務める人物です。"
     }
    ],
    "importance": 2
