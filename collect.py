@@ -33,6 +33,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE_DIR)
 
 import llm_providers  # noqa: E402  （.env 読み込みより前でよい。キーは呼び出し時に参照される）
+import digest as digest_lib  # noqa: E402  一覧の先頭に出す「ここ数日のまとめ」
 
 FEEDS_PATH = os.path.join(BASE_DIR, "feeds.json")
 OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "articles.json")
@@ -858,6 +859,21 @@ def to_public(item: dict) -> dict:
 SKIP_MEMORY_DAYS = 5
 
 
+# --------------------------------------------------------------------------
+# ここ数日のまとめ（一覧の先頭に出す）
+# --------------------------------------------------------------------------
+# 作り方そのものは digest.py（4サイト共通）。ここにはこのサイトならではの違いだけを書く。
+DIGEST_SITE = {
+    "editor": "政治・経済・国際のニュースを、背景からやさしく噛み砕いて伝える日本語サイトの編集者",
+    "focus": "中学生にも伝わる言葉で書く。専門用語は言い換えるか、短い説明を添える。政治・経済・国際のどれかに偏り過ぎないようにする。",
+    "columns": "ジャンル / カテゴリ / 国内か海外か / 重要度 / 見出し / ひとことで / 何が起きたか",
+    "describe": lambda i: (
+        f"{i.get('genre', '')} / {i.get('category', '')} / {i.get('region', '')} / "
+        f"{i.get('importance', 3)} / {i['title_ja']} / {i.get('one_line', '')} / {i.get('what', '')}"
+    ),
+}
+
+
 def load_existing() -> dict:
     if not os.path.exists(OUTPUT_PATH):
         return {"updated_at": None, "items": []}
@@ -986,6 +1002,7 @@ def main() -> int:
         fill_missing_images(stale)
 
     merged = [to_public(item) for item in merged]
+    digest = digest_lib.build_digest(merged, existing.get("digest"), DIGEST_SITE, parse_date)
 
     payload = {
         "updated_at": now.astimezone(JST).isoformat(),
@@ -995,6 +1012,7 @@ def main() -> int:
         "sources": sorted({item["source"] for item in merged}),
         "skipped": skipped_log[-400:],
         "count": len(merged),
+        "digest": digest,
         "items": merged,
     }
 
