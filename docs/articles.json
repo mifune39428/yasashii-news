@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T00:18:11.444786+09:00",
+ "updated_at": "2026-10-18T05:22:36.998997+09:00",
  "genres": [
   "政治",
   "経済",
@@ -646,48 +646,351 @@
   {
    "id": "63f74481ad008c31",
    "until": "2026-10-22T15:18:11.444786+00:00"
+  },
+  {
+   "id": "87f321ddcc293169",
+   "until": "2026-10-22T20:22:36.998997+00:00"
+  },
+  {
+   "id": "c07056fa1813c687",
+   "until": "2026-10-22T20:22:36.998997+00:00"
+  },
+  {
+   "id": "5e07b99793ac1051",
+   "until": "2026-10-22T20:22:36.998997+00:00"
+  },
+  {
+   "id": "f40c05f176911bdb",
+   "until": "2026-10-22T20:22:36.998997+00:00"
+  },
+  {
+   "id": "50ffba9c93137659",
+   "until": "2026-10-22T20:22:36.998997+00:00"
+  },
+  {
+   "id": "5d7c10ff0b22bf31",
+   "until": "2026-10-22T20:22:36.998997+00:00"
+  },
+  {
+   "id": "e2f70f539575b02e",
+   "until": "2026-10-22T20:22:36.998997+00:00"
+  },
+  {
+   "id": "c89bf48507ca34f2",
+   "until": "2026-10-22T20:22:36.998997+00:00"
   }
  ],
  "count": 300,
  "digest": {
-  "headline": "ホルムズ海峡の緊張やウクライナ支援、国内のカスハラ条例など重要ニュース",
+  "headline": "ウクライナ支援と中東の緊張続く、国内では半導体や値上げの動き",
   "points": [
    {
-    "text": "イランの革命防衛隊はホルムズ海峡でコンテナ船が機雷に接触して炎上したと発表し、中東では戦闘の激化やイスラエルによる資金停止で医療や市民への影響が出ています。",
-    "ids": [
-     "3ff6bcf33733933e",
-     "9211ba12dec672bc",
-     "c0a7fcf5f9139bb3"
-    ]
-   },
-   {
-    "text": "ウクライナのゼレンスキー大統領は欧州連合（EU）に追加支援を求めるとともに、アメリカの求めで止めていたロシアの施設への攻撃を再開する考えを示しました。",
+    "text": "ウクライナのゼレンスキー大統領が欧州連合（EU）の指導者たちと会談し、来年の戦争支援として79億ドルの追加資金を求めました。",
     "ids": [
      "102b96d8b399390b",
-     "8d08e015e2da20ac",
-     "92dbe4dfb586de8a"
+     "861751902c4dbd33",
+     "9dab936790ae90c6"
     ]
    },
    {
-    "text": "三重県議会で客からの理不尽な迷惑行為を防ぐための罰則付きのカスハラ条例が全国で初めて可決され、来年4月から始まることになりました。",
+    "text": "ホルムズ海峡で船舶への攻撃が増えており、中東情勢の緊迫化からニューヨークの原油価格が約1か月ぶりの高値となりました。",
     "ids": [
-     "14e845bcac510e1b"
+     "3ff6bcf33733933e",
+     "a525d530f4b6fdf6"
     ]
    },
    {
-    "text": "サイゼリヤが6年ぶりの値上げを発表し、ミラノ風ドリアの値段が300円から320円に上がるなど、身近な生活への影響も続いています。",
+    "text": "経済産業省が台湾のTSMCによる熊本での2つ目の工場で、国内初となる最先端の半導体を作る計画を認めました。",
     "ids": [
+     "0d67fc3c2a0cb434"
+    ]
+   },
+   {
+    "text": "三重県議会で客からの迷惑行為を防ぐ罰則付きの条例が全国で初めて可決されたほか、外食チェーンのサイゼリヤが6年ぶりの値上げを発表しました。",
+    "ids": [
+     "14e845bcac510e1b",
      "8ff3d9f644513988"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-15T00:18:47.003954+09:00",
-  "generated_at": "2026-10-18T00:18:48.990143+09:00",
+  "from": "2026-10-15T05:23:11.906244+09:00",
+  "generated_at": "2026-10-18T05:23:13.520153+09:00",
   "article_count": 24,
-  "sig": "e9af9cab6191"
+  "sig": "794d4e2b6947"
  },
  "items": [
+  {
+   "id": "cc946b89cb922379",
+   "url": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
+   "title_original": "Looters seize on massive French protests to raid and vandalise shops",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg",
+   "region": "海外",
+   "published": "2026-10-17T20:15:02+00:00",
+   "title_ja": "フランスのデモに乗じて店が荒らされる被害",
+   "one_line": "フランスの大きなデモの最中に、どさくさに紛れて店を襲い、品物を奪うなどの被害が起きました。",
+   "what": "フランスで多くの人が参加する大規模なデモが行われた土曜日、その混乱に乗じて、パン屋さんやスーパー、電化製品の店など、さまざまな店が襲われ、荒らされたり物を盗まれたりする被害が相次ぎました。",
+   "background": "多くの人が集まる大規模なデモや集会では、本来の目的とは関係のない人たちがまぎれ込み、混乱に乗じて法律に違反する行為や犯罪を起こしてしまうことがあります。警察や治安を守る組織は、こうしたトラブルを防ぐために警戒にあたります。",
+   "impact": "直接私たちの生活に影響するものではありませんが、海外の大規模なデモで治安が悪化し、お店やビジネスに大きな被害が出ているというニュースです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "6f3c4d3958ebc540",
+   "url": "https://www.sankei.com/article/20261018-QAIJZPD3UNLO3HW2GFXYMBYMQQ",
+   "title_original": "高市日誌 17日（土）",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/ACKFOVTLR5JCHMJTUSPDJFQOKA.jpg?auth=f316b7168af65d7a34eb524e33e8125f5052aa43bb80cabead518b6760b39017&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-17T20:00:01+00:00",
+   "title_ja": "高市早苗氏の10月17日の行動を伝える記録",
+   "one_line": "政治家の毎日の動きを記録した日誌について伝えています。",
+   "what": "10月17日の高市氏の行動について記録された日誌の内容が公開されています。",
+   "background": "政治家、特に大臣や政党のリーダーなどの重要な立場にある人の毎日のスケジュールや会った人は、公的な記録として残されることがあります。",
+   "impact": "今すぐ私たちの暮らしやお金が大きく変わるものではありませんが、政治家がどのような動きをしているかを知るための情報となります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 1
+  },
+  {
+   "id": "fbd0edc48f3558c4",
+   "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+   "title_original": "No action to be taken against wife of PM’s aide over Palestine Action post",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/d4ab1c134c4c8f31bad2e66b87319575193984da/1256_787_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=2abb77454d54086035cd503990bf8f54",
+   "region": "海外",
+   "published": "2026-10-17T19:47:45+00:00",
+   "title_ja": "イギリスの首相補佐官の妻のSNS投稿で刑事処分なし",
+   "one_line": "イギリスで政府関係者の家族によるSNS投稿をめぐる対応が伝えられています。",
+   "what": "イギリスの首相の安全保障補佐官の妻が投稿した内容について、警察が犯罪にはあたらないとして、それ以上の処分や捜査を行わないと決めました。",
+   "background": "国によって、インターネットやSNSへの投稿が法律に違反するかどうかを判断する仕組みや、表現の自由をめぐるルールがあります。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、イギリスの政治や社会における法律のルールや警察の判断を伝えています。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "5f5f4a0310adf4d1",
+   "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
+   "title_original": "Albanian police fire rubber bullets as protests against Rama escalate",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-17T181420Z_2081897189_RC245OA63H0W_RTRMADP_3_ALBANIA-PROTEST-1792261344.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-10-17T19:26:13+00:00",
+   "title_ja": "アルバニアで首相の辞任を求めるデモ、警察と衝突",
+   "one_line": "アルバニアでエディ・ラマ首相の辞任を求める抗議デモが激しくなり、警察がゴム弾を発砲しました。",
+   "what": "アルバニアの首都ティラナなどで、エディ・ラマ首相の辞任を求める学生らが大規模な抗議活動を行いました。デモが激しくなったことで警察と衝突し、警察がゴム弾を使う事態となりました。こうした混乱は5日間にわたって続いています。",
+   "background": "民主主義の国では、国民が政治や国のリーダーのやり方に不満を持ったとき、平和的に抗議する権利が認められています。しかし、主張がぶつかり合って話し合いが行き詰まると、デモ隊と警察が衝突するような大きな混乱に発展することがあります。",
+   "impact": "日本から遠く離れたアルバニア国内の政治的な動きであり、今のところ私たちの日本の暮らしや家計に直接的な影響はありません。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "8ad39bd50168c3c1",
+   "url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
+   "title_original": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/75686930_6.jpg",
+   "region": "海外",
+   "published": "2026-10-17T19:17:00+00:00",
+   "title_ja": "アメリカのトランプ大統領と民主党のオマール議員の対立",
+   "one_line": "アメリカのトランプ大統領が、民主党のイルハン・オマール議員に対して厳しい言葉で繰り返し攻撃しています。",
+   "what": "アメリカのトランプ大統領が、野党である民主党のイルハン・オマール議員を「ゴミ」や「犯罪者」などと強く非難しました。オマール議員はこれまでもトランプ大統領から厳しい言葉による攻撃の標的とされてきており、なぜ彼女がここまで狙われるのかが注目されています。",
+   "background": "アメリカの政治では、大統領を出す「共和党」と、それに対抗する「民主党」の2つの大きな政党が、国の方針をめぐって激しく言い争います。大統領と野党の議員が個人としても激しい言葉で批判し合うことは、アメリカの政治における対立の激しさを表すよくある光景の一つです。",
+   "impact": "アメリカの政治家同士の言い争いであり、今すぐ私たちの暮らしや仕事に直接変わる影響はありません。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "民主党",
+     "meaning": "アメリカにある2つの大きな政党のうちのひとつで、多様性を重視し、社会保障の充実などを訴えることが多い政党です。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "c03750b5a9f88d55",
+   "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+   "title_original": "More than 400 arrested as police clash with protesters across France",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a18d42ff582fc580489ac914a54a72",
+   "region": "海外",
+   "published": "2026-10-17T19:15:03+00:00",
+   "title_ja": "フランス各地でデモ隊と警察が衝突、400人以上を逮捕",
+   "one_line": "フランス各地で物価高や社会保障への不満から抗議デモが起き、警察との衝突で400人以上が逮捕されました。",
+   "what": "フランスのパリやマルセイユなどで、高校生の不満を支持する人々や、物価の高騰、社会福祉の仕組みが弱まっていることに怒るグループが抗議デモを行いました。デモ隊が役所に押し入ったり、警察が催涙ガスを使って対応するなど激しい衝突となり、土曜日だけで全国で400人以上が逮捕されました。",
+   "background": "ヨーロッパの国々では、生活費が高くなったり、国の支え合いの仕組み（社会保障）が不十分になったりしたと感じたとき、国民が声を上げて政府に抗議することがよくあります。その中で、過激な行動をとる一部のグループが加わることで、警察との大きな衝突に発展することがあります。",
+   "impact": "フランス国内の治安や経済に関する出来事であり、今のところ日本の私たちの暮らしに直接的な影響を与えるものではありません。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "催涙ガス",
+     "meaning": "目や鼻の粘膜を刺激して一時的に痛ませ、暴徒やデモ隊の動きを止めるために警察などが使う特殊なガスです。"
+    },
+    {
+     "word": "社会福祉",
+     "meaning": "医療や年金、生活が困ったときの支援など、国民が安心して暮らせるように国が支える仕組みのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fea6a0af58691630",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+   "title_original": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792263811.jpg?resize=1920%2C1080&quality=80",
+   "region": "海外",
+   "published": "2026-10-17T19:04:00+00:00",
+   "title_ja": "ウクライナの首都で市長の辞めを求めるデモ",
+   "one_line": "ウクライナの首都キーウで、市長の辞任を求める抗議デモが数百人規模で行われました。",
+   "what": "ウクライナの首都キーウの市長であるビタリ・クリチコ氏の仕事場に、数百人の人たちが集まりました。そして、市長に対して仕事を辞めるように求めました。",
+   "background": "国や地域をまとめる大きな政治家だけでなく、それぞれの街や村にも、その場所のリーダーがいます。市長は、私たちが住む市や町の仕事を進める大切な役割を持っています。時には住民の意見が合わずに、抗議の動きが起きることもあります。",
+   "impact": "今すぐ私たちの暮らしや生活が大きく変わるわけではありませんが、世界各地の政治の動きや、人々の考え方を知るためのニュースです。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "efbafa319f7fe93e",
+   "url": "https://www.nikkei.com/article/DGXZQOUA168490W6A011C2000000",
+   "title_original": "税関とは 密輸取り締まり、巧妙な手口で業務負担増す",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3741976017102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=ba099258450dfab5a2a3bd512ef542dc",
+   "region": "国内",
+   "published": "2026-10-17T17:00:00+00:00",
+   "title_ja": "税関での密輸取り締まりと業務の負担について",
+   "one_line": "税関ではルールに違反する荷物の取り締まりを行っていますが、その手口が巧妙になり負担が増えています。",
+   "what": "海外から日本に荷物や品物が入るときに通る「税関」で、違法な品物の持ち込み（密輸）を取り締まる仕事が行われています。そのやり方が年々複雑になっており、働く人たちの仕事の負担が重くなっています。",
+   "background": "税関は、国と国の間で品物をやり取りするときに、法律に違反したものが日本に入ってこないように見張る場所です。外国から届く荷物を調べて、危険なものや税金がかかるものを正しく見つける役割を持っています。",
+   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、国の安全を守る仕事の大切さや、海外から届く荷物の裏側の仕組みを知るニュースです。",
+   "genre": "経済",
+   "category": "貿易・関税",
+   "terms": [
+    {
+     "word": "税関",
+     "meaning": "外国から入ってくる荷物や品物を調べて、法律に違反したものが日本に入るのを防ぐ国の機関。"
+    },
+    {
+     "word": "密輸",
+     "meaning": "法律で禁止されている品物や、税金を払わなければいけない品物を、隠してこっそりと国内に持ち込むこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ad8d4a040ae4b747",
+   "url": "https://www.nikkei.com/article/DGXZQOUB1485W0U6A510C2000000",
+   "title_original": "ゴルフ会員権8割高、愛好家が猛アプローチ バブル期とは異なる熱狂",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3736546016102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=f0653c6fe0e55147b0c3c739d3601e78",
+   "region": "国内",
+   "published": "2026-10-17T17:00:00+00:00",
+   "title_ja": "ゴルフ会員権の値段が大きく上がっている話",
+   "one_line": "ゴルフをする権利の値段が、昔の盛り上がりとは違う理由で高くなっています。",
+   "what": "ゴルフ会員権の値段が、以前と比べておよそ8割も高くなっていると伝えられています。",
+   "background": "ゴルフ会員権とは、ゴルフ場で優先的にゴルフを楽しんだり、安く利用できたりする権利のことです。ゴルフ場は会員から集めたお金で運営されており、その権利は市場で売り買いすることができます。",
+   "impact": "ゴルフが好きな人にとっては、遊ぶためのお金がかかりやすくなるかもしれません。今すぐに私たちの暮らし全体が大きく変わるものではありません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "ゴルフ会員権",
+     "meaning": "特定のゴルフ場を優先的に使ったり、割引料金で利用できたりする権利のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "4c346cb105475c16",
+   "url": "https://www.nikkei.com/article/DGXZQOGN14C8J0U6A011C2000000",
+   "title_original": "ブラジル大統領選挙、世界の食料安保や資源政策左右 25日に決選投票",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3729467015102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.26&fp-y=0.43&h=630&w=1200&s=d435d4430d7d1abdc9aa97b6bca462bd",
+   "region": "国内",
+   "published": "2026-10-17T17:00:00+00:00",
+   "title_ja": "ブラジル大統領選挙でまもなく決選投票が行われる話",
+   "one_line": "世界の食料や資源の未来を左右する、ブラジルの大統領を決める選挙が近づいています。",
+   "what": "ブラジルの大統領選挙で、25日に決選投票が行われると伝えられています。この結果は世界の食料の安全保障や資源政策に影響を与えます。",
+   "background": "大統領選挙とは、国のリーダーを選ぶための国民ぐるみの選挙です。候補者の票が割れて一回で決まらなかった場合に、上位の二人で改めて投票を行う仕組みを決選投票と呼びます。",
+   "impact": "地球の裏側にあるブラジルの政治が変わることで、日本に届く食料や資源の値段、貿易の仕組みなどに長い目で見て影響が出る可能性があります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "決選投票",
+     "meaning": "一度の投票で一番を決める人が決まらなかったとき、上位の候補者だけで改めて行う投票のことです。"
+    },
+    {
+     "word": "食料安保",
+     "meaning": "国や人々が十分な食料を安定して手に入れられるように備えることです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "7ab559026f5b5356",
+   "url": "https://www.nikkei.com/article/DGXZQOUA145WV0U6A011C2000000",
+   "title_original": "金の輸出、流通経路不明なら認めず 密輸による脱税を財務省が防止",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3741957017102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=13e97ecbefc9bfdd1430f927dc3c7781",
+   "region": "国内",
+   "published": "2026-10-17T17:00:00+00:00",
+   "title_ja": "財務省が金の輸出について、流通経路が分からないものを認めない方針を決めた話",
+   "one_line": "財務省が、どこから来たかはっきりしない金の輸出を認めないことで、税金のごまかしを防ごうとしています。",
+   "what": "財務省が、どこを通ってきたか分からない金の輸出を認めない方針を決めたと伝えられています。これは密輸による税金の脱税を防ぐための対策です。",
+   "background": "財務省は、国の予算や税金、お金の管理などを担当する役所です。金のような高価な金属を外国とやり取りする際には、正しい税金を払うルールが決められています。",
+   "impact": "正しくルールを守っている人への影響は少ないですが、金を取り扱う業界全体で、どこから仕入れたものかを確認するきまりが厳しくなります。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "財務省",
+     "meaning": "国の予算や税金、お金の管理などを担当する中心的な役所のことです。"
+    },
+    {
+     "word": "脱税",
+     "meaning": "払わなければならない税金を、不正な手段を使って払わないようにすることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b6a6233244c34b1f",
+   "url": "https://www.nikkei.com/article/DGXZQOGN13AZK0T11C26A0000000",
+   "title_original": "米ワーナーを巨額買収 スカイダンスのデービッド・エリソンCEO",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3728325015102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-y=0.37&h=630&w=1200&s=358fe4fe177994b86740dfb73c9efc72",
+   "region": "国内",
+   "published": "2026-10-17T17:00:00+00:00",
+   "title_ja": "アメリカのスカイダンスがワーナーを巨額買収する話",
+   "one_line": "アメリカの会社であるスカイダンスが、巨大な映画会社であるワーナーを大きなお金で買い取ることになりました。",
+   "what": "アメリカの会社であるスカイダンスのトップが、アメリカのワーナーを巨額のお金で買収すると伝えられています。",
+   "background": "会社員としての仕事だけでなく、ほかの会社を自分たちのグループに迎えて大きくすることを買収と呼びます。映画やテレビ番組を作る会社同士が一緒になることで、より多くの作品を作れるようになります。",
+   "impact": "私たちが普段見ている映画やテレビの番組、配信サービスで作られる作品の内容や見られる場所に変化が起きるかもしれませんが、今すぐ私たちの暮らしが直接変わるわけではありません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "買収",
+     "meaning": "ある会社が、ほかの会社の株などを買い取ることで、自分たちのグループにすることです。"
+    },
+    {
+     "word": "CEO",
+     "meaning": "会社の経営において、一番大切な責任を負って仕事をする最高責任者のことです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "61cae8d261bcda56",
    "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
@@ -757,6 +1060,29 @@
    "importance": 3
   },
   {
+   "id": "53fc7297ceacdf07",
+   "url": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-world-4025-rdf",
+   "title_original": "China's influence in the gaming industry is growing",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79363604_6.jpg",
+   "region": "海外",
+   "published": "2026-10-17T14:49:00+00:00",
+   "title_ja": "世界のゲーム業界で中国の影響力が大きくなっています",
+   "one_line": "世界最大のゲーム市場である中国のルールや動きが、世界中のプレイヤーにも影響を与えています。",
+   "what": "700万人以上のゲームをする人がいる中国は、世界で一番大きなゲームの市場ですが、同時に厳しいルールで管理されています。その影響は中国の中にとどまらず、世界中のプレイヤーに届いていると伝えられています。",
+   "background": "ゲームを作る会社は、世界中の人に遊んでもらうために、それぞれの国の法律やルールを守る必要があります。特に市場が大きい国でのルールは、ゲームの内容や売り方に大きな影響を与えることがあります。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界中で遊ばれているゲームの内容や仕組みが変わるきっかけになるかもしれません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "規制",
+     "meaning": "社会のルールを守るために、国や政府がものごとのやり方や行動に制限をかけることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
    "id": "f4290472ac1a332c",
    "url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
    "title_original": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
@@ -778,6 +1104,33 @@
     }
    ],
    "importance": 3
+  },
+  {
+   "id": "acf461ffc8b02981",
+   "url": "https://www.sankei.com/article/20261017-ZQQT4NKW3FM3FDCMOPWT7DQBYE",
+   "title_original": "タイ南部で当局と分離独立を主張する武装集団が衝突、警察官ら4人死亡",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
+   "region": "国内",
+   "published": "2026-10-17T14:33:28+00:00",
+   "title_ja": "タイ南部で当局と武装集団が衝突し4人が死亡しました",
+   "one_line": "タイの南部の地域で、治安を守る人たちと別の独立を求めるグループがぶつかり、警察官らが亡くなりました。",
+   "what": "タイの南部で、国や治安を守る当局と、自分たちの地域を独立させたいと主張する武装したグループが衝突し、警察官など4人が亡くなりました。",
+   "background": "世界の一部の地域では、国から分かれて別の国を作りたいと考えるグループと、それを止める政府の間で、長い間争いが続いている場所があります。",
+   "impact": "今すぐ日本の私たちの暮らしに直接の影響はありませんが、世界の一部の地域で安全を守るための争いが起きているというニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "武装集団",
+     "meaning": "銃などの武器を持っている人たちのグループのことです。"
+    },
+    {
+     "word": "分離独立",
+     "meaning": "ひとつの国の中から、ある地域が分かれて別の新しい国を作ることです。"
+    }
+   ],
+   "importance": 2
   },
   {
    "id": "f734073109046b68",
@@ -887,6 +1240,33 @@
     }
    ],
    "importance": 3
+  },
+  {
+   "id": "4cdb57e5a5e78979",
+   "url": "https://www.sankei.com/article/20261017-2K2PDTHZ25I3XGJLJRS2J25WDE",
+   "title_original": "自民、消費減税の財源、19日以降に党内議論本格化へ 国民民主は20日にも対案提出",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/YE4FXKHYBBKVLOWTDDLIZUD3KQ.jpg?auth=cfbd0ef9985df58ba88ff97c175e503a62997cf1be514396877c12adf15db6df&quality=50&focal=1373%2C718&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-17T11:11:32+00:00",
+   "title_ja": "消費税の引き下げをめぐり各党で議論や対案の検討が進みます",
+   "one_line": "買い物のときにかかる税金を下げるための財源について、自由民主党や国民民主党が議論や準備を進めています。",
+   "what": "自由民主党が消費税の引き下げに必要な財源についての議論を本格的に始める予定であり、国民民主党も独自の対案を出す動きを見せています。",
+   "background": "国の政治では、税金の割合を変えるときに、足りなくなったお金をどうやって埋め合わせるかという「財源」について、政党同士で話し合って決めます。",
+   "impact": "将来的に買い物のときにかかる税金の仕組みや集め方が見直される可能性があり、私たちの家計や税金の負担に深く関わる話です。",
+   "genre": "政治",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "財源",
+     "meaning": "国や自治体などが仕事や政策をおこなうために使うお金の出どころのことです。"
+    },
+    {
+     "word": "消費減税",
+     "meaning": "買い物のときにかかる税金の割合をいまよりも低くすることです。"
+    }
+   ],
+   "importance": 4
   },
   {
    "id": "f5a760e0ec9d58cf",
@@ -1105,6 +1485,29 @@
    "category": "企業・産業",
    "terms": [],
    "importance": 2
+  },
+  {
+   "id": "372f4912944e7da6",
+   "url": "https://news.yahoo.co.jp/pickup/6599147?source=rss",
+   "title_original": "レタスが高値 マックやロイホ対応",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/17/32c480cd06a289c96beba126425bb8993e2fa4ae9b6c9c4cef91a1f44cea8c5a.jpg",
+   "region": "国内",
+   "published": "2026-10-17T09:31:47+00:00",
+   "title_ja": "レタスが高値になり飲食店が対応に追われています",
+   "one_line": "野菜のレタスが高い値段で売られており、ハンバーガー店やファミレスなどの飲食店が対応を始めています。",
+   "what": "レタスの値段が高くなっていることを受けて、マクドナルドやロイヤルホストなどの飲食店がそれぞれ対応を行っていると伝えられています。",
+   "background": "野菜の値段は、天候が悪くて不作になったりすると、収穫できる量が減るため高くなることがあります。飲食店は仕入れ値が上がるとメニューの工夫などを求められます。",
+   "impact": "私たちがスーパーでレタスを買うときの値段が高くなったり、外食したときのメニューや金額が変わったりすることがあります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [
+    {
+     "word": "高値",
+     "meaning": "ふだんよりも物の値段が高くなっている状態のことです。"
+    }
+   ],
+   "importance": 3
   },
   {
    "id": "c2719c36fef6844a",
@@ -7243,400 +7646,6 @@
    "category": "企業・産業",
    "terms": [],
    "importance": 2
-  },
-  {
-   "id": "507fa329507439ac",
-   "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
-   "title_original": "What we know about Pope Leo XIV's planned lung operation this week",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/2c428f50-bb58-11f1-a1b9-8f3418d01115/w:1024/p:16x9/2026-09-28T155925Z-496606537-RC2FSNABCLSJ-RTRMADP-3-POPE-FRANCE.jpg",
-   "region": "海外",
-   "published": "2026-10-12T22:20:59+00:00",
-   "title_ja": "ローマ教皇が肺の手術を受ける予定と報道",
-   "one_line": "ローマ教皇が今週、肺の手術を受ける予定であると伝えられています。",
-   "what": "ローマ教皇が今週、ローマの病院で肺のできものを取る手術を受ける見込みだと報じられました。手術後の回復にはおよそ7日かかると医師は見ています。",
-   "background": "ローマ教皇は、カトリック教会という世界中に信者がいる大きな組織のリーダーです。また、世界各地を訪れて平和を訴えるなどの外交的な役割も担っています。",
-   "impact": "今すぐ私たちの生活が変わることはありませんが、教皇の健康状態や、予定されている南アメリカへの訪問への影響が注目されています。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "ローマ教皇",
-     "meaning": "世界中に多くの信者がいるカトリック教会のいちばん上のリーダーのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "13251ed6116e22ef",
-   "url": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-   "title_original": "DOJ confirms search of Rep. Ilhan Omar’s home in federal investigation",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108398004-1791807612262-gettyimages-2262837378-MINNESOTA_DEMS_SOTU.jpeg?v=1791807641&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-12T14:57:32+00:00",
-   "title_ja": "アメリカ司法省が下院議員の自宅を捜索",
-   "one_line": "アメリカの警察や検察にあたる組織が、連邦の捜査として下院議員の自宅を調べました。",
-   "what": "アメリカの司法省が、ミネソタ州を選挙区とする民主党の下院議員イルハン・オマールの自宅を、連邦の調査の一環として調べたことが確認されました。",
-   "background": "アメリカの司法省は、国全体の法律を守らせたり、犯罪を調べたりする政府の組織です。また連邦議会の下院議員は、国民から選ばれて国の方針や法律を決める大切な仕事をする人たちです。議員の自宅が調べられるのは、法律違反の疑いがないか、国として詳しく調べているためです。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、国の政治を動かす立場の人がどのような調査を受けているのかは、今後のアメリカの政治の動きをみる上で注目されています。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "司法省",
-     "meaning": "アメリカ政府の中で、犯罪の捜査や法律の取り締まりを担当する組織のことです。"
-    },
-    {
-     "word": "連邦捜査",
-     "meaning": "国全体に関わるような大きな事件や、国の法律が破られた疑いがあるときに行われる特別な調査のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "b0352af98e274965",
-   "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-   "title_original": "S&P 500 is little changed to start the week; Micron leads tech lower: Live updates",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364036-1791477091930-108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks-1.jpg?v=1791477101&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-12T14:48:32+00:00",
-   "title_ja": "アメリカの株価は週の初めに目立った動きなし",
-   "one_line": "アメリカの株価は週の初めにほとんど変わらず、投資家たちは企業の決算発表や物価のデータを待っています。",
-   "what": "アメリカの株式市場で、主な500社の株価をまとめた「S&P 500」が、週の初めにほとんど変動せずに始まりました。また半導体大手のマイクロンなどがハイテク株の下げを引っ張りました。",
-   "background": "株式市場では、企業の業績や国の経済状態を表す数字が発表される前に、投資家たちが様子見をすることがよくあります。銀行などの大企業がこれから発表する決算や、物の値段の動きを示す物価のデータは、今後の景気を占うためにとても大切な情報です。",
-   "impact": "アメリカの株価や経済の動きは、日本の株式市場や世界の経済にも大きな影響を与えます。今後の物価や企業の成績によっては、わたしたちの暮らしや投資にも関係してきます。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "S&P 500",
-     "meaning": "アメリカの代表的な企業500社の株価をもとに計算される、市場全体の動きを表す大切な指標のことです。"
-    },
-    {
-     "word": "インフレデータ",
-     "meaning": "物価が上がっているかどうかなど、ものの値段の上がり下がりを表す統計データののことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1997be6d24308df0",
-   "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko",
-   "title_original": "South Africa's deputy police chief resigns after being charged with sexual offences",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c8/live/68991b20-c64a-11f1-b47f-e3f9cf703bc3.jpg",
-   "region": "海外",
-   "published": "2026-10-12T14:40:15+00:00",
-   "title_ja": "南アフリカの警察副長官が性犯罪の罪で起訴され辞任",
-   "one_line": "南アフリカの警察のナンバー2が、性犯罪の罪で起訴されたあとに辞めました。",
-   "what": "南アフリカのシャドラック・シビヤ警察副長官が、性犯罪の罪で起訴されたことを受けて辞任しました。副長官は、少女に対する性的な犯罪の疑いを否定していました。",
-   "background": "南アフリカはアフリカ大陸の南端にある国です。警察組織は国の治安を守り、法律を破った人を捕まえる大切な役割を持っています。その組織の幹部や高い地位にある人が犯罪の疑いで訴えられることは、社会的に大きな注目を集める問題です。",
-   "impact": "遠くの国の出来事で、今の私たちの暮らしに直接的な影響はありません。しかし、国の治安を守る警察のトップに近い人が辞めるというニュースは、その国の政治や社会の信用に関わる重要な出来事です。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "副長官",
-     "meaning": "組織のトップを支える、2番目に高い地位にある役職のことです。"
-    },
-    {
-     "word": "起訴",
-     "meaning": "検察官が、裁判で罪の重さを決めてもらうために、裁判所に事件を1つの正式な事件として持ち込むことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e31b9c5418566946",
-   "url": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
-   "title_original": "Alex Gibney says Universal ‘wavered’ over releasing Elon Musk documentary",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/d51e0f13cf21bb86e155f663d02852d880522a13/257_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8f62b37979b87ecd53d76cca2db09bde",
-   "region": "海外",
-   "published": "2026-10-12T14:38:44+00:00",
-   "title_ja": "イーロン・マスク氏のドキュメンタリー映画の公開をめぐる動き",
-   "one_line": "実業家をテーマにした映画の公開をめぐり、映画会社が配給するかどうかで迷ったと監督が語りました。",
-   "what": "実業家のイーロン・マスク氏をテーマにした4時間のドキュメンタリー映画について、監督のアレックス・ギブニー氏が、国際的な配給権を持つユニバーサル映画が北米以外での公開をどうするかについて迷っていたとニューヨーク・タイムズ紙に語りました。",
-   "background": "映画を作る監督と、それを映画館や配信で世界中に届ける映画会社の間では、どのような内容で、どこでどのように公開するかを話し合って決めます。特に有名な実業家を取り上げた作品は、世の中からの注目度が高いため、公開のしかたが慎重に検討されることがあります。",
-   "impact": "今すぐ私たちの生活を変えるような大きな出来事ではありませんが、世界的に有名な人物をあつかった作品がどのように世に出ていくのかという、映画やメディアのビジネスの裏側を知るニュースです。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "ドキュメンタリー",
-     "meaning": "ドラマやフィクションではなく、実際の出来事や人物をありのままに記録した映像作品のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "cf12391aacbc2b55",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
-   "title_original": "Burnham accepts Brexit result ‘legitimate’ despite Russian interference, says No 10 – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/e00822eb0a9542d30bcbe36e1fd0f079bc6a36ba/454_0_4467_3575/master/4467.jpg?width=140&quality=85&auto=format&fit=max&s=9350174748b96034083d69809bccb6c3",
-   "region": "海外",
-   "published": "2026-10-12T14:37:29+00:00",
-   "title_ja": "イギリスとヨーロッパ連合の関係をめぐる議論",
-   "one_line": "イギリスの首相官邸がEU離脱の結果を受け入れる方針を示しました。",
-   "what": "イギリスの首相官邸の担当者が、過去の国民投票で決まったヨーロッパ連合からの離脱の結果は正当なものであると認めました。一方で、国会議員たちには、ヨーロッパ連合との結びつきを再び強めるよう呼びかける動きもあります。",
-   "background": "イギリスは長い間、ヨーロッパの国々が政治や経済で深く協力し合う「ヨーロッパ連合」のメンバーでした。しかし、国内で「自分たちのルールを自分たちで決めたい」という意見が強まり、国民投票という仕組みを使って2020年に離脱しました。現在は、離脱したものの、貿易や移動のルールをどうするかについて話し合いが続いています。",
-   "impact": "今すぐ私たちの暮らしが大きく変わるわけではありません。しかし、イギリスとヨーロッパの国々の貿易や移動のルールが変わると、世界中の経済や日本の会社が輸出入するときの値段に影響することがあります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "ヨーロッパ連合",
-     "meaning": "ヨーロッパの国々が集まって、お互いの国境を自由に行き来したり、共通のルールを作ったりして協力する大きなグループのことです。"
-    },
-    {
-     "word": "国民投票",
-     "meaning": "国の重大な方針について、国会議員だけでなく国民一人ひとりが賛成か反対かを直接投票して決める仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ea54db0dc39fc8e7",
-   "url": "https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Starlink India launch: Why Elon Musk is still waiting",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/72556603_6.jpg",
-   "region": "海外",
-   "published": "2026-10-12T14:33:00+00:00",
-   "title_ja": "インドでの「スターリンク」開始が待たれる理由",
-   "one_line": "人工衛星を使ったインターネットサービスのインドでの開始が止まっています。",
-   "what": "アメリカの企業が提供する、人工衛星を使ったインターネットサービス「スターリンク」が、インド国内でまだ始まっていません。大切な許可は得たものの、国の安全保障やルールについての確認が続いており、すぐに始められない状態になっています。",
-   "background": "「スターリンク」は、空に打ち上げたたくさんの小さな人工衛星を使って、電波が届きにくい山や海など、世界中のどこでもインターネットがつながるようにする仕組みです。新しいテクノロジーを国内の企業が使うとき、国は安全性に問題がないか、自国の会社との競争が公平かなどを時間をかけて厳しく調べます。",
-   "impact": "今すぐ日本の私たちの生活が変わることはありません。しかし、世界の大きなテクノロジー企業が新しい国でサービスを始める動きは、世界の通信技術の仕組みや、外国の企業がインドで仕事をするためのルールに影響を与えます。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "人工衛星",
-     "meaning": "人間の手で作られ、地球のまわりを回る機械のことです。天気予報やテレビの放送、インターネットなどを届けるために使われています。"
-    },
-    {
-     "word": "安全保障",
-     "meaning": "国や国民の安全を守り、平和な暮らしや社会を外国の脅威から守るための仕組みや政策のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "394893e3bf42c05b",
-   "url": "https://www.france24.com/en/tv-shows/business/20261012-2026-paris-motor-show-western-carmakers-face-steep-competition-from-chinese-rivals",
-   "title_original": "2026 Paris Motor Show: Western carmakers face steep competition from Chinese rivals",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/fd2d9de2-c645-11f1-bd49-3774aeac812a/w:1024/p:16x9/capture-11137718636acce92c56d660-53640195.jpg",
-   "region": "海外",
-   "published": "2026-10-12T14:30:53+00:00",
-   "title_ja": "パリモーターショーで中国の自動車が注目集める",
-   "one_line": "パリの自動車の展示会で、中国のメーカーの車に注目が集まっています。",
-   "what": "フランスのパリで自動車の大きな展示会が開かれ、世界中から多くのブランドが最新の車を発表しました。その中でも、ここ数年で世界での売上を大きく伸ばしている中国の自動車メーカーが、たくさんの人から注目を集めています。",
-   "background": "自動車産業は、鉄やゴムなどのたくさんの部品を使い、多くの人が働く世界的な大きな産業です。近年、中国のメーカーは電気自動車の開発に力を入れ、値段が安くて性能が良い車をたくさん作ることで、ヨーロッパやアメリカをはじめとする世界中で売上を伸ばしています。",
-   "impact": "今すぐ日本の車を買うときの値段が変わるわけではありません。しかし、世界の自動車市場でライバル同士の競争が激しくなると、日本の自動車メーカーも新しい技術の開発や価格の見直しを迫られるなど、将来の日本の産業や仕事に影響することがあります。",
-   "genre": "経済",
-   "category": "貿易・関税",
-   "terms": [
-    {
-     "word": "電気自動車",
-     "meaning": "ガソリンの代わりに電気を動力源として走る車のことです。走るときに排気ガスを出さないため、環境にやさしい車として注目されています。"
-    },
-    {
-     "word": "市場",
-     "meaning": "商品やサービスを売り買いする人や企業が集まっている場所や、全体の仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2c3f40012993a205",
-   "url": "https://news.yahoo.co.jp/pickup/6598563?source=rss",
-   "title_original": "財務相 世銀IMF合同開発委議長に",
-   "source": "Yahoo!ニュース 国内",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/12/28c52c779d0281518d328f64b8d823944110ecef594e76a6ff86d883a03bbf9e.jpg",
-   "region": "国内",
-   "published": "2026-10-12T14:27:58+00:00",
-   "title_ja": "日本の財務大臣が世界銀行などの会議の議長に",
-   "one_line": "日本の財務大臣が、世界銀行とIMFの合同委員会の議長に就任しました。",
-   "what": "日本の財務大臣が、世界銀行と国際通貨基金（IMF）が開く合同開発委員会の議長を務めることになりました。",
-   "background": "「世界銀行」は発展途上国の経済を助けるために大きなお金を貸し出す組織、「国際通貨基金」は世界全体の経済が安定するように見守る組織です。これらの組織には世界中の国が参加しており、定期的に集まって地球規模のお金や経済の課題について話し合う会議を開いています。「議長」はその会議の話し合いを進める大切な役割です。",
-   "impact": "日本のだれか一人の生活が明日からすぐに変わるような直接的な影響はありません。しかし、日本が世界の大きなお金や経済のルールを決める話し合いの中心的な役割を担うことで、国際的な話し合いに意見を反映させやすくなります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "財務大臣",
-     "meaning": "国のお金の使い方や、税金、予算の管理などを担当する日本の大臣のことです。"
-    },
-    {
-     "word": "議長",
-     "meaning": "会議や委員会などの話し合いの場で、議論の進行役を務める人のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "f7a9b83a89b9f2f3",
-   "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
-   "title_original": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6accd4e81711-1791808744.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-10-12T14:25:55+00:00",
-   "title_ja": "イランの軍がペルシャ湾で石油を運ぶ船を攻撃",
-   "one_line": "イランの軍が、ホルムズ海峡の外へ石油を運ぶ船を狙って攻撃を強めています。",
-   "what": "イランの革命防衛隊が、ペルシャ湾から海峡の外へ原油を運ぶ「シャトル運航」の船とみなした複数の船を攻撃しています。",
-   "background": "ホルムズ海峡は、世界中の石油を運ぶ船がたくさん通る、とても大切な海のみちです。この海峡の近くには中東の国々があり、世界のエネルギーの動きに大きく関わっています。",
-   "impact": "中東の海でトラブルが起きると、日本に届く石油の値段や量に影響する心配があります。今すぐ普段の生活が変わるわけではありませんが、今後の動きに注意が必要です。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "ホルムズ海峡",
-     "meaning": "ペルシャ湾と外の海をつなぐ、船が通るためのせまい海のことです。世界の石油の多くがここを通ります。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "c22beff5f49e4ff2",
-   "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
-   "title_original": "Why are the Houthis striking Saudi airports?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6accdf29-1791811369.jpg?resize=1200%2C675",
-   "region": "海外",
-   "published": "2026-10-12T14:23:20+00:00",
-   "title_ja": "フーシ派によるサウジアラビアの空港攻撃",
-   "one_line": "サウジアラビアの空港が攻撃され、過去10年で最も大きな被害が出ています。",
-   "what": "フーシ派と呼ばれるグループがサウジアラビアの空港を攻撃しました。これは、サウジアラビア国内で起きた攻撃としては、ここ10年で最も多くの人が被害を受けた深刻な事件です。",
-   "background": "中東の国々では、長いあいだ異なるグループ同士の対立や戦いが続いています。安全な場所とされる空港が狙われることで、地域の緊張がさらに高まっています。",
-   "impact": "中東の安全が揺らぐと、世界の飛行機の運行やエネルギーの価格に影響が出ることがあります。今すぐに私たちの生活が直接変わるわけではありませんが、世界の平和について考える大切な出来事です。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 4
-  },
-  {
-   "id": "a408760eeac61eb3",
-   "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o",
-   "title_original": "Immigration agents search Congresswoman Ilhan Omar's home",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/255fca30-c63f-11f1-abff-0d918239b2e3.jpg",
-   "region": "海外",
-   "published": "2026-10-12T14:21:12+00:00",
-   "title_ja": "アメリカの議員の自宅を移民当局が捜索",
-   "one_line": "アメリカの国会議員の家を、移民を担当する当局が調べに入りました。",
-   "what": "アメリカの国会で活動する女性議員の自宅を、移民を管理する政府の機関が捜索しました。この議員は以前から大統領に対してはっきりと反対の意見を述べてきたことで知られています。",
-   "background": "アメリカには、国会の議員が政治活動を行う仕組みがあります。また、国内にいる外国人の管理や法律を守らせるための国の機関がそれぞれ決められた役割を持っています。",
-   "impact": "国会議員の家が政府の機関に調べられるのは珍しいことで、政治のなかの対立に注目が集まっています。今のところ私たちの毎日の暮らしに直接の変わりはありません。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "78447b9d86f18eaa",
-   "url": "https://www.nikkei.com/article/DGXZQOCB121X80S6A011C2000000",
-   "title_original": "EU、北朝鮮とロシアに追加制裁 弾道ミサイル開発で安保理決議に違反",
-   "source": "日本経済新聞",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-10-12T14:04:11+00:00",
-   "title_ja": "ヨーロッパの集まりが北朝鮮とロシアに追加のペナルティ",
-   "one_line": "ヨーロッパの国々が集まって、北朝鮮とロシアに対して新しいペナルティを決めました。",
-   "what": "ヨーロッパの国々のグループであるヨーロッパ連合が、北朝鮮とロシアに対して、新しく追加の制裁を決めました。国連で決められたルールに違反して、ミサイルを作っていることが理由です。",
-   "background": "安全保障理事会とは、世界中の平和と安全を守るために話し合う、国連の中の大切な会議のことです。ここでは、世界全体の安全をまもるために、さまざまなルールや禁止事項が話し合われて決められます。",
-   "impact": "今すぐ私たちの毎日の暮らしが大きく変わることはありませんが、世界の国々同士のルールや約束がどのように守られているのかを知るための、大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "追加制裁",
-     "meaning": "相手の国が悪いことをしたときに、困らせるために行うペナルティをさらに増やすことです。"
-    },
-    {
-     "word": "安保理決議",
-     "meaning": "世界中の平和を守るための会議で、みんなで話し合って決めた大切なルールのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2b81f71cb48977ab",
-   "url": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
-   "title_original": "マンション高騰 売れ残り値下げも",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/12/49cf1c8b679cccfd00d5a0f17f7c1efd6450fbc1b9471524be90a71535fd3722.jpg",
-   "region": "国内",
-   "published": "2026-10-12T14:00:00+00:00",
-   "title_ja": "高くなっていたマンションの価格と売れ残りについての動き",
-   "one_line": "とても高くなっていたマンションの値段について、売れ残ったものを値下げする動きが出てきました。",
-   "what": "これまで値段が高くなり続けていたマンションについて、売れ残った部屋の値段を安くする動きが出てきていると伝えられています。",
-   "background": "マンションなどの不動産の値段は、買いたい人が多いときは上がり、反対に買い手が少なくなると下がることがあります。値段が高くなりすぎると、買う人が減って売れ残ってしまうことがあります。",
-   "impact": "マンションを買いたい人にとっては、買いやすくなる可能性があります。一方で、家や土地の値段全体にどのような影響があるのか、今後の動きに注目が集まります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "高騰",
-     "meaning": "物の値段が、急激にものすごく高くなることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "61f97c1434605baa",
-   "url": "https://www.nikkei.com/article/DGXZQOUA099XP0Z01C26A0000000",
-   "title_original": "12日の高市首相の動静",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3710249009102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=3ef97235a1b1cb629015ec2cbd1500d1",
-   "region": "国内",
-   "published": "2026-10-12T14:00:00+00:00",
-   "title_ja": "10月12日の高市首相の動きとスケジュール",
-   "one_line": "10月12日の高市首相の1日のスケジュールや動きが伝えられました。",
-   "what": "高市首相が10月12日に、どのような場所に行って誰と会ったのかという、1日の詳しいスケジュールや動きが伝えられています。",
-   "background": "総理大臣は、国の政治のリーダーとして、毎日たくさんの会議に出たり、他の国の人と会って話し合ったり、日本中のいろいろな場所を訪れたりして仕事をしています。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、国のリーダーがどのようなことに力を入れて仕事をしているのかを知る手がかりになります。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "首相",
-     "meaning": "国会で選ばれる、国の政治のリーダーである総理大臣のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "b1e8bf8aa2cb9d4c",
-   "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html",
-   "title_original": "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12-int-iran-saudi-01-qtvz/12-int-iran-saudi-01-qtvz-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-10-12T13:33:38+00:00",
-   "title_ja": "イランがサウジアラビアと武装組織の間で仲介を提案",
-   "one_line": "イランが、支援する組織とサウジアラビアの対話を仲介すると申し出ました。",
-   "what": "イランが、長年支援しているイエメンの武装組織と、その組織から攻撃を受けているサウジアラビアの間に入って、話し合いの仲介をすると提案しました。",
-   "background": "中東地域では、国同士や宗派の違いから、長年にわたって対立や争いが続いています。イランは、イエメンの武装組織を裏から支えてきたとされてきましたが、周辺国との関係改善の動きも見せています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界の原油の供給や中東の平和に大きな影響を与える地域なので、今後の動きに注目が集まっています。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "武装組織",
-     "meaning": "自分たちの主張を通すために、武器を持って戦う集団のことです。"
-    },
-    {
-     "word": "仲介",
-     "meaning": "争っている二つの国の間に第三者に入って、話し合いがうまくいくように手助けすることです。"
-    }
-   ],
-   "importance": 3
   }
  ]
 }
