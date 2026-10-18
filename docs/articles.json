@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T19:43:03.897230+09:00",
+ "updated_at": "2026-10-19T00:39:32.691318+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,38 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "669bec41251d41c5",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
-  {
-   "id": "0543c2ca123261f6",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
-  {
-   "id": "e1e2090a1b5b2b91",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
-  {
-   "id": "c5d7fab3c9e5c32d",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
-  {
-   "id": "6b37cb49f9f65c99",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
-  {
-   "id": "591fe28f28fef1e7",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
-  {
-   "id": "96dce22393e1ef7a",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
-  {
-   "id": "0920509dfa77d042",
-   "until": "2026-10-18T13:54:44.225485+00:00"
-  },
   {
    "id": "c43a6407ebc083fa",
    "until": "2026-10-18T22:28:04.586838+00:00"
@@ -726,49 +694,336 @@
   {
    "id": "f3a9e316f2a32cb7",
    "until": "2026-10-23T10:43:03.897230+00:00"
+  },
+  {
+   "id": "51e2c9b10e771565",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "eaec1037334762d8",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "64232b219099998f",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "6dee8f9e39cb29fc",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "7bd741689ec3032d",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "4d0e91b71fcdce23",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "3d77450494ee2ed7",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "c0d79678e2409911",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "851f3d6266160a9c",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "b989aeff7af82df0",
+   "until": "2026-10-23T15:39:32.691318+00:00"
+  },
+  {
+   "id": "dec8237b35be84f4",
+   "until": "2026-10-23T15:39:32.691318+00:00"
   }
  ],
  "count": 300,
  "digest": {
-  "headline": "横浜市長選の投票開始やウクライナ情勢、経済の動きなど直近のニュースまとめ",
+  "headline": "横浜市長選の投票開始や、ウクライナ支援をめぐる国際情勢の動きなど",
   "points": [
    {
-    "text": "横浜市の新しいリーダーを決める横浜市長選挙の投票が始まり、開票や当選確実の状況がリアルタイムで伝えられています。",
+    "text": "横浜市のこれからのリーダーを決める横浜市長選挙の投票が始まり、開票結果や当選情報の速報に注目が集まっています。",
     "ids": [
      "31abb8ee1635bb6f",
      "31e0583e21046cd7"
     ]
    },
    {
-    "text": "食料品の消費税の引き下げやその財源をめぐり、国会での審議を前に与野党の幹部らが議論や準備を進めています。",
+    "text": "食料品の消費税を下げるための法律の案や財源について、国会での話し合いを前に与野党の間で活発な議論が行われています。",
     "ids": [
      "2c7c17c054c6c385",
-     "4cdb57e5a5e78979"
+     "4cdb57e5a5e78979",
+     "2fb41d75e7817239"
     ]
    },
    {
-    "text": "アメリカによるロシアへの制裁の一時停止や、ウクライナのゼレンスキー大統領による欧州連合（EU）への支援要請など、ウクライナ情勢をめぐる動きが続いています。",
+    "text": "ウクライナのゼレンスキー大統領がヨーロッパの指導者たちと会談し、戦争を続けるための追加支援や通信網の復旧を求めています。",
     "ids": [
-     "141274076d4f3297",
      "102b96d8b399390b",
-     "8d08e015e2da20ac"
+     "8d08e015e2da20ac",
+     "9dab936790ae90c6"
     ]
    },
    {
-    "text": "経済産業省が台湾のTSMCによる熊本県での2つ目の工場で最先端の半導体を作る計画を認定し、原油価格が値上がりするなどの動きがありました。",
+    "text": "アメリカがロシアへの制裁や関税を一時的に止める方針を示したほか、フランス各地では政府の対応をめぐり激しい騒動が起きています。",
     "ids": [
-     "a525d530f4b6fdf6",
-     "0d67fc3c2a0cb434"
+     "9951afaa5a104ff5",
+     "141274076d4f3297"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-15T19:43:51.676335+09:00",
-  "generated_at": "2026-10-18T19:43:53.420377+09:00",
+  "from": "2026-10-16T00:40:03.514070+09:00",
+  "generated_at": "2026-10-19T00:40:05.348837+09:00",
   "article_count": 24,
-  "sig": "f244a1cdf194"
+  "sig": "922f57e7bd55"
  },
  "items": [
+  {
+   "id": "bb9361e11f928038",
+   "url": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself",
+   "title_original": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/e3439b6dde6858e4f00f522708c30b35d747dcd9/468_0_3507_2806/master/3507.jpg?width=140&quality=85&auto=format&fit=max&s=22969b9211f9d7b60c162341031ee129",
+   "region": "海外",
+   "published": "2026-10-18T15:18:04+00:00",
+   "title_ja": "イギリスの市長が警察の調べを受けている問題",
+   "one_line": "イギリスの地域の市長が、不適切な画像を同僚に見せた疑いで警察の調べを受けています。",
+   "what": "イギリスのハルおよびイースト・ヨークシャーの市長が、女性の同僚に対して自分自身の不適切な画像を見せた疑いがあり、警察から調べを受けていることが分かりました。これに関連して、同僚の女性が仕事を辞めざるを得なくなったと訴えています。",
+   "background": "市長は、私たちが暮らす地域（市や町など）の代表として、地域の仕事をまとめる大切な役割を持つ人です。政治や地域のリーダーには、高いモラルや正しい行動が求められます。",
+   "impact": "今すぐ日本の私たちの生活が変わることはありませんが、世界の政治家や地域のリーダーの行動に対する責任について考えるニュースです。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "市長",
+     "meaning": "市や地域などの地方自治体をまとめるトップのリーダーのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9951afaa5a104ff5",
+   "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+   "title_original": "French government in crisis talks after ‘colossal failure of the state’",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/5f500153bda796e2afac7a987063976da41c702a/266_0_6528_5223/master/6528.jpg?width=140&quality=85&auto=format&fit=max&s=6e303d8ed1b09c9e628fbbaf182caf77",
+   "region": "海外",
+   "published": "2026-10-18T15:10:32+00:00",
+   "title_ja": "フランスで激しい騒動が起き、政府が緊急の話し合い",
+   "one_line": "フランス各地で激しい騒動が起き、政府が緊急の話し合いを開きました。",
+   "what": "フランスのさまざまな都市で、建物が燃やされたり店が壊されたりする激しい騒動が起きました。数千人が逮捕される事態となり、政府や警察の対応をめぐって批判が集まったため、フランス政府は日曜日に緊急の話し合いを開きました。",
+   "background": "フランスはヨーロッパにある国で、国の中で大きな問題や事件が起きたときは、政府の責任者たちが集まってどのように対応するかを話し合います。治安を守ることは、国や政府の最も大切な仕事の一つです。",
+   "impact": "今すぐ私たちの家計に直接影響することはありませんが、ヨーロッパの大きな国で起きている社会の混乱や、政治への影響を示す重要なニュースです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 4
+  },
+  {
+   "id": "4c05b07198073f07",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261018de61309",
+   "title_original": "声や肖像 不正競争防止法の対象として明記検討へ 経済産業省",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61309/20261018de61309_E0000003827_1_l.jpg",
+   "region": "国内",
+   "published": "2026-10-18T14:44:18+00:00",
+   "title_ja": "著名人の声や顔が勝手に使われるのを防ぐルール作りへ",
+   "one_line": "経済産業省が、AIで作られた著名人の声や顔の無断利用を防ぐため、不正競争防止法に「声」や「肖像」を明記する検討を始めました。",
+   "what": "AIを使って有名な人の声や顔を勝手に作り出す問題が起きているため、経済産業省が法律で守る対象として「声」や「肖像」をはっきり書き加える検討を始めました。",
+   "background": "不正競争防止法は、企業の間でルールを破るずるいやり方や、マネをして売り上げを奪う行為を取り締まるための法律です。技術が進むにつれて、守るべき対象を新しく付け足しながら使われてきました。",
+   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、AI技術が進む中で、人の声や顔の権利を守るための新しいルールができるきっかけになります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "不正競争防止法",
+     "meaning": "企業の間でのずるい競争や、権利をジャマする行為を取り締まるための法律です。"
+    },
+    {
+     "word": "生成AI",
+     "meaning": "人間のように文章や絵、声などを新しく作り出すことができるコンピュータの技術です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "656d12b4053c6a7c",
+   "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
+   "title_original": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-ukraine-starshield-01-wlqf/18int-ukraine-starshield-01-wlqf-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-10-18T14:30:49+00:00",
+   "title_ja": "ウクライナのゼレンスキー大統領がアメリカの次期政権の対応に言及",
+   "one_line": "ウクライナのゼレンスキー大統領が、ロシア寄りになると歴史的な間違いになるとトランプ氏に警告しました。",
+   "what": "ウクライナのゼレンスキー大統領が、アメリカから提供されている軍用の衛星インターネットサービスの制限などの可能性について、さらなる情報を求めて懸念を示しました。",
+   "background": "ウクライナとロシアの間では長い間戦闘が続いています。ウクライナは、アメリカやヨーロッパなどの国々から、武器や通信の仕組みなどの支援を受けて戦いを続けています。",
+   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、アメリカの政治の動きや支援の方針が変わることで、ウクライナとロシアの戦いの行方に大きな影響が出ます。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "衛星インターネットサービス",
+     "meaning": "宇宙を飛ぶ人工衛星を使って、地上に電波を送ることでインターネットをつなぐ仕組みです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "6df97d481257017d",
+   "url": "https://www.sankei.com/article/20261018-OEFLCILPANKSPD6SKONFQZERSU",
+   "title_original": "「フランスが燃えている！」 トランプ氏、仏政府抗議デモは「移民の暴動」と国境閉鎖主張",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/CXFLER3HABBZLABE4LSW3JJBPA.jpg?auth=3abfdf43838c411858fc8bf968b99c7f369449276bb08fc6514d403e39595cc4&quality=50&focal=910%2C417&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-18T14:04:24+00:00",
+   "title_ja": "アメリカのトランプ氏がフランスのデモについて発言",
+   "one_line": "アメリカのトランプ氏がフランスのデモを移民の暴動だと主張し、国境を閉じるべきだと述べました。",
+   "what": "アメリカのトランプ氏が、フランスで起きている政府への抗議デモについて、移民による暴動であるという考えを示しました。そして、国境を閉じるべきだと主張したと伝えられています。",
+   "background": "国境とは、国と国の境目のことです。ここを通る人や物を厳しく制限することを「国境を閉じる」と言います。移民とは、自分の生まれ育った国を出て、別の国に移り住む人々のことです。",
+   "impact": "今すぐに私たちの暮らしや生活が直接変わるわけではありませんが、国と国の間の考え方や、国境の管理をめぐる議論に影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "移民",
+     "meaning": "自分の生まれ育った国を出て、仕事や生活のために別の国へ移り住み、そこで暮らす人々のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c08a7cc89189e7c2",
+   "url": "https://www.nikkei.com/article/DGXZQOGR180290Y6A011C2000000",
+   "title_original": "エジプト大統領、サウジアラビア防衛意向「要請あればあらゆる措置」",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3742139018102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.36&fp-y=0.23&h=630&w=1200&s=4d41c346878d173e7df998ae0c1378b0",
+   "region": "国内",
+   "published": "2026-10-18T14:02:06+00:00",
+   "title_ja": "エジプトの大統領がサウジアラビアを守る考えを示す",
+   "one_line": "エジプトの大統領が、要請があればサウジアラビアを守るためにあらゆる措置をとると述べました。",
+   "what": "エジプトの大統領が、サウジアラビアを防衛する意向を示しました。サウジアラビアから要請があれば、あらゆる措置をとると述べたと伝えられています。",
+   "background": "国と国が協力して、外からの攻撃や危険からお互いを守ることを「防衛」と言います。中東にある国々は、安全を守るために協力し合うことがよくあります。",
+   "impact": "今すぐに私たちの暮らしが直接変わるものではありませんが、中東地域の安定や、国同士の結びつきに影響を与える出来事です。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [
+    {
+     "word": "防衛",
+     "meaning": "外からの攻撃や危険から、自分たちの国や仲間を守ることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "aea32baa2d48e567",
+   "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+   "title_original": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108410053-1792004208178-gettyimages-2277288458-sophieclaire_031.jpeg?v=1792004657&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-10-18T14:00:01+00:00",
+   "title_ja": "日曜日も働く人が増えていることについて",
+   "one_line": "休日の日曜日も仕事をする人が増えている一方で、仕事が失われる不安の声もあります。",
+   "what": "新しい報告書によると、働く人の約半分が休日の日曜日にも仕事をしていることが分かりました。これを働き方の自由ととらえる見方がある一方で、仕事を失う不安から無理をして働いているのではないかと心配する声もあります。",
+   "background": "仕事の進め方や時間、場所などを自分で自由に選べるようにすることを「柔軟な働き方」と言います。働く環境が変わるにつれて、休日の過ごし方にも変化が出てきています。",
+   "impact": "今すぐ私たちの働き方がすぐに変わるわけではありませんが、休日と仕事のバランスや、働くときの安心感について考えるきっかけになります。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "仕事の確保",
+     "meaning": "自分の仕事やポジションを失わないように、熱心に働くことやその不安を表す言葉です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "92ddcc7d1e1a2884",
+   "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-world-4025-rdf",
+   "title_original": "France: Young voters blase about Glucksmann's Socialists",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79643501_6.jpg",
+   "region": "海外",
+   "published": "2026-10-18T13:31:00+00:00",
+   "title_ja": "フランスの社会党で、若い世代の支持をどう集めるかが課題に",
+   "one_line": "フランスの政党のリーダーが、若者に人気の別の政治家と組まずに支持を広げられるかが注目されています。",
+   "what": "フランスの政党である社会党を率いようとしているラファエル・グリュックスマン氏が、若者に人気の別の政治家とは組まない方針で、どうやって若い世代の支持を集めるかが課題となっています。",
+   "background": "政治の世界では、考え方が近い仲間同士で協力したり、反対に自分たちだけで支持を広げようとしたりします。フランスの若者の間では、別の政治家の主張が特に人気を集めているため、他の政党はどうやって若者の心をつかむかが大切なポイントになります。",
+   "impact": "今すぐ私たちの暮らしが変わるものではありませんが、フランスの政治がこれからどのように変わっていくのか、次のリーダーが誰になるのかを左右する大切な動きです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "5c8b1779d106f520",
+   "url": "https://news.yahoo.co.jp/pickup/6599288?source=rss",
+   "title_original": "内閣支持率ほぼ横ばい57% 読売",
+   "source": "Yahoo!ニュース 国内",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/18/de2acb4583b4b460569850643fe354dcf3e009cb8b5c644ffd1e9c6cf2f38cd0.jpg",
+   "region": "国内",
+   "published": "2026-10-18T13:21:29+00:00",
+   "title_ja": "内閣支持率は57パーセントでほぼ横ばい",
+   "one_line": "新聞社の調査で、日本の内閣を応援する人の割合はおよそ57パーセントで、前回とほぼ同じでした。",
+   "what": "読売新聞がおこなった世論調査で、現在の内閣を支持する（応援する）と答えた人の割合が57パーセントとなり、前回の調査と比べてほぼ変わらない結果となりました。",
+   "background": "「内閣支持率」とは、今の日本の政治を動かしているチーム（内閣）を、国民がどれくらい信頼して応援しているかを調べるものです。新聞やテレビが定期的に調査して、世の中の意見がどうなっているのかを伝えています。",
+   "impact": "すぐに私たちの生活のルールが変わるわけではありませんが、今の政治が国民からどのように見られているかを知るための大切な目安になります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [
+    {
+     "word": "内閣支持率",
+     "meaning": "国民が今の内閣の仕事ぶりをどれくらい認めているかを、パーセントで表したものです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1ba3e07f6660fdc9",
+   "url": "https://www.sankei.com/article/20261018-4STGIXOIFRPKXKNS5XIQQCR3JA",
+   "title_original": "スバル、SDVを2020年代に投入 高度なソフトウエアを搭載 全車種を順次切り替え",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/WWBCJZOHWNMGTDXMAJS5BBRVK4.jpg?auth=b6806d50f382063b147b5b0d52ad5d4201b527e7a28f2e6da4bc2e6eb83be5a9&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-18T11:50:21+00:00",
+   "title_ja": "自動車会社のスバルが新しい車を計画",
+   "one_line": "スバルが2020年代に高度なソフトウエアを搭載した新しい車を投入すると発表しました。",
+   "what": "自動車会社のスバルが、2020年代に「SDV」と呼ばれる高度なソフトウエアを搭載した車を世に出し、すべての車種を順番に新しい車に切り替えていくと伝えられています。",
+   "background": "自動車の業界では今、エンジンだけでなく、コンピュータのプログラム（ソフトウエア）を使って車の動かし方や便利さを大きく変える技術の開発がとてもさかんになっています。",
+   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、将来的に車を買うとき、便利さや安全のしくみがこれまでと違ってくる可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "SDV",
+     "meaning": "ソフトウエア・デファインド・ビークルの略で、車の中のさまざまな機能や動かし方をソフトウエアで新しくできる車のことをいいます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e2472aeec99f9507",
+   "url": "https://news.yahoo.co.jp/pickup/6599279?source=rss",
+   "title_original": "長雨や日照不足の影響 農家苦悩",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/18/0f2634af71e16a527c5deb2b9f9371dd8127a7be8acec7705665af7ecbcfb3f5.jpg",
+   "region": "国内",
+   "published": "2026-10-18T11:31:01+00:00",
+   "title_ja": "雨が多くて日照不足になり農家が悩む",
+   "one_line": "長雨や日照不足の影響で、野菜や果物を作る農家が困っていると伝えられています。",
+   "what": "雨が長く続いたり、太陽の光が足りなくなったりする天候の影響を受けて、野菜や果物を育てる農家が頭を悩ませていると伝えられています。",
+   "background": "農業は、その年の天気や気温に収穫量が大きく左右される仕事です。雨が降りすぎたり日差しが足りなかったりすると、作物がうまく育たず、病気になることもあります。",
+   "impact": "野菜や果物が十分に育たないと、お店に並ぶ数が減ったり、値段が高くなったりして、私たちの買い物の家計に影響が出ることがあります。",
+   "genre": "経済",
+   "category": "景気・物価",
+   "terms": [],
+   "importance": 3
+  },
   {
    "id": "24b140a702a73e89",
    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61149",
@@ -948,6 +1203,29 @@
     {
      "word": "造船",
      "meaning": "鉄やいろいろな部品を組み合わせて、大きな船を新しく作り出す仕事のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ad68fca32727a65f",
+   "url": "https://toyokeizai.net/articles/-/961250",
+   "title_original": "トランプ大統領を支えた米右派の結束に異変…イラン攻撃をめぐり対立､保守派の思想的連帯にほころび | 政治・経済・投資 | 東洋経済オンライン",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/0/4/1200w/img_041c66a026ec580ea160e81b689bcdc8344812.jpg?nextgen=false",
+   "region": "国内",
+   "published": "2026-10-18T07:00:00+00:00",
+   "title_ja": "アメリカの保守派のグループで意見が対立",
+   "one_line": "アメリカの政治を支えてきた保守派の考え方のグループの中で、意見の対立が起きていると伝えられています。",
+   "what": "アメリカのトランプ大統領を支えてきた政治のグループの中で、外国との関わり方や軍事の協力をめぐって意見がぶつかり、まとまりにゆらぎが出ていると伝えられています。",
+   "background": "アメリカの政治では、国をどう動かすかについて、昔からさまざまな考え方を持つグループがあり、それぞれが協力したり、ときには意見が分かれたりしながら活動しています。",
+   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、アメリカの政治の方向性が変わると、世界の政治や安全保障のバランスに影響することがあります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "右派",
+     "meaning": "伝統やこれまでの社会のしくみを大切にし、社会の秩序を守ることを重んじる政治の考え方のグループをいいます。"
     }
    ],
    "importance": 3
@@ -1359,6 +1637,29 @@
    "genre": "国際",
    "category": "アメリカ",
    "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "da9fcef9d6b4cf58",
+   "url": "https://www.asahi.com/articles/ASVBG1VBZVBGULFA00LM.html",
+   "title_original": "こどもNISA、やるべき？ 「我が家」にあった教育資金の備えとは",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20261014002555_comm.jpg",
+   "region": "国内",
+   "published": "2026-10-17T23:00:00+00:00",
+   "title_ja": "子ども向けのお金の制度について考える記事",
+   "one_line": "教育のためのお金をどのように準備するかについて、制度の仕組みを紹介しています。",
+   "what": "子ども向けのお金の蓄え方として、どのような方法が自分たちの家庭に向いているのかを考えていく記事が出されています。",
+   "background": "国では、将来の教育や生活のためにお金を少しずつ増やしていくための特別な制度を用意しており、それぞれの家庭が生活に合わせてお金の準備方法を選んでいます。",
+   "impact": "家庭によってお金の備え方はさまざまですが、こうした制度を知ることで、将来の教育費やお金の管理について計画を立てるヒントになります。",
+   "genre": "経済",
+   "category": "働く・くらしのお金",
+   "terms": [
+    {
+     "word": "NISA",
+     "meaning": "国が決めたルールの中で株や投資信託などを買い、そこから得た利益に税金がかからなくなるお得なしくみのことです。"
+    }
+   ],
    "importance": 3
   },
   {
@@ -7430,274 +7731,6 @@
     }
    ],
    "importance": 3
-  },
-  {
-   "id": "4939b032d6889115",
-   "url": "https://www.asahi.com/articles/ASVBF55LRVBFUHBI031M.html",
-   "title_original": "ロシア、邦人記者をスパイの疑いで拘束 北海道新聞の特派員",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20261014000870_comm.jpg",
-   "region": "国内",
-   "published": "2026-10-13T22:15:23+00:00",
-   "title_ja": "ロシアが北海道新聞の特派員をスパイの疑いで拘束",
-   "one_line": "ロシアで北海道新聞の特派員の記者がスパイの疑いで拘束されました。",
-   "what": "ロシアで、日本の新聞社の記者がスパイの疑いで拘束されました。詳しい理由はまだ分かっていません。",
-   "background": "特派員とは、事件や事故、政治の動きなどを現地から伝えるために、新聞社や放送局が海外へ送り出す記者のことです。スパイとは、秘密を探る人のことです。",
-   "impact": "今すぐ私たちの暮らしやお金に直接大きな影響が出るわけではありませんが、日本とロシアの関係や、外国で働く記者の安全に関わる大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "特派員",
-     "meaning": "事件や事故、現地の様子などを伝えるために、遠く離れた場所や外国に派遣される記者のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "5adf3de958a6a808",
-   "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-   "title_original": "Australian politics live: Chalmers says ATO surcharge was joint intervention with PM; Nationals MP defends ‘shamed and stoned’ remark",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/89abba2191f407c67386c069bd00bb78e6d3900a/0_0_5583_4469/master/5583.jpg?width=140&quality=85&auto=format&fit=max&s=3fdbb1ce9f61ad105b176affa5bf6bba",
-   "region": "海外",
-   "published": "2026-10-13T22:14:20+00:00",
-   "title_ja": "オーストラリアの天然資源をめぐる税金論争",
-   "one_line": "オーストラリアで、地下資源に対する税金のあり方や物価高への対策をめぐり議論が続いています。",
-   "what": "オーストラリアの政党の間で、地下から採れる天然資源にかける税金や、政府の予算の使い方をめぐってさまざまな意見が出ています。",
-   "background": "地下資源とは、石炭や天然ガスなど、大昔から地球の地中にある恵みのことです。国によっては、これらを企業が採掘して得た利益から、多くの税金を集めて国民の暮らしや公共のサービスに役立てようとします。",
-   "impact": "遠い外国の話なので直接の大きな影響はありませんが、世界の国々が資源から得られる税金をどう使うかという、国のお金の仕組みを考えるきっかけになります。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "地下資源",
-     "meaning": "石炭や石油、天然ガスなど、地球の地中にある、人間が生活に使える自然の恵みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2c51b62cce1650c3",
-   "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo",
-   "title_original": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4202/live/342a9360-c707-11f1-9783-ed95709f9dec.jpg",
-   "region": "海外",
-   "published": "2026-10-13T22:07:40+00:00",
-   "title_ja": "パキスタンで元首相の支持者と政府の対立が深刻化",
-   "one_line": "パキスタンで元首相の拠点地域が封鎖され、政治の不安定化が心配されています。",
-   "what": "パキスタンで、前の首相を支持する人たちと政府との間で対立が深まり、政府が支持者の多い地域を封鎖するなどの動きが出ています。",
-   "background": "パキスタンは南アジアにある国で、これまでに何度も政治のリーダーが変わり、国の中の仕組みや政情が不安定になりやすい歴史があります。",
-   "impact": "今すぐ私たちの暮らしに直接の変わり目はありませんが、世界の国々で政治の対立が激しくなると、国際的な安全や経済の動きに影響することがあります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "07cbf231c3c102e1",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o",
-   "title_original": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b864/live/f45a9340-c74a-11f1-a64c-550be9e3c66b.jpg",
-   "region": "海外",
-   "published": "2026-10-13T22:02:09+00:00",
-   "title_ja": "中国で増える「おしゃべり相手」の仕事",
-   "one_line": "中国で、人々の孤独を和らげるためのおしゃべり相手を提供する新しい仕事が広がっています。",
-   "what": "中国で一人で暮らす人が増える中、お金を払って話相手や支えになってもらう新しい仕事が生まれています。",
-   "background": "中国では経済が大きく変わる中で都市に引っ越す人が増え、家族と離れて一人で暮らす人が増えています。そのため、心のつながりを求める人が増えているという背景があります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、社会の変化にともなって人々の働き方やサービスが新しく生まれる例といえます。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "47211f4235ad35c8",
-   "url": "https://www.asahi.com/articles/ASVBF4HKNVBFULFA00LM.html",
-   "title_original": "コメ余り公算大 今年産の収穫予想740万トン超、昨年に次ぐ高水準",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20261013004545_comm.jpg",
-   "region": "国内",
-   "published": "2026-10-13T22:00:00+00:00",
-   "title_ja": "今年のお米の収穫量は多めになる見通し",
-   "one_line": "今年日本で取れるお米の量は、去年と同じくらい多い水準になりそうです。",
-   "what": "今年の秋に収穫されるお米の量が、去年につぐ高い水準になる見通しであることが発表されました。",
-   "background": "お米の量は、農家の人の数や気候、国が決める方針などによって毎年変わります。お米が十分に取れると「コメ余り」と呼ばれる状態になり、価格の動きなどに影響することがあります。",
-   "impact": "私たちの食卓に並ぶお米の量や価格に、今後の流通を通じて影響する可能性があります。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "95878343617235f3",
-   "url": "https://www.nikkei.com/article/DGXZQOGM0960F0Z01C26A0000000",
-   "title_original": "ベトナム、消費は一足飛びに「先進国」へ 体験や推し活に熱気",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3711467010102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=94248ad4f4a86d018fb1c4b6ebbcf3e3",
-   "region": "国内",
-   "published": "2026-10-13T22:00:00+00:00",
-   "title_ja": "ベトナムの消費が先進国のように活発に",
-   "one_line": "ベトナムで、若い世代を中心に新しい体験や応援する活動にお金を使う人が増えています。",
-   "what": "ベトナムの人々の買い物やお金の使い方に変化があり、体験や特定の対象を応援する活動がとても人気になっています。",
-   "background": "ベトナムはアジアの中でも経済が急速に成長している国の一つです。生活が豊かになるにつれて、日用品を買うだけでなく、楽しみや趣味にお金を使う余裕を持つ人が増えています。",
-   "impact": "日本の会社がベトナムで新しいお店を開いたり、ビジネスをしたりする機会が増えることにつながります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "1d7bf81ab30e9fa5",
-   "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-   "title_original": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/0bdf9ed7b96dc65009d999f39b3c6db73527da07/532_0_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=5f8a681e5385f4dd16ec7eb015810fe0",
-   "region": "海外",
-   "published": "2026-10-13T21:54:12+00:00",
-   "title_ja": "ウクライナ大統領が支援国からの連絡不足を指摘",
-   "one_line": "ロシアのミサイル攻撃について、ウクライナの大統領が支援国からの事前の警告がなかったと明らかにしました。",
-   "what": "ウクライナのゼレンスキー大統領は、ロシア軍による首都キーウなどの発電所や生活を支える施設へのミサイル攻撃について、支援する国々から事前の連絡がなかったと述べました。外国から集める情報の共有が命を守るために大切だと訴えています。",
-   "background": "国と国が戦うとき、相手の動きをあらかじめ知ることは、作戦を立てたり国民を守ったりする上でとても重要です。ウクライナは、アメリカやヨーロッパなどの仲間から、軍の動きや敵の計画といった大切な情報をもらって戦いを支えてきました。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありません。しかし、支援する国々とウクライナの間の連携がどうなるかによって、戦争の行方や世界全体の安全に大きな影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "弾道ミサイル",
-     "meaning": "ロケットのように高い空へ打ち上げられ、ものすごい速さで目標に向かって落ちてくる強力なミサイルです。"
-    },
-    {
-     "word": "インテリジェンス",
-     "meaning": "国や軍が安全を守るために集めた、相手の秘密や動きに関する大切な情報のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "b0cb7eee62a5db46",
-   "url": "https://www.cnbc.com/2026/10/13/pope-leo-diagnosed-lung-cancer-vatican-says.html",
-   "title_original": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108405123-1791929392478-108405123-1791924327540-gettyimages-2299660135-_eli6677_qikfvrcm.jpeg?v=1791929413&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-13T21:27:40+00:00",
-   "title_ja": "ローマ教皇が肺の病気と診断される",
-   "one_line": "ローマ教皇が肺の病気の手術を受け、がんが見つかったと発表されました。",
-   "what": "ローマ教皇庁は、ローマ教皇が右の肺の一部を手術で取り除いたところ、がんだったと明らかにしました。教皇は病院で療養しています。",
-   "background": "ローマ教皇は、世界中に多くの信者がいるキリスト教の一つのグループ「カトリック教会」のいちばん高い位のリーダーです。世界各地を訪れて平和を訴えたり、大切な行事を行ったりする、とても重要な役割を持っています。",
-   "impact": "今すぐ私たちの暮らしやお金に直接の変化が出るものではありませんが、世界中の多くの人たちに大きな影響を与えるニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "ローマ教皇庁",
-     "meaning": "ローマ教皇のお仕事や、世界中のカトリック教会をまとめる中心となる組織のことです。バチカンという小さな国の中にあります。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "dee74b3538d8e8e8",
-   "url": "https://www.nikkei.com/article/DGXZQOUA051V80V01C26A0000000",
-   "title_original": "松井孝治・京都市長 「出国税」収入、観光都市の現場に届いているか",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3712430011102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.45&fp-y=0.36&h=630&w=1200&s=32f14bee80054050d45f5226c3661386",
-   "region": "国内",
-   "published": "2026-10-13T20:00:00+00:00",
-   "title_ja": "京都市長が「出国税」の使い道について語る",
-   "one_line": "松井孝治京都市長が、海外からの旅行客から集める税金について意見を述べました。",
-   "what": "京都市の松井孝治市長が、外国から日本を出る時などに集められるお金について、観光に力を入れている現場にちゃんと届いているかという問題について語りました。",
-   "background": "国や地方の自治体は、観光客が増えたときの対応や、街をきれいにするためのお金を集める仕組みを作ることがあります。日本では、飛行機などで出国する人に「国際観光旅客税」という名前のお金が負担されています。",
-   "impact": "私たちが旅行をするときや、外国からお客さんが来る時の費用やルールの仕組みに、これから関わってくる可能性があります。",
-   "genre": "政治",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "出国税",
-     "meaning": "飛行機などで外国に行くときや日本を出るときに、国に支払うお金のことです。観光の環境をよくするために使われます。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "bbac58f5e4107193",
-   "url": "https://www.nikkei.com/article/DGXZQOFL130CLTT11C26A0000000",
-   "title_original": "社債市場で起債ラッシュ 上乗せ金利拡大も投資家は鈍く",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3717262013102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=1da391770a0510fc01ddc29d58c278cb",
-   "region": "国内",
-   "published": "2026-10-13T19:30:00+00:00",
-   "title_ja": "会社が借りるお金「社債」の仕組みに変化",
-   "one_line": "会社がお金を借りるための「社債」を発行する動きが活発になっています。",
-   "what": "会社が活動するためにお金を借りる方法の一つである社債市場で、たくさんの会社が発行しています。一方で、投資する人たちの動きは慎重になっています。",
-   "background": "企業は、新しい商品を作ったり、お店を大きくしたりするためにお金が必要です。銀行から借りるだけでなく、「社債」という証書を一般の人や投資家に買ってららうことで、お金を集める仕組みがあります。",
-   "impact": "企業の活動や、私たちの投資の仕組み、金利の動きを通じて、少しずつ経済全体に関わってくる話題です。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "社債",
-     "meaning": "会社が大きなお金を集めるために発行する借用書のようなものです。買った人は、会社から利子を受け取ることができます。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e9a2a0033905e96e",
-   "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-   "title_original": "Bank earnings live updates: JPMorgan and Goldman executives discuss quarterly results",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369279-1790683123109-gettyimages-2285640354-AFP_C2B776U.jpeg?v=1790683136&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-13T13:54:15+00:00",
-   "title_ja": "アメリカの大きな銀行が3カ月ごとの業績を発表",
-   "one_line": "アメリカの大手銀行が、この3カ月でどれだけ利益を出したかなどの結果を次々と発表しています。",
-   "what": "アメリカを代表する大手の銀行が、直近の3カ月間におけるビジネスの成果や、株の動きについて発表しました。",
-   "background": "銀行は、私たちから預かった大切なお金を企業に貸し出したり、会社のお手伝いをしたりして利益を出しています。そのため、大手の銀行がどれくらいもうかったかを見ることで、世の中の景気が今どうなっているのかを読み解くことができます。",
-   "impact": "今すぐに私たちの生活が変わるわけではありませんが、銀行の業績は世界の経済のようすを表す大きな手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "0ba196a68132d6e9",
-   "url": "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis",
-   "title_original": "French embassy in Riyadh tells citizens to avoid Saudi airports targeted by Houthis",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/2b3b6f86-c707-11f1-b9b0-77317c09f325/w:1024/p:16x9/000-A6JF8WH.jpg",
-   "region": "海外",
-   "published": "2026-10-13T13:51:23+00:00",
-   "title_ja": "フランスがサウジアラビアの空港に近づかないよう呼びかけ",
-   "one_line": "サウジアラビアと隣国のグループの間で戦闘が激しくなり、フランスが自国民に注意を呼びかけました。",
-   "what": "サウジアラビアにあるフランスの大使館が、国内のいくつかの空港に近づかないよう、自国の国民に伝えました。",
-   "background": "中東のサウジアラビアを中心とする国々のグループと、隣国イエメンのグループの間で、長い間あらそいが続いています。最近になって、サウジアラビアの空港や石油の施設が攻撃されることが増えており、緊張が高まっています。",
-   "impact": "今すぐ日本での生活に直接の影響はありませんが、中東でのあらそいが激しくなると、日本が輸入している石油の値段などに影響が出る可能性があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "cd23cbddc238f43e",
-   "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-   "title_original": "Zelensky Comment Raises Fear That U.S. Is Cutting Intelligence Sharing",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-ukraine-intelligence-01-jfzh/13int-ukraine-intelligence-01-jfzh-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-10-13T13:50:25+00:00",
-   "title_ja": "ウクライナの指導者の発言からアメリカとの情報のやり取りに懸念",
-   "one_line": "ウクライナの指導者が、ロシアの攻撃について事前に連絡がなかったと話し、アメリカなどとの情報共有をめぐり心配の声が出ています。",
-   "what": "ウクライナの指導者が、ロシアからのミサイル攻撃を受ける前に、西側のパートナー国から事前の警告がなかったと述べました。",
-   "background": "ウクライナとロシアの間では、長く続く軍事的な衝突が起きています。ウクライナは、アメリカをはじめとする西側の国々から、軍事的な支援や、敵の動きを見つけるための情報を分けてもらうことで、国を守ろうとしています。",
-   "impact": "国同士がどのような情報を共有し、どのように助け合うかという協力のあり方は、戦争の行方を大きく左右する重要な問題です。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [],
-   "importance": 4
   }
  ]
 }
