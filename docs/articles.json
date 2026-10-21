@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T20:29:23.238312+09:00",
+ "updated_at": "2026-10-22T01:56:30.918217+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,22 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "7ee1c0343067ad02",
-   "until": "2026-10-21T16:23:35.842160+00:00"
-  },
-  {
-   "id": "72090c95f0729b74",
-   "until": "2026-10-21T16:23:35.842160+00:00"
-  },
-  {
-   "id": "a3d3c61e4d2ab30b",
-   "until": "2026-10-21T16:23:35.842160+00:00"
-  },
-  {
-   "id": "dba8ea51421bbfcd",
-   "until": "2026-10-21T16:23:35.842160+00:00"
-  },
   {
    "id": "d78b87302bf642ac",
    "until": "2026-10-21T20:46:23.649172+00:00"
@@ -730,49 +714,502 @@
   {
    "id": "1ff5f7034404c98b",
    "until": "2026-10-26T11:29:23.238312+00:00"
+  },
+  {
+   "id": "6048fa88462bd2b9",
+   "until": "2026-10-26T16:56:30.918217+00:00"
+  },
+  {
+   "id": "ca94ab9612e3a52f",
+   "until": "2026-10-26T16:56:30.918217+00:00"
+  },
+  {
+   "id": "32d8a03dddd94b04",
+   "until": "2026-10-26T16:56:30.918217+00:00"
+  },
+  {
+   "id": "8422ecef6ee73686",
+   "until": "2026-10-26T16:56:30.918217+00:00"
+  },
+  {
+   "id": "2a4d108fb545a2c2",
+   "until": "2026-10-26T16:56:30.918217+00:00"
   }
  ],
  "count": 300,
  "digest": {
-  "headline": "食料品の消費税減税をめぐる国会の議論と国内外の最新ニュース",
+  "headline": "食料品の消費税減税をめぐる国会の議論やウクライナ情勢の動き",
   "points": [
    {
-    "text": "国会では食料品の消費税を軽くする法律案の審議が始まり、首相が減税の計画を語る一方で詳しい財源は示されていません。",
+    "text": "国会では食料品の消費税を下げる法律案をめぐり、与野党の間で話し合いが始まりました。",
     "ids": [
-     "fce875fb65512607",
      "98a48144433f537f",
-     "52b21880b929406b"
+     "6d00406eb6a4ed9d",
+     "07885e52d3b7fae3"
     ]
    },
    {
-    "text": "アメリカの特使がロシアやウクライナの関係者と会談し、戦いを終わらせるための話し合いが進められています。",
+    "text": "減税のお金をどうするか財源が示されていないことや、国のお財布事情の厳しさが指摘されています。",
     "ids": [
+     "fce875fb65512607"
+    ]
+   },
+   {
+    "text": "アメリカの特使がロシアのプーチン大統領やウクライナのゼレンスキー大統領と会談し、戦争を終わらせるための話し合いが進められています。",
+    "ids": [
+     "008d7322ad26dcaa",
      "46cea45325b09b1f",
      "b27251a7b5716165"
     ]
    },
    {
-    "text": "中東の緊張を背景に原油価格が値上がりし、2026年4月から9月の日本の貿易収支は2.8兆円の赤字となりました。",
+    "text": "原油の値段が高くなったことなどから、貿易収支が2兆8000億円の赤字となりました。",
     "ids": [
-     "d75928529a7789e7",
-     "63a13e5194bb0d09"
-    ]
-   },
-   {
-    "text": "アメリカ政府が中国製AIの利用を禁止したことに対して中国側が批判するなど、各国で安全保障やサイバー攻撃への懸念が高まっています。",
-    "ids": [
-     "3dabd1515d035708",
-     "86eca914e9ea46e5"
+     "d75928529a7789e7"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-18T20:31:15.905305+09:00",
-  "generated_at": "2026-10-21T20:31:17.368624+09:00",
+  "from": "2026-10-19T01:56:59.841051+09:00",
+  "generated_at": "2026-10-22T01:57:04.301591+09:00",
   "article_count": 24,
-  "sig": "bab80649b6b9"
+  "sig": "64809f6d7843"
  },
  "items": [
+  {
+   "id": "22ab1ae250009ff5",
+   "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
+   "title_original": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108315137-17804039612026-06-02t070117z_2025086743_rc2jllak5qdb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-10-21T16:55:51+00:00",
+   "title_ja": "インテルがアメリカの工場建設で大きな区切り",
+   "one_line": "インテルがアメリカのオハイオ州にある半導体の工場で、初めて大きな骨組みを取り付けました。",
+   "what": "アメリカの半導体をつくる会社「インテル」が、オハイオ州で進めている工場の建設で、最初の大きな屋根や天井を支える骨組みを取り付けました。予定より遅れている工事ですが、少し進みました。",
+   "background": "半導体というのは、スマートフォンやパソコンなど、たくさんの電子機器に入っている、計算や記憶をするためのとても大切な部品です。現代のくらしや産業になくてはならないもので、世界中で作るための工場が作られています。",
+   "impact": "今回の工場が完成すれば、アメリカ国内でたくさんの半導体を作ることができるようになります。ただし、まだこの工場で作った半導体を買ってくれる大きなお客さんは発表されていません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "半導体",
+     "meaning": "計算や記憶をする電子機器のとても大切な部品。スマホやパソコンなどに使われています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4511b27baa3dc592",
+   "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+   "title_original": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/21/video/21vid-sudan-screengrab/21vid-sudan-screengrab-mediumSquareAt3X.png",
+   "region": "海外",
+   "published": "2026-10-21T16:51:53+00:00",
+   "title_ja": "スーダンの内戦でドローン攻撃により多くの犠牲",
+   "one_line": "アフリカのスーダンで続く内戦の中で、ドローンによる攻撃があり、150人以上が亡くなりました。",
+   "what": "アフリカの国スーダンで起きている内戦で、無人飛行機であるドローンを使った攻撃があり、150人以上が亡くなりました。戦いが激しくなるなかで、一般の人が多く巻き込まれています。",
+   "background": "スーダンでは、国内の軍と別の組織の間で、権力をめぐる争いによる内戦が続いています。戦場が広範囲に広がっており、遠くまで攻撃できるドローンが使われることで、多くの一般市民に被害が出ています。",
+   "impact": "日本への直接的な影響はすぐに起きるものではありませんが、世界各地で続く紛争や戦争が、多くの一般の人の命を奪っている問題として注目されています。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "内戦",
+     "meaning": "ひとつの国のなかで、グループや軍同士が争い合う戦いのことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "008d7322ad26dcaa",
+   "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
+   "title_original": "Russia says it is ready to resume talks with Ukraine and US to end war",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
+   "region": "海外",
+   "published": "2026-10-21T16:38:06+00:00",
+   "title_ja": "ロシアがウクライナとアメリカとの話し合いに前向きな姿勢を示す",
+   "one_line": "ロシアがウクライナとアメリカとの戦争を終わらせるための話し合いを再開する準備があると発表しました。",
+   "what": "ロシアのプーチン大統領が、アメリカのトランプ大統領の特使であるスティーブ・ウィトコフ氏とサンクトペテルブルクで会談しました。そのあと、ロシア側から戦争を終わらせるための話し合いを再開する準備があるという発表がありました。",
+   "background": "ロシアとウクライナの間では、長年にわたって激しい戦争が続いています。アメリカをはじめとする多くの国が、戦争を終わらせるために話し合いの場を作ろうと努力してきましたが、なかなか解決の糸口が見つかっていませんでした。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、この話し合いが進むことで、世界中の平和やエネルギーの価格などに大きな影響が出る可能性があります。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "特使",
+     "meaning": "特別な任務や大切な話し合いのために、国を代表して派遣される人のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "1c3850e6995140ea",
+   "url": "https://www.theguardian.com/us-news/2026/oct/21/kansas-man-arrested-allegedly-threaten-shoot-trump",
+   "title_original": "24-year-old Kansas man arrested for allegedly threatening to shoot Donald Trump",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/7bac623f13a39011e541dab762e547e16f11b370/150_0_5495_4398/master/5495.jpg?width=140&quality=85&auto=format&fit=max&s=5e77c11af90760f95c69299e104baa94",
+   "region": "海外",
+   "published": "2026-10-21T16:35:36+00:00",
+   "title_ja": "アメリカの裁判所関連の機関がドナルド・トランプ氏を脅した容疑で男を逮捕",
+   "one_line": "アメリカで、大統領を銃で撃つとインターネット上に書き込んだ男が逮捕されました。",
+   "what": "アメリカのカンザス州に住む24歳の男性が、ドナルド・トランプ大統領を銃で撃つとインターネット上に書き込んだとして、国の機関に逮捕されました。男性は、大統領の集会が開かれる予定の場所の近くで、危害を加えるような内容を投稿したと伝えられています。",
+   "background": "アメリカでは、大統領などの重要な人物の安全を守るために、国全体で厳しい仕組みが作られています。特にインターネット上で国を指導する人物への暴力や脅しが書き込まれた場合、法律に基づいてすぐに捜査や逮捕が行われます。",
+   "impact": "今すぐ私たちの暮らしに直接的な影響はありませんが、世界のリーダーの安全を守る警備の厳しさや、インターネット上の書き込みに対する厳しい法律のルールを改めて考えさせられるニュースです。",
+   "genre": "政治",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "連邦",
+     "meaning": "複数の地域や州が集まってできた国全体に関わる仕組みや、その機関のことを指します。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fc442273ea80c174",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+   "title_original": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/WIDE-THUMB-MACRON-IN-SAUDI-1792600396.png?resize=1920%2C1080&quality=80",
+   "region": "海外",
+   "published": "2026-10-21T16:34:27+00:00",
+   "title_ja": "フランスのマクロン大統領がサウジアラビアを訪問",
+   "one_line": "フランスのマクロン大統領が、中東を巡る旅の途中でサウジアラビアに立ち寄り会談を行いました。",
+   "what": "フランスのエマニュエル・マクロン大統領が、中東の国々を回る旅の中でサウジアラビアの首都リヤドに立ち寄り、現地の皇太子と会談を行いました。この訪問は事前の大きな予告なしに行われたものと伝えられています。",
+   "background": "サウジアラビアは中東の中心的な国の一つであり、世界的なエネルギーのやり取りや地域の安全保障においてとても重要な役割を持っています。フランスのようなヨーロッパの国々にとっても、中東との協力関係を保つことは大切な外交の仕事です。",
+   "impact": "今すぐ私たちの毎日の生活が直接変わるものではありませんが、日本も関係する世界のエネルギーの安定や、中東の平和に向けた国同士の協力の動きとして大切なニュースです。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "0ae74849b12dd382",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "title_original": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/18ce40d2ccd99c2b0094fdd66a6f3607901f0017/238_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7233a07dfdfcd85cb535e91fae6052bf",
+   "region": "海外",
+   "published": "2026-10-21T16:32:52+00:00",
+   "title_ja": "アメリカの新しい世論調査で民主党支持がリード",
+   "one_line": "アメリカの新しい調査で、次の選挙に向けた民主党の支持率が共和党を上回っているという結果が出ました。",
+   "what": "アメリカで行われた新しい世論調査の結果、選挙で投票する可能性が高い人の間では、共和党の候補者よりも民主党の候補者を支持する人が11ポイント多くなっていることがわかりました。また、トランプ大統領の支持率についても合わせて報じられています。",
+   "background": "アメリカには大きく分けて民主党と共和党という二つの主要な政党があります。どちらの政党が多くの国民から支持されるかによって、これからの国の政治や法律の方向性が大きく変わるため、選挙のたびにこのような調査が広く行われます。イエス・キリストの生地とされる地域や周辺では、パレスチナの人々の農作業を助けていたボランティアの人々が身柄を拘束される動きもありました。",
+   "impact": "今すぐ日本での生活が変わるわけではありませんが、アメリカの政治の勢力がどう変わるかは、日本の外交や経済にも大きな影響を与えるため、世界中が注目しています。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "世論調査",
+     "meaning": "国の政治や政策について、国民がどう考えているかを調べるためのアンケートのことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "c7e51b6965d2c1c8",
+   "url": "https://www.france24.com/en/video/20261021-greece-protesters-draw-inspiration-from-demonstrations-in-france",
+   "title_original": "Greece: Protesters draw inspiration from demonstrations in France",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/be60282c-cd6c-11f1-bbb1-4da0d2c6855d/w:1024/p:16x9/Greece-protests-1.jpg",
+   "region": "海外",
+   "published": "2026-10-21T16:31:49+00:00",
+   "title_ja": "ギリシャの学生がフランスなどのデモに影響を受け抗議活動",
+   "one_line": "フランスなどのデモに影響を受けたギリシャの学生数千人が、国中でデモを行いました。",
+   "what": "水曜日、ギリシャの学生数千人が国のあちこちでデモを行いました。これは、フランスやヨーロッパの他の場所で行われているデモに影響を受けたものです。",
+   "background": "デモとは、多くの人が集まって自分たちの意見や不満を社会に訴える行動のことです。ヨーロッパでは、ルールや生活のあり方を変えるよう求めるデモが、国を越えてお互いに影響を与え合うことがよくあります。",
+   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、ヨーロッパの若い人たちが社会に対してどんなことを訴えているのかを知る手がかりになります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "デモ",
+     "meaning": "大勢の人たちが集まって、自分たちの考えや反対の気持ちを社会や政府に訴える行動のことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f656fe9c05534d6e",
+   "url": "https://www.sankei.com/article/20261022-ER5BPPAJZNOSLDQ7PECXIMGKSA",
+   "title_original": "カナダのEU「準加盟」は27年の首脳会談で具体化へ 「より深い関係」声明案",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
+   "region": "国内",
+   "published": "2026-10-21T16:05:00+00:00",
+   "title_ja": "カナダの欧州連合「準加盟」27年の首脳会談で具体化へ",
+   "one_line": "カナダと欧州連合がより深い関係を作るため、2027年の会談で話し合う方針が示されました。",
+   "what": "カナダと欧州連合（EU）の結びつきをより強くする「準加盟」に向けた話し合いが、2027年の首脳会談で具体的に進められる見通しとなりました。これは「より深い関係」を目指す声明案に盛り込まれています。",
+   "background": "欧州連合は、ヨーロッパの国々が仲間を作って、貿易や法律のルールを一緒にする組織です。別の地域にある国が「準加盟」という形で関係を深めることで、モノの売り買いや政治の協力がしやすくなる仕組みがあります。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、遠く離れた国とヨーロッパのつながりが強まることで、世界の貿易のルールや流れに影響を与えることがあります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "欧州連合",
+     "meaning": "ヨーロッパの国々が集まって、お互いの貿易や政治を協力しやすくするための大きな組織のことです。"
+    },
+    {
+     "word": "準加盟",
+     "meaning": "正式なメンバーではなくても、それに近い立場で組織と特別な協力関係を結ぶ仕組みのことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "d7ef7b685d2e3b78",
+   "url": "https://www.sankei.com/article/20261022-HIHIKGCOPJNVDPBZCMLQDA7EKA",
+   "title_original": "高市首相はこのまま突き進んで 戦後タブーの課題克服を期待",
+   "source": "産経新聞 政治",
+   "image": "https://www.sankei.com/resizer/v2/CNRQSAM77JPZLMWMRYAHJDGMLI.jpg?auth=1a4a8595b84230a1d9fbb069a8c367e5488d1988f1f8c146d6e8a816921ad288&quality=50&focal=2407%2C1273&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-21T16:00:00+00:00",
+   "title_ja": "高市首相の政治姿勢についての期待",
+   "one_line": "高市首相に対して難しい課題への挑戦を期待する意見が報じられました。",
+   "what": "高市首相に対し、これまで触れにくかった難しい課題を乗り越えて進んでほしいという期待が示されました。",
+   "background": "政治の世界では、国のかたちや法律に関わる大きな問題について、どのように取り組むべきか様々な意見や議論があります。",
+   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、今後の政治の動きや国の方向性に影響を与える可能性があります。",
+   "genre": "政治",
+   "category": "内閣・行政",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "01019bcb08645ecc",
+   "url": "https://www.france24.com/en/video/20261021-world-set-to-breach-1-5%C2%B0c-warming-limit-set-by-paris-climate-agreement",
+   "title_original": "World set to breach 1.5°C warming limit set by Paris Climate Agreement",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/d071a7de-cd67-11f1-9ca4-eb48fa034ddc/w:1024/p:16x9/AP26233615918833.jpg",
+   "region": "海外",
+   "published": "2026-10-21T15:56:42+00:00",
+   "title_ja": "地球の温度上昇が目標を超えるおそれ",
+   "one_line": "世界の気温上昇が、国際的な約束の制限を超えて進むおそれがあると警告されました。",
+   "what": "国連の機関が、世界が約束した気温上昇を抑える目標に対し、今の取り組みでは足りておらず、さらに温度が上がるおそれがあると警告しました。",
+   "background": "「パリ協定」は、地球がこれ以上温まらないように、世界中の国が協力して空気中の温度を上げる原因を減らそうと約束した国際的なルールです。",
+   "impact": "今すぐ私たちの暮らしが大きく変わるわけではありませんが、地球の気候が変わることで、将来の天気や食べ物の育ち方に影響する可能性があります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "国連",
+     "meaning": "世界中の国々が集まって、世界の平和や地球の環境、みんなの暮らしを守るために話し合う大きな組織です。"
+    },
+    {
+     "word": "パリ協定",
+     "meaning": "地球の温度が高くなりすぎないように、世界の国々が力を合わせて温かいガスを減らすことを決めた国際的なルールです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "4fb963ce738d05c8",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261021de63217",
+   "title_original": "中国AI発展に向けデータ事業担う国有企業を設立",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63217/20261021de63217_E0000097518_1_l.jpg",
+   "region": "国内",
+   "published": "2026-10-21T15:55:50+00:00",
+   "title_ja": "中国がAI開発のための国有企業を設立",
+   "one_line": "中国政府がAIの発展を支えるデータ事業のための新しい企業を作りました。",
+   "what": "AIをめぐるアメリカとの開発競争が激しくなる中、中国政府がAIの開発に必要なデータを管理する新しい国営の会社を設立したと発表しました。",
+   "background": "AIを賢くするためには膨大なデータが必要です。国が主導してデータを管理し、産業全体の力を高めようとする動きがあります。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、世界のAI技術の進み方や、国同士の技術の競争に影響を与えます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "AI",
+     "meaning": "人間の頭脳のように考えて、会話をしたり絵を描いたり、複雑な作業をしたりするコンピュータの技術のことです。"
+    },
+    {
+     "word": "国有企業",
+     "meaning": "国がお金を出したり持ったりしている会社のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "02337aeffcb22ab2",
+   "url": "https://www.sankei.com/article/20261022-RP3JUKV2DROR5BFXRQOVLEXJAQ",
+   "title_original": "PHPに欠陥、フィンランドはサイト遮断 米英仏、迅速対応呼びかけ",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
+   "region": "国内",
+   "published": "2026-10-21T15:54:53+00:00",
+   "title_ja": "パソコンの仕組みに危険な穴、国や地域で対策進む",
+   "one_line": "インターネットで使われるプログラムに見つかった危険な弱点に対し、国や地域がすばやい対策を呼びかけています。",
+   "what": "インターネットの技術やパソコンの仕組みで使われる「PHP」というプログラムに、悪用されるおそれのある弱点が見つかりました。フィンランドではインターネットの接続を遮断する対応をとり、アメリカやイギリス、フランスなどはすばやい対応を呼びかけています。",
+   "background": "インターネットの世界では、さまざまなプログラムやシステムが組み合わされて動いています。その中のいくつかに思わぬ弱点や欠陥が見つかると、悪意のある人に勝手に情報を盗まれたり、コンピューターを乗っ取られたりする危険があります。そのため、国や専門の組織が注意を呼びかけたり、利用を制限したりして被害を防ぎます。",
+   "impact": "わたしたちが普段使っているウェブサイトやサービスが一時的に使えなくなったり、情報の安全を守るために新しい設定が必要になったりすることがあります。今すぐ全ての生活が変わるわけではありませんが、安全を保つための動きに注意が必要です。イエス・ノーを答える必要はありませんが、パソコンやスマートフォンの安全対策を日頃から確認することが大切です。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "PHP",
+     "meaning": "ウェブサイトを作ったり、インターネット上でさまざまな仕組みを動かしたりするためによく使われるプログラムの言葉です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ada92ca08eb3ec59",
+   "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
+   "title_original": "Family of prison officer killed by IRA receives state apology",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddf/live/9ed26bb0-cc7b-11f1-bc2e-018d645d8d21.jpg",
+   "region": "海外",
+   "published": "2026-10-21T15:50:21+00:00",
+   "title_ja": "IRA事件で死亡した刑務官の家族に国が謝罪",
+   "one_line": "昔の衝突で命を落とした刑務官の家族に対し、アイルランドの国から公式に謝罪の言葉が伝えられました。",
+   "what": "1983年にアイルランドの首都ダブリンで、組織による銃撃を受けて亡くなった刑務官のブライアン・スタックさんの家族に対し、国が公式に謝罪を行いました。",
+   "background": "アイルランドやイギリスの周辺では、過去に「IRA（アイルランド共和軍）」と呼ばれる組織などが関わる激しい争いや事件が起きていました。長い時間をかけて平和への話し合いが進められてきましたが、過去の事件で傷ついた人や家族への救いや事実の解明は、今も大切に続けられています。",
+   "impact": "今すぐ私たちの生活や仕事に直接大きな影響が出るわけではありませんが、過去に起きた争いの歴史と、それに向き合う国や人々の姿勢を考えるきっかけになる出来事です。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "22b17a37723b98be",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63239",
+   "title_original": "日証協 2040年に向け社債市場の整備進める方針発表",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63239/20261022de63239_E0000090564_1_l.jpg",
+   "region": "国内",
+   "published": "2026-10-21T15:32:37+00:00",
+   "title_ja": "社債の市場を大きくするため日本証券業協会が方針発表",
+   "one_line": "日本証券業協会が、企業の資金集めを支える「社債」の市場を2040年に向けてさらに整えていく方針を発表しました。",
+   "what": "日本証券業協会は、企業が今後も積極的な投資を続けると、社債による資金の集まりが2040年には現在の4倍以上である620兆円に増えるという見込みを示しました。そして、証券業界として社債の市場を使いやすくするための環境整備を重点的に進めていく方針を発表しました。",
+   "background": "企業は新しい事業を始めたり工場を作ったりするときに、銀行からお金を借りるだけでなく、「社債」という債券を発行して一般の投資家からお金を集めることがあります。社債の市場がしっかりしていると、企業がスムーズに資金を集められるようになり、経済の活発な動きにつながります。",
+   "impact": "直接わたしたちの財布の中身がすぐに変わるわけではありませんが、企業が活動しやすくなることで新しい製品やサービスが生まれやすくなり、将来の日本の経済や仕事の様子に影響を与えていきます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "社債",
+     "meaning": "企業が大きなお金を集めるために発行する「借用書」のようなもので、買った人は企業から利子を受け取ることができます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fe493f6d002e1253",
+   "url": "https://www.nikkei.com/article/DGXZQOUC218B10R21C26A0000000",
+   "title_original": "ファナック、発声でロボットに動作指示できるAI 機械加工向け",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3760893021102026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=6bfe18208955e8b85bc81e9872713ea0",
+   "region": "国内",
+   "published": "2026-10-21T15:00:00+00:00",
+   "title_ja": "声でロボットを動かすAI、ファナックが機械加工向けに開発",
+   "one_line": "ファナックが、人の発する声を聞き分けてロボットに指示を出せる人工知能（AI）を機械加工向けに開発しました。",
+   "what": "機械を作るための企業であるファナックが、人の声による発話を聞き取って、ロボットに細かい動作の指示を出せる人工知能を開発しました。これは工場などで使われる機械加工向けの技術です。",
+   "background": "工場の現場では、これまで人間がボタンを押したりプログラムを打ち込んだりしてロボットを動かしてきました。最近では、コンピューターに学習させて人間のような判断や言葉の理解をさせる「人工知能」の技術が進んでおり、さまざまな機械やロボットと組み合わせる動きが広がっています。",
+   "impact": "工場でのロボットの動かし方が変わり、作業がより便利になる可能性があります。今すぐ私たちの生活の道具が変わるわけではありませんが、仕事の現場で新しい技術が使われていく様子を示しています。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "人工知能（AI）",
+     "meaning": "人間のように考えたり、言葉を理解したり、判断したりするコンピューターの仕組みのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "fec6f49a644a5073",
+   "url": "https://news.yahoo.co.jp/pickup/6599642?source=rss",
+   "title_original": "EVの補助金引き下げ 27年1月から",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/21/fdef9ec7982ad36415d94fc5e28ef153654eed9e0c04470425d06a3ef05fe00b.jpg",
+   "region": "国内",
+   "published": "2026-10-21T14:37:56+00:00",
+   "title_ja": "電気自動車を買うときの補助金が下がる予定",
+   "one_line": "電気自動車を買うときにもらえる国からの補助金が、2027年1月から引き下げられる見通しです。",
+   "what": "電気自動車を購入する際にもらえる補助金の金額が、2027年1月から引き下げられることになりました。",
+   "background": "国は、地球温暖化の原因となる二酸化炭素を出す量を減らすため、排気ガスが出ない電気自動車の普及を進めてきました。そのため、少し値段が高い車を買いやすくする目的で、購入者に対してお金を補助する制度を続けています。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、将来的に電気自動車を買おうと考えている人にとっては、もらえるお金が減ることで負担が増える可能性があります。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "補助金",
+     "meaning": "国や自治体が、特定の活動や買い物を応援するために、お金を配ったり負担を軽くしたりする仕組みです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5adb3e91285bc7f0",
+   "url": "https://www.nikkei.com/article/DGXZQOFL21BUN0R21C26A0000000",
+   "title_original": "NYダウは一進一退、AI関連の上昇が支え スペースXは大幅高",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3762246021102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.4&fp-y=0.32&h=630&w=1200&s=7e56bdf76420d2962e4706652f066db6",
+   "region": "国内",
+   "published": "2026-10-21T14:32:26+00:00",
+   "title_ja": "アメリカの株価は一進一退、人工知能関連が支え",
+   "one_line": "アメリカの代表的な株価は上がったり下がったりを繰り返し、人工知能に関する会社が支えました。",
+   "what": "アメリカの株式市場で、代表的な株である「ダウ平均株価」が値上がりと値下がりを繰り返しました。人工知能に関連する技術を持つ企業の株価が上がったことが支えとなりましたが、宇宙開発企業なども大きく値を上げました。",
+   "background": "株式市場では、企業の業績や将来の成長への期待、社会全体の景気の良し悪しによって、株の値段が日々上下します。特にアメリカの株式市場の動きは、世界中の投資家や経済に大きな影響を与えることで知られています。",
+   "impact": "今すぐ私たちの毎日の暮らしが直接変わるわけではありませんが、世界全体の経済の様子や、日本企業の株価にも影響を与えることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "ダウ平均株価",
+     "meaning": "アメリカの代表的な企業を選んで、その株価の平均を計算したもので、経済の調子を見るための目安になります。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a7c060ab12fd49f8",
+   "url": "https://www.sankei.com/article/20261021-PZMTUHAXPBP37KFICIYBRUWMBA",
+   "title_original": "PHP欠陥受け京阪がホームページ一時停止 阪神電気鉄道も同様の予定",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/SDSZSWWJDVOTNHTMRMENWW2AEM.jpg?auth=35cb8372304dc67418703c4a88a6e0d68679104a3951be27b650935f63c8f834&quality=50&focal=782%2C292&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-10-21T13:06:35+00:00",
+   "title_ja": "システム不具合を受け、京阪などがサイト停止",
+   "one_line": "インターネット上のプログラムの不具合が原因で、京阪がホームページの運用を一時止めました。",
+   "what": "インターネットのシステムで見つかった問題に対応するため、京阪がホームページの公開を一時的に止めました。また、阪神電気鉄道も同様に対応する予定であると伝えられています。",
+   "background": "企業のホームページや予約システムなどは、インターネット上のプログラムを使って動いています。このプログラムに弱点や不具合が見つかると、外部から不正に侵入されたりシステムが正常に動かなくなったりする恐れがあります。",
+   "impact": "一時的に電車の切符の予約や情報の確認がホームページでできなくなることがありますが、安全性を確認するための対応となっています。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "ホームページ",
+     "meaning": "インターネット上で、企業や個人が情報発信やサービス提供を行うための場所です。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "eed8a6aff6b7b708",
+   "url": "https://www.asahi.com/articles/ASVBP457VVBPULFA02GM.html",
+   "title_original": "イオングループ13社の42サイトに不正アクセス 情報流出は調査中",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20261021004048_comm.jpg",
+   "region": "国内",
+   "published": "2026-10-21T12:56:51+00:00",
+   "title_ja": "イオングループのサイト複数に不正アクセス",
+   "one_line": "イオングループの複数のサイトに外部からの不正なアクセスがあり、情報の流出を調べています。",
+   "what": "イオングループの会社が管理する複数のサイトに対して、外部から不正なアクセスがありました。現在、利用者の情報が外に漏れてしまったかどうかについて調べています。",
+   "background": "インターネットを通じて買い物やサービスの予約ができるサイトでは、名前や住所、クレジットカード番号など、多くのお客さんの大切な情報がやり取りされています。企業はこれらを安全に守る義務があります。",
+   "impact": "自分が使っているサイトに影響がないか不安になるかもしれませんが、まずは企業からの正確な発表や今後の調査結果を待つ必要があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "不正アクセス",
+     "meaning": "許可されていない人が、パスワードを盗むなどして、他人のパソコンやサーバー、サイトに勝手に入り込むことです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "21f314981c987167",
    "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
@@ -7383,438 +7820,6 @@
     }
    ],
    "importance": 4
-  },
-  {
-   "id": "7d8c62b6c4654449",
-   "url": "https://www.sankei.com/article/20261016-D2KZOOFEBZOENEANLXONT4VH5E",
-   "title_original": "高市流人事「根本的に間違っている」「人柄評価できない」 自民の西田昌司参院議員が苦言",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/JHL67LD3UNP6LFLGG5LBWPJKG4.jpg?auth=8eff7f6b1fac290c91bc4164ddd2cc17da25067c9c7f0af231c758076aaab3aa&quality=50&smart=true&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-10-16T14:46:55+00:00",
-   "title_ja": "自民党の西田参院議員が高市氏の人事に苦言",
-   "one_line": "自由民主党の議員が、高市氏の進める人事のやり方に対して厳しい意見を述べました。",
-   "what": "(抜粋なし)",
-   "background": "(抜粋なし)",
-   "impact": "(抜粋なし)",
-   "genre": "政治",
-   "category": "選挙・政党",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "bb8c795921a6f43a",
-   "url": "https://www.nikkei.com/article/DGXZQOFL16BNV0W6A011C2000000",
-   "title_original": "NYダウは続伸で始まる、米利上げ観測後退 消費関連に買い",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3740582016102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=71b1bbf4f42de6226ff346c4fb0fa143",
-   "region": "国内",
-   "published": "2026-10-16T14:28:58+00:00",
-   "title_ja": "アメリカの株価が値上がりを続ける",
-   "one_line": "アメリカの株が値上がりし、景気への不安が少し和らぎました。",
-   "what": "アメリカの株式市場で、主な会社の株価をまとめた「NYダウ」という指標が、前の日に続いて値上がりして取引が始まりました。",
-   "background": "株価は、会社の売り上げや世の中の景気、そしてこれからの金利がどうなるかによって上下します。中央銀行が金利を上げるという見方が弱まると、会社の負担が減るため株が買われやすくなります。",
-   "impact": "直接わたしたちの生活が変わるわけではありませんが、アメリカの景気が良いか悪いかを知る大切な手がかりになります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "NYダウ",
-     "meaning": "アメリカの代表的な会社の株価をあわせて平均したもので、世界の経済の様子を見る目印になります。"
-    },
-    {
-     "word": "利上げ",
-     "meaning": "中央銀行が銀行に貸し出すときの金利を引き上げることで、世の中全体のモノの値段や景気を落ち着かせるために行われます。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3634dac9a7cf87aa",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
-   "title_original": "財政制度等審議会 備蓄米に輸入米活用を提案",
-   "source": "NHKニュース 政治",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60772/20261016de60772_E0000082464_1_l.jpg",
-   "region": "国内",
-   "published": "2026-10-16T14:27:21+00:00",
-   "title_ja": "国のお米のたくわえに外国産を使う提案",
-   "one_line": "政府の会議で、お米が足りなくなったときに外国産を使う案が出ました。",
-   "what": "財務大臣の相談に答える会議で、政府が万が一のために蓄えているお米について、国内のお米の量が減って値段が上がったときに外国から買ったお米も利用するよう提案されました。",
-   "background": "日本政府は、不作や災害に備えてお米をあらかじめ蓄える制度を持っています。お米の生産量が大きく変わるときに、税金から出すお金の負担を軽くしつつ、安定して手に入りやすくするための仕組みを話し合っています。",
-   "impact": "将来、国内のお米の値段が大きく上がったときや品不足になったとき、スーパーなどで売られるお米の種類や価格の仕組みに影響する可能性があります。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "備蓄米",
-     "meaning": "不作や災害がおきてお米が手に入りにくくなったときに備えて、政府があらかじめ集めて倉庫にたくわえているお米のことです。"
-    },
-    {
-     "word": "諮問機関",
-     "meaning": "大臣などの求めに応じて、専門的な意見やアドバイスを伝えるために作られた話し合いの組織です。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9e6da4be2d097ca2",
-   "url": "https://www.dw.com/en/iran-when-honor-becomes-a-death-sentence-for-women/a-79681977?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Iran: When 'honor' becomes a death sentence for women",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/60685630_6.jpg",
-   "region": "海外",
-   "published": "2026-10-16T14:27:00+00:00",
-   "title_ja": "イランで女性への暴力と「名誉殺人」めぐり議論",
-   "one_line": "イランで若い母親が殺害された事件をきっかけに、女性への暴力を見直す議論が起きています。",
-   "what": "イランで若い母親が残酷に殺害された事件があり、女性に対する暴力や、それを社会が許してしまっている空気、そして危険から守る仕組みがないことについて再び議論が巻き起こっています。",
-   "background": "イランは中東にある国で、イスラム教の厳しい決まりや古いしきたりが社会に深く根付いています。家や家族の名誉を汚したという理由で女性が家族から暴力を受ける問題について、以前から議論が続いています。",
-   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、世界各地における女性の権利や安全をめぐる問題を知るための大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "名誉殺人",
-     "meaning": "家族の名誉を傷つけたという理由で、おもに女性の家族がその人を暴行したり命を奪ったりする行為のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "46df69d98b56c420",
-   "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/79661481_6.jpg",
-   "region": "海外",
-   "published": "2026-10-16T14:23:00+00:00",
-   "title_ja": "アルバニアで学生が首相の辞めを求めてデモ",
-   "one_line": "アルバニアで学生たちが政治の変わり目を求めて大きな抗議活動を行っています。",
-   "what": "ヨーロッパのアルバニアで、大学の講義室が空っぽになったり建物が燃えたりするような大きな抗議運動が起きており、学生たちは首相の辞めを求めています。",
-   "background": "アルバニアはヨーロッパの南東部にある国です。学生たちが政治の不満や社会の仕組みを変えようと立ち上がり、今の首相にとってここ数年で最も大きな試練となっています。",
-   "impact": "遠くの国の出来事なので直接の影響はありませんが、世界中の若い世代が政治や社会に対して声を上げている動きを知る手がかりになります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "90169c5e771280d0",
-   "url": "https://news.yahoo.co.jp/pickup/6599046?source=rss",
-   "title_original": "記者拘束 露国民との交換狙いか",
-   "source": "Yahoo!ニュース 国際",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/16/f3393d6049953b092f20edf05067857fd18bea786aacd564008870dee56271ec.jpg",
-   "region": "国内",
-   "published": "2026-10-16T14:05:39+00:00",
-   "title_ja": "記者の拘束、ロシア国民との交換が狙いか",
-   "one_line": "外国で記者が捕らえられた問題で、別の事件で捕まった人との交換を狙っていると見られています。",
-   "what": "外国でジャーナリストが拘束された件について、ロシアに捕まっている自国の国民と交換するための人質として使われているのではないかと指摘されています。",
-   "background": "国と国との間で対立が起きたり、犯罪の疑いでそれぞれの国民が捕まえたりされたとき、お互いの人を交換して解決しようとすることが、これまでの歴史のなかで見られる外交の手段の一つです。",
-   "impact": "今すぐ私たちの毎日の暮らしや家計に直接大きな影響が出るものではありませんが、外国で活動する人たちの安全や、国同士の外交のあり方に関わる大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "拘束",
-     "meaning": "自由をうばって、警察やそのほかの場所に閉じ込めておくことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cc613b0174ed7dce",
-   "url": "https://www.sankei.com/article/20261016-ONDT2WPWBFIDZN36AW7ARASH2I",
-   "title_original": "植田総裁、利上げ継続協調「金融環境は緩和的」 長期金利上昇でかじ取り難しく",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/HLCXWOIRQRORXKZQ4T4SMKOAL4.jpg?auth=2e924b59724b7295a9b448693e410edc1ec8c5138bcafb836107b8f93d81e105&quality=50&smart=true&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-10-16T13:40:45+00:00",
-   "title_ja": "日銀の植田総裁が利上げの継続に前向きな姿勢",
-   "one_line": "日本銀行の総裁が、金利を上げる方針を変えず、金融の状態を見極めながら進めると話しました。",
-   "what": "日本銀行の植田和男総裁が、今後の金利の引き上げを続けていく考えを示しました。世の中の金利が上がっている中で、むずかしいかじ取りが求められています。",
-   "background": "日本銀行は、国の中央にある銀行です。世の中の景気や物価の安定をめざして、お金の貸し借りのしやすさを決める「金利」をコントロールする役割を持っています。",
-   "impact": "今すぐ私たちの暮らしが急に変わるわけではありませんが、金利が上がると住宅ローンやお店の借り入れなどの利息に影響してくるため、これからの動向に注目が集まっています。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "利上げ",
-     "meaning": "中央銀行が金利を高くすることです。お金を借りにくくして、物価の上がり方をゆるやかにする目的があります。"
-    },
-    {
-     "word": "長期金利",
-     "meaning": "国債という国の借金証書を売買するときの金利で、色々なローンや預金の金利の基準になります。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "059f197f93f1d8f4",
-   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "title_original": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-16T10:56:50+00:00",
-   "title_ja": "アメリカの中央銀行が金利の引き上げを控える",
-   "one_line": "アメリカの中央銀行が、今月の利上げについての予告を控え、これまでの物価高への対策を振り返りました。",
-   "what": "アメリカの中央銀行である連邦準備制度のウォルシュ氏が、今月に金利をさらに上げるかどうかについての合図を出さず、世界中の国々が協力して物価の上昇と戦ってきたことを評価しました。",
-   "background": "中央銀行は、国の「お金の番人」です。物価が急激に上がりすぎたり下がったりしないように、「金利」という仕組みを上げ下げして、世の中に出回るお金の量を調節し、経済のバランスを保つ大切な役割を持っています。",
-   "impact": "アメリカの金利が変わると、世界中のお金の流れや、私たちが使うお金の価値、日本の物価や為替の動きにも大きな影響を与えます。今すぐ直接の生活が変わるわけではありませんが、世界経済の様子を大きく左右します。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "金利",
-     "meaning": "銀行にお金を預けたり、借りたりするときにやり取りする、「お金のレンタル料」のような割合のことです。"
-    },
-    {
-     "word": "インフレ",
-     "meaning": "モノ全体の値段が上がり続けて、同じお金で買えるものがだんだん少なくなる現象のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "83f1af2cc73d143a",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
-   "title_original": "Burnham to deliver speech in Scotland on devolution – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/d61b00d46bb08d50ada57bd8fb39135d3b188510/385_0_3839_3073/master/3839.jpg?width=140&quality=85&auto=format&fit=max&s=35b26b01376906282be005f5e6ac0eb4",
-   "region": "海外",
-   "published": "2026-10-16T10:53:43+00:00",
-   "title_ja": "イギリスで地方への権限の移譲や学校の仕組みが見直される",
-   "one_line": "イギリスの首相が地域へ決定権を渡す計画を予定し、学校の検査機関には新しい不満の相談窓口が作られました。",
-   "what": "イギリスの首相が、国の中央政府が持っている決める力を、地域の町や地方へもっと分けていく計画を発表する予定です。また、学校を調べる組織に対しては、先生たちの負担が大きいという批判に対応するため、新しい相談の仕組みが作られました。",
-   "background": "国を動かすとき、すべてのルールを首都にある中央政府が一括して決める方法と、それぞれの地方が自分で決める方法があります。イギリスでは、地方の意見を反映しやすくするための話し合いや仕組みづくりがたびたび行われてきました。",
-   "impact": "イギリス国内の仕組みや、地域の暮らしやすさに直接関わる政治の動きです。日本に直接的な影響はありませんが、国と地方の役割分担のあり方を考えるうえでの世界的なニュースの一つです。",
-   "genre": "政治",
-   "category": "国会・法律",
-   "terms": [
-    {
-     "word": "中央政府",
-     "meaning": "国全体をまとめる中心的な政治の仕組みや、その場所のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "861751902c4dbd33",
-   "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
-   "title_original": "Zelenskyy holds press conference after talks with EU leaders over breakdown in US relationship – Europe live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/0f1c81e2d055f2f210b0aa465cacaa4403f7bdfe/0_0_3701_2961/master/3701.jpg?width=140&quality=85&auto=format&fit=max&s=b9151e9addf7a2d82f2ac3ada94c7478",
-   "region": "海外",
-   "published": "2026-10-16T10:44:04+00:00",
-   "title_ja": "ウクライナ大統領が欧州連合の指導者たちと会談",
-   "one_line": "アメリカとの関係が揺らぐ中、ウクライナの大統領がヨーロッパの指導者たちと会談しました。",
-   "what": "ウクライナの大統領が、ヨーロッパ連合の指導者たちと会談したあとに記者会見を開きました。アメリカとの関係がうまくいっていない中での話し合いとなりました。",
-   "background": "国と国の外交では、大統領や首相などの指導者が集まって、お互いの国同士の関係や、まわりの国で起きている問題について話し合います。",
-   "impact": "日本にすぐ影響が出るわけではありませんが、世界の国々のつながりや安全保障のバランスに影響を与える出来事です。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [],
-   "importance": 4
-  },
-  {
-   "id": "984b360e16e9a0dc",
-   "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-world-4025-rdf",
-   "title_original": "How prepared is Kenya for an Ebola outbreak?",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/79613813_6.jpg",
-   "region": "海外",
-   "published": "2026-10-16T10:41:00+00:00",
-   "title_ja": "ケニアでエボラ出血熱が確認され対策が進む",
-   "one_line": "ケニアでエボラ出血熱の感染が確認され、国の備えや国境での対策について議論されています。",
-   "what": "ケニアで初めてエボラ出血熱の感染が確認され、国の保健の備えや国境の管理について疑問の声が上がっていますが、保健省は慌てる必要はないと説明しています。",
-   "background": "感染症は国境を越えて広がる危険があるため、見つかった国では入ってくる人を厳しくチェックしたり、病気が広がらないように準備をしたりします。",
-   "impact": "今すぐ日本での生活が変わるわけではありませんが、世界の感染症の広がりや対策について知るための大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "edbd0bf5b3726723",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60397",
-   "title_original": "ロシアで収容された経験 米有力紙記者が振り返る 現地の状況",
-   "source": "NHKニュース 国際",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60397/20261016de60397_E0000081462_1_l.jpg",
-   "region": "国内",
-   "published": "2026-10-16T10:40:50+00:00",
-   "title_ja": "ロシアで拘束された記者が経験を語る",
-   "one_line": "ロシアで収容された経験を持つアメリカの記者が、当時の厳しい状況を振り返りました。",
-   "what": "日本の記者がロシアの治安機関に拘束されたことに関連し、過去にロシアで収容されたアメリカの有力紙の記者が取材に答えました。「精神的に厳しく、非常に隔離された場所だった」と当時の現地の状況を語っています。",
-   "background": "国と国の関係が緊張しているときや、外国の記者が取材活動をしている中で、その国の法律やルールに違反したとして、治安機関に捕まえられたり拘束されたりする事件が起きることがあります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、海外で働く記者や日本人がどのような危険に直面する可能性があるのかを知るきっかけになります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "58df6926a7390ea6",
-   "url": "https://www.asahi.com/articles/ASVBJ3FKPVBJUTFK00ZM.html",
-   "title_original": "衆院議運委員長、関文科相を厳重注意へ 議員会館でのパーティー開催",
-   "source": "朝日新聞 政治",
-   "image": "https://imgopt.asahi.com/ogp/AS20261016004704_comm.jpg",
-   "region": "国内",
-   "published": "2026-10-16T10:40:00+00:00",
-   "title_ja": "衆議院の委員長が大臣に厳重注意へ",
-   "one_line": "議員会館でパーティーが開かれたことを受け、衆議院の委員長が文部科学大臣を厳重注意することになりました。",
-   "what": "衆議院の議院運営委員会の委員長が、文部科学大臣に対して厳重注意を行う方針を固めました。議員会館の中でパーティーが開かれた問題を受けた対応です。",
-   "background": "日本の国会議員が仕事をするための建物である「議員会館」では、ルールによって政治資金を集めるためのパーティーなどの使い方が決められており、ふさわしい行いかどうかが問題になることがあります。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、政治家がルールを守って正しく活動しているかを確認する大切な出来事です。",
-   "genre": "政治",
-   "category": "国会・法律",
-   "terms": [
-    {
-     "word": "議員会館",
-     "meaning": "国会議員が仕事や話し合いをするために、国会の近くにある建物のことです。"
-    },
-    {
-     "word": "厳重注意",
-     "meaning": "ルールに違反したり、よくないことをしたりした人に対して、強く反省するように文句や注意を伝えることです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "35d60456189010c6",
-   "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro",
-   "title_original": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db4/live/981316b0-c93a-11f1-8c38-abe947e72d6d.jpg",
-   "region": "海外",
-   "published": "2026-10-16T10:37:47+00:00",
-   "title_ja": "ウクライナの首脳とアメリカ大統領の発言",
-   "one_line": "ウクライナの大統領がヨーロッパの国々へ支援を求める中、アメリカの大統領が批判的な言葉を述べました。",
-   "what": "ウクライナの大統領がヨーロッパ連合の指導者たちとの会談を前に、支援を呼びかけました。これに対し、アメリカの大統領はウクライナの大統領について厳しい言葉で批判をしています。",
-   "background": "ロシアによるウクライナへの軍事攻撃が続く中、ウクライナは多くの国から支援を受けています。アメリカやヨーロッパなどの国々がどのようにウクライナを支えるか、意見や方針が注目されています。",
-   "impact": "日本から離れたヨーロッパやアメリカの動きですが、世界の平和やエネルギーの値段、日本の外交にも関わる重要な国際問題です。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "ヨーロッパ連合",
-     "meaning": "ヨーロッパの国々が集まって、お互いの経済や政治の結びつきを強くするためのグループのことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "f585350e35c42a65",
-   "url": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Italy cuts air traffic in half amid data transmission issue",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/79678196_6.jpg",
-   "region": "海外",
-   "published": "2026-10-16T10:37:00+00:00",
-   "title_ja": "イタリアで飛行機の数を半分に減らすトラブル",
-   "one_line": "イタリアでデータを送る仕組みに問題が起き、空を飛ぶ飛行機の数が半分になりました。",
-   "what": "イタリアで、コンピューターなどのデータをやりとりする仕組みに問題が起きました。そのため、空の安全を守るために、イタリアの上空を飛ぶ飛行機の数を半分に減らしました。国は「悪い事件や事故ではない」と説明しています。",
-   "background": "飛行機が安全に飛ぶためには、地上の管制官とパイロットが無線やコンピューターを使って、位置や進路のデータを常にやりとりする必要があります。このデータのやりとりに障害が起きると、飛行機同士が近づきすぎてしまう危険が出るため、移動する飛行機の数を制限することがあります。",
-   "impact": "イタリアの上空を通る予定だった便に、遅れや欠航などの影響が出ました。日本からの旅行などでイタリアを経由する場合や、ヨーロッパの空の便を利用する際には、予定が変わることがあります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "データ送信ネットワーク",
-     "meaning": "コンピューターや通信機器の間で、文字や数字などの情報を送り合うための仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9c2cf2afb81393af",
-   "url": "https://www.cnbc.com/video/2026/10/16/lvmhs-antoine-arnault-no-catastrophe-for-luxury.html",
-   "title_original": "LVMH's Antoine Arnault: No \"catastrophe\" for luxury",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108418608-17921402121792140210-49032983924-1080pnbcnews.jpg?v=1792140211&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-16T10:31:28+00:00",
-   "title_ja": "高級ブランドを扱う企業の幹部が現状を語る",
-   "one_line": "高級ブランドの企業で環境やイメージを担当する幹部が、ブランドの売れ行きなどについて語りました。",
-   "what": "世界的な高級ブランドグループの幹部が、テレビのインタビューに答えました。お客さんの好みの変わり方や、有名ブランドの一つであるディオールの新しいデザイナーの下での様子などについて話しています。",
-   "background": "高級ブランドの会社は、世界中のお金持ちやブランド品が好きな人に向けて、バッグや洋服、アクセサリーなどを売っています。世の中の景気が変わったり、流行り廃りがあったりすると、売上や人々の買い物の仕方も大きく変わることがあります。そのため、ブランドの人気を保つための工夫が常に求められます。",
-   "impact": "今すぐ私たちの生活や買い物の値段が変わるわけではありませんが、世界的な有名ブランドがどのようにビジネスを行っているのか、世の中の景気の様子を知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "高級ブランド",
-     "meaning": "品質やデザインがとても優れていて、値段も非常に高い服やバッグ、時計などを売るブランドのことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "f9c21fd2e293b293",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-   "title_original": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-11.19.25-1792146104.png?resize=1200%2C675",
-   "region": "海外",
-   "published": "2026-10-16T10:27:20+00:00",
-   "title_ja": "オリーブの木が燃やされる被害が相次ぐ",
-   "one_line": "パレスチナでオリーブの収穫の時期に、住民の木や車が燃やされる事件が続いています。",
-   "what": "パレスチナでオリーブを収穫する時期に、入植者によってオリーブの木や車が火をつけられて燃やされる被害が起きています。",
-   "background": "パレスチナとイスラエルの間では、土地や権利をめぐる長年の対立が続いています。パレスチナの人々にとってオリーブは生活の大切な支えであり、収穫の時期は経済的にも重要な意味を持っています。その時期を狙ったトラブルや暴力行為が繰り返し問題になってきました。",
-   "impact": "いまのところ日本での暮らしに直接変わることはありませんが、世界の別の場所で人々の生活や大切な財産が脅かされている深刻な出来事です。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "入植者",
-     "meaning": "ほかの地域から移り住んできた人たちのこと。ここではパレスチナの土地に住むようになった人たちを指しています。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2fb41d75e7817239",
-   "url": "https://www.asahi.com/articles/ASVBJ3DM6VBJULFA01ZM.html",
-   "title_original": "首相「プレミアム商品券やGoTo含め」検討 減税に伴う外食支援",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20261016004634_comm.jpg",
-   "region": "国内",
-   "published": "2026-10-16T10:24:51+00:00",
-   "title_ja": "税金が減ったときの外食支援を検討",
-   "one_line": "日本の首相が、税金を減らすことに伴う外食の応援策として商品券などを考えるよう話しました。",
-   "what": "日本の首相が、税金を減らすときの対策として、商品券の配布や「GoTo」のような仕組みを含めて検討していると明らかにしました。",
-   "background": "国が税金の仕組みを変えて国民の負担を減らすとき、それだけではお店での買い物が減ってしまう心配があります。そのため、国がお金を出して外食や買い物を応援する仕組みがこれまでも使われてきました。そうした過去のやり方を再び取り入れるかどうかが話題になっています。",
-   "impact": "今すぐ具体的なルールが決まるわけではありませんが、今後の税金の仕組みや、外食をするときのお得な割引制度の行方に関わってきます。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "減税",
-     "meaning": "国に払う税金の金額を少なくすること。国民の負担を軽くするために行われます。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "4f52b8cac0a18f0a",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60209",
-   "title_original": "高市首相 予算配分増減時の公開あり方の充実“検討を指示”",
-   "source": "NHKニュース 政治",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60209/20261016de60209_E0000081326_1_l.jpg",
-   "region": "国内",
-   "published": "2026-10-16T10:20:40+00:00",
-   "title_ja": "お金の使い道が変わる理由の公開を検討へ",
-   "one_line": "日本の首相が、予算の金額が変わったときにその理由をしっかり公開できるように指示しました。",
-   "what": "日本の首相が、参議院の予算委員会で、予算の金額を増やしたり減らしたりしたとき、その理由をもっと分かりやすく公開できないか検討するよう指示したと明らかにしました。",
-   "background": "国はお金を集めて、道路や学校などさまざまなところへ「予算」として配っています。このお金の使い道や配分が変わるとき、どのような基準や理由で決まったのかは、国民にとってとても大切な情報です。政治の透明性を高めるため、ルールや仕組みの見直しがたびたび求められてきました。",
-   "impact": "今すぐみなさんの生活が直接変わるものではありませんが、国のお金の使い方や政治の仕組みがより分かりやすく公正になっていくかどうかの大切な動きです。",
-   "genre": "政治",
-   "category": "国会・法律",
-   "terms": [
-    {
-     "word": "予算委員会",
-     "meaning": "国会の中で、国の使い道である予算について話し合ったり、大臣に質問したりする場所のこと。"
-    }
-   ],
-   "importance": 3
   }
  ]
 }
