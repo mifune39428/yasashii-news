@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T07:54:49.450099+09:00",
+ "updated_at": "2026-11-07T14:27:24.853659+09:00",
  "genres": [
   "政治",
   "経済",
@@ -58,30 +58,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "5f202a6a3838957e",
-   "until": "2026-11-07T05:23:27.634357+00:00"
-  },
-  {
-   "id": "ed17e7c41f74c870",
-   "until": "2026-11-07T05:23:27.634357+00:00"
-  },
-  {
-   "id": "70880819ad5d2dbf",
-   "until": "2026-11-07T05:23:27.634357+00:00"
-  },
-  {
-   "id": "91780dc79f558467",
-   "until": "2026-11-07T05:23:27.634357+00:00"
-  },
-  {
-   "id": "bc443a08c5df981b",
-   "until": "2026-11-07T05:23:27.634357+00:00"
-  },
-  {
-   "id": "f1c58a3b274d6a62",
-   "until": "2026-11-07T05:23:27.634357+00:00"
-  },
   {
    "id": "488581d4b8c34671",
    "until": "2026-11-07T15:17:39.111763+00:00"
@@ -469,51 +445,460 @@
   {
    "id": "19a568811c24f14b",
    "until": "2026-11-11T22:54:49.450099+00:00"
+  },
+  {
+   "id": "4d7f7f24eedc78d7",
+   "until": "2026-11-12T05:27:24.853659+00:00"
+  },
+  {
+   "id": "1b5fe2b3c207257e",
+   "until": "2026-11-12T05:27:24.853659+00:00"
+  },
+  {
+   "id": "7c4ce7aa738fa36e",
+   "until": "2026-11-12T05:27:24.853659+00:00"
+  },
+  {
+   "id": "a3ffeefed54352e3",
+   "until": "2026-11-12T05:27:24.853659+00:00"
+  },
+  {
+   "id": "7e33349cfdedc26d",
+   "until": "2026-11-12T05:27:24.853659+00:00"
+  },
+  {
+   "id": "e12d2e37f37e0ba1",
+   "until": "2026-11-12T05:27:24.853659+00:00"
+  },
+  {
+   "id": "f2d2fde41e7d8f8d",
+   "until": "2026-11-12T05:27:24.853659+00:00"
   }
  ],
  "count": 300,
  "digest": {
-  "headline": "アメリカ中間選挙の結果や株価の動き、消費税法案の行方など",
+  "headline": "アメリカ中間選挙の結果や物価対策など、直近3日の重要ニュースまとめ",
   "points": [
    {
-    "text": "アメリカの中間選挙で野党・民主党が上下両院で過半数を握る見通しとなり、トランプ大統領の与党が大きな打撃を受けました。",
-    "ids": [
-     "7b134fd60fe6d58a",
-     "347a59c786d34a28",
-     "b2d385c02ab5ba3e"
-    ]
-   },
-   {
-    "text": "アメリカの選挙結果やAI投資の先行きへの不安から、東京株式市場などで株価が一時大きく値下がりしました。",
+    "text": "アメリカの中間選挙で野党・民主党が議会の上下両院で多数派を握る見通しとなり、トランプ政権の与党が大きな打撃を受けました。",
     "ids": [
      "278dc41a7d235422",
-     "3b40f51b68281a40",
-     "0c021568661450f7"
+     "b2d385c02ab5ba3e",
+     "7b134fd60fe6d58a"
     ]
    },
    {
-    "text": "来年4月から2年間、食料品の消費税率を1％に引き下げるための法律案が衆議院を通過し、参議院での話し合いに進みました。",
+    "text": "アメリカ選挙の結果やAI関連のルールが厳しくなるとの心配から、日本の株価が一時大きく下がるなど、世界的な株安となりました。",
+    "ids": [
+     "278dc41a7d235422",
+     "0c021568661450f7",
+     "4706f4a83a5bb0a1"
+    ]
+   },
+   {
+    "text": "食料品の消費税率を来年4月から2年間1％にするための法律案が衆議院を通過し、参議院での話し合いに進みました。",
     "ids": [
      "785619a68a51a39a",
      "cf816546f2863ab3"
     ]
    },
    {
-    "text": "アメリカの10月の仕事の増え方が予想を大きく上回り、信用金庫の通信障害やNTTドコモの情報流出なども伝えられました。",
+    "text": "アメリカ軍がイランの防空システムを狙って限定的な攻撃を行い、中東情勢の緊迫が続いています。",
     "ids": [
-     "f21d815280229b1f",
-     "71279358513a7579",
+     "8acdf42e10a9061d",
+     "e5717fc7abd40ca2"
+    ]
+   },
+   {
+    "text": "トヨタ自動車が円安などの影響により半年間の売上や利益を伸ばした一方、NTTドコモでは大規模な情報流出問題が発生しました。",
+    "ids": [
+     "95a02663a6e39eec",
      "cbf1d4ca490b2a50"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-04T07:56:58.562105+09:00",
-  "generated_at": "2026-11-07T07:57:00.399297+09:00",
+  "from": "2026-11-04T14:27:58.101485+09:00",
+  "generated_at": "2026-11-07T14:28:00.663247+09:00",
   "article_count": 24,
-  "sig": "833d23a31c33"
+  "sig": "26e0ae437012"
  },
  "items": [
+  {
+   "id": "75ebae57c2c7b734",
+   "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+   "title_original": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aebd3ee-1793840110.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-11-07T05:02:49+00:00",
+   "title_ja": "ハイチの警察が銃撃戦で犯罪グループの指導者を倒す",
+   "one_line": "ハイチの首相が、警察の作戦によって犯罪グループの指導者が命を落としたことをお祝いしました。",
+   "what": "ハイチの警察が犯罪グループの指導者と銃で戦い、その人を倒したと警察が発表しました。これについて、ハイチの首相がお祝いの言葉を述べました。",
+   "background": "ハイチは中米カリブ海にある国です。この国では、近年、国の中の治安がとても悪くなっており、たくさんの犯罪グループが力を持っています。警察とグループの間で激しい争いが続くことがよくあります。",
+   "impact": "今すぐにわたしたちの生活や日本の景気が変わるわけではありません。しかし、世界の国々の安全や、治安の悪い地域がどうなっていくかを知るための大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "ハイチ",
+     "meaning": "カリブ海の島にある国の一つです。政治や治安の安定が大きな課題となっています。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "d77d6df0b36db6fe",
+   "url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+   "title_original": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-11-07T05:01:07+00:00",
+   "title_ja": "イギリスの国王がカリブ海の地域を訪問する",
+   "one_line": "イギリスの国王が、雨の中でもカリブ海の国々を訪れ、外交の仕事に励んでいます。",
+   "what": "イギリスの国王が、カリブ海の地域を訪れました。雨が降る中でも笑顔で活動し、イギリスの歴史についての難しい質問にも向き合いました。",
+   "background": "イギリスには現在でも国王という「象徴」がいます。政治の実権はありませんが、国の代表として外国を訪問し、友好な関係を築く大切な役目を持っています。イギリスと歴史的なつながりがある国々との関係も大切にしています。",
+   "impact": "今すぐわたしたちの生活やお金の仕組みが変わることはありません。しかし、世界の国と国とがどのように友好な関係を保とうとしているのかを知るニュースです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "イギリスの国王",
+     "meaning": "イギリスの国の代表であり、政治を行う人とは別に、国の行事や外国との友好を深める役割を持っています。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "db7ecc36a85a048d",
+   "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+   "title_original": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-photo-wmgh/07int-france-protest-photo-wmgh-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-11-07T05:01:04+00:00",
+   "title_ja": "フランスで労働者や学生が再び大きな反対運動を計画",
+   "one_line": "フランスで、先日の大きなデモに続いて、週末にも学生や労働者が街頭での反対運動を計画しています。",
+   "what": "フランスで、国全体で行われた大きなストライキとデモの数日後、今度は土曜日に学生や働く人たちが再び道路に出て、抗議活動を行う計画を立てています。",
+   "background": "フランスでは、国の政策や働き方、給料などについて不満があるとき、働く人や学生が仕事を休んだり、みんなで集まって反対の気持ちを示したりすることがよくあります。これは労働者の権利として広く認められている方法の一つです。",
+   "impact": "今すぐに私たちの暮らしや日本の物価が変わるわけではありません。しかし、ヨーロッパの国々でどのような社会の不満があり、人びとがどう声を上げているのかを知るための大切なニュースです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "ストライキ",
+     "meaning": "働く人が自分たちの要求を通すために、仕事の時間を合わせて一斉に働くのをやめることです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "43435b5663bf0dc5",
+   "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+   "title_original": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/ab150660e1c0941c2982524b3f3d02283867ef5d/350_0_2943_2354/master/2943.jpg?width=140&quality=85&auto=format&fit=max&s=947cd67326b78e5e24874e61dd562574",
+   "region": "海外",
+   "published": "2026-11-07T05:00:02+00:00",
+   "title_ja": "地球温暖化を防ぐ国際的な約束から10年",
+   "one_line": "世界中が協力して地球の温暖化を防ぐ約束をしてから10年がたち、その成果や進め方について議論が行われています。",
+   "what": "地球の温度が上がりすぎるのを防ぐための国際的な約束について、これまでの成果や、これからの会議の進め方について専門家たちが振り返っています。",
+   "background": "地球温暖化は世界中の国に影響を与えるため、国同士が集まって対策を話し合う会議が定期的に開かれてきました。これまでには、世界の国々が協力して温室効果ガスの排出を減らそうという大きな約束が結ばれ、各国が計画を立てて取り組む仕組みが作られてきました。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界全体でどのようなルールを作って環境を守っていくかは、将来の気候や暮らしに大きく関わります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "温室効果ガス",
+     "meaning": "二酸化炭素など、地球の熱を閉じ込めて気温を上げてしまう気体のこと。人間の活動によって多く出されています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "ccbb949a8cd3ae54",
+   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+   "title_original": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee9de08a7d-1794022880.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-11-07T04:50:46+00:00",
+   "title_ja": "アメリカがカナダの会社8社を制裁",
+   "one_line": "アメリカの財務省が、イランとのつながりや麻薬密売に関わったとして、カナダにある8つの両替会社を制裁の対象にしました。",
+   "what": "アメリカの政府機関である財務省が、イランという国と関わりがあり、禁止されているお金のやり取りをしたとして、カナダにある8つの両替会社に罰するような措置をしました。",
+   "background": "国と国との間でトラブルがあったり、法律に違反するような不正な取引があったりする場合、アメリカなどの国は、問題のある企業や個人に対して、お金のやり取りを禁止するなどの厳しい措置をとることがあります。",
+   "impact": "直接私たちの生活に影響はありませんが、国同士のルールを守らせるために、世界中でこのような厳しいおとがめが出されることがあります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "財務省",
+     "meaning": "国のお金や税金、予算の管理などを担当する政府の中の組織のこと。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "b58f2789b2996a51",
+   "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-world-4025-rdf",
+   "title_original": "US asks China to uphold Busan trade deal commitments",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79404961_6.jpg",
+   "region": "海外",
+   "published": "2026-11-07T04:44:00+00:00",
+   "title_ja": "アメリカが中国に貿易の約束を守るよう求める",
+   "one_line": "アメリカが中国に対し、農産物を買うことや鉱物を安定して売ることなど、過去に結んだ貿易の約束を守るように求めました。",
+   "what": "アメリカが中国の政府に対して、これまでに話し合って決めた貿易についての約束をきちんと守るように求めました。これに対し、中国はアメリカが貿易を制限するような対策をとっていることに心配を示しました。",
+   "background": "国と国が貿易をするときは、お互いにルールや約束を決めて、品物を売り買いします。大きな国同士の間では、トラブルを防ぐためや自分たちの産業を守るために、さまざまな話し合いや約束が続けられています。",
+   "impact": "国同士の貿易のルールが変わると、日本を含めた世界中の企業や、お店に並ぶ品物の値段や手に入りやすさに影響することがあります。",
+   "genre": "国際",
+   "category": "貿易・関税",
+   "terms": [
+    {
+     "word": "レアアース",
+     "meaning": "スマートフォンや自動車などのハイテク製品を作るのに欠かせない、貴重な金属のグループのこと。"
+    },
+    {
+     "word": "貿易",
+     "meaning": "国と国の間で、品物やサービスを売り買いすること。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2c9e45af144acc8b",
+   "url": "https://news.yahoo.co.jp/pickup/6601634?source=rss",
+   "title_original": "露がJT資産管理 制裁緩和狙いか",
+   "source": "Yahoo!ニュース 国際",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/7/a1b35d2440c577a945241fb694a12b68014827c7edc3775a272c610fa1bcd0c5.jpg",
+   "region": "国内",
+   "published": "2026-11-07T04:34:08+00:00",
+   "title_ja": "ロシアが日本の会社の資産を管理する方針",
+   "one_line": "ロシアが、日本たばこ産業のロシア国内にある資産を国の管理下に置く方針を示し、制裁の緩和を狙っていると伝えられています。",
+   "what": "ロシアで、日本企業の「日本たばこ産業」の資産や事業の管理を、ロシア側の管理下に置く動きが出ました。これは、ロシアに対する国際的な制裁を和らげさせることが狙いではないかと見られています。",
+   "background": "国同士が対立して制裁の応酬が行われる中、外国の企業がその国に残していった工場や土地などの資産を、その国の政府が一時的に管理下に入れたり、買い取ったりする事例がこれまでに何度もありました。",
+   "impact": "日本にある会社や私たちの生活がすぐに大きく変わるわけではありませんが、海外でビジネスをする日本企業への影響や、国同士の関係の変化につながる動きです。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "制裁",
+     "meaning": "法律やルール、国際的な約束を破った国や人に対して、ペナルティとして貿易の制限などを行うこと。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "02b3a10798f7cbfd",
+   "url": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
+   "title_original": "不正アクセス ゲーセンにも影響",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/7/bd635c20c1f8ade9a8f9b5651e0a25bfbad3131f8368472eb6e4749da241c1db.jpg",
+   "region": "国内",
+   "published": "2026-11-07T04:31:21+00:00",
+   "title_ja": "不正アクセスがゲームセンターに与える影響",
+   "one_line": "不正アクセスという問題が、ゲームセンターの営業などに影響を与えています。",
+   "what": "ゲームセンターなどのコンピューターシステムに対して「不正アクセス」が行われ、お店の営業やサービスに影響が出ています。",
+   "background": "そもそもコンピューターのシステムやネットワークに、許可されていない人が勝手に入り込んでデータを盗んだり、壊したりする行為を不正アクセスと呼び、法律で禁止されています。",
+   "impact": "ゲームセンターでいつも通りに遊べなくなったり、お店のサービスが一時的に止まったりすることがあります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "不正アクセス",
+     "meaning": "許可されていない人が、パスワードを破るなどしてコンピューターに勝手に入り込むことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "4ed6dde33239732b",
+   "url": "https://www.asahi.com/articles/ASVC7123CVC7UHBI02MM.html",
+   "title_original": "米民主党大勝でAIデータセンター規制派の知事続々 建設ブレーキか",
+   "source": "朝日新聞 国際",
+   "image": "https://imgopt.asahi.com/ogp/AS20261107001515_comm.jpg",
+   "region": "国内",
+   "published": "2026-11-07T04:00:00+00:00",
+   "title_ja": "アメリカ民主党の大勝とAIデータセンター規制の動き",
+   "one_line": "アメリカの選挙結果を受けて、AIのデータセンター建設に対する規制が広がっています。",
+   "what": "アメリカの選挙で民主党が大勝したことを受けて、AIのデータセンターを規制しようとする知事が相次ぎ、施設の建設にブレーキがかかる可能性があります。",
+   "background": "そもそもAIのデータセンターは、膨大な計算をするために非常に多くの電気や水を使います。そのため、環境や地域への影響を心配してルールを作ろうとする動きがあります。",
+   "impact": "AIを動かすための設備の建設が遅れると、新しい技術の広がり方や関連する企業のビジネスに影響が出る可能性があります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "31479b583f3fffbe",
+   "url": "https://www.asahi.com/articles/ASVC70Q0CVC7UJUB003M.html",
+   "title_original": "達増岩手知事、政治家30周年の政治資金パーティー、進退は明言せず",
+   "source": "朝日新聞 政治",
+   "image": "https://imgopt.asahi.com/ogp/AS20261107001326_comm.jpg",
+   "region": "国内",
+   "published": "2026-11-07T03:30:09+00:00",
+   "title_ja": "岩手県の達増知事が政治家30年のパーティーを開催",
+   "one_line": "岩手県の達増知事が政治家になって30年を記念するパーティーを開きました。",
+   "what": "岩手県の達増知事が、政治家としての活動30年を記念する政治資金パーティーを開きました。今後の去就については明らかにしていません。",
+   "background": "「政治資金パーティー」は、政治家が活動するためのお金を集めるために開く集まりです。知事などの政治家が長く続ける中で、節目に開かれることがあります。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、今後の地域のリーダーの動きとして注目されます。",
+   "genre": "政治",
+   "category": "選挙・政党",
+   "terms": [
+    {
+     "word": "政治資金パーティー",
+     "meaning": "政治家が活動するためのお金を集めるために、支持者などを集めて開く有料のパーティーのこと。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "8eabaa61234fa1c6",
+   "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+   "title_original": "Paraguay's President Santiago Peña impeached and arrested",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+   "region": "海外",
+   "published": "2026-11-07T03:25:00+00:00",
+   "title_ja": "パラグアイのサンティアゴ・ペニャ大統領が弾劾され逮捕",
+   "one_line": "パラグアイのペニャ大統領が、銀行の危機を理由に罷免され逮捕されました。",
+   "what": "パラグアイのサンティアゴ・ペニャ大統領が、大統領の職を追われて逮捕されました。多くの人が自分のお金を引き出せなくなった銀行の危機が原因とされています。",
+   "background": "「弾劾」は、国のリーダーや裁判官などの重い役職にある人が、法律に違反したり大きな問題を起こしたりしたときに、辞めさせるための仕組みです。",
+   "impact": "遠い国の出来事のため、日本の私たちの暮らしに今すぐ直接の影響はありませんが、南米の政治や経済の安定に大きな影響を与えます。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "弾劾",
+     "meaning": "国会などの機関が、法律に違反したえらい立場の人を辞めさせるための手続きのこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8acdf42e10a9061d",
+   "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+   "title_original": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=140&quality=85&auto=format&fit=max&s=43a5ac1a97cd0bf0f1ee113a55feaeea",
+   "region": "海外",
+   "published": "2026-11-07T03:07:01+00:00",
+   "title_ja": "アメリカ軍がイランを再び攻撃",
+   "one_line": "アメリカ軍が金曜日にイランへの限定的な攻撃をおこないました。",
+   "what": "アメリカのトランプ大統領が、金曜日にアメリカ軍がイランに対して再び限られた範囲の攻撃をおこなったと発表しました。今回は防空システムを狙ったもので、規模は小さいものだと説明しています。イランのメディアも現地で爆発音を伝えています。",
+   "background": "アメリカとイランの間では、今年2月から軍事的な衝突が続いています。ホルムズ海峡は、世界中に石油を運ぶ船がたくさん通る非常に大切な海路ですが、この戦争が始まってから船の安全な航行が妨げられる状態が続いています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、石油を運ぶ大切な海域で戦闘が続いているため、世界のエネルギーの値段や供給に影響が出るおそれがあります。今後の事態の行方を心配する声が出ています。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "防空システム",
+     "meaning": "飛んでくる敵の飛行機やミサイルを見つけて、空中でうち落とすための仕組みや武器のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "a95f04901e51f65a",
+   "url": "https://www.nikkei.com/article/DGXZQOJC070T70X01C26A1000000",
+   "title_original": "沖縄米兵の外出制限、12月7日まで延長 那覇の強盗殺人事件",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3843766007112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=e32c162c8f5a2a4a3769fdb99684d1fe",
+   "region": "国内",
+   "published": "2026-11-07T02:56:55+00:00",
+   "title_ja": "沖縄の米兵の外出制限が12月まで延長",
+   "one_line": "那覇市での強盗殺人事件を受けて、沖縄にいる米兵の外出制限が延ばされました。",
+   "what": "沖縄県で起きた強盗殺人事件をきっかけとして、沖縄にいるアメリカの兵士に対する外出制限のルールが、12月7日まで延長されることになりました。",
+   "background": "日本とアメリカの間には「日米地位協定」という取り決めがあり、日本国内にいるアメリカ軍の兵士やその家族が事件や事故を起こしたときの裁判の手続きなどが定められています。米軍基地を抱える地域では、兵士による事件が起きるたびに安全管理や規律の徹底が求められてきました。",
+   "impact": "今すぐ私たちの生活が直接大きく変わることはありませんが、基地のある地域での安全対策や、日本とアメリカの間の協力のあり方について考えさせられるニュースです。",
+   "genre": "政治",
+   "category": "安全保障・防衛",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "b9225128e281add6",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
+   "title_original": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず",
+   "source": "NHKニュース 経済",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72062/20261107de72062_E0000151392_1_l.jpg",
+   "region": "国内",
+   "published": "2026-11-07T02:41:00+00:00",
+   "title_ja": "インターネット会社のサービスで不正アクセスが起きた問題",
+   "one_line": "企業のサービスで不正アクセスがあり、管理者の情報管理の仕組みにリスクがあったと指摘されました。",
+   "what": "インターネット企業グループのサービスに不正アクセスがあった問題で、2年前に子会社の仕組みを通じて、管理者がすべての利用者の情報を見られる状態になっていたことがわかりました。リスクの指摘もあったものの、十分な対策がされていませんでした。",
+   "background": "会社などでパソコンや利用者の情報を管理するとき、まとめて効率よく管理するための仕組みが使われます。この仕組みは便利ですが、もし管理する人の権限が強すぎたり、外からの不正アクセスを許したりすると、大切なお客さんの情報がすべて見られてしまう大きな危険があります。",
+   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、ふだん使っているインターネットサービスで大切な情報が守られているか、企業の安全対策が改めて問われる問題です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "アクティブディレクトリ",
+     "meaning": "会社などのパソコンや利用者の情報を、まとめて管理するための仕組みのことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "8cfea334702869b4",
+   "url": "https://www.asahi.com/articles/ASVC52DM8VC5UTFK01VM.html",
+   "title_original": "「産業界が大変なことに」高市首相の台湾有事発言、1年後も頭痛の種",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20261105002747_comm.jpg",
+   "region": "国内",
+   "published": "2026-11-07T00:00:00+00:00",
+   "title_ja": "高市首相の「台湾有事」発言、産業界への影響が続く",
+   "one_line": "高市首相による台湾に関する発言の影響で、産業界では1年が過ぎても心配の声が続いています。",
+   "what": "高市首相が過去にした「台湾有事」についての発言をめぐり、1年が過ぎた今でも、日本の産業界にとって頭を悩ませる大きな心配事の種になっていると伝えられています。",
+   "background": "「台湾有事」とは、台湾と中国の間で万が一、軍事的な衝突が起きた場合のことを指します。日本と中国は貿易やビジネスで深くつながっているため、もし台湾周辺でトラブルが起きると、日本の会社や経済活動にも大きな影響が及びます。",
+   "impact": "今すぐ私たちの買い物や仕事に直接の大きな変化はありませんが、日本とまわりの国々の関係がギクシャクすると、物価や経済活動に影響が出る心配があります。",
+   "genre": "国際",
+   "category": "中国・アジア",
+   "terms": [],
+   "importance": 4
+  },
+  {
+   "id": "b931c21e2a14bd03",
+   "url": "https://www.sankei.com/article/20261107-RWO5SN7AGZMXFFQKSKJ3VHKU6U",
+   "title_original": "習氏独裁の無策が台湾有事を招く 汚職撲滅で閉塞感、「新質生産力」も超過当競争招く",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/RSDMKXO33RPM5IX5TVLG6D45E4.jpg?auth=82362828c93c8b6a59f3acfd274334ab7c9124c550d2f6ed99f3bc273a1f038d&quality=50&focal=588%2C52&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-11-06T23:00:00+00:00",
+   "title_ja": "中国の指導体制と経済政策をめぐる見方",
+   "one_line": "習近平指導部のもとでの政策や汚職対策が、経済に行き詰まりや過当競争を招いていると指摘されています。",
+   "what": "中国の指導部による政治のあり方や、汚職を取り締まる動きが行き詰まり感を生んでおり、新しい経済の仕組みも激しい競争を引き起こしていると伝えられています。",
+   "background": "中国では国を率いるリーダーが強力な権力を持って政策を進めています。不正を取り締まる動きや、新しい技術を使った産業を育てる方針が掲げられていますが、それが行き過ぎると経済の自由な動きを妨げることがあります。",
+   "impact": "世界で二番目に大きな経済を持つ中国の景気や産業の動きは、日本の会社の貿易や世界全体の経済にも大きな影響を与えます。",
+   "genre": "国際",
+   "category": "中国・アジア",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "0de38513003956cf",
+   "url": "https://www.nikkei.com/article/DGXZQOFL06C380W6A101C2000000",
+   "title_original": "NY円相場、反落 米利上げ観測でドル買い",
+   "source": "日本経済新聞 市場",
+   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+   "region": "国内",
+   "published": "2026-11-06T22:56:47+00:00",
+   "title_ja": "ニューヨーク市場での円相場、金利の動きで円安に",
+   "one_line": "アメリカの金利に関する見方からドルを買う動きが強まり、円の価値が下がりました。",
+   "what": "アメリカのニューヨーク市場での外国為替市場で、円の価値が下がりました。アメリカで金利が上がるとの見方が広がったことで、ドルを買う動きが強まったためです。",
+   "background": "外国為替市場では、それぞれの国の通貨の価値が日々変わっています。その国でお金を預けたときにつく利息の高さや、経済の調子の良し悪しによって、通貨が買われたり売られたりする仕組みになっています。",
+   "impact": "円の価値が下がると、海外から日本に入ってくる石油や食べ物などの値段が高くなり、私たちの暮らしの負担が増える原因になります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "円相場",
+     "meaning": "日本のお金である円と、外国のお金（アメリカのドルなど）を交換するときの割合のことです。"
+    }
+   ],
+   "importance": 4
+  },
   {
    "id": "e70c4fd1a661d195",
    "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
@@ -7148,396 +7533,6 @@
    "category": "ウクライナ・ロシア",
    "terms": [],
    "importance": 4
-  },
-  {
-   "id": "0f3da0896f25d023",
-   "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-   "title_original": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae638c0568e-1793472704.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-10-31T20:30:35+00:00",
-   "title_ja": "トランプ氏の記念建造物計画をめぐる訴訟",
-   "one_line": "アメリカの自治体が、トランプ氏が進める大きな記念建造物の計画に反対して裁判所に訴えました。",
-   "what": "アメリカの首都があるワシントンD.C.と隣のバージニア州が、トランプ氏が進めようとしている記念の門をつくる計画を止めるため、裁判所に訴えを起こしました。",
-   "background": "アメリカでは、大きな建設や開発の計画が出たとき、周辺の交通や、昔からある街の景色が変わってしまうことを心配する地元の人や自治体との間で、話し合いや裁判になることがよくあります。",
-   "impact": "今すぐ私たちの暮らしが大きく変わるわけではありませんが、国の大きな計画と、その土地を治める自治体の意見が対立しているニュースです。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "558a783e9bd9e9b3",
-   "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-   "title_original": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-10-31T20:04:18+00:00",
-   "title_ja": "アメリカとイスラエルの選挙を控えるイランの動き",
-   "one_line": "アメリカやイスラエルの選挙の結果がどうなっても、イランの指導者たちは自分たちへの国の方針は大きく変わらないと考えています。",
-   "what": "イスラエルの首相が立場を守ろうと必死になり、アメリカの大統領も厳しい選挙を控える中、イランの指導者たちはさらなる戦争に備える準備をしています。",
-   "background": "中東の国であるイランとイスラエルは、長年にわたって対立が続いています。また、アメリカは中東の政治や安全保障に大きな影響力を持つ国で、選挙によって政権のリーダーや方針が変わることが世界中の国々の動きに影響を与えます。",
-   "impact": "今すぐ私たちの生活が変わるわけではありませんが、中東での争いが激しくなると、日本が輸入するエネルギーの値段や世界全体の経済に影響が出ることがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "ミッドターム",
-     "meaning": "アメリカで大統領の任期の途中に行われる、議会の議員を選ぶ大きな選挙のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "247131b43ed5ecea",
-   "url": "https://www.nikkei.com/article/DGXZQOUB29BV20Z21C26A0000000",
-   "title_original": "金利低下でも沈むゴールド 1年ぶり安値、米中間選挙後の原油高に警鐘",
-   "source": "日本経済新聞 市場",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3806718030102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=c1e1211da124d61b4d2c6680aeeaae4c",
-   "region": "国内",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title_ja": "金利が下がっているのに安くなる金と、原油の価格",
-   "one_line": "金利が下がっているのに金の価格が1年ぶりの安値になり、アメリカの選挙のあとの原油の高騰に注意が呼びかけられています。",
-   "what": "金利が下がっているにもかかわらず、金という貴重な品物の価格が1年ぶりの低い水準になり、さらにアメリカの選挙のあとで原油の値段が高くなることに対して警戒する声が出ています。",
-   "background": "金は価値が変わりにくい安心な財産として、経済や世の中が不安定なときに買われやすくなります。また、金利の上下や世界的な景気の動き、原油の供給状況などは、お金やモノの値段に大きな影響を与えます。",
-   "impact": "今すぐ私たちの買い物がすぐに変わるわけではありませんが、金や原油の価格が大きく変わると、世の中のモノの値段や会社の業績に広く影響が広がります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "bc3ee3ffff571500",
-   "url": "https://www.nikkei.com/article/DGXZQOGN28CJK0Y6A021C2000000",
-   "title_original": "ブルーカラー票争奪、赤いラストベルト州が試金石 28年大統領選巡り",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3797740029102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.41&fp-y=0.43&fp-z=2&h=630&w=1200&s=441dd1a5039f6428ed3104b9418adfc1",
-   "region": "国内",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title_ja": "2028年のアメリカ大統領選に向けた労働者の票争い",
-   "one_line": "2028年のアメリカ大統領選に向けて、工場の仕事などをしている人たちの票をめぐる争いが始まっています。",
-   "what": "次の2028年のアメリカ大統領選挙を見すえて、ブルーカラーと呼ばれる現場で働く人たちの票をどちらの政党が多く集められるか、特定の地域が重要な試金石として注目されています。",
-   "background": "アメリカの大統領選挙では、工場が多くある「ラストベルト」と呼ばれる地域などの結果が、どちらの政党が勝つかを決める上でとても大切だと言われています。働く人たちの支持をどちらが集めるかが大きなカギになります。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、アメリカの大統領が誰になるかによって、日本の貿易や安全保障、世界の経済のルールが大きく変わることがあります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "ラストベルト",
-     "meaning": "昔から工場が多く、鉄鋼業などで栄えたアメリカの古い工業地帯のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "28ea77628bc90b62",
-   "url": "https://www.sankei.com/article/20261101-GCBNONX4HVNENOKFF3ROLKT67I",
-   "title_original": "総務省人事",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/SCCXI5EWNJBPBGNKJDG4MH2Y5Q.jpg?auth=5ac958b8bf633e7c0cc3cb2a001bd0b29a673bff718426a225f0f7c028285c35&quality=50&focal=669%2C813&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title_ja": "総務省の人事異動",
-   "one_line": "日本の国の仕事を広く支える総務省で、職員の人事異動がありました。",
-   "what": "日本の総務省という役所で、幹部などの新しい役職を決める人事異動がおこなわれました。",
-   "background": "総務省は、地方の自治や、通信、放送、選挙の管理など、国民の暮らしの土台となる大切な仕事を広く担当している、日本の中心的な役所の一つです。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、国の重要な役所の体制が変わることで、行政の仕組みや新しい政策の進め方に影響することがあります。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [
-    {
-     "word": "総務省",
-     "meaning": "地方自治や税金の仕組み、通信や消防など、国民の暮らしの基本的なルールを広く担当する日本の役所のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "f6b1e54273d68e16",
-   "url": "https://www.nikkei.com/article/DGXZQOUC30BCV0Q6A930C2000000",
-   "title_original": "2ナノ回路は存在しない？ 半導体性能を示す「業界用語」が独り歩き",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3786487027102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=39fba11a955533e0883c1478b91fd844",
-   "region": "国内",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title_ja": "半導体の性能を表す言葉の本当の意味とは",
-   "one_line": "半導体の細かさを表す数字が、いつの間にかただの宣伝文句のようになってきているという話です。",
-   "what": "半導体の性能を示す業界の言葉について、実際の細かさとは違う形で数字が独り歩きしているということが報じられています。",
-   "background": "半導体という電子部品は、回路をより細かく作ることができれば、たくさんの情報を素早く処理できるようになります。昔はその細かさを「ナノメートル」という長さの単位で表していましたが、技術が進むにつれて実際の寸法とは関係なく、性能の目安として名前だけが使われるようになりました。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、スマートフォンやパソコンの性能を見るときに、言葉の意味を正しく知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "半導体",
-     "meaning": "電気を通す材料と通さない材料の中間の性質を持つ部品で、スマートフォンやパソコンなどの機械を動かすために欠かせない頭脳のような役割をします。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "e645f6e66aa56a1b",
-   "url": "https://www.sankei.com/article/20261101-GMFKTBBEKJPPPE5EZ6IDEK2MXM",
-   "title_original": "最高裁人事",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
-   "region": "国内",
-   "published": "2026-10-31T20:00:00+00:00",
-   "title_ja": "最高裁判所の新しい裁判官の人事について",
-   "one_line": "国の一番大切な裁判所である最高裁判所で、新しい裁判官を決める人事が行われました。",
-   "what": "最高裁判所の裁判官の人事についてのニュースです。",
-   "background": "最高裁判所は、日本で一番えらい裁判所です。憲法に違反していないかなど、国の重大なルールに関する最後の判断を下す場所であり、そこに誰が裁判官として入るのかはとても重要な決まりごとです。",
-   "impact": "日々の暮らしがすぐに変わるわけではありませんが、私たちの生活に関わる大切なルールを判断する仕組みに関わるニュースです。",
-   "genre": "政治",
-   "category": "内閣・行政",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "db8706bfdae21869",
-   "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-   "title_original": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-31T19:56:23+00:00",
-   "title_ja": "人工知能の会社オープンAIが資金集めの目標を変更",
-   "one_line": "人工知能を開発するオープンAIが、集めるお金の目標額を最高で200億ドルに変更して交渉を続けています。",
-   "what": "人工知能の開発を進めるオープンAIが、新しい資金集めの目標を最高200億ドルに引き下げたと、事情に詳しい関係者が明らかにしました。この資金集めの手続きはまだ終わっておらず、金額が変わる可能性もあります。",
-   "background": "会社が新しい技術を開発したり、大きな事業をしたりするときには、たくさんの資金が必要になります。そのため、投資家からお金を集める「資金調達」という活動を行います。特に人工知能の研究には莫大な費用がかかるため、世界中から巨額のお金が集まる仕組みになっています。",
-   "impact": "今すぐ私たちの家計や仕事が変わるものではありませんが、世界中で進む人工知能の開発や、それを支える企業の動きに影響を与えるニュースです。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "c0941782cc1abd59",
-   "url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-world-4025-rdf",
-   "title_original": "Serbia after Vucic: The winners are losing patience",
-   "source": "Deutsche Welle",
-   "image": "https://static.dw.com/image/79796628_6.jpg",
-   "region": "海外",
-   "published": "2026-10-31T19:49:00+00:00",
-   "title_ja": "セルビアの政権変化とこれからの行方",
-   "one_line": "選挙で勝利したあとのセルビアで、これまでの権力を握っていた仕組みが揺らいでいます。",
-   "what": "セルビアで学生リストが選挙に勝利した後、これまでの指導者の権力が弱まりつつあります。人々は一刻も早い公正な社会を求めていますが、これまで力を握っていた側が裁判所や行政の仕組みにはまだ影響力を残しています。",
-   "background": "民主主義の国では、選挙で選ばれた人たちが政治を行います。しかし、長年続いてきた政治の体制や役所の仕組みが変わるときには、古い仕組みや法律を握る人たちと、新しい変化を望む人たちの間で対立が起きることがよくあります。",
-   "impact": "日本での直接の生活にすぐ影響が出るわけではありませんが、世界の国々で民主主義や政治の仕組みがどのように変わっていくのかを伝える国際ニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "95fa5e617dcbaff8",
-   "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-   "title_original": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-105-ptgc/31france-protests-promo-105-ptgc-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-10-31T17:06:09+00:00",
-   "title_ja": "フランス全土でデモ　３２万人が参加し警察と衝突",
-   "one_line": "フランス全土で約３２万人が参加する大きな抗議デモが行われ、各地で警察と衝突しました。",
-   "what": "フランスの内務省によると、全土で約３２万人が参加する抗議デモが行われました。参加した人の数は前の２回の土曜日より少なくなりましたが、首都のパリやその他の都市では、警察とデモを行った人々との間で激しい衝突が発生しました。",
-   "background": "フランスでは、政府の政策や社会の仕組みに対して意見を伝えるため、人々が街に集まって声をあげる抗議デモが定期的に行われています。こうしたデモは市民の思いを示す大切な機会ですが、大勢の人が集まる中で一部が暴徒化したり、警察とぶつかり合ったりして、街の安全や交通に影響が出ることがあります。",
-   "impact": "今すぐ私たちの暮らしに直接の影響が出るわけではありません。しかし、フランスのような大きな国で混乱が続くと、観光や仕事に影響が出たり、世界経済へ影響が広がったりするため、今後の様子を見守っていく必要があります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "内務省",
-     "meaning": "国の安全を守ったり、警察や地域の行政をまとめたりする政府の役所のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5d1ffac444682bc4",
-   "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-   "title_original": "Iran's Khamenei warns US and Israel against new attacks",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/77114946-d54c-11f1-8f61-a575454bc579/w:1024/p:16x9/AP26285515397254.jpg",
-   "region": "海外",
-   "published": "2026-10-31T17:00:36+00:00",
-   "title_ja": "イランの最高指導者　アメリカとイスラエルへ攻撃を行わないよう警告",
-   "one_line": "イランの最高指導者が、アメリカとイスラエルに対してこれ以上の攻撃をしないよう警告しました。",
-   "what": "中東で再び戦闘が始まる懸念が高まる中、イランの最高指導者モジタバ・ハメネイ氏が、アメリカとイスラエルに新たな攻撃を行わないよう警告しました。背景には、アメリカのトランプ大統領らがイランへの新たな軍事行動を表明していたことがあります。",
-   "background": "イランと、アメリカやイスラエルとの間では、軍事的な緊張が長年続いています。最高指導者はイランで最も高い権限を持つ立場です。国同士がお互いを攻撃し合うと、周辺の多くの国を巻き込んだ大きな戦いに発展してしまうおそれがあるため、世界の国々がその動きを警戒しています。",
-   "impact": "今すぐ生活が変わるわけではありませんが、中東での緊張が高まって大きな戦いが起きると、世界中で石油の値段が上がることがあります。そうなると、日本のガソリン代や電気代、物の値段が高くなり、私たちの毎日の暮らしに影響する可能性があります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "最高指導者",
-     "meaning": "特定の国で、大統領や首相よりも強い権限を持ち、国の重要な決定を行う最も高い立場の人。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "5a99f5545bfd718f",
-   "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
-   "title_original": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-10-31T16:51:25+00:00",
-   "title_ja": "シリアがサウジアラビアとの防衛協定への参加を検討",
-   "one_line": "シリアがサウジアラビアなどの国々が結ぶ防衛の約束に加わることを検討しています。",
-   "what": "イエメンでの戦いが激しくなる中、シリアがサウジアラビア、トルコ、パキスタンの間で結ばれた相互防衛の協定に加わることを検討しています。この動きにより、イランが支援するフーシ派とサウジアラビアとの争いに、さらに多くの国が巻き込まれる恐れがあります。",
-   "background": "相互防衛協定とは、参加している国がほかの国から攻撃を受けたときに、みんなで協力して守り合う約束のことです。国同士が助け合うための仕組みですが、一度どこかで戦いが起きると、直接関係のない国まで戦いに巻き込まれて、争いが全体へ広がってしまう危険性も持ち合わせています。",
-   "impact": "今すぐ私たちの暮らしが変わるものではありません。しかし、中東全体で争いが大きくなると、石油の輸入などに影響が出たり、世界中の景気や物の値段に変化が起きたりする可能性があるため、今後の動きに注意が必要です。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "相互防衛協定",
-     "meaning": "参加している国がどこかの国から攻撃されたときに、お互いに協力して助け合う約束のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "062722960b488656",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
-   "title_original": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/6807820322847a216baf62975e1cb66f78e36b30/808_0_4041_3233/master/4041.jpg?width=140&quality=85&auto=format&fit=max&s=7bb8e1c324b0bddb15e9b7da0a9f2767",
-   "region": "海外",
-   "published": "2026-10-31T16:38:19+00:00",
-   "title_ja": "ロンドンで米大使館前のパレスチナ活動禁止抗議で約50人逮捕",
-   "one_line": "ロンドンの米大使館前で、パレスチナ活動禁止に反対するデモで約50人が逮捕されました。",
-   "what": "2026年11月1日、ロンドンのバタシー地区にある米国大使館前に数百人が集まり、パレスチナ活動団体の禁止に反対するプラカードを掲げたところ、警察は約50人を逮捕しました。また、エディンバラの米領事館前でも同様の追悼集会が行われました。",
-   "background": "パレスチナ活動（Palestine Action）は、英国でパレスチナ支援を目的とした活動家グループです。英国政府はテロ組織としての指定や活動禁止（proscription）を検討しており、これに反対するデモが行われています。今回の逮捕は、アンドリュー・バーンハム市長の任期中に行われた最初の大規模な集会とされています。",
-   "impact": "この逮捕は、表現の自由や抗議活動への警戒感を高め、今後の英国における政治的デモのあり方やパレスチナ問題への関心に影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "その他",
-   "terms": [
-    {
-     "word": "proscription",
-     "meaning": "政府や司法が特定の団体や活動を違法とし、公式に禁止すること"
-    },
-    {
-     "word": "vigil",
-     "meaning": "特定の人や団体を記念したり、支援を示すために行う静かな集会や灯火をともす行為"
-    },
-    {
-     "word": "premiership",
-     "meaning": "首相や首長が職務を行う期間・権限を指す言葉"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "ebf152df9eedad20",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-   "title_original": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-   "region": "海外",
-   "published": "2026-10-31T16:32:08+00:00",
-   "title_ja": "暗号取引所バイナンス、63億ドル流出の90%を補填",
-   "one_line": "バイナンスは、63億ドルのハッキング被害のうち約90%を顧客に返金しました。",
-   "what": "バイナンスは、約63億ドルのハッキング被害後、被害総額の約90%を顧客に補填したと発表しました。2社の分析によると、犯行は北朝鮮支援のグループと見られています。",
-   "background": "暗号資産（cryptocurrency）はブロックチェーン技術を使ったデジタル通貨で、取引所はその売買の場を提供します。過去にも大規模なハッキングで資金が流出した例があり、取引所のセキュリティや顧客保護が課題とされています。今回の流出は、世界最大級の取引所で起きたため注目されています。",
-   "impact": "顧客は損失の大部分が返金されるため資産保護が進む一方、暗号資産全体への信頼は揺らぎ、規制強化や取引所選びに影響が出る可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "暗号資産（cryptocurrency）",
-     "meaning": "ブロックチェーン技術で管理され、中央の銀行が存在しないデジタルなお金"
-    },
-    {
-     "word": "ハッキング",
-     "meaning": "コンピュータやネットワークに不正に侵入し、情報や資金を盗む行為"
-    },
-    {
-     "word": "国家支援グループ",
-     "meaning": "特定の国家が資金や指示を提供し、サイバー攻撃などを行う組織"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "e50b736a7914f18d",
-   "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-   "title_original": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Jan-left-and-Phil-1793461706.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-10-31T16:28:04+00:00",
-   "title_ja": "ベルリンで数千人が集会、ドイツ全土で若者が30都市で抗議計画",
-   "one_line": "ベルリンで数千人が集まり、ドイツの若者が生活費上昇と軍事費に不満を示す抗議を30都市で計画しています。",
-   "what": "2026年11月1日、ドイツ・ベルリンで数千人の若者が集会を開き、生活費の上昇や増大する軍事費に対する不満を表明しました。同時に、同世代がドイツ全土の30都市で同様の抗議行動を計画していることが報じられました。",
-   "background": "近年、欧州諸国ではエネルギー価格やインフレーションの影響で生活費が上がり、特に若年層の家計が圧迫されています。また、一部の国は防衛予算を拡大しており、軍事支出の増加が税金や公共サービスに影響すると懸念されています。こうした背景から、欧州各地で生活費や防衛政策に対するデモが増えています。",
-   "impact": "若者の大規模な抗議は政策決定者に生活費抑制や防衛予算の見直しを促す圧力となり、将来の税制や公共サービスに影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "生活費（cost of living）",
-     "meaning": "日常生活に必要な食費・住居費・光熱費などの総合的な支出"
-    },
-    {
-     "word": "世代Z（Gen Z）",
-     "meaning": "1990年代後半から2000年代前半に生まれた若い世代"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1581f6cb400fb1cd",
-   "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
-   "title_original": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/5be30a14eb0d454a08ebdb9b506b0bd380833fdb/2_0_6348_5081/master/6348.jpg?width=140&quality=85&auto=format&fit=max&s=32fe3d705a01ed7013a48fbcfb618d11",
-   "region": "海外",
-   "published": "2026-10-31T16:13:17+00:00",
-   "title_ja": "米中間選挙、過去最多の5000万件以上が期日前投票へ",
-   "one_line": "米国では中間選挙の期日前投票が過去最高の5000万件を超え、投票数が大幅に増えています。",
-   "what": "2026年11月1日、米国全土で5,050万件以上の期日前投票が行われ、2022年の同選挙時より約500万件多い記録となっています。投票結果は州ごとに集計され、民主党支持者が共和党支持者を上回る傾向が見られます。",
-   "background": "米国の中間選挙は大統領任期の真ん中で行われ、上院と下院の議席が争われます。近年は投票方法が多様化し、投票所での投票に加えて期日前投票や郵便投票が拡大しています。期日前投票は選挙日前に投票所や郵便で投票できる制度で、投票率向上を目的としています。",
-   "impact": "期日前投票が増えると有権者の参加が広がり、選挙結果に影響を与える可能性があります。議会の構成が変われば、国内政策や国際関係の方向性にも影響が出るでしょう。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "期日前投票（early voting）",
-     "meaning": "選挙当日以前に投票所や郵便で投票できる制度"
-    },
-    {
-     "word": "議会（Congress）",
-     "meaning": "米国の立法機関で、上院と下院からなる"
-    }
-   ],
-   "importance": 5
-  },
-  {
-   "id": "68538fbfbf41d376",
-   "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-   "title_original": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-10-31T16:06:44+00:00",
-   "title_ja": "巨大な仮想通貨の会社が不正アクセスで被害",
-   "one_line": "ネットのお金を取り扱う会社が、大きなサイバー攻撃を受けて失ったお金の大半を補うめどが立ちました。",
-   "what": "世界で一番大きな「バイナンス」という仮想通貨の会社が、大がかりなサイバー攻撃を受けて、大きなお金を盗まれてしまいました。しかし、その被害のおよそ90%について穴埋めする準備ができたと発表しました。安全性の確認ができしだい、預けているお金を引き出せるようにする予定です。",
-   "background": "そもそも「仮想通貨」とは、インターネット上でやり取りできる、目に見えないデジタルのお金のことです。国や銀行が価値を保証しているお金とは違い、会社が管理しています。世界中でたくさんの人が売買したりお買い物に使ったりしていますが、安全のルールがまだしっかりと整っていない部分もあります。",
-   "impact": "今すぐみなさんの暮らしや家計が直接変わるわけではありません。しかし、インターネットのお金は世界中でつながっているため、こうした大きな事件が起きると、全体の信用や安全の仕組みについて見直されるきっかけになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "仮想通貨",
-     "meaning": "インターネット上でやり取りされる、目に見えないお金のことです。国の名前や銀行を通さずに、パソコンやスマホで直接やり取りできます。"
-    }
-   ],
-   "importance": 3
   }
  ]
 }
