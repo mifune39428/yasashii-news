@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T14:38:32.485110+09:00",
+ "updated_at": "2026-11-10T00:44:56.733489+09:00",
  "genres": [
   "政治",
   "経済",
@@ -58,38 +58,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "b8eec8daefb2be6d",
-   "until": "2026-11-09T05:41:51.501377+00:00"
-  },
-  {
-   "id": "d6ca278a83cff460",
-   "until": "2026-11-09T05:41:51.501377+00:00"
-  },
-  {
-   "id": "6ecd017a91a47147",
-   "until": "2026-11-09T05:41:51.501377+00:00"
-  },
-  {
-   "id": "15b4a6a560d8315b",
-   "until": "2026-11-09T05:41:51.501377+00:00"
-  },
-  {
-   "id": "44ba77a2f061078e",
-   "until": "2026-11-09T05:41:51.501377+00:00"
-  },
-  {
-   "id": "cbd6dbd7b3732499",
-   "until": "2026-11-09T14:05:46.969982+00:00"
-  },
-  {
-   "id": "942d96ad29a54965",
-   "until": "2026-11-09T14:05:46.969982+00:00"
-  },
-  {
-   "id": "44ca3b935a0cddc1",
-   "until": "2026-11-09T14:05:46.969982+00:00"
-  },
   {
    "id": "958acf4a2b760a17",
    "until": "2026-11-09T23:27:05.675599+00:00"
@@ -597,46 +565,408 @@
   {
    "id": "7dbc86e9c12a1d6e",
    "until": "2026-11-14T05:38:32.485110+00:00"
+  },
+  {
+   "id": "abc07f469a93d575",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "1211caf764f3bf0b",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "b16a9676e847f901",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "bbbb1b2f6abc1845",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "eb616803292019b1",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "3765347f4b605c13",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "3f4479b2f4807c68",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "2d30956d78141493",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "8debe6bdfb8f8874",
+   "until": "2026-11-14T15:44:56.733489+00:00"
+  },
+  {
+   "id": "5c0882a6c1f9d016",
+   "until": "2026-11-14T15:44:56.733489+00:00"
   }
  ],
  "count": 300,
  "digest": {
-  "headline": "アメリカの動きやウクライナ情勢が世界に影響",
+  "headline": "ウクライナや中東の情勢が緊迫、日米欧の経済や外交にも変化",
   "points": [
    {
-    "text": "ロシアによるウクライナへの大規模な攻撃が続き、首都キーウでのけが人や、各地での大規模な停電などの大きな被害が出ています。",
+    "text": "ロシアによるウクライナの首都キーウへの大規模攻撃や発電所の破壊が続き、アブダビで和平に向けた話し合いが再び開かれます。",
     "ids": [
+     "bd43b206d36c0fff",
      "b633397dc632f90a",
      "bf3a8cb6e847047e"
     ]
    },
    {
-    "text": "アメリカの中間選挙や政治の変化を受け、日本の株価が大きく下がったあとに一時値上がりするなど、国内外の市場が不安定な動きを見せています。",
+    "text": "中東ではホルムズ海峡での攻撃がエネルギーの運賃に影響を与えているほか、ガザ地区では雨による浸水被害が出ています。",
     "ids": [
-     "278dc41a7d235422",
-     "70fd23f0ea2a65ef"
+     "a9f2ea4aeb2152d5",
+     "05b114b616727266"
     ]
    },
    {
-    "text": "食料品の消費税率を来年4月から2年間1％にするための法案が、衆議院を通過しました。",
+    "text": "アメリカのトランプ大統領が米中ロ首脳会談の開催に意欲を示した一方、日本政府は年末改定の国家防衛戦略で防衛力を高める方針です。",
     "ids": [
-     "785619a68a51a39a"
+     "d03c015ae068cefb",
+     "b0b6323028b45320"
     ]
    },
    {
-    "text": "地球の温暖化を防ぐための国際的な会議「COP31」が開かれ、世界各国が温室効果ガスを減らすための話し合いを始めます。",
+    "text": "日本の製造業では円安や値上げの効果で利益が上向き、日経平均株価が一時2000円以上値上がりする場面もありました。",
     "ids": [
-     "3ab88b299a3fc490"
+     "70fd23f0ea2a65ef",
+     "2f260f6c6f619bcf"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-06T14:38:59.422459+09:00",
-  "generated_at": "2026-11-09T14:39:00.782107+09:00",
+  "from": "2026-11-07T00:46:10.228671+09:00",
+  "generated_at": "2026-11-10T00:46:12.055915+09:00",
   "article_count": 24,
-  "sig": "062e5853f841"
+  "sig": "ce07e815418e"
  },
  "items": [
+  {
+   "id": "6c79d0ea8b460bb7",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+   "title_original": "Burnham says bravery of Brand’s victims will change the justice system to better support survivors – UK politics live",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843",
+   "region": "海外",
+   "published": "2026-11-09T15:39:44+00:00",
+   "title_ja": "排出ゼロ車の義務化方針についてイギリス政府が説明しました",
+   "one_line": "イギリス政府は、汚染物質を出さない車の普及目標を守る方針だと改めて説明しました。",
+   "what": "イギリスの首相報道官は、排気ガスを出さない電気自動車などの普及に向けた義務化の仕組みについて、政府が方針を守り続けると発表しました。中間の目標を緩めるという報道もありましたが、まだ何も決まっていないと説明しています。",
+   "background": "世界では、地球温暖化を防ぐために排気ガスを出さない電気自動車などの普及を進める国が増えています。イギリスでも、将来的にガソリン車などの販売をなくしていくための計画が進められており、自動車会社に対して一定の割合で排出ゼロの車を売ることを求める仕組みがあります。",
+   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、海外の環境ルールが変わると、電気自動車を作る自動車メーカーや世界の環境対策の動きに影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "ZEV（排出ゼロ車）",
+     "meaning": "走るときに排気ガスや温室効果ガスをまったく出さない自動車のことです。電気自動車などがこれに当たります。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "d2bc1bd42d0528f7",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+   "title_original": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d",
+   "region": "海外",
+   "published": "2026-11-09T15:38:44+00:00",
+   "title_ja": "アメリカのトランプ大統領が選挙結果や政策について発言しました",
+   "one_line": "アメリカのトランプ大統領が、選挙結果への疑問や自らの政策への反省などを語りました。",
+   "what": "アメリカのトランプ大統領は、SNSの投稿で中間選挙の結果に疑問を投げかけました。一方で、不法滞在者を国外に出す自らの政策が「厳しすぎた」と認めたほか、議会では主要企業のトップに関する非公開の説明会が開かれる予定だと伝えられています。",
+   "background": "アメリカでは、国会にあたる議会の議員を選ぶ選挙や大統領の政策をめぐり、与党と野党の間で激しい議論が続いています。大統領の言動や政策は、法律の作り方や国の運営方針に大きな影響を与えるため、与野党のリーダーたちがどのように動くかが常に注目を集めます。",
+   "impact": "今すぐ私たちの暮らしが大きく変わるものではありませんが、アメリカの政治の混乱や主要企業をめぐる議論の行方は、世界の経済や外交関係にも影響することがあります。",
+   "genre": "国際",
+   "category": "アメリカ",
+   "terms": [
+    {
+     "word": "強制送還",
+     "meaning": "国外から入ってきた人を、決められたルールに基づいて自国や元の国へ送り返すことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "1b752bc5d3f266f5",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+   "title_original": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/261025-D-D0477-1002-1794233657.jpeg?resize=1920%2C1296",
+   "region": "海外",
+   "published": "2026-11-09T15:31:37+00:00",
+   "title_ja": "イランへの武器の流れを止めるアメリカの専門部隊に疑問の声が出ました",
+   "one_line": "アメリカが作ろうとする専門部隊でイランを抑え込めるのか、疑問の声が上がっています。",
+   "what": "トランプ氏が「イランを封鎖した」と述べたのに対し、アメリカが作った新しい専門組織だけで武器の移動を止められるのか懸念されています。専門家の間では、国境を完全に防ぐことは難しく、かえって戦争が広がるおそれがあると指摘されています。",
+   "background": "中東地域では国と国との対立や武力衝突が続いており、国境を越えて武器や資金が渡るのをどう防ぐかが大きな課題になっています。安全を守るために特定の国や組織を監視・規制する仕組みが作られますが、その効果や地域への悪影響について議論が起きます。",
+   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、中東で戦いが広がり地域が不安になると、原油の価格が上がり、日本のガソリン代や製品の値段に影響することがあります。",
+   "genre": "国際",
+   "category": "中東",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "2ad20e12736945da",
+   "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
+   "title_original": "Senegal human rights group demands government action after deadly sinking",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-09-16T160553Z_1411321122_RC22TGA3UVW3_RTRMADP_3_MIGRATION-SENEGAL-1794226121.jpg?resize=1920%2C1440",
+   "region": "海外",
+   "published": "2026-11-09T15:30:09+00:00",
+   "title_ja": "セネガルの人権団体が政府に対策を求める声",
+   "one_line": "西アフリカからスペインの島を目指す海難事故が相次ぎ、人権団体が政府に対応を求めています。",
+   "what": "西アフリカからスペイン領カナリア諸島へ船で渡ろうとして、多くの人が亡くなる事故が近年相次いでいます。これを受けて、セネガルの人権を守るグループが、国に対してしっかり対策をとるように訴えました。",
+   "background": "セネガルはアフリカの西側にあります。仕事や暮らしを求めて、海を渡ってヨーロッパに行こうとする人が後を絶ちません。しかし、乗っている船が小さすぎたり、定員を超えていたりするため、途中で沈んでしまう事故が起きています。",
+   "impact": "私たちのすぐの暮らしに影響するものではありませんが、世界中で貧しさや仕事不足を理由に危険な移動をする人がいるという、大きな問題を知るきっかけになります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "bd43b206d36c0fff",
+   "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+   "title_original": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-ukraine-russia-talks-vfqh/09int-ukraine-russia-talks-vfqh-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-11-09T15:08:54+00:00",
+   "title_ja": "ウクライナ和平をめぐる話し合いが今週アブダビで再開",
+   "one_line": "アメリカが中心となって、ロシアとウクライナの戦争を終わらせるための話し合いが今週始まります。",
+   "what": "アメリカが中心になって、ロシアとウクライナの戦いを終わらせるための話し合いが、今週アラブ首長国連邦のアブダビという街で再び開かれます。今回の話し合いでは、すぐに戦いをやめる「停戦」の約束は話し合わないとされています。",
+   "background": "ロシアとウクライナは、長い間激しい戦いを続けています。世界各国がこれ以上被害を増やさないように、話し合いによる解決をうながそうと動いていますが、お互いの意見がぶつかり、なかなか終わりの見えない状態が続いています。",
+   "impact": "この戦争が続いていることで、世界中でエネルギーや食べ物の値段が高くなるなど、私たちの生活にも関係しています。話し合いがどう進むかは、世界の安全や経済にとってとても大切なことです。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "停戦",
+     "meaning": "戦争や戦いを、話し合いをしている間だけでも一時的にやめること。"
+    }
+   ],
+   "importance": 5
+  },
+  {
+   "id": "acde48b006216590",
+   "url": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
+   "title_original": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108546282-1794232599187-2026-11-09T115214Z_950371170_RC2AKOA0JNIJ_RTRMADP_3_NVIDIA-PROBE-CEO.JPG?v=1794232610&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-11-09T14:55:27+00:00",
+   "title_ja": "半導体をめぐるシンガポールの企業の動き",
+   "one_line": "シンガポールの企業が、アメリカの半導体大手エヌビディアをめぐる調査の対象となっています。",
+   "what": "シンガポールにある会社が、中国へアメリカの半導体を渡した疑いで調べられています。",
+   "background": "半導体という電子部品は、コンピューターや人工知能を動かすためにとても大切なものです。アメリカの会社で作られた高性能な半導体は、安全保障上の理由から、販売できる国や相手がルールで厳しく決められています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界的な機械や技術のルールを守るための大事な動きとして注目されています。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "半導体",
+     "meaning": "コンピューターの頭脳として、計算やデータの処理をする小さな電子部品のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "e1fd9e7cf3ee591c",
+   "url": "https://news.yahoo.co.jp/pickup/6601970?source=rss",
+   "title_original": "リニア名古屋駅 完成は2033年以降",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/9/efb17b88b0ae783ba258d96a5429e636370eac95904e42af24d80a06080f5f18.jpg",
+   "region": "国内",
+   "published": "2026-11-09T14:53:14+00:00",
+   "title_ja": "リニア名古屋駅の完成時期が見直し",
+   "one_line": "東京と名古屋を結ぶ新しい新幹線「リニア中央新幹線」の名古屋駅の完成が遅れる見通しとなりました。",
+   "what": "リニア中央新幹線の名古屋駅の完成時期が、2033年以降になるという見通しが示されました。",
+   "background": "リニア中央新幹線は、時速500キロメートルという非常に速いスピードで走る電車を使って、東京と名古屋、さらに大阪の間をずっと短い時間で結ぼうという大きな計画です。トンネルを掘る工事などには、大変長い時間と多くの準備が必要です。",
+   "impact": "東京と名古屋の間を行き来する時間や、地域の経済の計画に影響が出る可能性がありますが、毎日の暮らしがすぐに変わることはありません。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "リニア中央新幹線",
+     "meaning": "磁石の力で線路から浮き上がりながら、ものすごい速さで走る新しい仕組みの電車の計画。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "d630f573ddcab21c",
+   "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo",
+   "title_original": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+   "source": "BBC News",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3dc/live/368a3e40-dc50-11f1-93e1-3b657b665bcf.jpg",
+   "region": "海外",
+   "published": "2026-11-09T14:50:35+00:00",
+   "title_ja": "半導体調査の中心人物とされた中国の実業家",
+   "one_line": "アメリカの半導体企業をめぐる調査の中心に、中国出身の実業家がいると報じられています。",
+   "what": "中国出身の女性実業家が、アメリカの半導体大手エヌビディアのトップと親しい関係にあり、調査の中心人物とされていると伝えられています。",
+   "background": "国と国の間では、軍事や最新の技術に使われる大切な機械や情報が、決まったルールを守ってやり取りされているかを確認する仕組みがあります。特に先端の技術をめぐっては、さまざまな国の企業や人物が関わることがあります。",
+   "impact": "今すぐに私たちの暮らしや買い物が変わるわけではありませんが、世界の先端技術や安全保障をめぐる動きとして関係しています。",
+   "genre": "国際",
+   "category": "中国・アジア",
+   "terms": [
+    {
+     "word": "実業家",
+     "meaning": "会社を経営したり、商売をしたりして仕事をすすめる人のこと。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "a9f2ea4aeb2152d5",
+   "url": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-world-4025-rdf",
+   "title_original": "Strait of Hormuz still a source of leverage for Iran",
+   "source": "Deutsche Welle",
+   "image": "https://static.dw.com/image/79139673_6.jpg",
+   "region": "海外",
+   "published": "2026-11-09T14:49:00+00:00",
+   "title_ja": "ホルムズ海峡での攻撃がエネルギーの運賃に影響",
+   "one_line": "ホルムズ海峡で船への攻撃が続き、エネルギーの運ぶ費用が高くなっています。",
+   "what": "ホルムズ海峡で続く攻撃により、船で働く人の安全が脅かされ、エネルギーを運ぶための費用が高くなっています。イランがこうした影響力をどこまで続けられるかや、アメリカによる守りの限界によって、今後の貿易の量や価格が決まると伝えられています。",
+   "background": "ホルムズ海峡は、中東の国々から石油や天然ガスなどのエネルギーを世界中に運ぶための、船の通り道として世界中でとても重要な場所です。この海峡が通れなくなったり、危険になったりすると、世界中のエネルギーの流れが滞り、私たちの生活に大きな影響が出ます。",
+   "impact": "エネルギーを運ぶ費用が高くなると、日本のようなエネルギーを海外から買っている国では、ガソリンや電気などの値段が上がって家計や企業に負担がかかる可能性があります。",
+   "genre": "国際",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "ホルムズ海峡",
+     "meaning": "中東にある海峡で、世界中の石油や天然ガスを運ぶ船がたくさん通る、とても大切な海の道のことです。"
+    },
+    {
+     "word": "レバレッジ",
+     "meaning": "ここでは、相手に対して自分の立場を有利にする力や影響力のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "baefd1d9a5bd3bea",
+   "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+   "title_original": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
+   "region": "海外",
+   "published": "2026-11-09T14:43:11+00:00",
+   "title_ja": "パラグアイ大統領と銀行をめぐる疑惑",
+   "one_line": "パラグアイの大統領が、政府の資金を特定の銀行へ不正に回したと訴えられました。",
+   "what": "パラグアイの検察官が、サンティアゴ・ペニャ大統領が約10億ドルにのぼる政府の資金をウエノ銀行に不正に回し、その銀行の経営陣が自分たちに無謀な融資をおこなっていたとして、大統領を非難しました。",
+   "background": "国を統治する大統領や政府の役人は、国民から預かった税金や国の資金を、法律やルールに従って正しく管理し使わなければなりません。また、国のお金を扱う銀行や金融の仕組みは、社会全体の信用と安定を守るために厳しく監視されるルールになっています。",
+   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、国のトップや大きなお金が集まる銀行をめぐる問題は、その国の政治や経済の信頼を大きく揺るがす出来事になります。",
+   "genre": "国際",
+   "category": "その他",
+   "terms": [
+    {
+     "word": "検察官",
+     "meaning": "犯罪があったかどうかを調べ、裁判で罪を償うように求める仕事をする、国の法律の専門家のことです。"
+    },
+    {
+     "word": "インサイダーローン",
+     "meaning": "銀行の内部の人が、自分たちや関係する仲間に特別に有利な条件でお金を貸し出すことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "07eee1243588a8e9",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72912",
+   "title_original": "日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携",
+   "source": "NHKニュース 政治",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72912/20261109de72912_E0000155361_1_l.jpg",
+   "region": "国内",
+   "published": "2026-11-09T14:33:22+00:00",
+   "title_ja": "日本とベトナムの首脳会談、安全保障やエネルギーで協力へ",
+   "one_line": "日本とベトナムのトップが会談し、安全保障や経済の結びつきをより強めることで一致しました。",
+   "what": "日本の総理大臣とベトナムの共産党書記長が会談を行い、国の守りである安全保障の分野で協力を進めることを確かめました。また、スマートフォンなどに欠かせない大切な鉱物の安定した調達や、原子力についても一緒に取り組むことを確認しています。",
+   "background": "首脳会談とは、国を代表するリーダー同士が直接会って、お互いの国の関係や地球規模の課題について話し合う場です。国と国が協力して貿易をしたり、お互いの安全を守る約束をしたりすることで、アジア全体の平和や経済の安定をめざします。",
+   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、ベトナムとの結びつきが強まることで、工業製品の材料が安定して手に入りやすくなるなど、将来の経済や安全につながっていく可能性があります。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "サプライチェーン",
+     "meaning": "商品の材料を作ってから、お店で売られて私たちの手元に届くまでの、一連の流れのことです。"
+    },
+    {
+     "word": "重要鉱物",
+     "meaning": "スマートフォンや自動車などのハイテク製品を作るために欠かせない、特別な金属などの資源のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "5eba6a2468a841aa",
+   "url": "https://www.asahi.com/articles/ASVC94FWCVC9BQBQ24VM.html",
+   "title_original": "柔道王者リネール氏、フランス大統領選への出馬表明 「責任果たす」",
+   "source": "朝日新聞 国際",
+   "image": "https://imgopt.asahi.com/ogp/AS20261109004261_comm.jpg",
+   "region": "国内",
+   "published": "2026-11-09T14:00:16+00:00",
+   "title_ja": "柔道の五輪王者リネール選手がフランス大統領選への出馬を表明",
+   "one_line": "フランスの有名な柔道選手が、国のトップを選ぶ大統領選挙に立候補する意向を示しました。",
+   "what": "柔道のオリンピック金メダリストであるリネール氏が、フランスの大統領選挙に出馬することを明らかにしました。これまでのスポーツの世界から政治の世界へと舞台を移し、責任を果たしたいと語っています。",
+   "background": "フランスをはじめとする多くの国では、国民の投票によって国のリーダーである大統領を選びます。スポーツ選手や芸能人など、知名度の高い著名人がその人気を背景に、政治の世界へ挑戦することは、世界中で時々見られる動きです。",
+   "impact": "今すぐ日本の暮らしや経済に直接の影響はありません。しかし、世界的に有名なスポーツ選手が政治のリーダー選に加わることで、国のあり方や選挙の行方にどのような変化をもたらすか、世界的な注目が集まります。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [],
+   "importance": 2
+  },
+  {
+   "id": "4e2a6a7e16139114",
+   "url": "https://www.nikkei.com/article/DGXZQOUA090X50Z01C26A1000000",
+   "title_original": "協和キリンの遺伝子治療薬、承認へ 米では6億円で世界最高額",
+   "source": "日本経済新聞 経済",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3851520009112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.03&fp-y=0.62&h=630&w=1200&s=7e91bff558967b38fc60be2e34b459b5",
+   "region": "国内",
+   "published": "2026-11-09T13:24:02+00:00",
+   "title_ja": "協和キリンの遺伝子治療薬が日本で承認される見通し",
+   "one_line": "協和キリンが開発した病気の治療に使う新しい薬が、日本で認められる見通しとなりました。",
+   "what": "日本の製薬会社である協和キリンが作った「遺伝子治療薬」という新しい薬が、国から正式に認められる（承認される）見通しになりました。なお、アメリカでは同じような薬が非常に高額な価格で扱われているとされています。",
+   "background": "「遺伝子治療薬」は、病気の原因となっている遺伝子に直接働きかけて治すことを目指す、最先端のくすりです。開発には長い時間とたくさんの費用がかかるため、価格が高くなることがあります。",
+   "impact": "今すぐすべての人の生活が変わるわけではありませんが、新しい治療法が増えることは、これまで治すのが難しかった病気に苦しむ人たちの助けにつながる可能性があります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "遺伝子治療薬",
+     "meaning": "体の設計図である遺伝子に働きかけて、病気を根本から治すことを目指して作られた最先端のくすりです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "53193355cbd2a51a",
+   "url": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html",
+   "title_original": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "region": "国内",
+   "published": "2026-11-09T12:11:24+00:00",
+   "title_ja": "個人情報の漏洩の恐れを公表した主な企業一覧",
+   "one_line": "企業や組織で、利用者の大切な個人情報が外に漏れてしまうかもしれないトラブルが起きています。",
+   "what": "会社やお店などが持っている、名前や住所などの大切な個人データが、外に漏れてしまったかもしれないというトラブルが起きました。そうした問題が起きた企業の一覧が、随時お知らせされています。",
+   "background": "私たちがネットで買い物をしたりサービスに登録したりするときに預けた個人情報は、会社の大切なデータとして管理されています。しかし、サイバー攻撃などによって、それが外部に盗まれる事件がたびたび起きています。",
+   "impact": "自分自身が使っているサービスで情報が漏れていないか確認する必要があり、インターネットや買い物の安全に対する注意がこれまで以上に求められます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "個人情報",
+     "meaning": "名前、住所、電話番号など、誰のものか特定できる個人の大切な情報のことです。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "d520693351bfa006",
    "url": "https://mainichi.jp/articles/20261109/k00/00m/010/094000c",
@@ -7240,334 +7570,6 @@
     }
    ],
    "importance": 3
-  },
-  {
-   "id": "2a624c06e48baec0",
-   "url": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
-   "title_original": "トランプ政権に「共感」日本で23%",
-   "source": "Yahoo!ニュース 国内",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/3/2858fc68d8d7ae61869baeddfcb5bbe9738f4e32b8307e07427b32340ff8e549.jpg",
-   "region": "国内",
-   "published": "2026-11-03T00:06:45+00:00",
-   "title_ja": "アメリカの新しい政治の仕組みに対する日本での受け止め方",
-   "one_line": "アメリカのトランプ政権のやり方に共感する人が、日本国内で23%いるという調査結果が出ました。",
-   "what": "日本の国内で調査をおこなった結果、アメリカのトランプ政権の政治のやり方に対して「共感する」と答えた人が23%いたというニュースです。",
-   "background": "アメリカで大統領が新しく決まったり、政権が変わったりすると、世界中の国々がその動きに注目します。日本の人たちが外国の政治に対してどう感じているかを調べる世論調査は、お互いの国の関係を考えるための大切な手がかりになります。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、日本とアメリカのこれからの付き合い方や、国際的なつながりを考えるときの参考になる情報です。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [],
-   "importance": 2
-  },
-  {
-   "id": "e199fb270f2b60e3",
-   "url": "https://www.asahi.com/articles/ASVC22DG7VC2UTIL02DM.html",
-   "title_original": "ANAが17年赤字で去った静岡 「利益なき繁忙」が招く航空再編",
-   "source": "朝日新聞 経済",
-   "image": "https://imgopt.asahi.com/ogp/AS20261102002840_comm.jpg",
-   "region": "国内",
-   "published": "2026-11-03T00:00:00+00:00",
-   "title_ja": "航空会社が静岡空港から撤退した理由とこれからの動き",
-   "one_line": "全日本空輸が過去に静岡空港から路線をなくした背景には、採算を合わせることの難しさがありました。",
-   "what": "全日本空輸（ANA）が過去に静岡の路線から撤退したことをきっかけに、航空業界で利益を出すことの難しさや、今後の会社の結びつきについて振り返るニュースです。",
-   "background": "飛行機を飛ばすには、燃料代や機体のお手入れ、たくさんの人の人件費がかかります。お客さんがたくさん乗っても、チケットの値段が安すぎたり、客席が埋まらなかったりすると、会社としての利益が出なくなってしまいます。",
-   "impact": "私たちの暮らしや旅行の計画において、利用できる飛行機の便が減ったり増えたりすることや、航空会社同士の協力が進むことでチケットの買い方やサービスが変わる可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "0f1a935f2e2b513a",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
-   "title_original": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T151545Z_1847478069_RC2NFOAHXR6L_RTRMADP_3_IRAN-CRISIS-1793658445.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-11-03T00:00:00+00:00",
-   "title_ja": "アメリカとイランの話し合いの行方",
-   "one_line": "アメリカとイランが話し合いを進めていますが、お互いの条件がすれ違っています。",
-   "what": "イランは、アメリカに対して海の封鎖をやめ、すべての要求をのむよう求めています。一方、アメリカ側は話し合いに前向きな姿勢を見せています。",
-   "background": "中東にあるイランとアメリカは、核兵器や安全保障をめぐって長年対立してきました。経済の制裁なども含めて、お互いに譲れない理由があるため、話し合いが難しくなっています。",
-   "impact": "今すぐ私たちの暮らしが直接変わるわけではありませんが、この問題が激しくなると世界の石油の値段や経済に影響が出ることがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "海軍による封鎖",
-     "meaning": "船の出入りを軍の力で禁止し、その国との貿易や移動ができなくすることです。"
-    },
-    {
-     "word": "合意",
-     "meaning": "話し合っているお互いの国が、ルールや条件に納得して約束をすることです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "671ed0bc1d6720f0",
-   "url": "https://www.asahi.com/articles/ASVBP3V35VBPUTFK004M.html",
-   "title_original": "「100年はかかる」憲法前文めぐりGHQ内でぶつかった理想と現実",
-   "source": "朝日新聞 政治",
-   "image": "https://imgopt.asahi.com/ogp/AS20261031001236_comm.jpg",
-   "region": "国内",
-   "published": "2026-11-03T00:00:00+00:00",
-   "title_ja": "日本の憲法ができたときのGHQ内のやりとり",
-   "one_line": "日本の憲法が作られた当時、GHQの中で理想と現実の意見が分かれていました。",
-   "what": "日本の憲法の前文をめぐって、連合国軍総司令部の中で、理想的な考え方と現実的な考え方がぶつかり合っていたという記事です。",
-   "background": "第二次世界大戦で日本が負けたあと、日本を占領した連合国軍総司令部（GHQ）が、日本に新しい憲法を作るための手助けをしました。その中で、どのような言葉や考え方を盛り込むのかについて、担当者たちの間でいろいろな意見がありました。",
-   "impact": "今すぐ私たちの暮らしに影響するものではありませんが、日本の今のルールや法律の土台がどのように作られたのかを知るための歴史的な話題です。",
-   "genre": "国際",
-   "category": "安全保障・防衛",
-   "terms": [
-    {
-     "word": "憲法前文",
-     "meaning": "憲法の最初にある、この国がどのような国を目指すのかという大切な考えや理想をまとめた文章のことです。"
-    },
-    {
-     "word": "GHQ",
-     "meaning": "第二次世界大戦のあと、日本を占領して政治の仕組みなどを変えた連合国軍総司令部のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "c9346e580acd8f1d",
-   "url": "https://www.asahi.com/articles/ASVC27R61VC2UHBI001M.html",
-   "title_original": "冷蔵冷凍庫へのサイバー攻撃、9カ国に 欧州のスーパーで温度50度",
-   "source": "朝日新聞 国際",
-   "image": "https://imgopt.asahi.com/ogp/AS20261103000684_comm.jpg",
-   "region": "国内",
-   "published": "2026-11-03T00:00:00+00:00",
-   "title_ja": "9カ国のスーパーで冷蔵庫がサイバー攻撃を受ける",
-   "one_line": "ヨーロッパの複数の国でスーパーの冷蔵庫がサイバー攻撃を受けました。",
-   "what": "冷蔵や冷凍をするための冷蔵庫がサイバー攻撃を受け、ヨーロッパの9つの国で温度が50度まで上がってしまうトラブルが起きました。",
-   "background": "今のスーパーやお店では、多くの機械や冷蔵庫がインターネットやコンピューターでつながって管理されています。便利になる一方で、そこを狙ったサイバー攻撃を受けると、大きなトラブルにつながることがあります。",
-   "impact": "日本の今すぐの暮らしに直接の影響はありませんが、世界中でインターネットを使った機械へのサイバー攻撃が身近な問題になっていることが分かります。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "サイバー攻撃",
-     "meaning": "コンピュータやインターネットを使って、遠くからシステムをこわしたり、邪魔をしたり、データを盗むことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "281025d75e01de56",
-   "url": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
-   "title_original": "North Korea rejects US allegations over $6 billion Binance crypto heist",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/8f8ad8a0-cdb0-11f1-9dd8-4da0d2c6855d/w:1024/p:16x9/2026-10-08T042855Z-1116982708-RC2SYNASEWEO-RTRMADP-3-NORTHKOREA-SOUTHKOREA-1.jpg",
-   "region": "海外",
-   "published": "2026-11-02T23:49:10+00:00",
-   "title_ja": "北朝鮮がアメリカからの暗号資産盗難のうがいを否定",
-   "one_line": "北朝鮮が、アメリカから「巨額の暗号資産を盗んだ」と疑われていることについて、「ばかげた嘘だ」と強く否定しました。",
-   "what": "アメリカから「60億ドルの暗号資産を盗み出した」と指摘されたことに対し、北朝鮮は火曜日に「ばかげた作り話だ」と退けました。",
-   "background": "北朝鮮とアメリカは、核やミサイル問題などをめぐって長年対立しています。近年では、インターネット上の不正な活動や、お金をめぐるサイバー攻撃のうわさが度々問題になっています。",
-   "impact": "今すぐ私たちの生活が直接変わるものではありませんが、国と国との間の不信感が強まると、世界の安全や今後の外交の話し合いに影響することがあります。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [
-    {
-     "word": "暗号資産",
-     "meaning": "インターネット上でやりとりされる、目に見えないデジタルのお金のことです。"
-    },
-    {
-     "word": "外交",
-     "meaning": "国と国とが話し合いを通じて、お互いの関係を保ったり約束をしたりすることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3f5f6e21578f0936",
-   "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-   "title_original": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26103230491948-1793662751.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-11-02T23:41:18+00:00",
-   "title_ja": "アメリカの選挙がアジア太平洋地域に与える意味",
-   "one_line": "アメリカの政治が変わることで、アジアの国々との貿易や安全保障のやり方に大きな影響が出るという話です。",
-   "what": "アメリカの政策によって大きな影響を受けてきたアジア太平洋地域の国々が、アメリカのこれからの動きや方針に大きな変化を求めているというニュースです。",
-   "background": "アメリカでは大きな選挙があると、国のリーダーや議会で法律を決める人が変わり、外国に対する貿易のルールや安全保障の考え方も大きく変わることがあります。アジアの国々は、アメリカの貿易のルールや外国に対する方針にとても強く影響を受けてきました。",
-   "impact": "今すぐ私たちの暮らしやお金の使い方が変わるわけではありませんが、アメリカとアジアの国々の関係が変わることで、日本に届く輸入品の値段や貿易の仕組みに将来影響が出る可能性があります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "関税",
-     "meaning": "外国から品物を買うときに、国が上乗せして集める税金のことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "3d68f547a42a6833",
-   "url": "https://www.nikkei.com/article/DGXZQOFL02AYC0S6A101C2000000",
-   "title_original": "NY債券、長期債続伸 10年債利回り4.91% 米イランの交渉進展の思惑で原油が急落",
-   "source": "日本経済新聞 市場",
-   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-   "region": "国内",
-   "published": "2026-11-02T22:09:49+00:00",
-   "title_ja": "アメリカの債券が買われ原油の値段が下がったこと",
-   "one_line": "アメリカとイランの話し合いが進むかもしれないという予想から、原油の値段が下がりました。",
-   "what": "アメリカの債券が買われて金利が下がり、アメリカとイランの交渉が進むのではないかという見方から、原油の値段が急激に下がったというニュースです。",
-   "background": "国や企業がお金を借りるために発行する証書を債券と呼びます。また、世界中の国ぐにの経済や物の値段は、中東地域での戦争や話し合いの様子、そして世界で一番使われるエネルギーである原油の値段によって大きく左右されます。",
-   "impact": "今すぐ私たちの家計が直接変わるわけではありませんが、原油の値段が下がると、めぐりめぐってガソリンや電気・ガス代、お店の品物の値段が安くなる方向に影響することがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "債券",
-     "meaning": "国や会社がお金を借りるために発行する、約束手形のようなものです。"
-    },
-    {
-     "word": "利回り",
-     "meaning": "投資したお金に対して、どれだけの利益や利子が戻ってくるかを表す割合のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "449dcd1abf8fe573",
-   "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
-   "title_original": "Shop freezers in seven European countries hit by cyber-attack",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
-   "region": "海外",
-   "published": "2026-11-02T15:12:22+00:00",
-   "title_ja": "ヨーロッパ7カ国のお店で冷凍庫がサイバー攻撃を受ける",
-   "one_line": "ヨーロッパ7カ国のお店で冷凍庫がサイバー攻撃を受け、温度が上がってしまう事件がありました。",
-   "what": "ヨーロッパの複数の国にあるお店で、冷凍庫の温度を管理するシステムがサイバー攻撃を受けました。冷凍庫の温度が最大で50度まで上がってしまったと伝えられています。",
-   "background": "サイバー攻撃とは、コンピューターやインターネットを通じて、ほかの機械やデータを壊したり、勝手に動かしたりする悪意のある行為のことです。現代の多くの店や会社では、機械の温度管理などをインターネットにつないで便利に管理しています。",
-   "impact": "今すぐ私たちのくらしに直接大きな影響が出るわけではありませんが、お店の食べ物が傷むなどの被害が出るおそれがあり、インターネットを使った管理システムの安全性を高めることが大切になっています。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "サイバー攻撃",
-     "meaning": "インターネットを通じてコンピューターやシステムを壊したり、勝手に動かしたりする攻撃のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e8dc757d693d2e68",
-   "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-   "title_original": "What Israeli Election Results Reveal About the Electorate",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-11-02T15:09:20+00:00",
-   "title_ja": "イスラエルの選挙結果から人々の支持の分かれ道が明らかに",
-   "one_line": "イスラエルでおこなわれた選挙の結果から、人々の政治に対する考え方の違いや投票への参加の様子が明らかになりました。",
-   "what": "イスラエルでおこなわれた選挙で、ベンジャミン・ネタニヤフ首相が率いる政党を引き続き応援するグループがあった一方で、支持をやめるグループもありました。また、どれだけの人が投票に行ったかも結果に大きな影響を与えました。",
-   "background": "選挙とは、国民が自分たちの代表や政党を選ぶ大切な仕組みです。民主主義の国では、有権者と呼ばれる投票できる人たちが、政治家や政党の考え方やこれまでの実績を見て、誰に政治を任せるかを決めます。",
-   "impact": "海外の政治の動きは、日本との貿易や外交、世界の平和に大きく関わります。今すぐ日本のくらしを変えるものではありませんが、世界がどう動いているかを知るために大切なニュースです。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "選挙",
-     "meaning": "国民や市民が自分たちの代表となる政治家や政党を選ぶための大切な仕組みです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "cc0d6d4d3c641eae",
-   "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-   "title_original": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/1eb86fc3157f5c5e5a6dbe2db10ca0c83a7e5a71/752_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=128090dc78674166fed7203e2f156bbf",
-   "region": "海外",
-   "published": "2026-11-02T15:08:59+00:00",
-   "title_ja": "ウクライナの病院が攻撃されヨーロッパの店では冷凍庫のトラブル",
-   "one_line": "ウクライナの都市にある病院が攻撃を受けたほか、ヨーロッパ各地のお店で冷凍庫の温度管理システムに異常が起きました。",
-   "what": "ウクライナ南部で、病院がドローンによる攻撃を受けました。また、ヨーロッパ各地のスーパーマーケットなどでは、冷凍庫の温度を遠隔でいじられるトラブルが起きました。",
-   "background": "国と国が争う戦争や紛争では、街や建物、病院などが攻撃の対象になることがあります。また、現代の社会やお店では、機械の管理をインターネットに頼っているため、遠隔操作によるトラブルが起きる仕組みになっています。",
-   "impact": "日本に直接の被害が及ぶわけではありませんが、世界各地で起きている争いや、インターネットを通じた機械のトラブルは、世界の平和や私たちの安心な生活にとって無視できない問題です。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "ドローン",
-     "meaning": "遠隔操作や自動で飛ぶことができる、小型の無人飛行機ののことです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "32f890107f389cbf",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-   "title_original": "Tories accuse Shabana Mahmood of ‘U-turn’ on indefinite leave to remain policy – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/766598dd15fb1923afa8a58c4e17bfbc730c8ab7/637_0_4630_3704/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=3427dffbdf3b506552ff8f43f2912e71",
-   "region": "海外",
-   "published": "2026-11-02T15:08:57+00:00",
-   "title_ja": "イギリスの政治家が方針の変更をめぐって議論",
-   "one_line": "イギリスの野党から、内務大臣の永住を認める方針が変わったことについて批判や議論の声が上がりました。",
-   "what": "イギリスの野党の議員が、内務大臣の外国人の永住権に関する方針が「方針転換」にあたると批判しました。また、首相の移動に使った飛行機の費用などをめぐっても議論になりました。",
-   "background": "イギリスは、選挙で選ばれた国会議員の中から選ばれた首相が政府を動かす「議会制民主主義」の国です。与党という政権を担う政党と、それをチェックする野党の間で、政策や税金の使い道をめぐり日々議論がおこなわれます。",
-   "impact": "イギリスの国内政治や税金の使い道に関するニュースであり、日本のくらしに直接的な影響はありませんが、諸外国の政治がどのように議論されているかを知るための情報です。",
-   "genre": "国際",
-   "category": "ヨーロッパ",
-   "terms": [
-    {
-     "word": "与党",
-     "meaning": "その時期に政権を担い、実際に政治を行っている政党のことです。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "d822a9117e89beba",
-   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-   "title_original": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108463862-1793017402792-gettyimages-2297777280-kbd25007_3xi96vkq.jpeg?v=1793017658&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-11-02T15:05:22+00:00",
-   "title_ja": "アメリカの企業アンソロピックが業績を公表",
-   "one_line": "アメリカのAI企業アンソロピックが、改訂した資料で売上高や購入の約束額を明らかにしました。",
-   "what": "アメリカの人工知能（AI）を開発する企業「アンソロピック」が、新しく作り直した公開用の資料の中で、今年第3四半期までの売上高がおよそ17億ドルにのぼることや、将来の購入などの約束額が大きくなっていることを明らかにしました。",
-   "background": "株式を新しく一般の人々に売り出す前や、企業の経営状態をはっきりさせる時には、「S-1」と呼ばれる詳しい書類をアメリカの政府機関に提出する決まりがあります。これによって、投資家や社会がその企業の儲けの仕組みや大きさを確認できるようになっています。",
-   "impact": "直接私たちの家計や仕事がすぐに変わることはありませんが、最先端の人工知能をつくる企業がどれくらい大きなお金を動かしているのかを知る手がかりになります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "売上高",
-     "meaning": "企業が商品やサービスを売って得た、1年あるいは一定期間のトータルの収入のこと。"
-    }
-   ],
-   "importance": 2
-  },
-  {
-   "id": "a717b372e61ac072",
-   "url": "https://www.france24.com/en/video/20261102-us-midterms-will-gen-z-enthusiasm-help-turn-michigan-senate-blue",
-   "title_original": "US Midterms: Will Gen Z enthusiasm help turn Michigan Senate blue?",
-   "source": "France 24",
-   "image": "https://s.france24.com/media/display/4434a4ec-d6cc-11f1-94f1-a575454bc579/w:1024/p:16x9/capture-815f4d3f.jpg",
-   "region": "海外",
-   "published": "2026-11-02T15:03:53+00:00",
-   "title_ja": "アメリカの中間選挙で若い世代の投票に注目が集まる",
-   "one_line": "アメリカ議会の上院選挙に向けて、若い世代の盛り上がりが結果を左右すると注目されています。",
-   "what": "アメリカのミシガン州でおこなわれる議会の上院議員を選ぶ選挙で、民主党が議会の多数派を握るためにどうしても勝ちたい重要な戦いとなっています。若い世代の有権者の間で特定の候補者への期待が高まっており、その熱気が実際に投票へとつながるのかどうかが注目されています。",
-   "background": "アメリカの議会には、すべての州から同じ数だけ選ばれる「上院」と、人口の多さによって人数が決まる「下院」があります。どちらの政党が多くの議席を取るかによって、大統領が進めたい政策が実現できるかどうかが大きく変わるため、一票の重みがとても大きい選挙です。",
-   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、アメリカの政治でどちらの政党が力を持つかによって、世界中の経済や安全保障のルール、国際関係に大きな影響を与えます。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "上院",
-     "meaning": "アメリカの議会のひとつで、各州から2人ずつ選ばれた議員で構成され、法律や条約の承認など重要な決定を行う場所。"
-    }
-   ],
-   "importance": 4
   }
  ]
 }
