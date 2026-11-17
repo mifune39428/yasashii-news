@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T00:21:04.088831+09:00",
+ "updated_at": "2026-11-17T10:45:46.657890+09:00",
  "genres": [
   "政治",
   "経済",
@@ -59,46 +59,6 @@
   "産経新聞 経済"
  ],
  "skipped": [
-  {
-   "id": "61ae19af7113bb2a",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "816868731ba4260b",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "97d53776e7f36286",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "1403c7ef68fe2fce",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "ae32fa9b8a4a087e",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "a32d8c3b92295ed6",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "75a076b84133d203",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "d3388c5acea6a876",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "1e3d97acc71b99a4",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
-  {
-   "id": "bf486b75525366c8",
-   "until": "2026-11-17T00:19:40.885015+00:00"
-  },
   {
    "id": "f7cb5f139a2506c0",
    "until": "2026-11-17T14:54:46.934011+00:00"
@@ -546,57 +506,495 @@
   {
    "id": "3f1c9b93d2821a58",
    "until": "2026-11-21T15:21:04.088831+00:00"
+  },
+  {
+   "id": "ffb434281364de27",
+   "until": "2026-11-22T01:45:46.657890+00:00"
+  },
+  {
+   "id": "791ba69e92c84d8e",
+   "until": "2026-11-22T01:45:46.657890+00:00"
+  },
+  {
+   "id": "4123b6beea678b83",
+   "until": "2026-11-22T01:45:46.657890+00:00"
+  },
+  {
+   "id": "d078ada51ffc54d0",
+   "until": "2026-11-22T01:45:46.657890+00:00"
+  },
+  {
+   "id": "02b6262a7355a1b2",
+   "until": "2026-11-22T01:45:46.657890+00:00"
+  },
+  {
+   "id": "6b7a15b776f54495",
+   "until": "2026-11-22T01:45:46.657890+00:00"
+  },
+  {
+   "id": "71fd9b926f5118b4",
+   "until": "2026-11-22T01:45:46.657890+00:00"
   }
  ],
  "count": 300,
  "digest": {
-  "headline": "日本の安全保障や経済の動き、中東やウクライナの情勢が変化",
+  "headline": "ウクライナや中東の情勢が悪化する中、国内では景気や安全保障の動きが注目されていま",
   "points": [
    {
-    "text": "政府は日本の安全を守るため、民間の会社にも協力を求め補償する方針を決めました。また、在日米軍の費用をめぐり、アメリカが約3倍の負担を求めています。",
+    "text": "ウクライナの首都キーウやロシアの施設が攻撃を受けるなど戦闘が続き、中東ではイランによるバーレーンへの攻撃が発生しました。",
     "ids": [
-     "d3ea3ce195545070",
-     "f55b4e2b12193940"
-    ]
-   },
-   {
-    "text": "ウクライナから過去最多のドローン攻撃を受けたロシア側が発表し、ウクライナのゼレンスキー大統領はアメリカの通信制限の解除などを求めています。",
-    "ids": [
+     "8106e514c2b35c6b",
      "ae3ce3c8b807d4c0",
-     "0983c921fa3b27e6"
+     "5bd2fc39ca44c245"
     ]
    },
    {
-    "text": "イランによるバーレーン攻撃など中東での緊張が高まり、周辺国から非難の声が上がっているほか、支援物資を入れるようイスラエルに求める動きも出ています。",
+    "text": "ロシア機とみられる飛行機が日本の領空を一時侵犯し、政府は安全保障のため民間企業への協力や新しいルール作りを進めています。",
     "ids": [
-     "12b449161b783754",
-     "ef2717616441a4f5",
-     "b72b37f4b8e584a1"
+     "29e2bd313b04ba68",
+     "d3ea3ce195545070"
     ]
    },
    {
-    "text": "国内では買い物の控えなどで7月から9月のGDPがマイナス成長となり、日本銀行の金利政策や人工知能関連の株価の動きなどが注目されています。",
+    "text": "7月から9月までの日本のGDPがマイナス成長となり、AI関連株の下落や円安の動きもあって今後の経済の先行きに不安が出ています。",
     "ids": [
      "ae4f52f28751e89e",
-     "9364083f487359e0",
-     "a50bcfc8cde6658e"
+     "a50bcfc8cde6658e",
+     "f03b4b4eac3b1156"
     ]
    },
    {
-    "text": "アメリカのトランプ氏が北朝鮮の指導者との会談に前向きな姿勢を示したほか、アメリカが中国への半導体規制の新しいルールを作るなど、外交や経済の動きが続いています。",
+    "text": "アメリカが在日米軍の費用負担として現在の約3倍を求めるなど、外交や安全保障をめぐる新たな課題も出てきています。",
     "ids": [
-     "21bb111caeebefed",
-     "e23b92262f9ef8f1"
+     "f55b4e2b12193940"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-14T00:27:05.718285+09:00",
-  "generated_at": "2026-11-17T00:27:09.837046+09:00",
+  "from": "2026-11-14T10:46:24.938461+09:00",
+  "generated_at": "2026-11-17T10:46:45.919787+09:00",
   "article_count": 24,
-  "sig": "d8584f5267c9"
+  "sig": "9942ef449e4c"
  },
  "items": [
+  {
+   "id": "8106e514c2b35c6b",
+   "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
+   "title_original": "Live: Russian attacks target bridges in Kyiv, knocking out heating and water",
+   "source": "France 24",
+   "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
+   "region": "海外",
+   "published": "2026-11-17T01:38:38+00:00",
+   "title_ja": "ウクライナの首都キーウで橋や生活施設が攻撃受ける",
+   "one_line": "ウクライナの首都キーウで橋や水道・暖房の施設がロシアの攻撃を受けました。",
+   "what": "ウクライナの首都キーウで、ロシアの攻撃により大きな橋や重要なインフラが被害を受け、一部地域で暖房や水が使えなくなる事態となりました。ウクライナと諸外国の間では、戦争を終わらせるための話し合いも続けられています。",
+   "background": "ウクライナとロシアは2022年から軍事的な衝突を続けています。国際社会では、戦闘を終わらせるための話し合いや、ウクライナを支援する取り組みが続けられていますが、民間人の暮らしを支える施設への攻撃なども起きています。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界のエネルギー価格や物価、国際的な安全保障のあり方に大きな影響を与える問題です。",
+   "genre": "国際",
+   "category": "ウクライナ・ロシア",
+   "terms": [
+    {
+     "word": "インフラ",
+     "meaning": "電気や水道、道路、通信など、人々の暮らしや社会を支えるための基本的な施設のことです。"
+    }
+   ],
+   "importance": 5
+  },
+  {
+   "id": "29e2bd313b04ba68",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
+   "title_original": "ロシア機か 一時領空侵犯 福岡 沖ノ島周辺",
+   "source": "NHKニュース 国際",
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76912/20261117de76912_E0000182376_1_l.jpg",
+   "region": "国内",
+   "published": "2026-11-17T01:37:43+00:00",
+   "title_ja": "ロシア機とみられる飛行機が日本の領空を一時侵犯",
+   "one_line": "福岡県の沖ノ島周辺で、ロシア機とみられる飛行機が日本の領空を侵犯しました。",
+   "what": "福岡県の沖ノ島周辺の日本の領海上空に、ロシア機と推定される航空機が入り込みました。これに対し、航空自衛隊の戦闘機が緊急発進して対応にあたりました。",
+   "background": "国にはそれぞれ、自分の国の領土や領海の上空である「領空」が決められています。外国の飛行機が無断で入ることを「領空侵犯」といい、国は自国の安全を守るために戦闘機を飛ばして退去を求めるなどの対応をします。",
+   "impact": "今すぐ私たちの日常の暮らしや家計が変わるわけではありませんが、日本のまわりの安全保障や、他国との外交関係に関わる大切な出来事です。",
+   "genre": "国際",
+   "category": "安全保障・防衛",
+   "terms": [
+    {
+     "word": "領空侵犯",
+     "meaning": "許可なく外国の航空機が、その国の領土や領海の上空に入り込むことです。"
+    },
+    {
+     "word": "スクランブル",
+     "meaning": "日本の領空に近づく外国の飛行機に対して、自衛隊の戦闘機が急いで飛び立つ緊急発進のことです。"
+    }
+   ],
+   "importance": 4
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "title_original": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
+   "region": "海外",
+   "published": "2026-11-17T01:37:30+00:00",
+   "title_ja": "アメリカのトランプ大統領が商務長官を擁護",
+   "one_line": "アメリカのトランプ大統領が、半導体輸出の制限をめぐり商務長官をかばいました。",
+   "what": "アメリカのトランプ大統領が、先端的なAI向け半導体の輸出を制限する手続きの遅れを指摘された商務長官を擁護しました。政権内では責任をめぐるやり取りがあり、IT企業のトップをめぐる動きも報じられています。",
+   "background": "アメリカ政府は、安全保障上の理由や技術の流出を防ぐため、他国への高性能な半導体の輸出に厳しい制限をかけています。政権の中では、どの部署がどのようにその手続きを担当するかをめぐって議論や意見の対立が起きることがあります。",
+   "impact": "私たちのすぐの暮らしに直接影響するわけではありませんが、世界中のパソコンやスマートフォンの性能を左右する半導体の流通や、国際的な企業のビジネスに大きな影響を与えます。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "半導体",
+     "meaning": "電気を通す材料と通さない材料の中間の性質を持つ部品で、パソコンやスマートフォンなど多くの電子機器に欠かせない頭脳のような役割をします。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "4ba609ef4470bd06",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
+   "title_original": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/1bb8d30dcd78052afadd5695ad1cf81a973b10fe/1115_380_2101_1680/master/2101.jpg?width=140&quality=85&auto=format&fit=max&s=fce1026769e0fc3453ed7d39b48fdf28",
+   "region": "海外",
+   "published": "2026-11-17T01:25:08+00:00",
+   "title_ja": "スマートグラスを危険に使ったトラック運転手が解雇",
+   "one_line": "オーストラリアで、危険な場所でスマートグラスを使った運転手が初めて仕事をクビになりました。",
+   "what": "オーストラリアの運送会社で働くトラックの運転手が、引火しやすいガスを扱う場所でカメラ付きのめがねを使い、写真を撮ったとして仕事をクビになりました。このため裁判が開かれています。",
+   "background": "スマートグラスとは、レンズの部分に小さな画面やカメラが付いていて、インターネットに接続できるハイテクなめがねのことです。身につけるだけで写真が撮れたり映像が見られたりして便利ですが、仕事中にはルールを守って使わなければなりません。",
+   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、新しい機械や道具が職場に入ってきたとき、どのようなルールで使うべきか考えるきっかけになります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "スマートグラス",
+     "meaning": "小さなカメラや画面がついていて、インターネットにつながる機能を持った、めがね型の電子機器のことです。"
+    },
+    {
+     "word": "解雇",
+     "meaning": "会社が仕事をする人と結んでいた約束を終わらせて、会社をやめさせることです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "de2e455d9476b2d8",
+   "url": "https://www.nikkei.com/article/DGXZQOFL170IM0X11C26A1000000",
+   "title_original": "アドバンテスト株価、一時5.8%安 米半導体の輸出規制強化が重荷",
+   "source": "日本経済新聞 市場",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3889500017112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=1b39d8d5f8fe47724b47d4dd5ac7ff5d",
+   "region": "国内",
+   "published": "2026-11-17T01:15:45+00:00",
+   "title_ja": "アメリカの半導体規制を受けアドバンテストの株価が一時下落",
+   "one_line": "アメリカによる半導体の輸出についてのきまりが厳しくなったことで、関連する企業の株価が下がりました。",
+   "what": "日本の企業であるアドバンテストの株価が、一時的に値下がりしました。アメリカが半導体に関する輸出のきまりをより厳しくしたことが、会社にとって心配の材料になると受け止められたためです。",
+   "background": "株とは、会社にお金を出したときに受け取る権利のことで、会社の調子や世の中の状況によって値段が毎日上がったり下がったりします。半導体は、スマートフォンやパソコンなど、さまざまな電子機器に欠かせない重要な部品です。",
+   "impact": "半導体をつくる会社やその株を持っている人には影響がありますが、今すぐに私たちの毎日の買い物や生活の値段が大きく変わるわけではありません。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "株価",
+     "meaning": "会社の一部を表す「株」というものの、市場での値段のことです。景気や会社の様子によって上がったり下がったりします。"
+    },
+    {
+     "word": "半導体",
+     "meaning": "電気の通り方をコントロールする部品で、スマートフォンやパソコン、車など多くの機械に使われています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "50f0955b81fa469a",
+   "url": "https://www.nikkei.com/article/DGXZQOUB1715A0X11C26A1000000",
+   "title_original": "ドバイ原油・17日午前、下落",
+   "source": "日本経済新聞 市場",
+   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+   "region": "国内",
+   "published": "2026-11-17T01:12:55+00:00",
+   "title_ja": "ドバイ原油の価格が下がっています",
+   "one_line": "11月17日の午前の市場で、ドバイ原油の価格が下落しました。",
+   "what": "11月17日の午前中に、取引されているドバイ原油の価格が下がりました。",
+   "background": "原油とは、地下から掘り出したままで、まだガソリンや灯油などに加工していない石油のことです。原油の価格は、世界中の買い手と売り手のバランスや、世界全体の景気の様子などによって日々変化します。",
+   "impact": "今すぐ私たちの生活が直接大きく変わるわけではありませんが、原油の価格が下がると、将来的にガソリンや電気料金などの値段に影響することがあります。",
+   "genre": "経済",
+   "category": "エネルギー・環境",
+   "terms": [
+    {
+     "word": "ドバイ原油",
+     "meaning": "中東のドバイ周辺で取れる石油のことで、アジアの市場で取引されるときの基準となる価格です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "3e60842077495f8c",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+   "title_original": "EU countries announce migrant deportation centre in Rwanda",
+   "source": "Al Jazeera",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794877935.jpg?resize=1200%2C675",
+   "region": "海外",
+   "published": "2026-11-17T01:12:28+00:00",
+   "title_ja": "ヨーロッパの国々がルワンダに難民を送る計画を発表",
+   "one_line": "ドイツやオーストリアなど5カ国が、アフリカのルワンダに外国からの人々を送り出す施設を作る計画を発表しました。",
+   "what": "ドイツ、オーストリア、オランダ、デンマーク、ギリシャの5つの国が、アフリカのルワンダを、国外から来た人々を送り出すための拠点として利用すると発表しました。",
+   "background": "国を追われたり争いから逃れてきたりした人々を、どう受け入れるかは世界中の国々にとって大きな課題です。国境を越えた移動や移民の扱いについては、それぞれの国や地域でルール作りや様々な対策が進められています。",
+   "impact": "日本に直接すぐ影響が出る話ではありませんが、世界各国が外国からの人々の受け入れや移動の管理をどのように行うかという、大きなルールの動きの一つです。",
+   "genre": "国際",
+   "category": "ヨーロッパ",
+   "terms": [
+    {
+     "word": "難民",
+     "meaning": "戦争や迫害などから逃れるため、自分の国を出て別の国へ助けを求めに行く人々です。"
+    },
+    {
+     "word": "ルワンダ",
+     "meaning": "アフリカの中央部にある国です。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "b6316acb5c895dfc",
+   "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+   "title_original": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+   "source": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
+   "region": "海外",
+   "published": "2026-11-17T01:09:52+00:00",
+   "title_ja": "ローマ教皇が手術を乗り越え南アメリカを訪問",
+   "one_line": "10月に手術を受けたローマ教皇が、南アメリカへの遠い移動を無事に続けています。",
+   "what": "ローマ教皇が10月に肺の手術を受けたあと、予定していた南アメリカへの長い旅行に出発し、これまでのところ順調に過ごしています。",
+   "background": "ローマ教皇は、世界中に多くの信者がいるキリスト教の一つのグループであるカトリック教会のリーダーです。世界各地を訪れて人々にお祈りを捧げたり、平和のメッセージを伝えたりする大切な役割を持っています。",
+   "impact": "宗教的な行事や教皇の訪問は世界中のニュースとして伝えられますが、直接私たちの毎日の暮らしや家計が変わるような影響はありません。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "ローマ教皇",
+     "meaning": "キリスト教のカトリック教会という大きな組織のいちばん上の立場にいる指導者です。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "6a71f0145663edc9",
+   "url": "https://www.nikkei.com/article/DGXZQOCB1718K0X11C26A1000000",
+   "title_original": "香港ディズニーランドに不正アクセス 電子チケット1万7000枚窃盗か",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3889478017112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.78&fp-y=0.87&h=630&w=1200&s=6e2196681cda2271e27de3a16b761fa4",
+   "region": "国内",
+   "published": "2026-11-17T01:03:04+00:00",
+   "title_ja": "香港ディズニーランドの電子チケットが盗まれる被害",
+   "one_line": "香港のディズニーランドで不正アクセスがあり、電子チケットが盗まれたと伝えられています。",
+   "what": "香港にあるディズニーランドのシステムに外部から不正なアクセスがあり、約1万7000枚の電子チケットが盗まれたとみられています。",
+   "background": "インターネットを通じてチケットや情報を管理する電子システムは便利ですが、時には悪い目的でハッキングと呼ばれる不正な侵入を受け、情報やデータが盗まれる事件が世界中で起きています。",
+   "impact": "日本のディズニーランドの利用者がすぐに直接被害を受けるわけではありませんが、インターネットを使ったサービスの安全対策がどれほど大切かを示す出来事です。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "不正アクセス",
+     "meaning": "許可されていない人が、コンピューターやネットワークのシステムに勝手に入り込むことです。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "d68056b98df0a818",
+   "url": "https://www.nikkei.com/article/DGXZQOUF168LL0W6A111C2000000",
+   "title_original": "京都市、26年度補正予算案56億円 道路の冠水対策など",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3887863016112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=6a20ef455161ff771b196b05cff784f1",
+   "region": "国内",
+   "published": "2026-11-17T01:00:00+00:00",
+   "title_ja": "京都市が大雨対策などの追加予算案を発表",
+   "one_line": "京都市が、大雨で道路が水に浸かるのを防ぐ対策などに使う56億円の追加の予算案を出しました。",
+   "what": "京都市は、2026年度の補正予算案として56億円をまとめました。その中には、大雨が降ったときに道路が水に浸かってしまうのを防ぐための対策などが含まれています。",
+   "background": "予算とは、国や地方自治体が1年間にお金を使う計画のことです。最初に決めた計画のあとに、思わぬ出来事が起きてお金が足りなくなったり、新しく別の対策が必要になったりしたときには、「補正予算」という追加の予算を作って対応します。",
+   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、大雨が降ったときに道路や家が水に浸かる被害を防ぐための工事などに使われ、地域の安全な暮らしにつながっていきます。",
+   "genre": "経済",
+   "category": "予算・税金",
+   "terms": [
+    {
+     "word": "補正予算",
+     "meaning": "最初に決めた1年間の予算のあとに、足りなくなった分を足したり、急な予定の変化に対応したりするためにつくる追加の予算のことです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "9411cb6ee9625139",
+   "url": "https://www.asahi.com/articles/ASVCK04M6VCKUHBI00DM.html",
+   "title_original": "先端半導体の「遠隔利用」を制限 米商務省が新たな輸出規則を発表",
+   "source": "朝日新聞 経済",
+   "image": "https://imgopt.asahi.com/ogp/AS20261117000768_comm.jpg",
+   "region": "国内",
+   "published": "2026-11-17T00:57:54+00:00",
+   "title_ja": "アメリカが先端半導体の遠隔利用に新しい制限",
+   "one_line": "アメリカの商務省が、AIなどに使われる高性能な半導体を遠くから利用することに関する新しい規則を発表しました。",
+   "what": "アメリカの商務省は、最先端の半導体技術を遠隔で利用することに対する新しい輸出の規則を発表しました。どのような決まりにするのか、詳しい内容が示されています。",
+   "background": "半導体は、パソコンやスマートフォン、AIなど、現代のさまざまな機械を動かすために欠かせない頭脳のような部品です。国や企業の間で、最先端の技術がほかの国に渡らないようにルールを作ったり、輸出を制限したりする動きが続いています。",
+   "impact": "今すぐに身の回りの製品が買えなくなるなどの影響はありませんが、世界の企業が作るパソコンやAIのサービス、価格などに長い目で見て影響を与える可能性があります。",
+   "genre": "国際",
+   "category": "貿易・関税",
+   "terms": [
+    {
+     "word": "半導体",
+     "meaning": "電気の通り方をコントロールする部品で、スマートフォンやパソコン、車など、たくさんの電子機器の頭脳として使われています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "c1e5edac889017c2",
+   "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+   "title_original": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108552211-1794850759211-gettyimages-2304954172-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794850787&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-11-17T00:42:33+00:00",
+   "title_ja": "アメリカの中央銀行とAIの関わり方に注目が集まる",
+   "one_line": "アメリカの中央銀行の関係者が、人工知能の急速な広がりが仕事や金利にどう影響するかを見極めようとしています。",
+   "what": "アメリカの中央銀行で重要な役割を担うケビン・ウォッシュ氏が、AIの広がりが大きな転換点を迎えているという見方を示しました。そのうえで、AIの普及がこれからの働く人の仕事や、お金の貸し借りの値段である金利にどんな影響を及ぼすのか、難しい問いに向き合っています。",
+   "background": "中央銀行は、国全体の経済やお金の巡りを良くするために、金利を上げ下げするなどの大切な役割を持つ機関です。新しい技術が世の中に広まると、人々の働き方や会社のもうけ方が変わり、それが国全体の景気や物価にも大きな影響を与えます。",
+   "impact": "今すぐ私たちの生活が変わるわけではありませんが、AIの広がりによって世界中の経済や仕事の仕組みが変わっていくため、中央銀行がどのような判断をするのかが将来の景気や金利の動きに影響します。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "中央銀行",
+     "meaning": "国の中でお金の量を調整したり、銀行の銀行として全体の経済を安定させたりする、国の中枢にある特別な銀行のことです。"
+    },
+    {
+     "word": "金利",
+     "meaning": "お金を借りたり預けたりするときにやり取りされる「手数料」のようなもので、割合（パーセント）で表されます。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "48f25d4c7f2d7208",
+   "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+   "title_original": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
+   "source": "CNBC",
+   "image": "https://image.cnbcfm.com/api/v1/image/108548243-17943307042026-11-10t171000z_665024736_rc21loachi3x_rtrmadp_0_usa-stocks.jpeg?v=1794330798&w=1920&h=1080",
+   "region": "海外",
+   "published": "2026-11-17T00:37:41+00:00",
+   "title_ja": "半導体大手エヌビディアの株価下落でアメリカ株の先物が小幅な動き",
+   "one_line": "アメリカの株取引で、半導体を作る大手会社エヌビディアの株価が下がったことで、株式の未来の値段がほとんど変わらない状態になりました。",
+   "what": "週の初めのアメリカの株式市場で、半導体を作る大きな会社であるエヌビディアの株価が4.1%下がりました。この影響で、株の将来の売買を約束する先物という取引の値段も、あまり動きのない状態になっています。",
+   "background": "株の先物というのは、これから先の決まった時期に、今の値段で株を買ったり売ったりすることを前もって約束する仕組みです。会社がこれから発表する大切な成績の前に、株を売りたい人が増えると、こうした値段に影響が出ます。",
+   "impact": "今すぐ私たちの暮らしやお金に直接影響するわけではありませんが、世界の多くの人が注目している大きな会社の動きは、世界の経済や株全体のようすを大きく動かすきっかけになることがあります。",
+   "genre": "経済",
+   "category": "円安・株・金利",
+   "terms": [
+    {
+     "word": "株の先物",
+     "meaning": "これから先の決まった時期に株を取引する約束のことです。将来の値段を予想して売り買いされます。"
+    },
+    {
+     "word": "半導体",
+     "meaning": "電気の流れる量をコントロールする部品で、スマートフォンやパソコン、車など、いろいろな機械に使われています。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "084b9e36584f8ecb",
+   "url": "https://www.asahi.com/articles/ASVCJ4KDYVCJUTFK004M.html",
+   "title_original": "日米豪印「揺るぎない結束を示す」 米中ロ直前の開催、日本の狙いは",
+   "source": "朝日新聞 国際",
+   "image": "https://imgopt.asahi.com/ogp/AS20261116004924_comm.jpg",
+   "region": "国内",
+   "published": "2026-11-17T00:19:16+00:00",
+   "title_ja": "日米豪印が結束を示す、国際会議を前に日本がねらうこと",
+   "one_line": "日本、アメリカ、オーストラリア、インドの4つの国が集まり、それぞれの強いきずなを確認し合いました。",
+   "what": "日本とアメリカ、オーストラリア、インドの4つの国が話し合いを開き、「揺るぎない結束を示す」ことを確認しました。この話し合いは、アメリカや中国、ロシアなどの大きな国が参加する国際的な会議の直前に行われました。",
+   "background": "国と国が手を取り合って話し合う仕組みには、世界平和を守ったり、お互いの国を守りやすくしたりする目的があります。特に大きな国同士がぶつかりやすい国際社会では、同じ考えを持つ国同士がグループを作ることが大切にされています。イキイキとした外交を進めるための大切な動きです。",
+   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、日本のまわりの国々との関係や、世界の平和を保つための大切な外交のニュースです。これからの日本の安全や、外国とのつきあい方に影響することがあります。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [],
+   "importance": 3
+  },
+  {
+   "id": "414290407ab1c772",
+   "url": "https://www.sankei.com/article/20261117-XVP56DTAVZJF5EU43IF5W7EFY4/?outputType=asynd",
+   "title_original": "ICC、アフガニスタンの米軍とCIAの戦犯疑惑で捜査終了か 予審裁判部が決定",
+   "source": "産経新聞 国際",
+   "image": "https://www.sankei.com/resizer/v2/UTB3ZSDGVVL4DN5QGSEJSAT62Q.jpg?auth=5b682c3ab802628c9876ddb9f23949db46f96ece7ce404e3dd178aa3315ebb0d&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-11-17T00:16:03+00:00",
+   "title_ja": "国際刑事裁判所の米軍めぐる捜査終了へ",
+   "one_line": "国際刑事裁判所の予審裁判部が、アメリカ軍などの戦犯疑惑の捜査を終わらせることを決めました。",
+   "what": "国際刑事裁判所の予審裁判部が、アフガニスタンでのアメリカ軍と中央情報局による戦犯疑惑についての捜査を終了すると決定しました。",
+   "background": "国際刑事裁判所は、世界で起きた重い罪を裁くための特別な裁判所です。予審裁判部は、本格的な裁判をする前に、証拠が十分にあるかどうかを調べて判断する役割を持っています。",
+   "impact": "今すぐ私たちの暮らしや日本国内の生活が直接変わるものではありませんが、世界の国々の間で起きた争いや法律のルールに関わる大切なニュースです。",
+   "genre": "国際",
+   "category": "その他の地域",
+   "terms": [
+    {
+     "word": "国際刑事裁判所",
+     "meaning": "世界で起きた戦争犯罪などの重い罪を犯した人を裁くための、特別な国際的な機関です。"
+    },
+    {
+     "word": "予審裁判部",
+     "meaning": "裁判を始める前に、集まった証拠を確認して本格的な裁判をするかどうかを決める場所です。"
+    }
+   ],
+   "importance": 2
+  },
+  {
+   "id": "f723f4260ba7c443",
+   "url": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
+   "title_original": "「オーケー」関西出店加速 強みは",
+   "source": "Yahoo!ニュース 経済",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/17/7cb11fdbaafbec60407bbc7e9892af89c96e067c053a8d7a7984df72c2bfdb6c.jpg",
+   "region": "国内",
+   "published": "2026-11-16T22:49:00+00:00",
+   "title_ja": "ディスカウントスーパー「オーケー」が関西進出を加速",
+   "one_line": "食品などを安く売るスーパーマーケットの「オーケー」が、関西での店舗を増やす動きを強めています。",
+   "what": "スーパーマーケットの「オーケー」という会社が、関西地方での店鋪を増やす動きをスピードアップさせています。",
+   "background": "スーパーマーケットなどの小売りの業界では、お客さんに選んでもらうために、安さや品揃え、お店の場所などでそれぞれの会社が工夫をしています。近年は地域を広げて店を出す動きが見られます。",
+   "impact": "身近な場所で安いスーパーが増えると、日用品や食料品の買い物事情が変わり、家計の節約につながることがあります。ほかのスーパーとの価格競争が起きることもあります。",
+   "genre": "経済",
+   "category": "企業・産業",
+   "terms": [
+    {
+     "word": "ディスカウントスーパー",
+     "meaning": "食品や日用品などを、ほかの店よりも安い値段で売ることを得意としているスーパーマーケットです。"
+    }
+   ],
+   "importance": 3
+  },
+  {
+   "id": "2a5e0c6379d3a94b",
+   "url": "https://www.sankei.com/article/20261117-O4HVBHB27BPFVM4GMMHE5KCE44",
+   "title_original": "EU、日本製鋼板に関税 反ダンピングで27.9％",
+   "source": "産経新聞 経済",
+   "image": "https://www.sankei.com/resizer/v2/KUZNUFWS2VNI7CYZHMCSNLBOTI.jpg?auth=e50932b5ed720d984fe5ef155cbb992c498f4503a465b210ceeee4beb8fadb5f&quality=50&smart=true&width=1200&height=675",
+   "region": "国内",
+   "published": "2026-11-16T22:28:37+00:00",
+   "title_ja": "ヨーロッパ連合が日本製鋼板に「反ダンピング関税」",
+   "one_line": "ヨーロッパ連合が、日本製の鋼板に対して不当に安い価格を防ぐための追加の税金を課しました。",
+   "what": "ヨーロッパ連合が、日本から輸入される鋼板に対して、反ダンピング関税という27.9パーセントの追加の税金をかけることを決めました。",
+   "background": "ダンピングとは、外国の製品を本来の価値よりもとても安い値段で大量に売り、現地の産業に損害を与えることをいいます。それを防ぐために、高い税金をかけて価格差を調整する仕組みが「反ダンピング関税」です。",
+   "impact": "日本の会社がヨーロッパへ品物を輸出するときに不利になり、売上に影響が出ることがあります。日本の産業やこれからの貿易の仕組みを考えるうえで大切なニュースです。",
+   "genre": "経済",
+   "category": "貿易・関税",
+   "terms": [
+    {
+     "word": "鋼板",
+     "meaning": "自動車や建物、家電製品などを作るのに使われる、鉄を平らな板状にした金属の材料です。"
+    },
+    {
+     "word": "反ダンピング関税",
+     "meaning": "外国から不当に安い価格で製品が持ち込まれたとき、国内の産業を守るためにかける特別な税金です。"
+    }
+   ],
+   "importance": 3
+  },
   {
    "id": "d3ea3ce195545070",
    "url": "https://www.asahi.com/articles/ASVCJ3S6QVCJUTFK00HM.html",
@@ -7134,390 +7532,6 @@
     {
      "word": "インフラ",
      "meaning": "道路や電気、水道、通信網など、人々のくらしや経済活動を支えるための基本的な施設や仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "8f42116784412530",
-   "url": "https://www.sankei.com/article/20261110-7VAHKIQ7EBKSDL4WPFTQTFJM2A",
-   "title_original": "10代の「SNS保護」を強化 メタがインスタグラムで機能拡大、AIで年齢偽装防ぐ",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/resizer/v2/KW7AM55HC5JJ7PPBQLUFSSU7PY.jpg?auth=34e4db5a0ad444333a92eab44ff956e6caf75af8ab4b1bbb88836ab2b91c4966&quality=50&smart=true&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-11-10T01:03:09+00:00",
-   "title_ja": "インスタグラムが10代の子どもを守るため年齢の確認機能を強める",
-   "one_line": "大人気の写真投稿アプリ「インスタグラム」で、年齢をごまかして使えないようにする仕組みが広がります。",
-   "what": "インターネットの会社が、写真などを共有するアプリ「インスタグラム」で、10代の子どもたちが安全に使えるようにするための新しい機能を広げると発表しました。人工知能の技術を使って、子どもが本当の年齢を隠して大人と同じように使ってしまうのを防ぎます。",
-   "background": "インターネットのアプリやサービスでは、利用できる年齢のきまりがあることが少なくありません。しかし、子どもが大人といつわって登録してしまうことが問題になっており、運営する会社はより確実な方法で年齢を確かめる必要に迫られています。",
-   "impact": "子どもを持つ家族にとっては、ネット上のトラブルや事件から子どもを守りやすくなる一方、利用するときに自分の情報を確かめる手続きが増える可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "人工知能",
-     "meaning": "人間の頭でおこなうような複雑な判断や計算を、コンピューターが代わりにできるようにした技術のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "3cbc32ffad215d17",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-   "title_original": "France blames Iran for October supermarket cyberattack",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794272346.jpg?resize=1617%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-11-10T01:01:47+00:00",
-   "title_ja": "フランスがスーパーへのサイバー攻撃はイランの軍隊によるものと発表",
-   "one_line": "フランスのスーパーマーケットが受けたサイバー攻撃について、フランスの外務大臣がイランの組織が原因だと指摘しました。",
-   "what": "フランスの外務大臣が、10月に起きたスーパーマーケットに対するコンピューター上の攻撃について、イランの軍事組織である「イスラム革命防衛隊」がおこなったものだと非難しました。",
-   "background": "「サイバー攻撃」とは、インターネットを通じてパソコンやネットワークに侵入し、データを盗み出したり、システムを壊したりする行為のことです。国と国のあいだで、こうした攻撃をめぐり、お互いを責め合うことがたびたび起きています。",
-   "impact": "今すぐ私たちの生活に直接の影響が出るわけではありません。しかし、国と国との間の緊張が高まるきっかけになることがあり、今後の世界情勢の動きに注意が必要です。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [
-    {
-     "word": "サイバー攻撃",
-     "meaning": "インターネットを使って、ほかの国の政府や企業のコンピューターに侵入し、データを壊したり盗んだりする行為のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "a976a69a6b3ef4ab",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-   "title_original": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794272370.jpg?resize=1918%2C1080&quality=80",
-   "region": "海外",
-   "published": "2026-11-10T01:00:00+00:00",
-   "title_ja": "アメリカとイランをめぐる話し合いが進む",
-   "one_line": "アメリカのトランプ大統領が、カタールの首相と会談し、イランとの関係について前向きな動きがあると語りました。",
-   "what": "アメリカのトランプ大統領がカタールの首相と会談し、カタールから提案された停戦案を受け、イランとの戦いを終わらせる方向へ前向きな動きがあるという考えを示しました。",
-   "background": "国と国の間で争いがおきたとき、直接話し合うのが難しい場合、関係のよい別の国が間に入って話し合いを手助けすることがあります。これを「仲介」と呼びます。今回のカタールのように、間に入って平和に向けた話し合いをすすめる役割をする国があります。",
-   "impact": "中東の国々での争いや緊張がどうなるかは、世界全体の平和や、日本に届く石油の値段などにも関係してきます。今すぐの大きな変化はないものの、今後の世界情勢に影響する大切なお話です。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [
-    {
-     "word": "停戦",
-     "meaning": "国と国などが争っているときに、お互いの同意のもとで、一時的に戦いをやめることです。"
-    },
-    {
-     "word": "仲介",
-     "meaning": "争っている人や国の間に第三者に入ってもらい、話し合いや問題の解決を手助けすることです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "ce864eaf9fef4cd4",
-   "url": "https://www.nikkei.com/article/DGXZQOGN1002P0Q6A111C2000000",
-   "title_original": "アンソロピック、IPO前に最上位AIモデル投入 Fableは値下げ",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3852338010112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=c57548ef0df79ca71937df04abbafa79",
-   "region": "国内",
-   "published": "2026-11-10T00:57:22+00:00",
-   "title_ja": "人工知能を作る会社が新しい技術を投入する",
-   "one_line": "AIを作る企業が、より優れた新しいモデルを発表し、一部のサービスでは値段を下げました。",
-   "what": "人工知能（AI）を開発する企業であるアンソロピックが、上場する前に最も優れた新しいAIモデルを投入し、別のAIモデルであるFableの値段を引き下げました。",
-   "background": "人工知能（AI）は、コンピュータを使って人間の脳のように考えたり言葉を理解したりする技術です。たくさんの会社がより便利で性能の良いAIを作ろうと競い合っています。また「IPO」とは、会社が株を広く一般の人に売り出して、誰でも買えるようにすることをいいます。",
-   "impact": "AIの性能が上がったり値段が下がったりすることで、私たちのまわりのスマートフォンやパソコンで使える便利なサービスが、より使いやすくなったり身近になったりする可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "AI",
-     "meaning": "人間の脳のように考えたり判断したりするコンピュータの技術のことです。"
-    },
-    {
-     "word": "IPO",
-     "meaning": "会社が新しく株を市場に公開して、一般の人が株を買えるようにすることです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "9ffcd1161655bc5e",
-   "url": "https://www.nikkei.com/article/DGXZQOUA0911M0Z01C26A1000000",
-   "title_original": "9月の実質消費支出6.8%減 コロナ禍以来の減少幅、インフレと天候不順",
-   "source": "日本経済新聞 経済",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3846352009112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=ebbdf10a742c00fcef007632b3d9a6d3",
-   "region": "国内",
-   "published": "2026-11-10T00:51:25+00:00",
-   "title_ja": "9月の実質消費支出が大きく減る",
-   "one_line": "9月の家計の買い物の量が大きく減り、新型コロナウイルスの流行以来の大きな下がり幅となりました。",
-   "what": "9月の実質消費支出が前の年の同じ月に比べて6.8%減りました。モノの値段が上がっていることや、天候のぐあいがあまり良くなかったことが原因として挙がっています。",
-   "background": "消費支出とは、家庭で暮らすためにお金を使った合計のことです。「実質」というのは、モノの値段の上がり下がりを引いて、本当にお買い物をした量やサービスを受けた量がどう変わったかを表すものです。",
-   "impact": "モノの値段が上がると、同じお給料でも買えるものが減ってしまい、みんながお買い物をひかえてしまう様子が分かります。私たちの家計への負担が大きくなっていることを示しています。",
-   "genre": "経済",
-   "category": "景気・物価",
-   "terms": [
-    {
-     "word": "実質消費支出",
-     "meaning": "家庭でお金を使った合計の金額から、モノの値段の変わり方を引いて、お買い物の量がどう変わったかを表したものです。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "80a7475099aeafb3",
-   "url": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
-   "title_original": "ホンダ 米オハイオ州に工場新設へ",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/10/2e4b42144801283589ef1e4d0361c2057b9e165da00e1c62720ebcec2a4b9c6d.jpg",
-   "region": "国内",
-   "published": "2026-11-10T00:50:15+00:00",
-   "title_ja": "ホンダがアメリカに新しい工場をつくる計画",
-   "one_line": "日本の自動車会社のホンダが、アメリカのオハイオ州に新しい工場をつくる方向で進めています。",
-   "what": "自動車会社のホンダが、アメリカのオハイオ州に新しい工場を新しく建てる方針を明らかにしました。今後の車の生産に向けた動きが進められています。",
-   "background": "自動車会社は、車をたくさん使う海外の国で、現地に合わせた車を効率よく作るために、海外のいろいろな場所に工場を建てることがあります。オハイオ州はアメリカの中で自動車づくりが盛んな地域の一つです。",
-   "impact": "日本の会社が海外で新しい仕事の場所を広げることで、現地での車づくりやビジネスの仕組みがどう変わっていくのかにつながる話題です。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "d0ea29446ba9dd76",
-   "url": "https://www.sankei.com/article/20261110-TM2KTLFQYZKORNTWBCHSFRKYRI",
-   "title_original": "ネーミングライツ導入に横浜市が本腰 中期計画契機、9月以降に意見募集など31件",
-   "source": "産経新聞 政治",
-   "image": "https://www.sankei.com/resizer/v2/URAIDLPB7RICTD7JVSZC2GJKTY.jpg?auth=3dbdfce7aa994a5066a709394d0ef903e961dceb6e3dcfc25c0b42cd58e27da3&quality=50&smart=true&width=1200&height=675",
-   "region": "国内",
-   "published": "2026-11-10T00:50:00+00:00",
-   "title_ja": "横浜市が施設の名前を売る仕組みに力を入れる",
-   "one_line": "横浜市が、公共の施設の名前を民間企業に有料で貸し出す取り組みを本格的に進めようとしています。",
-   "what": "横浜市が、市の施設の名前につける権利を企業などに売る仕組みに力を入れています。新しい計画をきっかけに、秋以降に一般の意見を募集するなど、多くの件数で進められています。",
-   "background": "自治体が持っている公園やスポーツ施設などの名前を企業に有料で使ってもらい、その代わりにお金をもらう仕組みがあります。自治体にとっては、施設の維持に使うお金を増やすための工夫の一つです。",
-   "impact": "身近な公園やスポーツ施設に会社の名前がつくことが増え、街の景色や施設の呼び方が変わるかもしれません。自治体のやりくりを考える上での取り組みの一つです。",
-   "genre": "経済",
-   "category": "予算・税金",
-   "terms": [
-    {
-     "word": "ネーミングライツ",
-     "meaning": "スタジアムや公園などの公共施設の名前や愛称に、企業の名前をつけてもらう代わりに、企業からお金を払ってもらう権利のことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "2ad2a7b9f7ec5720",
-   "url": "https://www.sankei.com/article/20261110-GZXZS3AXYJPI7OHMLDLMXEIP6I",
-   "title_original": "NY円、157円台後半 イラン再攻撃の可能性が低くなり、ドル売り円買いが優勢に",
-   "source": "産経新聞 経済",
-   "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
-   "region": "国内",
-   "published": "2026-11-10T00:48:06+00:00",
-   "title_ja": "ニューヨーク市場での円の値段が157円台後半に",
-   "one_line": "外国の出来事によって、お金の価値が変わり、円を買う人が増えました。",
-   "what": "ニューヨークの市場で、円の値段が1米ドル＝157円台後半になりました。イランが再び攻撃をする可能性が低くなったため、安全な資産とされるドルを売って円を買う動きが広がりました。",
-   "background": "外国のお金と日本のお金を交換するときの比率を「為替レート」と呼びます。世界の政治や経済の動き、大きな事件のニュースがあると、どこの国のお金が安全か考えられて、日々値動きが起きます。",
-   "impact": "今すぐ私たちの生活が大きく変わるわけではありませんが、円の値段が変わることで、海外から品物を買うときの値段や、旅行の費用に影響が出ることがあります。",
-   "genre": "経済",
-   "category": "円安・株・金利",
-   "terms": [
-    {
-     "word": "ドル売り円買い",
-     "meaning": "アメリカのドルを手放して、日本の円をたくさん買うことです。世界の安全な場所を探す動きの一つです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "574c49a70a46214d",
-   "url": "https://www.nikkei.com/article/DGXZQOUC09B2Y0Z01C26A1000000",
-   "title_original": "ソフトバンクG、マレーシアでAIインフラ開発 初期投資1580億円",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3852208009112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.68&fp-y=0.39&h=630&w=1200&s=ced9538e20fa11e503cc8f5309e51887",
-   "region": "国内",
-   "published": "2026-11-10T00:47:58+00:00",
-   "title_ja": "ソフトバンクグループがマレーシアでAIインフラ開発へ",
-   "one_line": "日本の大きな会社が、マレーシアで人工知能の仕組みを作るための準備を進めています。",
-   "what": "ソフトバンクグループが、マレーシアで人工知能を動かすための「AIインフラ」の開発を行うことが分かりました。最初の投資として、1580億円を使う計画です。",
-   "background": "「AIインフラ」とは、人工知能が大量の計算をしたり、賢く動いたりするために必要な、特別な機械やコンピューターの大きな仕組みのことです。世界中でAIを動かすための場所づくりが急ピッチで進められています。",
-   "impact": "今すぐ私たちの暮らしが直接変わるものではありませんが、日本の会社が海外で大きな事業を進めることで、これからの技術や経済のあり方に影響を与えていく可能性があります。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "AIインフラ",
-     "meaning": "人工知能（AI）を動かしたり、たくさんのデータを処理したりするために必要な機械や建物の仕組みのことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "6c79d0ea8b460bb7",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-   "title_original": "Burnham says bravery of Brand’s victims will change the justice system to better support survivors – UK politics live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843",
-   "region": "海外",
-   "published": "2026-11-09T15:39:44+00:00",
-   "title_ja": "排出ゼロ車の義務化方針についてイギリス政府が説明しました",
-   "one_line": "イギリス政府は、汚染物質を出さない車の普及目標を守る方針だと改めて説明しました。",
-   "what": "イギリスの首相報道官は、排気ガスを出さない電気自動車などの普及に向けた義務化の仕組みについて、政府が方針を守り続けると発表しました。中間の目標を緩めるという報道もありましたが、まだ何も決まっていないと説明しています。",
-   "background": "世界では、地球温暖化を防ぐために排気ガスを出さない電気自動車などの普及を進める国が増えています。イギリスでも、将来的にガソリン車などの販売をなくしていくための計画が進められており、自動車会社に対して一定の割合で排出ゼロの車を売ることを求める仕組みがあります。",
-   "impact": "今すぐ日本の暮らしが変わるわけではありませんが、海外の環境ルールが変わると、電気自動車を作る自動車メーカーや世界の環境対策の動きに影響を与える可能性があります。",
-   "genre": "国際",
-   "category": "エネルギー・環境",
-   "terms": [
-    {
-     "word": "ZEV（排出ゼロ車）",
-     "meaning": "走るときに排気ガスや温室効果ガスをまったく出さない自動車のことです。電気自動車などがこれに当たります。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "d2bc1bd42d0528f7",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-   "title_original": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
-   "source": "The Guardian",
-   "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d",
-   "region": "海外",
-   "published": "2026-11-09T15:38:44+00:00",
-   "title_ja": "アメリカのトランプ大統領が選挙結果や政策について発言しました",
-   "one_line": "アメリカのトランプ大統領が、選挙結果への疑問や自らの政策への反省などを語りました。",
-   "what": "アメリカのトランプ大統領は、SNSの投稿で中間選挙の結果に疑問を投げかけました。一方で、不法滞在者を国外に出す自らの政策が「厳しすぎた」と認めたほか、議会では主要企業のトップに関する非公開の説明会が開かれる予定だと伝えられています。",
-   "background": "アメリカでは、国会にあたる議会の議員を選ぶ選挙や大統領の政策をめぐり、与党と野党の間で激しい議論が続いています。大統領の言動や政策は、法律の作り方や国の運営方針に大きな影響を与えるため、与野党のリーダーたちがどのように動くかが常に注目を集めます。",
-   "impact": "今すぐ私たちの暮らしが大きく変わるものではありませんが、アメリカの政治の混乱や主要企業をめぐる議論の行方は、世界の経済や外交関係にも影響することがあります。",
-   "genre": "国際",
-   "category": "アメリカ",
-   "terms": [
-    {
-     "word": "強制送還",
-     "meaning": "国外から入ってきた人を、決められたルールに基づいて自国や元の国へ送り返すことです。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "1b752bc5d3f266f5",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
-   "title_original": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/261025-D-D0477-1002-1794233657.jpeg?resize=1920%2C1296",
-   "region": "海外",
-   "published": "2026-11-09T15:31:37+00:00",
-   "title_ja": "イランへの武器の流れを止めるアメリカの専門部隊に疑問の声が出ました",
-   "one_line": "アメリカが作ろうとする専門部隊でイランを抑え込めるのか、疑問の声が上がっています。",
-   "what": "トランプ氏が「イランを封鎖した」と述べたのに対し、アメリカが作った新しい専門組織だけで武器の移動を止められるのか懸念されています。専門家の間では、国境を完全に防ぐことは難しく、かえって戦争が広がるおそれがあると指摘されています。",
-   "background": "中東地域では国と国との対立や武力衝突が続いており、国境を越えて武器や資金が渡るのをどう防ぐかが大きな課題になっています。安全を守るために特定の国や組織を監視・規制する仕組みが作られますが、その効果や地域への悪影響について議論が起きます。",
-   "impact": "今すぐ私たちの暮らしが変わるわけではありませんが、中東で戦いが広がり地域が不安になると、原油の価格が上がり、日本のガソリン代や製品の値段に影響することがあります。",
-   "genre": "国際",
-   "category": "中東",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "2ad20e12736945da",
-   "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
-   "title_original": "Senegal human rights group demands government action after deadly sinking",
-   "source": "Al Jazeera",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-09-16T160553Z_1411321122_RC22TGA3UVW3_RTRMADP_3_MIGRATION-SENEGAL-1794226121.jpg?resize=1920%2C1440",
-   "region": "海外",
-   "published": "2026-11-09T15:30:09+00:00",
-   "title_ja": "セネガルの人権団体が政府に対策を求める声",
-   "one_line": "西アフリカからスペインの島を目指す海難事故が相次ぎ、人権団体が政府に対応を求めています。",
-   "what": "西アフリカからスペイン領カナリア諸島へ船で渡ろうとして、多くの人が亡くなる事故が近年相次いでいます。これを受けて、セネガルの人権を守るグループが、国に対してしっかり対策をとるように訴えました。",
-   "background": "セネガルはアフリカの西側にあります。仕事や暮らしを求めて、海を渡ってヨーロッパに行こうとする人が後を絶ちません。しかし、乗っている船が小さすぎたり、定員を超えていたりするため、途中で沈んでしまう事故が起きています。",
-   "impact": "私たちのすぐの暮らしに影響するものではありませんが、世界中で貧しさや仕事不足を理由に危険な移動をする人がいるという、大きな問題を知るきっかけになります。",
-   "genre": "国際",
-   "category": "その他の地域",
-   "terms": [],
-   "importance": 3
-  },
-  {
-   "id": "bd43b206d36c0fff",
-   "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-   "title_original": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-   "source": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-ukraine-russia-talks-vfqh/09int-ukraine-russia-talks-vfqh-mediumSquareAt3X.jpg",
-   "region": "海外",
-   "published": "2026-11-09T15:08:54+00:00",
-   "title_ja": "ウクライナ和平をめぐる話し合いが今週アブダビで再開",
-   "one_line": "アメリカが中心となって、ロシアとウクライナの戦争を終わらせるための話し合いが今週始まります。",
-   "what": "アメリカが中心になって、ロシアとウクライナの戦いを終わらせるための話し合いが、今週アラブ首長国連邦のアブダビという街で再び開かれます。今回の話し合いでは、すぐに戦いをやめる「停戦」の約束は話し合わないとされています。",
-   "background": "ロシアとウクライナは、長い間激しい戦いを続けています。世界各国がこれ以上被害を増やさないように、話し合いによる解決をうながそうと動いていますが、お互いの意見がぶつかり、なかなか終わりの見えない状態が続いています。",
-   "impact": "この戦争が続いていることで、世界中でエネルギーや食べ物の値段が高くなるなど、私たちの生活にも関係しています。話し合いがどう進むかは、世界の安全や経済にとってとても大切なことです。",
-   "genre": "国際",
-   "category": "ウクライナ・ロシア",
-   "terms": [
-    {
-     "word": "停戦",
-     "meaning": "戦争や戦いを、話し合いをしている間だけでも一時的にやめること。"
-    }
-   ],
-   "importance": 5
-  },
-  {
-   "id": "acde48b006216590",
-   "url": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
-   "title_original": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
-   "source": "CNBC",
-   "image": "https://image.cnbcfm.com/api/v1/image/108546282-1794232599187-2026-11-09T115214Z_950371170_RC2AKOA0JNIJ_RTRMADP_3_NVIDIA-PROBE-CEO.JPG?v=1794232610&w=1920&h=1080",
-   "region": "海外",
-   "published": "2026-11-09T14:55:27+00:00",
-   "title_ja": "半導体をめぐるシンガポールの企業の動き",
-   "one_line": "シンガポールの企業が、アメリカの半導体大手エヌビディアをめぐる調査の対象となっています。",
-   "what": "シンガポールにある会社が、中国へアメリカの半導体を渡した疑いで調べられています。",
-   "background": "半導体という電子部品は、コンピューターや人工知能を動かすためにとても大切なものです。アメリカの会社で作られた高性能な半導体は、安全保障上の理由から、販売できる国や相手がルールで厳しく決められています。",
-   "impact": "今すぐ私たちの生活が直接変わるわけではありませんが、世界的な機械や技術のルールを守るための大事な動きとして注目されています。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "半導体",
-     "meaning": "コンピューターの頭脳として、計算やデータの処理をする小さな電子部品のこと。"
-    }
-   ],
-   "importance": 3
-  },
-  {
-   "id": "e1fd9e7cf3ee591c",
-   "url": "https://news.yahoo.co.jp/pickup/6601970?source=rss",
-   "title_original": "リニア名古屋駅 完成は2033年以降",
-   "source": "Yahoo!ニュース 経済",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/9/efb17b88b0ae783ba258d96a5429e636370eac95904e42af24d80a06080f5f18.jpg",
-   "region": "国内",
-   "published": "2026-11-09T14:53:14+00:00",
-   "title_ja": "リニア名古屋駅の完成時期が見直し",
-   "one_line": "東京と名古屋を結ぶ新しい新幹線「リニア中央新幹線」の名古屋駅の完成が遅れる見通しとなりました。",
-   "what": "リニア中央新幹線の名古屋駅の完成時期が、2033年以降になるという見通しが示されました。",
-   "background": "リニア中央新幹線は、時速500キロメートルという非常に速いスピードで走る電車を使って、東京と名古屋、さらに大阪の間をずっと短い時間で結ぼうという大きな計画です。トンネルを掘る工事などには、大変長い時間と多くの準備が必要です。",
-   "impact": "東京と名古屋の間を行き来する時間や、地域の経済の計画に影響が出る可能性がありますが、毎日の暮らしがすぐに変わることはありません。",
-   "genre": "経済",
-   "category": "企業・産業",
-   "terms": [
-    {
-     "word": "リニア中央新幹線",
-     "meaning": "磁石の力で線路から浮き上がりながら、ものすごい速さで走る新しい仕組みの電車の計画。"
-    }
-   ],
-   "importance": 4
-  },
-  {
-   "id": "d630f573ddcab21c",
-   "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo",
-   "title_original": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3dc/live/368a3e40-dc50-11f1-93e1-3b657b665bcf.jpg",
-   "region": "海外",
-   "published": "2026-11-09T14:50:35+00:00",
-   "title_ja": "半導体調査の中心人物とされた中国の実業家",
-   "one_line": "アメリカの半導体企業をめぐる調査の中心に、中国出身の実業家がいると報じられています。",
-   "what": "中国出身の女性実業家が、アメリカの半導体大手エヌビディアのトップと親しい関係にあり、調査の中心人物とされていると伝えられています。",
-   "background": "国と国の間では、軍事や最新の技術に使われる大切な機械や情報が、決まったルールを守ってやり取りされているかを確認する仕組みがあります。特に先端の技術をめぐっては、さまざまな国の企業や人物が関わることがあります。",
-   "impact": "今すぐに私たちの暮らしや買い物が変わるわけではありませんが、世界の先端技術や安全保障をめぐる動きとして関係しています。",
-   "genre": "国際",
-   "category": "中国・アジア",
-   "terms": [
-    {
-     "word": "実業家",
-     "meaning": "会社を経営したり、商売をしたりして仕事をすすめる人のこと。"
     }
    ],
    "importance": 3
